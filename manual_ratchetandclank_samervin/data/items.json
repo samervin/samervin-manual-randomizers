@@ -1,0 +1,285 @@
+[
+    {
+        "name": "Bomb Glove",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Pyrocitor",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Blaster",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Glove of Doom",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Mine Glove",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Taunter",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Suck Cannon",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Devastator",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Walloper",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Visibomb Gun",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Decoy Glove",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Drone Device",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Tesla Claw",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Morph-o-Ray",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "R.Y.N.O.",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Trespasser",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "Hydrodisplacer",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "Swingshot",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "Gadgetron PDA",
+        "category": ["Gadget"],
+        "useful": true
+    },
+    {
+        "name": "Metal Detector",
+        "category": ["Gadget"],
+        "useful": true
+    },
+    {
+        "name": "Hologuise",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "Heli-Pack",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "Thruster-Pack",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "Hydro-Pack",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "O2 Mask",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "Sonic Summoner",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "Pilot's Helmet",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "Grind Boots",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "Magneboots",
+        "category": ["Gadget"],
+        "progression": true
+    },
+    {
+        "name": "Hoverboard",
+        "category": ["Item"],
+        "progression": true
+    },
+    {
+        "name": "Zoomerator",
+        "category": ["Item"],
+        "progression": true
+    },
+    {
+        "name": "Persuader",
+        "category": ["Item"],
+        "useful": true
+    },
+    {
+        "name": "Bolt Grabber",
+        "category": ["Item"],
+        "useful": true
+    },
+    {
+        "name": "Premium Nanotech",
+        "category": ["Item"],
+        "useful": true
+    },
+    {
+        "name": "Ultra Nanotech",
+        "category": ["Item"],
+        "useful": true
+    },
+    {
+        "name": "Map-o-Matic",
+        "category": ["Item"],
+        "useful": true
+    },
+    {
+        "name": "Raritanium",
+        "category": ["Item"],
+        "progression": true
+    },
+    {
+        "name": "Codebot",
+        "category": ["Item"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Kerwan",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Aridia",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Eudora",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Nebula G34",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Rilgar",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Umbris",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Batalia",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Gaspar",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Orxon",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Pokitaru",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Hoven",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Gemlik Base",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Oltanis",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Quartu",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Kalebo III",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Drek's Fleet",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Infobot - Veldin",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
+        "name": "Gold Bolt",
+        "count": 40
+    },
+    {
+        "name": "Skill Point",
+        "count": 30
+    }
+]

@@ -1,0 +1,657 @@
+[
+    {
+        "name": "Novalis: Find a new ship",
+        "region": "Novalis",
+        "category": ["Novalis, Tobruk Crater"]
+    },
+    {
+        "name": "Novalis: Explore waterworks + Buy Infobot",
+        "region": "Novalis",
+        "category": ["Novalis, Tobruk Crater"]
+    },
+    {
+        "name": "Novalis Gold Bolt: Waterworks",
+        "region": "Novalis",
+        "category": ["Novalis, Tobruk Crater"]
+    },
+    {
+        "name": "Novalis Gold Bolt: River",
+        "region": "Novalis",
+        "category": ["Novalis, Tobruk Crater"],
+        "requires": "|Hydro-Pack|"
+    },
+    {
+        "name": "Novalis Gold Bolt: Caves",
+        "region": "Novalis",
+        "category": ["Novalis, Tobruk Crater"],
+        "requires": "|Bomb Glove| or |Devastator| or |Visibomb Gun|"
+    },
+    {
+        "name": "Novalis Skill Point: Take aim",
+        "region": "Novalis",
+        "category": ["Novalis, Tobruk Crater"],
+        "requires": "|Devastator| or |Visibomb Gun|"
+    },
+    {
+        "name": "Kerwan: Visit Al's Roboshack + Buy Heli-Pack",
+        "region": "Kerwan",
+        "category": ["Kerwan, Metropolis"]
+    },
+    {
+        "name": "Kerwan: Explore the city + Ride the train",
+        "region": "Kerwan",
+        "category": ["Kerwan, Metropolis"],
+        "requires": "|Heli-Pack| or |Thruster-Pack|"
+    },
+    {
+        "name": "Kerwan: Complete fitness course + Buy Swingshot",
+        "region": "Kerwan",
+        "category": ["Kerwan, Metropolis"]
+    },
+    {
+        "name": "Kerwan Gold Bolt: Under vendor",
+        "region": "Kerwan",
+        "category": ["Kerwan, Metropolis"]
+    },
+    {
+        "name": "Kerwan Gold Bolt: Obstacle course",
+        "region": "Kerwan",
+        "category": ["Kerwan, Metropolis"],
+        "requires": "|Heli-Pack| or |Thruster-Pack|"
+    },
+    {
+        "name": "Kerwan Gold Bolt: Before train",
+        "region": "Kerwan",
+        "category": ["Kerwan, Metropolis"],
+        "requires": "|Heli-Pack| or |Thruster-Pack|"
+    },
+    {
+        "name": "Kerwan Skill Point: Strike a pose",
+        "region": "Kerwan",
+        "category": ["Kerwan, Metropolis"],
+        "requires": "|Heli-Pack| or |Thruster-Pack|"
+    },
+    {
+        "name": "Kerwan Skill Point: Blimpy",
+        "region": "Kerwan",
+        "category": ["Kerwan, Metropolis"],
+        "requires": "|Devastator| or |Visibomb Gun|"
+    },
+    {
+        "name": "Kerwan Skill Point: Qwarktastic",
+        "region": "Kerwan",
+        "category": ["Kerwan, Metropolis"],
+        "requires": "|Devastator| or |Visibomb Gun|"
+    },
+    {
+        "name": "Aridia: Locate Skid McMarx + Help Skid",
+        "region": "Aridia",
+        "category": ["Aridia, Outpost X11"]
+    },
+    {
+        "name": "Aridia: Find Skid's Agent + Bring prize",
+        "region": "Aridia",
+        "category": ["Aridia, Outpost X11"],
+        "requires": "|Zoomerator|"
+    },
+    {
+        "name": "Aridia: Use your Swingshot",
+        "region": "Aridia",
+        "category": ["Aridia, Outpost X11"],
+        "requires": "|Swingshot|"
+    },
+    {
+        "name": "Aridia Gold Bolt: Sandsharks",
+        "region": "Aridia",
+        "category": ["Aridia, Outpost X11"],
+        "requires": "|Bomb Glove| or |Mine Glove| or |Devastator| or |Visibomb Gun|"
+    },
+    {
+        "name": "Aridia Gold Bolt: Island",
+        "region": "Aridia",
+        "category": ["Aridia, Outpost X11"]
+    },
+    {
+        "name": "Aridia Gold Bolt: Above agent",
+        "region": "Aridia",
+        "category": ["Aridia, Outpost X11"],
+        "requires": "|Magneboots|"
+    },
+    {
+        "name": "Aridia Gold Bolt: Under Trespasser",
+        "region": "Aridia",
+        "category": ["Aridia, Outpost X11"],
+        "requires": "|Swingshot|"
+    },
+    {
+        "name": "Aridia Skill Point: Swing it!",
+        "region": "Aridia",
+        "category": ["Aridia, Outpost X11"],
+        "requires": "|Swingshot|"
+    },
+    {
+        "name": "Aridia Skill Point: Transported",
+        "region": "Aridia",
+        "category": ["Aridia, Outpost X11"],
+        "requires": "|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|"
+    },
+    {
+        "name": "Eudora: Confront robot lieutenant",
+        "region": "Eudora",
+        "category": ["Eudora, Logging Site"],
+        "requires": "|Trespasser| and (|Heli-Pack| or |Thruster-Pack|) and |Swingshot|"
+    },
+    {
+        "name": "Eudora: Explore the mills",
+        "region": "Eudora",
+        "category": ["Eudora, Logging Site"],
+        "requires": "|Heli-Pack| or |Thruster-Pack|"
+    },
+    {
+        "name": "Eudora Gold Bolt: Ledge",
+        "region": "Eudora",
+        "category": ["Eudora, Logging Site"],
+        "requires": "|Heli-Pack| or |Thruster-Pack|"
+    },
+    {
+        "name": "Eudora Skill Point: Any ten",
+        "region": "Eudora",
+        "category": ["Eudora, Logging Site"]
+    },
+    {
+        "name": "Nebula G34: Explore the space station + Buy Grindboots",
+        "region": "Nebula G34",
+        "category": ["Nebula G34, Blarg Station"],
+        "requires": "|Swingshot|"
+    },
+    {
+        "name": "Nebula G34: Explore the Blarg warship + Destroy the warship",
+        "region": "Nebula G34",
+        "category": ["Nebula G34, Blarg Station"]
+    },
+    {
+        "name": "Nebula G34: Journey outside the airlock",
+        "region": "Nebula G34",
+        "category": ["Nebula G34, Blarg Station"],
+        "requires": "|Trespasser|"
+    },
+    {
+        "name": "Nebula G34 Gold Bolt: Ratchet path",
+        "region": "Nebula G34",
+        "category": ["Nebula G34, Blarg Station"],
+        "requires": "|Swingshot|"
+    },
+    {
+        "name": "Nebula G34 Gold Bolt: Clank path",
+        "region": "Nebula G34",
+        "category": ["Nebula G34, Blarg Station"],
+        "requires": "|Trespasser| and |O2 Mask| and (|Heli-Pack| or |Thruster-Pack|)"
+    },
+    {
+        "name": "Nebula G34 Skill Point: Girl trouble",
+        "region": "Nebula G34",
+        "category": ["Nebula G34, Blarg Station"],
+        "requires": "|Swingshot|"
+    },
+    {
+        "name": "Rilgar: Win the hoverboard race",
+        "region": "Rilgar",
+        "category": ["Rilgar, Blackwater City"],
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|O2 Mask| or |Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Hoverboard|"
+    },
+    {
+        "name": "Rilgar: Locate Captain Qwark + Bribe the bodyguard",
+        "region": "Rilgar",
+        "category": ["Rilgar, Blackwater City"],
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Swingshot| and |Hydrodisplacer|"
+    },
+    {
+        "name": "Rilgar Gold Bolt: Force fields",
+        "region": "Rilgar",
+        "category": ["Rilgar, Blackwater City"],
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|O2 Mask| or |Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|)"
+    },
+    {
+        "name": "Rilgar Gold Bolt: Underwater",
+        "region": "Rilgar",
+        "category": ["Rilgar, Blackwater City"],
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Swingshot| and |Hydrodisplacer| and |O2 Mask|"
+    },
+    {
+        "name": "Rilgar Skill Point: Tricky",
+        "region": "Rilgar",
+        "category": ["Rilgar, Blackwater City"],
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|O2 Mask| or |Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Hoverboard| and |Zoomerator|"
+    },
+    {
+        "name": "Rilgar Skill Point: Cluck, cluck",
+        "region": "Rilgar",
+        "category": ["Rilgar, Blackwater City"],
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |O2 Mask| and |Morph-o-Ray|"
+    },
+    {
+        "name": "Rilgar Skill Point: Speedy",
+        "region": "Rilgar",
+        "category": ["Rilgar, Blackwater City"],
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|O2 Mask| or |Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Hoverboard|"
+    },
+    {
+        "name": "Umbris: Survive gauntlet + Destroy Snagglebeast + Find ship",
+        "region": "Umbris",
+        "category": ["Umbris, Qwark's HQ"],
+        "requires": "|Swingshot| and (|Heli-Pack| or |Thruster-Pack|) and (|Bomb Glove| or |Blaster| or |Glove of Doom| or |Devastator| or |Tesla Claw|) and |Hydrodisplacer|"
+    },
+    {
+        "name": "Umbris Gold Bolt: Vault",
+        "region": "Umbris",
+        "category": ["Umbris, Qwark's HQ"],
+        "requires": "|Swingshot| and (|Heli-Pack| or |Thruster-Pack|) and (|Bomb Glove| or |Blaster| or |Glove of Doom| or |Devastator| or |Visibomb Gun| or |Tesla Claw|)"
+    },
+    {
+        "name": "Umbris Gold Bolt: Near water",
+        "region": "Umbris",
+        "category": ["Umbris, Qwark's HQ"],
+        "requires": "|Swingshot| and (|Heli-Pack| or |Thruster-Pack|) and (|Bomb Glove| or |Blaster| or |Glove of Doom| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Hydrodisplacer|"
+    },
+    {
+        "name": "Batalia: Scout the area + Talk to commando + Meet at city",
+        "region": "Batalia",
+        "category": ["Batalia, Fort Krontos"],
+        "requires": "|Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|"
+    },
+    {
+        "name": "Batalia: Ride the grind rail + Buy Infobot",
+        "region": "Batalia",
+        "category": ["Batalia, Fort Krontos"],
+        "requires": "|Grind Boots|"
+    },
+    {
+        "name": "Batalia: Explore the walled city + Destroy bombers",
+        "region": "Batalia",
+        "category": ["Batalia, Fort Krontos"],
+        "requires": "(|Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Magneboots|"
+    },
+    {
+        "name": "Batalia Gold Bolt: Roof",
+        "region": "Batalia",
+        "category": ["Batalia, Fort Krontos"]
+    },
+    {
+        "name": "Batalia Gold Bolt: Cliffs",
+        "region": "Batalia",
+        "category": ["Batalia, Fort Krontos"],
+        "requires": "|Heli-Pack| or |Thruster-Pack|"
+    },
+    {
+        "name": "Batalia Skill Point: Jumper",
+        "region": "Batalia",
+        "category": ["Batalia, Fort Krontos"],
+        "requires": "|Grind Boots|"
+    },
+    {
+        "name": "Batalia Skill Point: Accuracy counts",
+        "region": "Batalia",
+        "category": ["Batalia, Fort Krontos"],
+        "requires": "(|Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Magneboots|"
+    },
+    {
+        "name": "Batalia Skill Point: Eat lead",
+        "region": "Batalia",
+        "category": ["Batalia, Fort Krontos"],
+        "requires":  "(|Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Magneboots| and |Sonic Summoner|"
+    },
+    {
+        "name": "Gaspar: Find the Pilot's Helmet",
+        "region": "Gaspar",
+        "category": ["Gaspar, Blarg Depot"],
+        "requires": "|Bomb Glove| or |Pyrocitor| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Walloper| or |Visibomb Gun| or |Decoy Glove| or |Drone Device| or |Tesla Claw|"
+    },
+    {
+        "name": "Gaspar Gold Bolt: Ships",
+        "region": "Gaspar",
+        "category": ["Gaspar, Blarg Depot"],
+        "requires": "|Swingshot|"
+    },
+    {
+        "name": "Gaspar Gold Bolt: Volcano",
+        "region": "Gaspar",
+        "category": ["Gaspar, Blarg Depot"],
+        "requires": "(|Bomb Glove| or |Pyrocitor| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Walloper| or |Visibomb Gun| or |Decoy Glove| or |Drone Device| or |Tesla Claw|) and (|Heli-Pack| or |Thruster-Pack|)"
+    },
+    {
+        "name": "Gaspar Skill Point: Destroyed",
+        "region": "Gaspar",
+        "category": ["Gaspar, Blarg Depot"],
+        "requires": "|Swingshot| and ((|Devastator| or |Visibomb Gun|) or ((|Bomb Glove| or |Blaster| or |Tesla Claw|) and (|Heli-Pack| or |Thruster-Pack|)))"
+    },
+    {
+        "name": "Gaspar Skill Point: Gunner",
+        "region": "Gaspar",
+        "category": ["Gaspar, Blarg Depot"]
+    },
+    {
+        "name": "Orxon: Search the laboratories*",
+        "region": "Orxon",
+        "category": ["Orxon, Kogor Refinery"]
+    },
+    {
+        "name": "Orxon: Traverse the wilderness*",
+        "region": "Orxon",
+        "category": ["Orxon, Kogor Refinery"]
+    },
+    {
+        "name": "Orxon: Explore as Ratchet + Catch Infobot",
+        "region": "Orxon",
+        "category": ["Orxon, Kogor Refinery"],
+        "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|) and |Magneboots| and |Swingshot| and (|Bomb Glove| or |Pyrocitor| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Walloper| or |Visibomb Gun| or |Decoy Glove| or |Tesla Claw|)"
+    },
+    {
+        "name": "Orxon: Buy Premium Nanotech",
+        "region": "Orxon",
+        "category": ["Orxon, Kogor Refinery"],
+        "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|)"
+    },
+    {
+        "name": "Orxon Gold Bolt: Tunnel",
+        "region": "Orxon",
+        "category": ["Orxon, Kogor Refinery"],
+        "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|) and |Magneboots| and |Swingshot| and |Visibomb Gun|"
+    },
+    {
+        "name": "Orxon Gold Bolt: Clank section*",
+        "region": "Orxon",
+        "category": ["Orxon, Kogor Refinery"],
+        "requires": "|O2 Mask|"
+    },
+    {
+        "name": "Orxon Skill Point: Sniper",
+        "region": "Orxon",
+        "category": ["Orxon, Kogor Refinery"],
+        "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|) and (|Blaster| or |Devastator| or |Visibomb Gun|)"
+    },
+    {
+        "name": "Orxon Skill Point: Hey, over here!",
+        "region": "Orxon",
+        "category": ["Orxon, Kogor Refinery"],
+        "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|) and |Magneboots| and |Taunter|"
+    },
+    {
+        "name": "Pokitaru: Check out resort + Help owner + Buy Thruster-Pack",
+        "region": "Pokitaru",
+        "category": ["Pokitaru, Jowai Resort"],
+        "requires": "|Bomb Glove| or |Pyrocitor| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Suck Cannon| or |Devastator| or |Walloper| or |Visibomb Gun| or |Decoy Glove| or |Drone Device| or |Tesla Claw|"
+    },
+    {
+        "name": "Pokitaru: Destroy the Blarg Ships",
+        "region": "Pokitaru",
+        "category": ["Pokitaru, Jowai Resort"],
+        "requires": "(|Bomb Glove| or |Pyrocitor| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Suck Cannon| or |Devastator| or |Walloper| or |Visibomb Gun| or |Decoy Glove| or |Drone Device| or |Tesla Claw|) and |Thruster-Pack| and |Pilot's Helmet|"
+    },
+    {
+        "name": "Pokitaru: Navigate sewers + Bring Raritanium",
+        "region": "Pokitaru",
+        "category": ["Pokitaru, Jowai Resort"],
+        "requires": "|Hydrodisplacer| and |Trespasser| and |Raritanium|"
+    },
+    {
+        "name": "Pokitaru Gold Bolt: Secret path",
+        "region": "Pokitaru",
+        "category": ["Pokitaru, Jowai Resort"],
+        "requires": "|Thruster-Pack|"
+    },
+    {
+        "name": "Pokitaru Skill Point: Alien invasion",
+        "region": "Pokitaru",
+        "category": ["Pokitaru, Jowai Resort"],
+        "requires": "|Visibomb Gun|"
+    },
+    {
+        "name": "Pokitaru Skill Point: Buried treasure",
+        "region": "Pokitaru",
+        "category": ["Pokitaru, Jowai Resort"]
+    },
+    {
+        "name": "Hoven: Destroy the Planetbuster",
+        "region": "Hoven",
+        "category": ["Hoven, Bomb Factory"],
+        "requires": "|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|"
+    },
+    {
+        "name": "Hoven: Buy Hydro-Pack from Ed",
+        "region": "Hoven",
+        "category": ["Hoven, Bomb Factory"],
+        "requires": "|Hydrodisplacer|"
+    },
+    {
+        "name": "Hoven: Explore icy wastes + Get Raritanium",
+        "region": "Hoven",
+        "category": ["Hoven, Bomb Factory"],
+        "requires": "|Swingshot| and (|Heli-Pack| or |Thruster-Pack|)"
+    },
+    {
+        "name": "Hoven Gold Bolt: Near anklebiters",
+        "region": "Hoven",
+        "category": ["Hoven, Bomb Factory"]
+    },
+    {
+        "name": "Hoven Gold Bolt: Water section",
+        "region": "Hoven",
+        "category": ["Hoven, Bomb Factory"],
+        "requires": "|Hydrodisplacer|"
+    },
+    {
+        "name": "Hoven Skill Point: Pest control",
+        "region": "Hoven",
+        "category": ["Hoven, Bomb Factory"]
+    },
+    {
+        "name": "Hoven Skill Point: Whirlybirds",
+        "region": "Hoven",
+        "category": ["Hoven, Bomb Factory"],
+        "requires": "|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|"
+    },
+    {
+        "name": "Gemlik Base: Explore base + Shoot down Qwark",
+        "region": "Gemlik Base",
+        "category": ["Gemlik Base, Oltanis Orbit"],
+        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Swingshot| and |Magneboots| and (|Heli-Pack| or |Thruster-Pack|)"
+    },
+    {
+        "name": "Gemlik Base Gold Bolt: Acid",
+        "region": "Gemlik Base",
+        "category": ["Gemlik Base, Oltanis Orbit"],
+        "requires": "(|Visibomb Gun| and |Trespasser|) or ((|Devastator| or |Visibomb Gun|) and |Trespasser| and |Swingshot| and |Magneboots| and (|Heli-Pack| or |Thruster-Pack|))"
+    },
+    {
+        "name": "Gemlik Base Skill Point: Sitting ducks",
+        "region": "Gemlik Base",
+        "category": ["Gemlik Base, Oltanis Orbit"],
+        "requires": "|Visibomb Gun| and |Trespasser| and |Swingshot| and |Magneboots| and (|Heli-Pack| or |Thruster-Pack|)"
+    },
+    {
+        "name": "Oltanis: Find survivors + Buy Infobot",
+        "region": "Oltanis",
+        "category": ["Oltanis, Gorda City Ruins"],
+        "requires": "|Grind Boots|"
+    },
+    {
+        "name": "Oltanis: Search destroyed city + Buy PDA",
+        "region": "Oltanis",
+        "category": ["Oltanis, Gorda City Ruins"],
+        "requires": "|Magneboots|"
+    },
+    {
+        "name": "Oltanis: Search destroyed city + Find Morph-o-Ray",
+        "region": "Oltanis",
+        "category": ["Oltanis, Gorda City Ruins"],
+        "requires": "|Swingshot|"
+    },
+    {
+        "name": "Oltanis Gold Bolt: PDA ledge grab",
+        "region": "Oltanis",
+        "category": ["Oltanis, Gorda City Ruins"],
+        "requires": "|Magneboots|"
+    },
+    {
+        "name": "Oltanis Gold Bolt: PDA nook",
+        "region": "Oltanis",
+        "category": ["Oltanis, Gorda City Ruins"],
+        "requires": "|Magneboots|"
+    },
+    {
+        "name": "Oltanis Gold Bolt: Swingshot alcove",
+        "region": "Oltanis",
+        "category": ["Oltanis, Gorda City Ruins"],
+        "requires": "|Grind Boots| and |Swingshot|"
+    },
+    {
+        "name": "Oltanis Gold Bolt: Swingshot course",
+        "region": "Oltanis",
+        "category": ["Oltanis, Gorda City Ruins"],
+        "requires": "(|Grind Boots| and |Magneboots| and |Swingshot|)"
+    },
+    {
+        "name": "Oltanis Skill Point: Shattered glass",
+        "region": "Oltanis",
+        "category": ["Oltanis, Gorda City Ruins"],
+        "requires": "|Visibomb Gun| or (|Grind Boots| and |Magneboots| and |Swingshot|)"
+    },
+    {
+        "name": "Oltanis Skill Point: Blast 'em",
+        "region": "Oltanis",
+        "category": ["Oltanis, Gorda City Ruins"],
+        "requires": "|Visibomb Gun|"
+    },
+    {
+        "name": "Quartu: Find out about Ultra-Mech + Destroy Ultra-Mechs",
+        "region": "Quartu",
+        "category": ["Quartu, Robot Plant"],
+        "requires": "|Swingshot|"
+    },
+    {
+        "name": "Quartu: Explore the coolant system",
+        "region": "Quartu",
+        "category": ["Quartu, Robot Plant"],
+        "requires": "|Hydro-Pack| and |O2 Mask|"
+    },
+    {
+        "name": "Quartu: Infiltrate the secret area",
+        "region": "Quartu",
+        "category": ["Quartu, Robot Plant"],
+        "requires": "|Hologuise| and |Thruster-Pack|"
+    },
+    {
+        "name": "Quartu Gold Bolt: Clank's mother",
+        "region": "Quartu",
+        "category": ["Quartu, Robot Plant"],
+        "requires": "|Hologuise| and |Thruster-Pack| and |Swingshot|"
+    },
+    {
+        "name": "Quartu Gold Bolt: Invinco-Vault",
+        "region": "Quartu",
+        "category": ["Quartu, Robot Plant"],
+        "requires": "|Swingshot| and |Codebot|"
+    },
+    {
+        "name": "Kalebo III: Find new equipment + Get past Blarg + Win race",
+        "region": "Kalebo III",
+        "category": ["Kalebo III, Gadgetron Site"],
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Swingshot| and |Grind Boots| and |Hoverboard|"
+    },
+    {
+        "name": "Kalebo III: Ride the grind rail",
+        "region": "Kalebo III",
+        "category": ["Kalebo III, Gadgetron Site"],
+        "requires": "|Grind Boots|"
+    },
+    {
+        "name": "Kalebo III Gold Bolt: Grind rail",
+        "region": "Kalebo III",
+        "category": ["Kalebo III, Gadgetron Site"],
+        "requires": "|Grind Boots|"
+    },
+    {
+        "name": "Kalebo III Gold Bolt: Break room",
+        "region": "Kalebo III",
+        "category": ["Kalebo III, Gadgetron Site"],
+        "requires": "|Grind Boots|"
+    },
+    {
+        "name": "Kalebo III Skill Point: Heavy traffic",
+        "region": "Kalebo III",
+        "category": ["Kalebo III, Gadgetron Site"],
+        "requires": "|Grind Boots|"
+    },
+    {
+        "name": "Kalebo III Skill Point: Magician",
+        "region": "Kalebo III",
+        "category": ["Kalebo III, Gadgetron Site"],
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Swingshot| and |Grind Boots| and |Hoverboard| and |Zoomerator|"
+    },
+    {
+        "name": "Drek's Fleet: Find the coordinates for Drek's laser",
+        "region": "Drek's Fleet",
+        "category": ["Drek's Fleet, Veldin Orbit"],
+        "requires": "|Hologuise| and |Swingshot| and |Magneboots|"
+    },
+    {
+        "name": "Drek's Fleet: Swim through the water tanker",
+        "region": "Drek's Fleet",
+        "category": ["Drek's Fleet, Veldin Orbit"],
+        "requires": "|Hydro-Pack| and |O2 Mask|"
+    },
+    {
+        "name": "Drek's Fleet Gold Bolt: Water tanker",
+        "region": "Drek's Fleet",
+        "category": ["Drek's Fleet, Veldin Orbit"],
+        "requires": "|Hydro-Pack| and |O2 Mask|"
+    },
+    {
+        "name": "Drek's Fleet Gold Bolt: Drek's flagship",
+        "region": "Drek's Fleet",
+        "category": ["Drek's Fleet, Veldin Orbit"],
+        "requires": "|Hologuise| and |Swingshot| and |Magneboots| and (|Heli-Pack| or |Thruster-Pack|)"
+    },
+    {
+        "name": "Drek's Fleet Skill Point: Sneaky",
+        "region": "Drek's Fleet",
+        "category": ["Drek's Fleet, Veldin Orbit"],
+        "requires": "|Hologuise| and |Swingshot|"
+    },
+    {
+        "name": "Drek's Fleet Skill Point: Careful cruise",
+        "region": "Drek's Fleet",
+        "category": ["Drek's Fleet, Veldin Orbit"],
+        "requires": "|Hydro-Pack| and |O2 Mask|"
+    },
+    {
+        "name": "Veldin Gold Bolt: Force field",
+        "region": "Veldin",
+        "category": ["Veldin, Kyzil Plateau"],
+        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Magneboots| and |Hydrodisplacer| and |Thruster-Pack| and |Taunter|"
+    },
+    {
+        "name": "Veldin Gold Bolt: Platforms",
+        "region": "Veldin",
+        "category": ["Veldin, Kyzil Plateau"],
+        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Magneboots| and |Hydrodisplacer| and |Thruster-Pack|"
+    },
+    {
+        "name": "Veldin Gold Bolt: Grind rail",
+        "region": "Veldin",
+        "category": ["Veldin, Kyzil Plateau"],
+        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Magneboots| and |Hydrodisplacer| and |Thruster-Pack| and |Grind Boots|"
+    },
+    {
+        "name": "Veldin Skill Point: Going commando",
+        "region": "Veldin",
+        "category": ["Veldin, Kyzil Plateau"]
+    },
+    {
+        "name": "Defeat Chairman Drek",
+        "region": "Veldin",
+        "category": ["Veldin, Kyzil Plateau"],
+        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Magneboots| and |Hydrodisplacer| and |Thruster-Pack| and |R.Y.N.O.|",
+        "victory": true
+    }
+]

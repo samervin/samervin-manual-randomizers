@@ -1,0 +1,9 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "RatchetandClank",
+  "creator": "samervin",
+  "filler_item_name": "Nothing!",
+  "starting_items": [
+  ],
+  "death_link": false
+}

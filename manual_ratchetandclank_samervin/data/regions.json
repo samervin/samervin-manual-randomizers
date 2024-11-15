@@ -1,0 +1,93 @@
+{
+    "Novalis": {
+        "starting": true,
+        "connects_to": [
+            "Kerwan",
+            "Aridia",
+            "Eudora",
+            "Nebula G34",
+            "Rilgar",
+            "Umbris",
+            "Batalia",
+            "Gaspar",
+            "Orxon",
+            "Pokitaru",
+            "Hoven",
+            "Gemlik Base",
+            "Oltanis",
+            "Quartu",
+            "Kalebo III",
+            "Drek's Fleet",
+            "Veldin"
+        ],
+        "requires": []
+    },
+    "Kerwan": {
+        "connects_to": [],
+        "requires": ["Infobot - Kerwan"]
+    },
+    "Aridia": {
+        "connects_to": [],
+        "requires": ["Infobot - Aridia"]
+    },
+    "Eudora": {
+        "connects_to": [],
+        "requires": ["Infobot - Eudora"]
+    },
+    "Nebula G34": {
+        "connects_to": [],
+        "requires": ["Infobot - Nebula G34"]
+    },
+    "Rilgar": {
+        "connects_to": [],
+        "requires": ["Infobot - Rilgar"]
+    },
+    "Umbris": {
+        "connects_to": [],
+        "requires": ["Infobot - Umbris"]
+    },
+    "Batalia": {
+        "connects_to": [],
+        "requires": ["Infobot - Batalia"]
+    },
+    "Gaspar": {
+        "connects_to": [],
+        "requires": ["Infobot - Gaspar"]
+    },
+    "Orxon": {
+        "connects_to": [],
+        "requires": ["Infobot - Orxon"]
+    },
+    "Pokitaru": {
+        "connects_to": [],
+        "requires": ["Infobot - Pokitaru"]
+    },
+    "Hoven": {
+        "connects_to": [],
+        "requires": ["Infobot - Hoven"]
+    },
+    "Gemlik Base": {
+        "connects_to": [],
+        "requires": ["Infobot - Gemlik Base"]
+    },
+    "Oltanis": {
+        "connects_to": [],
+        "requires": ["Infobot - Oltanis"]
+    },
+    "Quartu": {
+        "connects_to": [],
+        "requires": ["Infobot - Quartu"]
+    },
+    "Kalebo III": {
+        "connects_to": [],
+        "requires": ["Infobot - Kalebo III"]
+    },
+    "Drek's Fleet": {
+        "connects_to": [],
+        "requires": ["Infobot - Drek's Fleet"]
+    },
+    "Veldin": {
+        "connects_to": [],
+        "requires": ["Infobot - Veldin"]
+    }
+}
