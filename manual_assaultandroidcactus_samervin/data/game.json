@@ -1,0 +1,23 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "AssaultAndroidCactus",
+    "creator": "samervin",
+    "filler_item_name": "Nothing!",
+    "starting_items": [
+        {
+            "items": [
+                "Assault Android Cactus",
+                "Assault Android Holly",
+                "Assault Android Lemon",
+                "Assault Android Coral",
+                "Assault Android Starch",
+                "Assault Android Aubergine",
+                "Assault Android Shiitake",
+                "Assault Android Peanut",
+                "Assault Android Liquorice"
+            ],
+            "random": 1
+        }
+    ],
+    "death_link": false
+}

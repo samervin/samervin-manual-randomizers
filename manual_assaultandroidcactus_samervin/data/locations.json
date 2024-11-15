@@ -1,0 +1,1582 @@
+[
+    {
+        "name": "1-1 Descent - Cactus",
+        "category": [
+            "1-1 Descent"
+        ],
+        "requires": "|Assault Android Cactus|"
+    },
+    {
+        "name": "1-1 Descent - Holly",
+        "category": [
+            "1-1 Descent"
+        ],
+        "requires": "|Assault Android Holly|"
+    },
+    {
+        "name": "1-1 Descent - Lemon",
+        "category": [
+            "1-1 Descent"
+        ],
+        "requires": "|Assault Android Lemon|"
+    },
+    {
+        "name": "1-1 Descent - Coral",
+        "category": [
+            "1-1 Descent"
+        ],
+        "requires": "|Assault Android Coral|"
+    },
+    {
+        "name": "1-1 Descent - Starch",
+        "category": [
+            "1-1 Descent"
+        ],
+        "requires": "|Assault Android Starch|"
+    },
+    {
+        "name": "1-1 Descent - Aubergine",
+        "category": [
+            "1-1 Descent"
+        ],
+        "requires": "|Assault Android Aubergine|"
+    },
+    {
+        "name": "1-1 Descent - Shiitake",
+        "category": [
+            "1-1 Descent"
+        ],
+        "requires": "|Assault Android Shiitake|"
+    },
+    {
+        "name": "1-1 Descent - Peanut",
+        "category": [
+            "1-1 Descent"
+        ],
+        "requires": "|Assault Android Peanut|"
+    },
+    {
+        "name": "1-1 Descent - Liquorice",
+        "category": [
+            "1-1 Descent"
+        ],
+        "requires": "|Assault Android Liquorice|"
+    },
+    {
+        "name": "1-2 Turbine - Cactus",
+        "category": [
+            "1-2 Turbine"
+        ],
+        "requires": "|Assault Android Cactus|"
+    },
+    {
+        "name": "1-2 Turbine - Holly",
+        "category": [
+            "1-2 Turbine"
+        ],
+        "requires": "|Assault Android Holly|"
+    },
+    {
+        "name": "1-2 Turbine - Lemon",
+        "category": [
+            "1-2 Turbine"
+        ],
+        "requires": "|Assault Android Lemon|"
+    },
+    {
+        "name": "1-2 Turbine - Coral",
+        "category": [
+            "1-2 Turbine"
+        ],
+        "requires": "|Assault Android Coral|"
+    },
+    {
+        "name": "1-2 Turbine - Starch",
+        "category": [
+            "1-2 Turbine"
+        ],
+        "requires": "|Assault Android Starch|"
+    },
+    {
+        "name": "1-2 Turbine - Aubergine",
+        "category": [
+            "1-2 Turbine"
+        ],
+        "requires": "|Assault Android Aubergine|"
+    },
+    {
+        "name": "1-2 Turbine - Shiitake",
+        "category": [
+            "1-2 Turbine"
+        ],
+        "requires": "|Assault Android Shiitake|"
+    },
+    {
+        "name": "1-2 Turbine - Peanut",
+        "category": [
+            "1-2 Turbine"
+        ],
+        "requires": "|Assault Android Peanut|"
+    },
+    {
+        "name": "1-2 Turbine - Liquorice",
+        "category": [
+            "1-2 Turbine"
+        ],
+        "requires": "|Assault Android Liquorice|"
+    },
+    {
+        "name": "1-3 Filament - Cactus",
+        "category": [
+            "1-3 Filament"
+        ],
+        "requires": "|Assault Android Cactus|"
+    },
+    {
+        "name": "1-3 Filament - Holly",
+        "category": [
+            "1-3 Filament"
+        ],
+        "requires": "|Assault Android Holly|"
+    },
+    {
+        "name": "1-3 Filament - Lemon",
+        "category": [
+            "1-3 Filament"
+        ],
+        "requires": "|Assault Android Lemon|"
+    },
+    {
+        "name": "1-3 Filament - Coral",
+        "category": [
+            "1-3 Filament"
+        ],
+        "requires": "|Assault Android Coral|"
+    },
+    {
+        "name": "1-3 Filament - Starch",
+        "category": [
+            "1-3 Filament"
+        ],
+        "requires": "|Assault Android Starch|"
+    },
+    {
+        "name": "1-3 Filament - Aubergine",
+        "category": [
+            "1-3 Filament"
+        ],
+        "requires": "|Assault Android Aubergine|"
+    },
+    {
+        "name": "1-3 Filament - Shiitake",
+        "category": [
+            "1-3 Filament"
+        ],
+        "requires": "|Assault Android Shiitake|"
+    },
+    {
+        "name": "1-3 Filament - Peanut",
+        "category": [
+            "1-3 Filament"
+        ],
+        "requires": "|Assault Android Peanut|"
+    },
+    {
+        "name": "1-3 Filament - Liquorice",
+        "category": [
+            "1-3 Filament"
+        ],
+        "requires": "|Assault Android Liquorice|"
+    },
+    {
+        "name": "1-4 Capacitor - Cactus",
+        "category": [
+            "1-4 Capacitor"
+        ],
+        "requires": "|Assault Android Cactus|"
+    },
+    {
+        "name": "1-4 Capacitor - Holly",
+        "category": [
+            "1-4 Capacitor"
+        ],
+        "requires": "|Assault Android Holly|"
+    },
+    {
+        "name": "1-4 Capacitor - Lemon",
+        "category": [
+            "1-4 Capacitor"
+        ],
+        "requires": "|Assault Android Lemon|"
+    },
+    {
+        "name": "1-4 Capacitor - Coral",
+        "category": [
+            "1-4 Capacitor"
+        ],
+        "requires": "|Assault Android Coral|"
+    },
+    {
+        "name": "1-4 Capacitor - Starch",
+        "category": [
+            "1-4 Capacitor"
+        ],
+        "requires": "|Assault Android Starch|"
+    },
+    {
+        "name": "1-4 Capacitor - Aubergine",
+        "category": [
+            "1-4 Capacitor"
+        ],
+        "requires": "|Assault Android Aubergine|"
+    },
+    {
+        "name": "1-4 Capacitor - Shiitake",
+        "category": [
+            "1-4 Capacitor"
+        ],
+        "requires": "|Assault Android Shiitake|"
+    },
+    {
+        "name": "1-4 Capacitor - Peanut",
+        "category": [
+            "1-4 Capacitor"
+        ],
+        "requires": "|Assault Android Peanut|"
+    },
+    {
+        "name": "1-4 Capacitor - Liquorice",
+        "category": [
+            "1-4 Capacitor"
+        ],
+        "requires": "|Assault Android Liquorice|"
+    },
+    {
+        "name": "1-5 Embryo - Cactus",
+        "category": [
+            "1-5 Embryo"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 1 Boss Key - Cactus|"
+    },
+    {
+        "name": "1-5 Embryo - Holly",
+        "category": [
+            "1-5 Embryo"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 1 Boss Key - Holly|"
+    },
+    {
+        "name": "1-5 Embryo - Lemon",
+        "category": [
+            "1-5 Embryo"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 1 Boss Key - Lemon|"
+    },
+    {
+        "name": "1-5 Embryo - Coral",
+        "category": [
+            "1-5 Embryo"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 1 Boss Key - Coral|"
+    },
+    {
+        "name": "1-5 Embryo - Starch",
+        "category": [
+            "1-5 Embryo"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 1 Boss Key - Starch|"
+    },
+    {
+        "name": "1-5 Embryo - Aubergine",
+        "category": [
+            "1-5 Embryo"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 1 Boss Key - Aubergine|"
+    },
+    {
+        "name": "1-5 Embryo - Shiitake",
+        "category": [
+            "1-5 Embryo"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 1 Boss Key - Shiitake|"
+    },
+    {
+        "name": "1-5 Embryo - Peanut",
+        "category": [
+            "1-5 Embryo"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 1 Boss Key - Peanut|"
+    },
+    {
+        "name": "1-5 Embryo - Liquorice",
+        "category": [
+            "1-5 Embryo"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 1 Boss Key - Liquorice|"
+    },
+    {
+        "name": "2-1 Hive - Cactus",
+        "category": [
+            "2-1 Hive"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 2 Key - Cactus|"
+    },
+    {
+        "name": "2-1 Hive - Holly",
+        "category": [
+            "2-1 Hive"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 2 Key - Holly|"
+    },
+    {
+        "name": "2-1 Hive - Lemon",
+        "category": [
+            "2-1 Hive"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 2 Key - Lemon|"
+    },
+    {
+        "name": "2-1 Hive - Coral",
+        "category": [
+            "2-1 Hive"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 2 Key - Coral|"
+    },
+    {
+        "name": "2-1 Hive - Starch",
+        "category": [
+            "2-1 Hive"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 2 Key - Starch|"
+    },
+    {
+        "name": "2-1 Hive - Aubergine",
+        "category": [
+            "2-1 Hive"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 2 Key - Aubergine|"
+    },
+    {
+        "name": "2-1 Hive - Shiitake",
+        "category": [
+            "2-1 Hive"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 2 Key - Shiitake|"
+    },
+    {
+        "name": "2-1 Hive - Peanut",
+        "category": [
+            "2-1 Hive"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 2 Key - Peanut|"
+    },
+    {
+        "name": "2-1 Hive - Liquorice",
+        "category": [
+            "2-1 Hive"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 2 Key - Liquorice|"
+    },
+    {
+        "name": "2-2 Influx - Cactus",
+        "category": [
+            "2-2 Influx"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 2 Key - Cactus|"
+    },
+    {
+        "name": "2-2 Influx - Holly",
+        "category": [
+            "2-2 Influx"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 2 Key - Holly|"
+    },
+    {
+        "name": "2-2 Influx - Lemon",
+        "category": [
+            "2-2 Influx"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 2 Key - Lemon|"
+    },
+    {
+        "name": "2-2 Influx - Coral",
+        "category": [
+            "2-2 Influx"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 2 Key - Coral|"
+    },
+    {
+        "name": "2-2 Influx - Starch",
+        "category": [
+            "2-2 Influx"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 2 Key - Starch|"
+    },
+    {
+        "name": "2-2 Influx - Aubergine",
+        "category": [
+            "2-2 Influx"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 2 Key - Aubergine|"
+    },
+    {
+        "name": "2-2 Influx - Shiitake",
+        "category": [
+            "2-2 Influx"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 2 Key - Shiitake|"
+    },
+    {
+        "name": "2-2 Influx - Peanut",
+        "category": [
+            "2-2 Influx"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 2 Key - Peanut|"
+    },
+    {
+        "name": "2-2 Influx - Liquorice",
+        "category": [
+            "2-2 Influx"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 2 Key - Liquorice|"
+    },
+    {
+        "name": "2-3 Oxygen - Cactus",
+        "category": [
+            "2-3 Oxygen"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 2 Key - Cactus|"
+    },
+    {
+        "name": "2-3 Oxygen - Holly",
+        "category": [
+            "2-3 Oxygen"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 2 Key - Holly|"
+    },
+    {
+        "name": "2-3 Oxygen - Lemon",
+        "category": [
+            "2-3 Oxygen"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 2 Key - Lemon|"
+    },
+    {
+        "name": "2-3 Oxygen - Coral",
+        "category": [
+            "2-3 Oxygen"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 2 Key - Coral|"
+    },
+    {
+        "name": "2-3 Oxygen - Starch",
+        "category": [
+            "2-3 Oxygen"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 2 Key - Starch|"
+    },
+    {
+        "name": "2-3 Oxygen - Aubergine",
+        "category": [
+            "2-3 Oxygen"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 2 Key - Aubergine|"
+    },
+    {
+        "name": "2-3 Oxygen - Shiitake",
+        "category": [
+            "2-3 Oxygen"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 2 Key - Shiitake|"
+    },
+    {
+        "name": "2-3 Oxygen - Peanut",
+        "category": [
+            "2-3 Oxygen"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 2 Key - Peanut|"
+    },
+    {
+        "name": "2-3 Oxygen - Liquorice",
+        "category": [
+            "2-3 Oxygen"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 2 Key - Liquorice|"
+    },
+    {
+        "name": "2-4 Process - Cactus",
+        "category": [
+            "2-4 Process"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 2 Key - Cactus|"
+    },
+    {
+        "name": "2-4 Process - Holly",
+        "category": [
+            "2-4 Process"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 2 Key - Holly|"
+    },
+    {
+        "name": "2-4 Process - Lemon",
+        "category": [
+            "2-4 Process"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 2 Key - Lemon|"
+    },
+    {
+        "name": "2-4 Process - Coral",
+        "category": [
+            "2-4 Process"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 2 Key - Coral|"
+    },
+    {
+        "name": "2-4 Process - Starch",
+        "category": [
+            "2-4 Process"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 2 Key - Starch|"
+    },
+    {
+        "name": "2-4 Process - Aubergine",
+        "category": [
+            "2-4 Process"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 2 Key - Aubergine|"
+    },
+    {
+        "name": "2-4 Process - Shiitake",
+        "category": [
+            "2-4 Process"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 2 Key - Shiitake|"
+    },
+    {
+        "name": "2-4 Process - Peanut",
+        "category": [
+            "2-4 Process"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 2 Key - Peanut|"
+    },
+    {
+        "name": "2-4 Process - Liquorice",
+        "category": [
+            "2-4 Process"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 2 Key - Liquorice|"
+    },
+    {
+        "name": "2-5 Vespula - Cactus",
+        "category": [
+            "2-5 Vespula"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 2 Key - Cactus| and |Zone 2 Boss Key - Cactus|"
+    },
+    {
+        "name": "2-5 Vespula - Holly",
+        "category": [
+            "2-5 Vespula"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 2 Key - Holly| and |Zone 2 Boss Key - Holly|"
+    },
+    {
+        "name": "2-5 Vespula - Lemon",
+        "category": [
+            "2-5 Vespula"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 2 Key - Lemon| and |Zone 2 Boss Key - Lemon|"
+    },
+    {
+        "name": "2-5 Vespula - Coral",
+        "category": [
+            "2-5 Vespula"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 2 Key - Coral| and |Zone 2 Boss Key - Coral|"
+    },
+    {
+        "name": "2-5 Vespula - Starch",
+        "category": [
+            "2-5 Vespula"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 2 Key - Starch| and |Zone 2 Boss Key - Starch|"
+    },
+    {
+        "name": "2-5 Vespula - Aubergine",
+        "category": [
+            "2-5 Vespula"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 2 Key - Aubergine| and |Zone 2 Boss Key - Aubergine|"
+    },
+    {
+        "name": "2-5 Vespula - Shiitake",
+        "category": [
+            "2-5 Vespula"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 2 Key - Shiitake| and |Zone 2 Boss Key - Shiitake|"
+    },
+    {
+        "name": "2-5 Vespula - Peanut",
+        "category": [
+            "2-5 Vespula"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 2 Key - Peanut| and |Zone 2 Boss Key - Peanut|"
+    },
+    {
+        "name": "2-5 Vespula - Liquorice",
+        "category": [
+            "2-5 Vespula"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 2 Key - Liquorice| and |Zone 2 Boss Key - Liquorice|"
+    },
+    {
+        "name": "3-1 Checkpoint - Cactus",
+        "category": [
+            "3-1 Checkpoint"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 3 Key - Cactus|"
+    },
+    {
+        "name": "3-1 Checkpoint - Holly",
+        "category": [
+            "3-1 Checkpoint"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 3 Key - Holly|"
+    },
+    {
+        "name": "3-1 Checkpoint - Lemon",
+        "category": [
+            "3-1 Checkpoint"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 3 Key - Lemon|"
+    },
+    {
+        "name": "3-1 Checkpoint - Coral",
+        "category": [
+            "3-1 Checkpoint"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 3 Key - Coral|"
+    },
+    {
+        "name": "3-1 Checkpoint - Starch",
+        "category": [
+            "3-1 Checkpoint"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 3 Key - Starch|"
+    },
+    {
+        "name": "3-1 Checkpoint - Aubergine",
+        "category": [
+            "3-1 Checkpoint"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 3 Key - Aubergine|"
+    },
+    {
+        "name": "3-1 Checkpoint - Shiitake",
+        "category": [
+            "3-1 Checkpoint"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 3 Key - Shiitake|"
+    },
+    {
+        "name": "3-1 Checkpoint - Peanut",
+        "category": [
+            "3-1 Checkpoint"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 3 Key - Peanut|"
+    },
+    {
+        "name": "3-1 Checkpoint - Liquorice",
+        "category": [
+            "3-1 Checkpoint"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 3 Key - Liquorice|"
+    },
+    {
+        "name": "3-2 Transit - Cactus",
+        "category": [
+            "3-2 Transit"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 3 Key - Cactus|"
+    },
+    {
+        "name": "3-2 Transit - Holly",
+        "category": [
+            "3-2 Transit"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 3 Key - Holly|"
+    },
+    {
+        "name": "3-2 Transit - Lemon",
+        "category": [
+            "3-2 Transit"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 3 Key - Lemon|"
+    },
+    {
+        "name": "3-2 Transit - Coral",
+        "category": [
+            "3-2 Transit"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 3 Key - Coral|"
+    },
+    {
+        "name": "3-2 Transit - Starch",
+        "category": [
+            "3-2 Transit"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 3 Key - Starch|"
+    },
+    {
+        "name": "3-2 Transit - Aubergine",
+        "category": [
+            "3-2 Transit"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 3 Key - Aubergine|"
+    },
+    {
+        "name": "3-2 Transit - Shiitake",
+        "category": [
+            "3-2 Transit"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 3 Key - Shiitake|"
+    },
+    {
+        "name": "3-2 Transit - Peanut",
+        "category": [
+            "3-2 Transit"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 3 Key - Peanut|"
+    },
+    {
+        "name": "3-2 Transit - Liquorice",
+        "category": [
+            "3-2 Transit"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 3 Key - Liquorice|"
+    },
+    {
+        "name": "3-3 Heat - Cactus",
+        "category": [
+            "3-3 Heat"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 3 Key - Cactus|"
+    },
+    {
+        "name": "3-3 Heat - Holly",
+        "category": [
+            "3-3 Heat"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 3 Key - Holly|"
+    },
+    {
+        "name": "3-3 Heat - Lemon",
+        "category": [
+            "3-3 Heat"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 3 Key - Lemon|"
+    },
+    {
+        "name": "3-3 Heat - Coral",
+        "category": [
+            "3-3 Heat"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 3 Key - Coral|"
+    },
+    {
+        "name": "3-3 Heat - Starch",
+        "category": [
+            "3-3 Heat"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 3 Key - Starch|"
+    },
+    {
+        "name": "3-3 Heat - Aubergine",
+        "category": [
+            "3-3 Heat"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 3 Key - Aubergine|"
+    },
+    {
+        "name": "3-3 Heat - Shiitake",
+        "category": [
+            "3-3 Heat"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 3 Key - Shiitake|"
+    },
+    {
+        "name": "3-3 Heat - Peanut",
+        "category": [
+            "3-3 Heat"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 3 Key - Peanut|"
+    },
+    {
+        "name": "3-3 Heat - Liquorice",
+        "category": [
+            "3-3 Heat"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 3 Key - Liquorice|"
+    },
+    {
+        "name": "3-4 Revolution - Cactus",
+        "category": [
+            "3-4 Revolution"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 3 Key - Cactus|"
+    },
+    {
+        "name": "3-4 Revolution - Holly",
+        "category": [
+            "3-4 Revolution"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 3 Key - Holly|"
+    },
+    {
+        "name": "3-4 Revolution - Lemon",
+        "category": [
+            "3-4 Revolution"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 3 Key - Lemon|"
+    },
+    {
+        "name": "3-4 Revolution - Coral",
+        "category": [
+            "3-4 Revolution"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 3 Key - Coral|"
+    },
+    {
+        "name": "3-4 Revolution - Starch",
+        "category": [
+            "3-4 Revolution"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 3 Key - Starch|"
+    },
+    {
+        "name": "3-4 Revolution - Aubergine",
+        "category": [
+            "3-4 Revolution"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 3 Key - Aubergine|"
+    },
+    {
+        "name": "3-4 Revolution - Shiitake",
+        "category": [
+            "3-4 Revolution"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 3 Key - Shiitake|"
+    },
+    {
+        "name": "3-4 Revolution - Peanut",
+        "category": [
+            "3-4 Revolution"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 3 Key - Peanut|"
+    },
+    {
+        "name": "3-4 Revolution - Liquorice",
+        "category": [
+            "3-4 Revolution"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 3 Key - Liquorice|"
+    },
+    {
+        "name": "3-5 Justice - Cactus",
+        "category": [
+            "3-5 Justice"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 3 Key - Cactus| and |Zone 3 Boss Key - Cactus|"
+    },
+    {
+        "name": "3-5 Justice - Holly",
+        "category": [
+            "3-5 Justice"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 3 Key - Holly| and |Zone 3 Boss Key - Holly|"
+    },
+    {
+        "name": "3-5 Justice - Lemon",
+        "category": [
+            "3-5 Justice"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 3 Key - Lemon| and |Zone 3 Boss Key - Lemon|"
+    },
+    {
+        "name": "3-5 Justice - Coral",
+        "category": [
+            "3-5 Justice"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 3 Key - Coral| and |Zone 3 Boss Key - Coral|"
+    },
+    {
+        "name": "3-5 Justice - Starch",
+        "category": [
+            "3-5 Justice"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 3 Key - Starch| and |Zone 3 Boss Key - Starch|"
+    },
+    {
+        "name": "3-5 Justice - Aubergine",
+        "category": [
+            "3-5 Justice"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 3 Key - Aubergine| and |Zone 3 Boss Key - Aubergine|"
+    },
+    {
+        "name": "3-5 Justice - Shiitake",
+        "category": [
+            "3-5 Justice"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 3 Key - Shiitake| and |Zone 3 Boss Key - Shiitake|"
+    },
+    {
+        "name": "3-5 Justice - Peanut",
+        "category": [
+            "3-5 Justice"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 3 Key - Peanut| and |Zone 3 Boss Key - Peanut|"
+    },
+    {
+        "name": "3-5 Justice - Liquorice",
+        "category": [
+            "3-5 Justice"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 3 Key - Liquorice| and |Zone 3 Boss Key - Liquorice|"
+    },
+    {
+        "name": "4-1 Assembly - Cactus",
+        "category": [
+            "4-1 Assembly"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 4 Key - Cactus|"
+    },
+    {
+        "name": "4-1 Assembly - Holly",
+        "category": [
+            "4-1 Assembly"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 4 Key - Holly|"
+    },
+    {
+        "name": "4-1 Assembly - Lemon",
+        "category": [
+            "4-1 Assembly"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 4 Key - Lemon|"
+    },
+    {
+        "name": "4-1 Assembly - Coral",
+        "category": [
+            "4-1 Assembly"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 4 Key - Coral|"
+    },
+    {
+        "name": "4-1 Assembly - Starch",
+        "category": [
+            "4-1 Assembly"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 4 Key - Starch|"
+    },
+    {
+        "name": "4-1 Assembly - Aubergine",
+        "category": [
+            "4-1 Assembly"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 4 Key - Aubergine|"
+    },
+    {
+        "name": "4-1 Assembly - Shiitake",
+        "category": [
+            "4-1 Assembly"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 4 Key - Shiitake|"
+    },
+    {
+        "name": "4-1 Assembly - Peanut",
+        "category": [
+            "4-1 Assembly"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 4 Key - Peanut|"
+    },
+    {
+        "name": "4-1 Assembly - Liquorice",
+        "category": [
+            "4-1 Assembly"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 4 Key - Liquorice|"
+    },
+    {
+        "name": "4-2 Relay - Cactus",
+        "category": [
+            "4-2 Relay"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 4 Key - Cactus|"
+    },
+    {
+        "name": "4-2 Relay - Holly",
+        "category": [
+            "4-2 Relay"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 4 Key - Holly|"
+    },
+    {
+        "name": "4-2 Relay - Lemon",
+        "category": [
+            "4-2 Relay"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 4 Key - Lemon|"
+    },
+    {
+        "name": "4-2 Relay - Coral",
+        "category": [
+            "4-2 Relay"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 4 Key - Coral|"
+    },
+    {
+        "name": "4-2 Relay - Starch",
+        "category": [
+            "4-2 Relay"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 4 Key - Starch|"
+    },
+    {
+        "name": "4-2 Relay - Aubergine",
+        "category": [
+            "4-2 Relay"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 4 Key - Aubergine|"
+    },
+    {
+        "name": "4-2 Relay - Shiitake",
+        "category": [
+            "4-2 Relay"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 4 Key - Shiitake|"
+    },
+    {
+        "name": "4-2 Relay - Peanut",
+        "category": [
+            "4-2 Relay"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 4 Key - Peanut|"
+    },
+    {
+        "name": "4-2 Relay - Liquorice",
+        "category": [
+            "4-2 Relay"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 4 Key - Liquorice|"
+    },
+    {
+        "name": "4-3 Focus - Cactus",
+        "category": [
+            "4-3 Focus"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 4 Key - Cactus|"
+    },
+    {
+        "name": "4-3 Focus - Holly",
+        "category": [
+            "4-3 Focus"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 4 Key - Holly|"
+    },
+    {
+        "name": "4-3 Focus - Lemon",
+        "category": [
+            "4-3 Focus"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 4 Key - Lemon|"
+    },
+    {
+        "name": "4-3 Focus - Coral",
+        "category": [
+            "4-3 Focus"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 4 Key - Coral|"
+    },
+    {
+        "name": "4-3 Focus - Starch",
+        "category": [
+            "4-3 Focus"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 4 Key - Starch|"
+    },
+    {
+        "name": "4-3 Focus - Aubergine",
+        "category": [
+            "4-3 Focus"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 4 Key - Aubergine|"
+    },
+    {
+        "name": "4-3 Focus - Shiitake",
+        "category": [
+            "4-3 Focus"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 4 Key - Shiitake|"
+    },
+    {
+        "name": "4-3 Focus - Peanut",
+        "category": [
+            "4-3 Focus"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 4 Key - Peanut|"
+    },
+    {
+        "name": "4-3 Focus - Liquorice",
+        "category": [
+            "4-3 Focus"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 4 Key - Liquorice|"
+    },
+    {
+        "name": "4-4 Repeater - Cactus",
+        "category": [
+            "4-4 Repeater"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 4 Key - Cactus|"
+    },
+    {
+        "name": "4-4 Repeater - Holly",
+        "category": [
+            "4-4 Repeater"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 4 Key - Holly|"
+    },
+    {
+        "name": "4-4 Repeater - Lemon",
+        "category": [
+            "4-4 Repeater"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 4 Key - Lemon|"
+    },
+    {
+        "name": "4-4 Repeater - Coral",
+        "category": [
+            "4-4 Repeater"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 4 Key - Coral|"
+    },
+    {
+        "name": "4-4 Repeater - Starch",
+        "category": [
+            "4-4 Repeater"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 4 Key - Starch|"
+    },
+    {
+        "name": "4-4 Repeater - Aubergine",
+        "category": [
+            "4-4 Repeater"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 4 Key - Aubergine|"
+    },
+    {
+        "name": "4-4 Repeater - Shiitake",
+        "category": [
+            "4-4 Repeater"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 4 Key - Shiitake|"
+    },
+    {
+        "name": "4-4 Repeater - Peanut",
+        "category": [
+            "4-4 Repeater"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 4 Key - Peanut|"
+    },
+    {
+        "name": "4-4 Repeater - Liquorice",
+        "category": [
+            "4-4 Repeater"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 4 Key - Liquorice|"
+    },
+    {
+        "name": "4-5 Venom - Cactus",
+        "category": [
+            "4-5 Venom"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 4 Key - Cactus| and |Zone 4 Boss Key - Cactus|"
+    },
+    {
+        "name": "4-5 Venom - Holly",
+        "category": [
+            "4-5 Venom"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 4 Key - Holly| and |Zone 4 Boss Key - Holly|"
+    },
+    {
+        "name": "4-5 Venom - Lemon",
+        "category": [
+            "4-5 Venom"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 4 Key - Lemon| and |Zone 4 Boss Key - Lemon|"
+    },
+    {
+        "name": "4-5 Venom - Coral",
+        "category": [
+            "4-5 Venom"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 4 Key - Coral| and |Zone 4 Boss Key - Coral|"
+    },
+    {
+        "name": "4-5 Venom - Starch",
+        "category": [
+            "4-5 Venom"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 4 Key - Starch| and |Zone 4 Boss Key - Starch|"
+    },
+    {
+        "name": "4-5 Venom - Aubergine",
+        "category": [
+            "4-5 Venom"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 4 Key - Aubergine| and |Zone 4 Boss Key - Aubergine|"
+    },
+    {
+        "name": "4-5 Venom - Shiitake",
+        "category": [
+            "4-5 Venom"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 4 Key - Shiitake| and |Zone 4 Boss Key - Shiitake|"
+    },
+    {
+        "name": "4-5 Venom - Peanut",
+        "category": [
+            "4-5 Venom"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 4 Key - Peanut| and |Zone 4 Boss Key - Peanut|"
+    },
+    {
+        "name": "4-5 Venom - Liquorice",
+        "category": [
+            "4-5 Venom"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 4 Key - Liquorice| and |Zone 4 Boss Key - Liquorice|"
+    },
+    {
+        "name": "5-1 Centrifuge - Cactus",
+        "category": [
+            "5-1 Centrifuge"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 5 Key - Cactus|"
+    },
+    {
+        "name": "5-1 Centrifuge - Holly",
+        "category": [
+            "5-1 Centrifuge"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 5 Key - Holly|"
+    },
+    {
+        "name": "5-1 Centrifuge - Lemon",
+        "category": [
+            "5-1 Centrifuge"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 5 Key - Lemon|"
+    },
+    {
+        "name": "5-1 Centrifuge - Coral",
+        "category": [
+            "5-1 Centrifuge"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 5 Key - Coral|"
+    },
+    {
+        "name": "5-1 Centrifuge - Starch",
+        "category": [
+            "5-1 Centrifuge"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 5 Key - Starch|"
+    },
+    {
+        "name": "5-1 Centrifuge - Aubergine",
+        "category": [
+            "5-1 Centrifuge"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 5 Key - Aubergine|"
+    },
+    {
+        "name": "5-1 Centrifuge - Shiitake",
+        "category": [
+            "5-1 Centrifuge"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 5 Key - Shiitake|"
+    },
+    {
+        "name": "5-1 Centrifuge - Peanut",
+        "category": [
+            "5-1 Centrifuge"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 5 Key - Peanut|"
+    },
+    {
+        "name": "5-1 Centrifuge - Liquorice",
+        "category": [
+            "5-1 Centrifuge"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 5 Key - Liquorice|"
+    },
+    {
+        "name": "5-2 Control - Cactus",
+        "category": [
+            "5-2 Control"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 5 Key - Cactus|"
+    },
+    {
+        "name": "5-2 Control - Holly",
+        "category": [
+            "5-2 Control"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 5 Key - Holly|"
+    },
+    {
+        "name": "5-2 Control - Lemon",
+        "category": [
+            "5-2 Control"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 5 Key - Lemon|"
+    },
+    {
+        "name": "5-2 Control - Coral",
+        "category": [
+            "5-2 Control"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 5 Key - Coral|"
+    },
+    {
+        "name": "5-2 Control - Starch",
+        "category": [
+            "5-2 Control"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 5 Key - Starch|"
+    },
+    {
+        "name": "5-2 Control - Aubergine",
+        "category": [
+            "5-2 Control"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 5 Key - Aubergine|"
+    },
+    {
+        "name": "5-2 Control - Shiitake",
+        "category": [
+            "5-2 Control"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 5 Key - Shiitake|"
+    },
+    {
+        "name": "5-2 Control - Peanut",
+        "category": [
+            "5-2 Control"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 5 Key - Peanut|"
+    },
+    {
+        "name": "5-2 Control - Liquorice",
+        "category": [
+            "5-2 Control"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 5 Key - Liquorice|"
+    },
+    {
+        "name": "5-3 Convection - Cactus",
+        "category": [
+            "5-3 Convection"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 5 Key - Cactus|"
+    },
+    {
+        "name": "5-3 Convection - Holly",
+        "category": [
+            "5-3 Convection"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 5 Key - Holly|"
+    },
+    {
+        "name": "5-3 Convection - Lemon",
+        "category": [
+            "5-3 Convection"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 5 Key - Lemon|"
+    },
+    {
+        "name": "5-3 Convection - Coral",
+        "category": [
+            "5-3 Convection"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 5 Key - Coral|"
+    },
+    {
+        "name": "5-3 Convection - Starch",
+        "category": [
+            "5-3 Convection"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 5 Key - Starch|"
+    },
+    {
+        "name": "5-3 Convection - Aubergine",
+        "category": [
+            "5-3 Convection"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 5 Key - Aubergine|"
+    },
+    {
+        "name": "5-3 Convection - Shiitake",
+        "category": [
+            "5-3 Convection"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 5 Key - Shiitake|"
+    },
+    {
+        "name": "5-3 Convection - Peanut",
+        "category": [
+            "5-3 Convection"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 5 Key - Peanut|"
+    },
+    {
+        "name": "5-3 Convection - Liquorice",
+        "category": [
+            "5-3 Convection"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 5 Key - Liquorice|"
+    },
+    {
+        "name": "5-4 Collider - Cactus",
+        "category": [
+            "5-4 Collider"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 5 Key - Cactus|"
+    },
+    {
+        "name": "5-4 Collider - Holly",
+        "category": [
+            "5-4 Collider"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 5 Key - Holly|"
+    },
+    {
+        "name": "5-4 Collider - Lemon",
+        "category": [
+            "5-4 Collider"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 5 Key - Lemon|"
+    },
+    {
+        "name": "5-4 Collider - Coral",
+        "category": [
+            "5-4 Collider"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 5 Key - Coral|"
+    },
+    {
+        "name": "5-4 Collider - Starch",
+        "category": [
+            "5-4 Collider"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 5 Key - Starch|"
+    },
+    {
+        "name": "5-4 Collider - Aubergine",
+        "category": [
+            "5-4 Collider"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 5 Key - Aubergine|"
+    },
+    {
+        "name": "5-4 Collider - Shiitake",
+        "category": [
+            "5-4 Collider"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 5 Key - Shiitake|"
+    },
+    {
+        "name": "5-4 Collider - Peanut",
+        "category": [
+            "5-4 Collider"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 5 Key - Peanut|"
+    },
+    {
+        "name": "5-4 Collider - Liquorice",
+        "category": [
+            "5-4 Collider"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 5 Key - Liquorice|"
+    },
+    {
+        "name": "5-5 Medulla - Cactus",
+        "category": [
+            "5-5 Medulla"
+        ],
+        "requires": "|Assault Android Cactus| and |Zone 5 Key - Cactus| and |Zone 5 Boss Key - Cactus|"
+    },
+    {
+        "name": "5-5 Medulla - Holly",
+        "category": [
+            "5-5 Medulla"
+        ],
+        "requires": "|Assault Android Holly| and |Zone 5 Key - Holly| and |Zone 5 Boss Key - Holly|"
+    },
+    {
+        "name": "5-5 Medulla - Lemon",
+        "category": [
+            "5-5 Medulla"
+        ],
+        "requires": "|Assault Android Lemon| and |Zone 5 Key - Lemon| and |Zone 5 Boss Key - Lemon|"
+    },
+    {
+        "name": "5-5 Medulla - Coral",
+        "category": [
+            "5-5 Medulla"
+        ],
+        "requires": "|Assault Android Coral| and |Zone 5 Key - Coral| and |Zone 5 Boss Key - Coral|"
+    },
+    {
+        "name": "5-5 Medulla - Starch",
+        "category": [
+            "5-5 Medulla"
+        ],
+        "requires": "|Assault Android Starch| and |Zone 5 Key - Starch| and |Zone 5 Boss Key - Starch|"
+    },
+    {
+        "name": "5-5 Medulla - Aubergine",
+        "category": [
+            "5-5 Medulla"
+        ],
+        "requires": "|Assault Android Aubergine| and |Zone 5 Key - Aubergine| and |Zone 5 Boss Key - Aubergine|"
+    },
+    {
+        "name": "5-5 Medulla - Shiitake",
+        "category": [
+            "5-5 Medulla"
+        ],
+        "requires": "|Assault Android Shiitake| and |Zone 5 Key - Shiitake| and |Zone 5 Boss Key - Shiitake|"
+    },
+    {
+        "name": "5-5 Medulla - Peanut",
+        "category": [
+            "5-5 Medulla"
+        ],
+        "requires": "|Assault Android Peanut| and |Zone 5 Key - Peanut| and |Zone 5 Boss Key - Peanut|"
+    },
+    {
+        "name": "5-5 Medulla - Liquorice",
+        "category": [
+            "5-5 Medulla"
+        ],
+        "requires": "|Assault Android Liquorice| and |Zone 5 Key - Liquorice| and |Zone 5 Boss Key - Liquorice|"
+    },
+    {
+        "name": "Defeat Medulla with all androids",
+        "requires": "(|Assault Android Cactus| and |Zone 5 Key - Cactus| and |Zone 5 Boss Key - Cactus|) and (|Assault Android Holly| and |Zone 5 Key - Holly| and |Zone 5 Boss Key - Holly|) and (|Assault Android Lemon| and |Zone 5 Key - Lemon| and |Zone 5 Boss Key - Lemon|) and (|Assault Android Coral| and |Zone 5 Key - Coral| and |Zone 5 Boss Key - Coral|) and (|Assault Android Starch| and |Zone 5 Key - Starch| and |Zone 5 Boss Key - Starch|) and (|Assault Android Aubergine| and |Zone 5 Key - Aubergine| and |Zone 5 Boss Key - Aubergine|) and (|Assault Android Shiitake| and |Zone 5 Key - Shiitake| and |Zone 5 Boss Key - Shiitake|) and (|Assault Android Peanut| and |Zone 5 Key - Peanut| and |Zone 5 Boss Key - Peanut|) and (|Assault Android Liquorice| and |Zone 5 Key - Liquorice| and |Zone 5 Boss Key - Liquorice|)",
+        "victory": true
+    }
+]

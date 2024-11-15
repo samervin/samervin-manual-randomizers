@@ -1,0 +1,884 @@
+[
+    {
+        "name": "Assault Android Cactus",
+        "category": [
+            "Cactus"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Assault Android Holly",
+        "category": [
+            "Holly"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Assault Android Lemon",
+        "category": [
+            "Lemon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Assault Android Coral",
+        "category": [
+            "Coral"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Assault Android Starch",
+        "category": [
+            "Starch"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Assault Android Aubergine",
+        "category": [
+            "Aubergine"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Assault Android Shiitake",
+        "category": [
+            "Shiitake"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Assault Android Peanut",
+        "category": [
+            "Peanut"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Assault Android Liquorice",
+        "category": [
+            "Liquorice"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cactus Accelerate",
+        "category": [
+            "Cactus"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Holly Accelerate",
+        "category": [
+            "Holly"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Lemon Accelerate",
+        "category": [
+            "Lemon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Coral Accelerate",
+        "category": [
+            "Coral"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Starch Accelerate",
+        "category": [
+            "Starch"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Aubergine Accelerate",
+        "category": [
+            "Aubergine"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Shiitake Accelerate",
+        "category": [
+            "Shiitake"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Peanut Accelerate",
+        "category": [
+            "Peanut"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Liquorice Accelerate",
+        "category": [
+            "Liquorice"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Cactus Shutdown",
+        "category": [
+            "Cactus"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Holly Shutdown",
+        "category": [
+            "Holly"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Lemon Shutdown",
+        "category": [
+            "Lemon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Coral Shutdown",
+        "category": [
+            "Coral"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Starch Shutdown",
+        "category": [
+            "Starch"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Aubergine Shutdown",
+        "category": [
+            "Aubergine"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Shiitake Shutdown",
+        "category": [
+            "Shiitake"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Peanut Shutdown",
+        "category": [
+            "Peanut"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Liquorice Shutdown",
+        "category": [
+            "Liquorice"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Cactus Firepower",
+        "category": [
+            "Cactus"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Holly Firepower",
+        "category": [
+            "Holly"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Lemon Firepower",
+        "category": [
+            "Lemon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Coral Firepower",
+        "category": [
+            "Coral"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Starch Firepower",
+        "category": [
+            "Starch"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Aubergine Firepower",
+        "category": [
+            "Aubergine"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Shiitake Firepower",
+        "category": [
+            "Shiitake"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Peanut Firepower",
+        "category": [
+            "Peanut"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Liquorice Firepower",
+        "category": [
+            "Liquorice"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Cactus EX Weapon",
+        "category": [
+            "Cactus"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Holly EX Weapon",
+        "category": [
+            "Holly"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Lemon EX Weapon",
+        "category": [
+            "Lemon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Coral EX Weapon",
+        "category": [
+            "Coral"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Starch EX Weapon",
+        "category": [
+            "Starch"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Aubergine EX Weapon",
+        "category": [
+            "Aubergine"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Shiitake EX Weapon",
+        "category": [
+            "Shiitake"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Peanut EX Weapon",
+        "category": [
+            "Peanut"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Liquorice EX Weapon",
+        "category": [
+            "Liquorice"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Zone 2 Key - Cactus",
+        "category": [
+            "Cactus"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Key - Holly",
+        "category": [
+            "Holly"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Key - Lemon",
+        "category": [
+            "Lemon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Key - Coral",
+        "category": [
+            "Coral"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Key - Starch",
+        "category": [
+            "Starch"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Key - Aubergine",
+        "category": [
+            "Aubergine"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Key - Shiitake",
+        "category": [
+            "Shiitake"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Key - Peanut",
+        "category": [
+            "Peanut"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Key - Liquorice",
+        "category": [
+            "Liquorice"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Key - Cactus",
+        "category": [
+            "Cactus"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Key - Holly",
+        "category": [
+            "Holly"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Key - Lemon",
+        "category": [
+            "Lemon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Key - Coral",
+        "category": [
+            "Coral"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Key - Starch",
+        "category": [
+            "Starch"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Key - Aubergine",
+        "category": [
+            "Aubergine"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Key - Shiitake",
+        "category": [
+            "Shiitake"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Key - Peanut",
+        "category": [
+            "Peanut"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Key - Liquorice",
+        "category": [
+            "Liquorice"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Key - Cactus",
+        "category": [
+            "Cactus"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Key - Holly",
+        "category": [
+            "Holly"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Key - Lemon",
+        "category": [
+            "Lemon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Key - Coral",
+        "category": [
+            "Coral"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Key - Starch",
+        "category": [
+            "Starch"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Key - Aubergine",
+        "category": [
+            "Aubergine"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Key - Shiitake",
+        "category": [
+            "Shiitake"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Key - Peanut",
+        "category": [
+            "Peanut"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Key - Liquorice",
+        "category": [
+            "Liquorice"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Key - Cactus",
+        "category": [
+            "Cactus"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Key - Holly",
+        "category": [
+            "Holly"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Key - Lemon",
+        "category": [
+            "Lemon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Key - Coral",
+        "category": [
+            "Coral"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Key - Starch",
+        "category": [
+            "Starch"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Key - Aubergine",
+        "category": [
+            "Aubergine"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Key - Shiitake",
+        "category": [
+            "Shiitake"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Key - Peanut",
+        "category": [
+            "Peanut"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Key - Liquorice",
+        "category": [
+            "Liquorice"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 1 Boss Key - Cactus",
+        "category": [
+            "Cactus"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 1 Boss Key - Holly",
+        "category": [
+            "Holly"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 1 Boss Key - Lemon",
+        "category": [
+            "Lemon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 1 Boss Key - Coral",
+        "category": [
+            "Coral"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 1 Boss Key - Starch",
+        "category": [
+            "Starch"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 1 Boss Key - Aubergine",
+        "category": [
+            "Aubergine"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 1 Boss Key - Shiitake",
+        "category": [
+            "Shiitake"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 1 Boss Key - Peanut",
+        "category": [
+            "Peanut"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 1 Boss Key - Liquorice",
+        "category": [
+            "Liquorice"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Boss Key - Cactus",
+        "category": [
+            "Cactus"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Boss Key - Holly",
+        "category": [
+            "Holly"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Boss Key - Lemon",
+        "category": [
+            "Lemon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Boss Key - Coral",
+        "category": [
+            "Coral"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Boss Key - Starch",
+        "category": [
+            "Starch"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Boss Key - Aubergine",
+        "category": [
+            "Aubergine"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Boss Key - Shiitake",
+        "category": [
+            "Shiitake"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Boss Key - Peanut",
+        "category": [
+            "Peanut"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 2 Boss Key - Liquorice",
+        "category": [
+            "Liquorice"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Boss Key - Cactus",
+        "category": [
+            "Cactus"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Boss Key - Holly",
+        "category": [
+            "Holly"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Boss Key - Lemon",
+        "category": [
+            "Lemon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Boss Key - Coral",
+        "category": [
+            "Coral"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Boss Key - Starch",
+        "category": [
+            "Starch"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Boss Key - Aubergine",
+        "category": [
+            "Aubergine"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Boss Key - Shiitake",
+        "category": [
+            "Shiitake"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Boss Key - Peanut",
+        "category": [
+            "Peanut"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 3 Boss Key - Liquorice",
+        "category": [
+            "Liquorice"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Boss Key - Cactus",
+        "category": [
+            "Cactus"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Boss Key - Holly",
+        "category": [
+            "Holly"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Boss Key - Lemon",
+        "category": [
+            "Lemon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Boss Key - Coral",
+        "category": [
+            "Coral"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Boss Key - Starch",
+        "category": [
+            "Starch"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Boss Key - Aubergine",
+        "category": [
+            "Aubergine"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Boss Key - Shiitake",
+        "category": [
+            "Shiitake"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Boss Key - Peanut",
+        "category": [
+            "Peanut"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 4 Boss Key - Liquorice",
+        "category": [
+            "Liquorice"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Boss Key - Cactus",
+        "category": [
+            "Cactus"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Boss Key - Holly",
+        "category": [
+            "Holly"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Boss Key - Lemon",
+        "category": [
+            "Lemon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Boss Key - Coral",
+        "category": [
+            "Coral"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Boss Key - Starch",
+        "category": [
+            "Starch"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Boss Key - Aubergine",
+        "category": [
+            "Aubergine"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Boss Key - Shiitake",
+        "category": [
+            "Shiitake"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Boss Key - Peanut",
+        "category": [
+            "Peanut"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zone 5 Boss Key - Liquorice",
+        "category": [
+            "Liquorice"
+        ],
+        "progression": true
+    }
+]
