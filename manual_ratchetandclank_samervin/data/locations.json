@@ -165,7 +165,7 @@
         "requires": "|Swingshot|"
     },
     {
-        "name": "Nebula G34: Explore the Blarg warship + Destroy the warship",
+        "name": "Nebula G34: Destroy the Blarg warship",
         "region": "Nebula G34",
         "category": ["Nebula G34, Blarg Station"]
     },
@@ -236,7 +236,7 @@
         "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|O2 Mask| or |Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Hoverboard|"
     },
     {
-        "name": "Umbris: Survive gauntlet + Destroy Snagglebeast + Find ship",
+        "name": "Umbris: Destroy Snagglebeast + Find ship",
         "region": "Umbris",
         "category": ["Umbris, Qwark's HQ"],
         "requires": "|Swingshot| and (|Heli-Pack| or |Thruster-Pack|) and (|Bomb Glove| or |Blaster| or |Glove of Doom| or |Devastator| or |Tesla Claw|) and |Hydrodisplacer|"
@@ -254,7 +254,7 @@
         "requires": "|Swingshot| and (|Heli-Pack| or |Thruster-Pack|) and (|Bomb Glove| or |Blaster| or |Glove of Doom| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Hydrodisplacer|"
     },
     {
-        "name": "Batalia: Scout the area + Talk to commando + Meet at city",
+        "name": "Batalia: Meet commando at city",
         "region": "Batalia",
         "category": ["Batalia, Fort Krontos"],
         "requires": "|Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|"
@@ -330,12 +330,12 @@
         "category": ["Gaspar, Blarg Depot"]
     },
     {
-        "name": "Orxon: Search the laboratories*",
+        "name": "Orxon: Search the laboratories",
         "region": "Orxon",
         "category": ["Orxon, Kogor Refinery"]
     },
     {
-        "name": "Orxon: Traverse the wilderness*",
+        "name": "Orxon: Traverse the wilderness",
         "region": "Orxon",
         "category": ["Orxon, Kogor Refinery"]
     },
@@ -358,7 +358,7 @@
         "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|) and |Magneboots| and |Swingshot| and |Visibomb Gun|"
     },
     {
-        "name": "Orxon Gold Bolt: Clank section*",
+        "name": "Orxon Gold Bolt: Clank section",
         "region": "Orxon",
         "category": ["Orxon, Kogor Refinery"],
         "requires": "|O2 Mask|"
@@ -376,7 +376,7 @@
         "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|) and |Magneboots| and |Taunter|"
     },
     {
-        "name": "Pokitaru: Check out resort + Help owner + Buy Thruster-Pack",
+        "name": "Pokitaru: Help resort owner + Buy Thruster-Pack",
         "region": "Pokitaru",
         "category": ["Pokitaru, Jowai Resort"],
         "requires": "|Bomb Glove| or |Pyrocitor| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Suck Cannon| or |Devastator| or |Walloper| or |Visibomb Gun| or |Decoy Glove| or |Drone Device| or |Tesla Claw|"
@@ -475,13 +475,13 @@
         "requires": "|Grind Boots|"
     },
     {
-        "name": "Oltanis: Search destroyed city + Buy PDA",
+        "name": "Oltanis: Search city + Buy PDA",
         "region": "Oltanis",
         "category": ["Oltanis, Gorda City Ruins"],
         "requires": "|Magneboots|"
     },
     {
-        "name": "Oltanis: Search destroyed city + Find Morph-o-Ray",
+        "name": "Oltanis: Search city + Find Morph-o-Ray",
         "region": "Oltanis",
         "category": ["Oltanis, Gorda City Ruins"],
         "requires": "|Swingshot|"
@@ -523,7 +523,7 @@
         "requires": "|Visibomb Gun|"
     },
     {
-        "name": "Quartu: Find out about Ultra-Mech + Destroy Ultra-Mechs",
+        "name": "Quartu: Destroy Ultra-Mechs",
         "region": "Quartu",
         "category": ["Quartu, Robot Plant"],
         "requires": "|Swingshot|"
@@ -553,7 +553,7 @@
         "requires": "|Swingshot| and |Codebot|"
     },
     {
-        "name": "Kalebo III: Find new equipment + Get past Blarg + Win race",
+        "name": "Kalebo III: Get past Blarg + Win Hoverboard race",
         "region": "Kalebo III",
         "category": ["Kalebo III, Gadgetron Site"],
         "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Swingshot| and |Grind Boots| and |Hoverboard|"
@@ -589,13 +589,13 @@
         "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Swingshot| and |Grind Boots| and |Hoverboard| and |Zoomerator|"
     },
     {
-        "name": "Drek's Fleet: Find the coordinates for Drek's laser",
+        "name": "Drek's Fleet: Find coordinates for Drek's laser",
         "region": "Drek's Fleet",
         "category": ["Drek's Fleet, Veldin Orbit"],
         "requires": "|Hologuise| and |Swingshot| and |Magneboots|"
     },
     {
-        "name": "Drek's Fleet: Swim through the water tanker",
+        "name": "Drek's Fleet: Swim through water tanker",
         "region": "Drek's Fleet",
         "category": ["Drek's Fleet, Veldin Orbit"],
         "requires": "|Hydro-Pack| and |O2 Mask|"
