@@ -178,5 +178,89 @@
     {
         "name": "Levitator",
         "category": ["Item"]
+    },
+    {
+        "name": "Coordinates - Oozla",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Maktar Nebula",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Endako",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Barlow",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Feltzin System",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Notak",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Ship Shack",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Siberius",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Tabora",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Dobbo",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Hrugis Cloud",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Joba",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Todano",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Boldan",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Aranos",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Gorn",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Snivelak",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Smolg",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Grelbin",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Damosel",
+        "category": ["Coordinates"]
+    },
+    {
+        "name": "Coordinates - Yeedil",
+        "category": ["Coordinates"]
     }
 ]
