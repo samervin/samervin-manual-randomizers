@@ -1,1 +1,108 @@
-{}
+{
+    "Oozla": {
+        "starting": true,
+        "connects_to": [
+            "Maktar Nebula",
+            "Endako",
+            "Barlow",
+            "Feltzin System",
+            "Notak",
+            "Ship Shack",
+            "Siberius",
+            "Tabora",
+            "Dobbo",
+            "Hrugis Cloud",
+            "Joba",
+            "Todano",
+            "Boldan",
+            "Aranos",
+            "Gorn",
+            "Snivelak",
+            "Smolg",
+            "Grelbin",
+            "Damosel",
+            "Yeedil"
+        ],
+        "requires": []
+    },
+    "Maktar Nebula": {
+        "connects_to": [],
+        "requires": ["Infobot - Maktar Nebula"]
+    },
+    "Endako": {
+        "connects_to": [],
+        "requires": ["Infobot - Endako"]
+    },
+    "Barlow": {
+        "connects_to": [],
+        "requires": ["Infobot - Barlow"]
+    },
+    "Feltzin System": {
+        "connects_to": [],
+        "requires": ["Infobot - Feltzin System"]
+    },
+    "Notak": {
+        "connects_to": [],
+        "requires": ["Infobot - Notak"]
+    },
+    "Ship Shack": {
+        "connects_to": [],
+        "requires": ["Infobot - Ship Shack"]
+    },
+    "Siberius": {
+        "connects_to": [],
+        "requires": ["Infobot - Siberius"]
+    },
+    "Tabora": {
+        "connects_to": [],
+        "requires": ["Infobot - Tabora"]
+    },
+    "Dobbo": {
+        "connects_to": [],
+        "requires": ["Infobot - Dobbo"]
+    },
+    "Hrugis Cloud": {
+        "connects_to": [],
+        "requires": ["Infobot - Hrugis Cloud"]
+    },
+    "Joba": {
+        "connects_to": [],
+        "requires": ["Infobot - Joba"]
+    },
+    "Todano": {
+        "connects_to": [],
+        "requires": ["Infobot - Todano"]
+    },
+    "Boldan": {
+        "connects_to": [],
+        "requires": ["Infobot - Boldan"]
+    },
+    "Aranos": {
+        "connects_to": [],
+        "requires": ["Infobot - Aranos"]
+    },
+    "Gorn": {
+        "connects_to": [],
+        "requires": ["Infobot - Gorn"]
+    },
+    "Snivelak": {
+        "connects_to": [],
+        "requires": ["Infobot - Snivelak"]
+    },
+    "Smolg": {
+        "connects_to": [],
+        "requires": ["Infobot - Smolg"]
+    },
+    "Grelbin": {
+        "connects_to": [],
+        "requires": ["Infobot - Grelbin"]
+    },
+    "Damosel": {
+        "connects_to": [],
+        "requires": ["Infobot - Damosel"]
+    },
+    "Yeedil": {
+        "connects_to": [],
+        "requires": ["Infobot - Yeedil"]
+    }
+}

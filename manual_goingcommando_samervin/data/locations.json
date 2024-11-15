@@ -1,7 +1,332 @@
 [
     {
-        "name": "name",
-        "category": [],
-        "requires": "|Bomb Glove|"
+        "name": "Oozla: Mission 1",
+        "region": "Oozla",
+        "category": ["Oozla, Megacorp Outlet"],
+        "requires": ""
+    },
+    {
+        "name": "Oozla Platinum Bolt: 1",
+        "region": "Oozla",
+        "category": ["Oozla, Megacorp Outlet"],
+        "requires": ""
+    },
+    {
+        "name": "Oozla Skill Point: 1",
+        "region": "Oozla",
+        "category": ["Oozla, Megacorp Outlet"],
+        "requires": ""
+    },
+    {
+        "name": "Maktar Nebula: Mission 1",
+        "region": "Maktar Nebula",
+        "category": ["Maktar Nebula, Maktar Resort"],
+        "requires": ""
+    },
+    {
+        "name": "Maktar Nebula Platinum Bolt: 1",
+        "region": "Maktar Nebula",
+        "category": ["Maktar Nebula, Maktar Resort"],
+        "requires": ""
+    },
+    {
+        "name": "Maktar Nebula Skill Point: 1",
+        "region": "Maktar Nebula",
+        "category": ["Maktar Nebula, Maktar Resort"],
+        "requires": ""
+    },
+    {
+        "name": "Endako: Mission 1",
+        "region": "Endako",
+        "category": ["Endako, Megapolis"],
+        "requires": ""
+    },
+    {
+        "name": "Endako Platinum Bolt: 1",
+        "region": "Endako",
+        "category": ["Endako, Megapolis"],
+        "requires": ""
+    },
+    {
+        "name": "Endako Skill Point: 1",
+        "region": "Endako",
+        "category": ["Endako, Megapolis"],
+        "requires": ""
+    },
+    {
+        "name": "Barlow: Mission 1",
+        "region": "Barlow",
+        "category": ["Barlow, Vukovar Canyon"],
+        "requires": ""
+    },
+    {
+        "name": "Barlow Platinum Bolt: 1",
+        "region": "Barlow",
+        "category": ["Barlow, Vukovar Canyon"],
+        "requires": ""
+    },
+    {
+        "name": "Barlow Skill Point: 1",
+        "region": "Barlow",
+        "category": ["Barlow, Vukovar Canyon"],
+        "requires": ""
+    },
+    {
+        "name": "Feltzin System: Mission 1",
+        "region": "Feltzin System",
+        "category": ["Feltzin System, Thugs-4-Less Rendezvous"],
+        "requires": ""
+    },
+    {
+        "name": "Feltzin System Platinum Bolt: 1",
+        "region": "Feltzin System",
+        "category": ["Feltzin System, Thugs-4-Less Rendezvous"],
+        "requires": ""
+    },
+    {
+        "name": "Notak: Mission 1",
+        "region": "Notak",
+        "category": ["Notak, Canal City"],
+        "requires": ""
+    },
+    {
+        "name": "Notak Platinum Bolt: 1",
+        "region": "Notak",
+        "category": ["Notak, Canal City"],
+        "requires": ""
+    },
+    {
+        "name": "Notak Skill Point: 1",
+        "region": "Notak",
+        "category": ["Notak, Canal City"],
+        "requires": ""
+    },
+    {
+        "name": "Ship Shack: Mission 1",
+        "region": "Ship Shack",
+        "category": ["Slim Cognito's Ship Shack"],
+        "requires": ""
+    },
+    {
+        "name": "Siberius: Mission 1",
+        "region": "Siberius",
+        "category": ["Siberius, Frozen Base"],
+        "requires": ""
+    },
+    {
+        "name": "Siberius Platinum Bolt: 1",
+        "region": "Siberius",
+        "category": ["Siberius, Frozen Base"],
+        "requires": ""
+    },
+    {
+        "name": "Siberius Skill Point: 1",
+        "region": "Siberius",
+        "category": ["Siberius, Frozen Base"],
+        "requires": ""
+    },
+    {
+        "name": "Tabora: Mission 1",
+        "region": "Tabora",
+        "category": ["Tabora, Mining Area"],
+        "requires": ""
+    },
+    {
+        "name": "Tabora Platinum Bolt: 1",
+        "region": "Tabora",
+        "category": ["Tabora, Mining Area"],
+        "requires": ""
+    },
+    {
+        "name": "Tabora Skill Point: 1",
+        "region": "Tabora",
+        "category": ["Tabora, Mining Area"],
+        "requires": ""
+    },
+    {
+        "name": "Dobbo: Mission 1",
+        "region": "Dobbo",
+        "category": ["Dobbo, Testing Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Dobbo Platinum Bolt: 1",
+        "region": "Dobbo",
+        "category": ["Dobbo, Testing Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Dobbo Skill Point: 1",
+        "region": "Dobbo",
+        "category": ["Dobbo, Testing Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Joba: Mission 1",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Joba Platinum Bolt: 1",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Joba Skill Point: 1",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Hrugis Cloud: Mission 1",
+        "region": "Hrugis Cloud",
+        "category": ["Hrugis Cloud, Deep Space Disposal Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Hrugis Cloud Platinum Bolt: 1",
+        "region": "Hrugis Cloud",
+        "category": ["Hrugis Cloud, Deep Space Disposal Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Todano: Mission 1",
+        "region": "Todano",
+        "category": ["Todano, Megacorp Armory"],
+        "requires": ""
+    },
+    {
+        "name": "Todano Platinum Bolt: 1",
+        "region": "Todano",
+        "category": ["Todano, Megacorp Armory"],
+        "requires": ""
+    },
+    {
+        "name": "Todano Skill Point: 1",
+        "region": "Todano",
+        "category": ["Todano, Megacorp Armory"],
+        "requires": ""
+    },
+    {
+        "name": "Boldan: Mission 1",
+        "region": "Boldan",
+        "category": ["Boldan, Silver City"],
+        "requires": ""
+    },
+    {
+        "name": "Boldan Platinum Bolt: 1",
+        "region": "Boldan",
+        "category": ["Boldan, Silver City"],
+        "requires": ""
+    },
+    {
+        "name": "Boldan Skill Point: 1",
+        "region": "Boldan",
+        "category": ["Boldan, Silver City"],
+        "requires": ""
+    },
+    {
+        "name": "Aranos: Mission 1",
+        "region": "Aranos",
+        "category": ["Aranos, Flying Lab"],
+        "requires": ""
+    },
+    {
+        "name": "Aranos Platinum Bolt: 1",
+        "region": "Aranos",
+        "category": ["Aranos, Flying Lab"],
+        "requires": ""
+    },
+    {
+        "name": "Gorn: Mission 1",
+        "region": "Gorn",
+        "category": ["Gorn, Thugs-4-Less Fleet"],
+        "requires": ""
+    },
+    {
+        "name": "Gorn Platinum Bolt: 1",
+        "region": "Gorn",
+        "category": ["Gorn, Thugs-4-Less Fleet"],
+        "requires": ""
+    },
+    {
+        "name": "Snivelak: Mission 1",
+        "region": "Snivelak",
+        "category": ["Snivelak, Thugs-4-Less Headquarters"],
+        "requires": ""
+    },
+    {
+        "name": "Snivelak Platinum Bolt: 1",
+        "region": "Snivelak",
+        "category": ["Snivelak, Thugs-4-Less Headquarters"],
+        "requires": ""
+    },
+    {
+        "name": "Snivelak Skill Point: 1",
+        "region": "Snivelak",
+        "category": ["Snivelak, Thugs-4-Less Headquarters"],
+        "requires": ""
+    },
+    {
+        "name": "Smolg: Mission 1",
+        "region": "Smolg",
+        "category": ["Smolg, Distribution Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Smolg Platinum Bolt: 1",
+        "region": "Smolg",
+        "category": ["Smolg, Distribution Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Damosel: Mission 1",
+        "region": "Damosel",
+        "category": ["Damosel, Allgon City"],
+        "requires": ""
+    },
+    {
+        "name": "Damosel Platinum Bolt: 1",
+        "region": "Damosel",
+        "category": ["Damosel, Allgon City"],
+        "requires": ""
+    },
+    {
+        "name": "Damosel Skill Point: 1",
+        "region": "Damosel",
+        "category": ["Damosel, Allgon City"],
+        "requires": ""
+    },
+    {
+        "name": "Grelbin: Mission 1",
+        "region": "Grelbin",
+        "category": ["Grelbin, Tundor Wastes"],
+        "requires": ""
+    },
+    {
+        "name": "Grelbin Platinum Bolt: 1",
+        "region": "Grelbin",
+        "category": ["Grelbin, Tundor Wastes"],
+        "requires": ""
+    },
+    {
+        "name": "Grelbin Skill Point: 1",
+        "region": "Grelbin",
+        "category": ["Grelbin, Tundor Wastes"],
+        "requires": ""
+    },
+    {
+        "name": "Yeedil: Mission 1",
+        "region": "Yeedil",
+        "category": ["Yeedil, Protopet Factory"],
+        "requires": ""
+    },
+    {
+        "name": "Yeedil Platinum Bolt: 1",
+        "region": "Yeedil",
+        "category": ["Yeedil, Protopet Factory"],
+        "requires": ""
     }
 ]
