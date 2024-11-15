@@ -1,7 +1,182 @@
 [
     {
+        "name": "Lancer",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Gravity Bomb",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Chopper",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Blitz Gun",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Pulse Rifle",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Miniturret Glove",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Seeker Gun",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Synthenoid",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Lava Gun",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Bouncer",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Minirocket Tube",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Spiderbot Glove",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Plasma Coil",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Hoverbomb Gun",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Sheepinator",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Shield Charger",
+        "category": ["Weapon"]
+    },
+    {
         "name": "Bomb Glove",
-        "category": ["Weapon"],
-        "progression": true
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Visibomb Gun",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Decoy Glove",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Tesla Claw",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Walloper",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Zodiac",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "R.Y.N.O. II",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Clank Zapper",
+        "category": ["Weapon"]
+    },
+    {
+        "name": "Swingshot",
+        "category": ["Gadget"]
+    },
+    {
+        "name": "Dynamo",
+        "category": ["Gadget"]
+    },
+    {
+        "name": "Thermanator",
+        "category": ["Gadget"]
+    },
+    {
+        "name": "Tractor Beam",
+        "category": ["Gadget"]
+    },
+    {
+        "name": "Hypnomatic",
+        "category": ["Gadget"]
+    },
+    {
+        "name": "Heli-Pack",
+        "category": ["Gadget"]
+    },
+    {
+        "name": "Thruster-Pack",
+        "category": ["Gadget"]
+    },
+    {
+        "name": "Grind Boots",
+        "category": ["Gadget"]
+    },
+    {
+        "name": "Gravity Boots",
+        "category": ["Gadget"]
+    },
+    {
+        "name": "Charge Boots",
+        "category": ["Gadget"]
+    },
+    {
+        "name": "Megacorp Helmet",
+        "category": ["Item"]
+    },
+    {
+        "name": "Biker Helmet",
+        "category": ["Item"]
+    },
+    {
+        "name": "Glider",
+        "category": ["Item"]
+    },
+    {
+        "name": "Qwark Statuette",
+        "category": ["Item"]
+    },
+    {
+        "name": "Armor Magnetizer",
+        "category": ["Item"]
+    },
+    {
+        "name": "Box Breaker",
+        "category": ["Item"]
+    },
+    {
+        "name": "Mapper",
+        "category": ["Item"]
+    },
+    {
+        "name": "Electrolyzer",
+        "category": ["Item"]
+    },
+    {
+        "name": "Infiltrator",
+        "category": ["Item"]
+    },
+    {
+        "name": "Hydro-Pack",
+        "category": ["Item"]
+    },
+    {
+        "name": "Levitator",
+        "category": ["Item"]
     }
 ]
