@@ -262,5 +262,9 @@
     {
         "name": "Coordinates - Yeedil",
         "category": ["Coordinates"]
+    },
+    {
+        "name": "Nanotech Boost",
+        "count": 10
     }
 ]

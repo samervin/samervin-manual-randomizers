@@ -1,18 +1,30 @@
 [
     {
-        "name": "Oozla: Mission 1",
+        "name": "Oozla: Explore the swamp + Buy Tractor Beam",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
         "requires": ""
     },
     {
-        "name": "Oozla Platinum Bolt: 1",
+        "name": "Oozla: Investigate the Megacorp store",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
         "requires": ""
     },
     {
-        "name": "Oozla Platinum Bolt: 2",
+        "name": "Oozla: Defeat the secret swamp monster",
+        "region": "Oozla",
+        "category": ["Oozla, Megacorp Outlet"],
+        "requires": ""
+    },
+    {
+        "name": "Oozla Platinum Bolt: Tractor Beam",
+        "region": "Oozla",
+        "category": ["Oozla, Megacorp Outlet"],
+        "requires": ""
+    },
+    {
+        "name": "Oozla Platinum Bolt: Firefly cave",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
         "requires": ""
@@ -30,19 +42,31 @@
         "requires": ""
     },
     {
-        "name": "Maktar Nebula: Mission 1",
+        "name": "Maktar Nebula: Destroy the jamming array transponders",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
         "requires": ""
     },
     {
-        "name": "Maktar Nebula Platinum Bolt: 1",
+        "name": "Maktar Nebula: Win the arena battle",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
         "requires": ""
     },
     {
-        "name": "Maktar Nebula Platinum Bolt: 2",
+        "name": "Maktar Nebula: Use the Electrolyzer",
+        "region": "Maktar Nebula",
+        "category": ["Maktar Nebula, Maktar Resort"],
+        "requires": ""
+    },
+    {
+        "name": "Maktar Nebula Platinum Bolt: Jamming array",
+        "region": "Maktar Nebula",
+        "category": ["Maktar Nebula, Maktar Resort"],
+        "requires": ""
+    },
+    {
+        "name": "Maktar Nebula Platinum Bolt: Crane ledge",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
         "requires": ""
@@ -72,19 +96,31 @@
         "requires": ""
     },
     {
-        "name": "Endako: Mission 1",
+        "name": "Endako: Rescue Clank + Free Ratchet",
         "region": "Endako",
         "category": ["Endako, Megapolis"],
         "requires": ""
     },
     {
-        "name": "Endako Platinum Bolt: 1",
+        "name": "Endako: Visit Clank's apartment [1]",
         "region": "Endako",
         "category": ["Endako, Megapolis"],
         "requires": ""
     },
     {
-        "name": "Endako Platinum Bolt: 2",
+        "name": "Endako: Visit Clank's apartment [2]",
+        "region": "Endako",
+        "category": ["Endako, Megapolis"],
+        "requires": ""
+    },
+    {
+        "name": "Endako Platinum Bolt: Crane",
+        "region": "Endako",
+        "category": ["Endako, Megapolis"],
+        "requires": ""
+    },
+    {
+        "name": "Endako Platinum Bolt: Ladder nook",
         "region": "Endako",
         "category": ["Endako, Megapolis"],
         "requires": ""
@@ -102,19 +138,25 @@
         "requires": ""
     },
     {
-        "name": "Barlow: Mission 1",
+        "name": "Barlow: Battle tribesman + Win hoverbike race",
         "region": "Barlow",
         "category": ["Barlow, Vukovar Canyon"],
         "requires": ""
     },
     {
-        "name": "Barlow Platinum Bolt: 1",
+        "name": "Barlow: Scout ruined machinery + Buy Thermanator",
         "region": "Barlow",
         "category": ["Barlow, Vukovar Canyon"],
         "requires": ""
     },
     {
-        "name": "Barlow Platinum Bolt: 2",
+        "name": "Barlow Platinum Bolt: Hoverbike race",
+        "region": "Barlow",
+        "category": ["Barlow, Vukovar Canyon"],
+        "requires": ""
+    },
+    {
+        "name": "Barlow Platinum Bolt: Machinery",
         "region": "Barlow",
         "category": ["Barlow, Vukovar Canyon"],
         "requires": ""
@@ -126,37 +168,49 @@
         "requires": ""
     },
     {
-        "name": "Feltzin System: Mission 1",
+        "name": "Feltzin System: Defeat the Thugs-4-Less ships",
         "region": "Feltzin System",
         "category": ["Feltzin System, Thugs-4-Less Rendezvous"],
         "requires": ""
     },
     {
-        "name": "Feltzin System Platinum Bolt: 1",
+        "name": "Feltzin System Platinum Bolt: Ace Bunyon race",
         "region": "Feltzin System",
         "category": ["Feltzin System, Thugs-4-Less Rendezvous"],
         "requires": ""
     },
     {
-        "name": "Notak: Mission 1",
+        "name": "Notak: Investigate wharf + Talk to Slim Cognito",
         "region": "Notak",
         "category": ["Notak, Canal City"],
         "requires": ""
     },
     {
-        "name": "Notak Platinum Bolt: 1",
+        "name": "Notak: Search Canal City + Buy transmission",
         "region": "Notak",
         "category": ["Notak, Canal City"],
         "requires": ""
     },
     {
-        "name": "Notak Platinum Bolt: 2",
+        "name": "Notak: Explore the promenade",
         "region": "Notak",
         "category": ["Notak, Canal City"],
         "requires": ""
     },
     {
-        "name": "Notak Platinum Bolt: 3",
+        "name": "Notak Platinum Bolt: Canal",
+        "region": "Notak",
+        "category": ["Notak, Canal City"],
+        "requires": ""
+    },
+    {
+        "name": "Notak Platinum Bolt: Dynamo",
+        "region": "Notak",
+        "category": ["Notak, Canal City"],
+        "requires": ""
+    },
+    {
+        "name": "Notak Platinum Bolt: Megacorp sign",
         "region": "Notak",
         "category": ["Notak, Canal City"],
         "requires": ""
@@ -174,19 +228,19 @@
         "requires": ""
     },
     {
-        "name": "Siberius: Mission 1",
+        "name": "Siberius: Find and confront the thief",
         "region": "Siberius",
         "category": ["Siberius, Frozen Base"],
         "requires": ""
     },
     {
-        "name": "Siberius Platinum Bolt: 1",
+        "name": "Siberius Platinum Bolt: Tractor Beam",
         "region": "Siberius",
         "category": ["Siberius, Frozen Base"],
         "requires": ""
     },
     {
-        "name": "Siberius Platinum Bolt: 2",
+        "name": "Siberius Platinum Bolt: Elevator",
         "region": "Siberius",
         "category": ["Siberius, Frozen Base"],
         "requires": ""
@@ -529,7 +583,7 @@
     },
     {
         "name": "Skill Point: Nano to the max",
-        "requires": ""
+        "requires": "|Nanotech Boost:10|"
     },
     {
         "name": "Skill Point: Weapon Envy",
