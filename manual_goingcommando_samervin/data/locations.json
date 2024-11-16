@@ -12,7 +12,19 @@
         "requires": ""
     },
     {
-        "name": "Oozla Skill Point: 1",
+        "name": "Oozla Platinum Bolt: 2",
+        "region": "Oozla",
+        "category": ["Oozla, Megacorp Outlet"],
+        "requires": ""
+    },
+    {
+        "name": "Oozla Skill Point: Prehistoric rampage",
+        "region": "Oozla",
+        "category": ["Oozla, Megacorp Outlet"],
+        "requires": ""
+    },
+    {
+        "name": "Oozla Skill Point: Smash and grab",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
         "requires": ""
@@ -30,7 +42,31 @@
         "requires": ""
     },
     {
-        "name": "Maktar Nebula Skill Point: 1",
+        "name": "Maktar Nebula Platinum Bolt: 2",
+        "region": "Maktar Nebula",
+        "category": ["Maktar Nebula, Maktar Resort"],
+        "requires": ""
+    },
+    {
+        "name": "Maktar Nebula Skill Point: Vandalize",
+        "region": "Maktar Nebula",
+        "category": ["Maktar Nebula, Maktar Resort"],
+        "requires": ""
+    },
+    {
+        "name": "Maktar Nebula Skill Point: Wrench ninja: Blade to blade",
+        "region": "Maktar Nebula",
+        "category": ["Maktar Nebula, Maktar Resort"],
+        "requires": ""
+    },
+    {
+        "name": "Maktar Nebula Skill Point: 2B hit or not 2B hit",
+        "region": "Maktar Nebula",
+        "category": ["Maktar Nebula, Maktar Resort"],
+        "requires": ""
+    },
+    {
+        "name": "Maktar Nebula Skill Point: Clank needs a new pair of shoes",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
         "requires": ""
@@ -48,7 +84,19 @@
         "requires": ""
     },
     {
-        "name": "Endako Skill Point: 1",
+        "name": "Endako Platinum Bolt: 2",
+        "region": "Endako",
+        "category": ["Endako, Megapolis"],
+        "requires": ""
+    },
+    {
+        "name": "Endako Skill Point: Operate heavy machinery",
+        "region": "Endako",
+        "category": ["Endako, Megapolis"],
+        "requires": ""
+    },
+    {
+        "name": "Endako Skill Point: Destroy all breakables",
         "region": "Endako",
         "category": ["Endako, Megapolis"],
         "requires": ""
@@ -66,7 +114,13 @@
         "requires": ""
     },
     {
-        "name": "Barlow Skill Point: 1",
+        "name": "Barlow Platinum Bolt: 2",
+        "region": "Barlow",
+        "category": ["Barlow, Vukovar Canyon"],
+        "requires": ""
+    },
+    {
+        "name": "Barlow Skill Point: Speed demon",
         "region": "Barlow",
         "category": ["Barlow, Vukovar Canyon"],
         "requires": ""
@@ -96,13 +150,25 @@
         "requires": ""
     },
     {
-        "name": "Notak Skill Point: 1",
+        "name": "Notak Platinum Bolt: 2",
         "region": "Notak",
         "category": ["Notak, Canal City"],
         "requires": ""
     },
     {
-        "name": "Ship Shack: Mission 1",
+        "name": "Notak Platinum Bolt: 3",
+        "region": "Notak",
+        "category": ["Notak, Canal City"],
+        "requires": ""
+    },
+    {
+        "name": "Notak Skill Point: Planet buster",
+        "region": "Notak",
+        "category": ["Notak, Canal City"],
+        "requires": ""
+    },
+    {
+        "name": "Ship Shack Skill Point: Nice ride",
         "region": "Ship Shack",
         "category": ["Slim Cognito's Ship Shack"],
         "requires": ""
@@ -120,7 +186,13 @@
         "requires": ""
     },
     {
-        "name": "Siberius Skill Point: 1",
+        "name": "Siberius Platinum Bolt: 2",
+        "region": "Siberius",
+        "category": ["Siberius, Frozen Base"],
+        "requires": ""
+    },
+    {
+        "name": "Siberius Skill Point: You can break a Snow Dan",
         "region": "Siberius",
         "category": ["Siberius, Frozen Base"],
         "requires": ""
@@ -138,7 +210,19 @@
         "requires": ""
     },
     {
-        "name": "Tabora Skill Point: 1",
+        "name": "Tabora Platinum Bolt: 2",
+        "region": "Tabora",
+        "category": ["Tabora, Mining Area"],
+        "requires": ""
+    },
+    {
+        "name": "Tabora Platinum Bolt: 3",
+        "region": "Tabora",
+        "category": ["Tabora, Mining Area"],
+        "requires": ""
+    },
+    {
+        "name": "Tabora Skill Point: Heal your chi",
         "region": "Tabora",
         "category": ["Tabora, Mining Area"],
         "requires": ""
@@ -156,7 +240,25 @@
         "requires": ""
     },
     {
-        "name": "Dobbo Skill Point: 1",
+        "name": "Dobbo Platinum Bolt: 2",
+        "region": "Dobbo",
+        "category": ["Dobbo, Testing Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Dobbo Skill Point: Old school",
+        "region": "Dobbo",
+        "category": ["Dobbo, Testing Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Dobbo Skill Point: Robo rampage",
+        "region": "Dobbo",
+        "category": ["Dobbo, Testing Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Dobbo Skill Point: Dukes up",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
         "requires": ""
@@ -174,7 +276,31 @@
         "requires": ""
     },
     {
-        "name": "Joba Skill Point: 1",
+        "name": "Joba Platinum Bolt: 2",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Joba Skill Point: That's impossible!",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Joba Skill Point: How fast was that?",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Joba Skill Point: Wrench ninja II: Massacre",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Joba Skill Point: Bye bye birdies",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
         "requires": ""
@@ -204,7 +330,31 @@
         "requires": ""
     },
     {
-        "name": "Todano Skill Point: 1",
+        "name": "Todano Platinum Bolt: 2",
+        "region": "Todano",
+        "category": ["Todano, Megacorp Armory"],
+        "requires": ""
+    },
+    {
+        "name": "Todano Platinum Bolt: 3",
+        "region": "Todano",
+        "category": ["Todano, Megacorp Armory"],
+        "requires": ""
+    },
+    {
+        "name": "Todano Skill Point: Nothing to see here",
+        "region": "Todano",
+        "category": ["Todano, Megacorp Armory"],
+        "requires": ""
+    },
+    {
+        "name": "Todano Skill Point: You're my hero",
+        "region": "Todano",
+        "category": ["Todano, Megacorp Armory"],
+        "requires": ""
+    },
+    {
+        "name": "Todano Skill Point: Try to sleep",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
         "requires": ""
@@ -222,7 +372,19 @@
         "requires": ""
     },
     {
-        "name": "Boldan Skill Point: 1",
+        "name": "Boldan Platinum Bolt: 2",
+        "region": "Boldan",
+        "category": ["Boldan, Silver City"],
+        "requires": ""
+    },
+    {
+        "name": "Boldan Platinum Bolt: 3",
+        "region": "Boldan",
+        "category": ["Boldan, Silver City"],
+        "requires": ""
+    },
+    {
+        "name": "Boldan Skill Point: No shocking developments",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
         "requires": ""
@@ -264,7 +426,7 @@
         "requires": ""
     },
     {
-        "name": "Snivelak Skill Point: 1",
+        "name": "Snivelak Skill Point: Moving violation",
         "region": "Snivelak",
         "category": ["Snivelak, Thugs-4-Less Headquarters"],
         "requires": ""
@@ -282,6 +444,12 @@
         "requires": ""
     },
     {
+        "name": "Smolg Platinum Bolt: 2",
+        "region": "Smolg",
+        "category": ["Smolg, Distribution Facility"],
+        "requires": ""
+    },
+    {
         "name": "Damosel: Mission 1",
         "region": "Damosel",
         "category": ["Damosel, Allgon City"],
@@ -294,7 +462,19 @@
         "requires": ""
     },
     {
-        "name": "Damosel Skill Point: 1",
+        "name": "Damosel Platinum Bolt: 2",
+        "region": "Damosel",
+        "category": ["Damosel, Allgon City"],
+        "requires": ""
+    },
+    {
+        "name": "Damosel Skill Point: Safety deposit",
+        "region": "Damosel",
+        "category": ["Damosel, Allgon City"],
+        "requires": ""
+    },
+    {
+        "name": "Damosel Skill Point: Midtown insanity",
         "region": "Damosel",
         "category": ["Damosel, Allgon City"],
         "requires": ""
@@ -312,7 +492,19 @@
         "requires": ""
     },
     {
-        "name": "Grelbin Skill Point: 1",
+        "name": "Grelbin Platinum Bolt: 2",
+        "region": "Grelbin",
+        "category": ["Grelbin, Tundor Wastes"],
+        "requires": ""
+    },
+    {
+        "name": "Grelbin Platinum Bolt: 3",
+        "region": "Grelbin",
+        "category": ["Grelbin, Tundor Wastes"],
+        "requires": ""
+    },
+    {
+        "name": "Grelbin Skill Point: Be a moon child",
         "region": "Grelbin",
         "category": ["Grelbin, Tundor Wastes"],
         "requires": ""
@@ -328,5 +520,19 @@
         "region": "Yeedil",
         "category": ["Yeedil, Protopet Factory"],
         "requires": ""
+    },
+    {
+        "name": "Yeedil Platinum Bolt: 2",
+        "region": "Yeedil",
+        "category": ["Yeedil, Protopet Factory"],
+        "requires": ""
+    },
+    {
+        "name": "Skill Point: Nano to the max",
+        "requires": ""
+    },
+    {
+        "name": "Skill Point: Weapon Envy",
+        "requires":
     }
 ]
