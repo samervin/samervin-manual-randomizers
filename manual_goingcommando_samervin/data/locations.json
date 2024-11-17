@@ -252,25 +252,37 @@
         "requires": ""
     },
     {
-        "name": "Tabora: Mission 1",
+        "name": "Tabora: Find a way out of the underground tunnels",
         "region": "Tabora",
         "category": ["Tabora, Mining Area"],
         "requires": ""
     },
     {
-        "name": "Tabora Platinum Bolt: 1",
+        "name": "Tabora: Find a ship",
         "region": "Tabora",
         "category": ["Tabora, Mining Area"],
         "requires": ""
     },
     {
-        "name": "Tabora Platinum Bolt: 2",
+        "name": "Tabora: Explore the area",
         "region": "Tabora",
         "category": ["Tabora, Mining Area"],
         "requires": ""
     },
     {
-        "name": "Tabora Platinum Bolt: 3",
+        "name": "Tabora Platinum Bolt: Desert",
+        "region": "Tabora",
+        "category": ["Tabora, Mining Area"],
+        "requires": ""
+    },
+    {
+        "name": "Tabora Platinum Bolt: Thermanator",
+        "region": "Tabora",
+        "category": ["Tabora, Mining Area"],
+        "requires": ""
+    },
+    {
+        "name": "Tabora Platinum Bolt: Glider",
         "region": "Tabora",
         "category": ["Tabora, Mining Area"],
         "requires": ""
@@ -282,19 +294,25 @@
         "requires": ""
     },
     {
-        "name": "Dobbo: Mission 1",
+        "name": "Dobbo: Repair the generator + Purchase info",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
         "requires": ""
     },
     {
-        "name": "Dobbo Platinum Bolt: 1",
+        "name": "Dobbo: Defeat leader on Dobbo Orbit",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
         "requires": ""
     },
     {
-        "name": "Dobbo Platinum Bolt: 2",
+        "name": "Dobbo Platinum Bolt: Glider",
+        "region": "Dobbo",
+        "category": ["Dobbo, Testing Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Dobbo Platinum Bolt: Spiderbot vent",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
         "requires": ""
@@ -318,19 +336,37 @@
         "requires": ""
     },
     {
-        "name": "Joba: Mission 1",
+        "name": "Joba: Purchase Levitator",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
         "requires": ""
     },
     {
-        "name": "Joba Platinum Bolt: 1",
+        "name": "Joba: Battle for the Gravity Boots",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
         "requires": ""
     },
     {
-        "name": "Joba Platinum Bolt: 2",
+        "name": "Joba: Cage Match for the Infiltrator",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Joba: Win the Megacorp hoverbike race",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Joba Platinum Bolt: Swingshot path",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Joba Platinum Bolt: Levitator",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
         "requires": ""
@@ -360,37 +396,49 @@
         "requires": ""
     },
     {
-        "name": "Hrugis Cloud: Mission 1",
+        "name": "Hrugis Cloud: Disable the facility's defenses",
         "region": "Hrugis Cloud",
         "category": ["Hrugis Cloud, Deep Space Disposal Facility"],
         "requires": ""
     },
     {
-        "name": "Hrugis Cloud Platinum Bolt: 1",
+        "name": "Hrugis Cloud Platinum Bolt: Ace Bunyon race",
         "region": "Hrugis Cloud",
         "category": ["Hrugis Cloud, Deep Space Disposal Facility"],
         "requires": ""
     },
     {
-        "name": "Todano: Mission 1",
+        "name": "Todano: Explore the weapons facility",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
         "requires": ""
     },
     {
-        "name": "Todano Platinum Bolt: 1",
+        "name": "Todano: Investigate the facility interior",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
         "requires": ""
     },
     {
-        "name": "Todano Platinum Bolt: 2",
+        "name": "Todano: Bring Qwark Collectible to Qwark fan",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
         "requires": ""
     },
     {
-        "name": "Todano Platinum Bolt: 3",
+        "name": "Todano Platinum Bolt: Tour guide house",
+        "region": "Todano",
+        "category": ["Todano, Megacorp Armory"],
+        "requires": ""
+    },
+    {
+        "name": "Todano Platinum Bolt: Qwark fan",
+        "region": "Todano",
+        "category": ["Todano, Megacorp Armory"],
+        "requires": ""
+    },
+    {
+        "name": "Todano Platinum Bolt: Spiderbot vent",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
         "requires": ""
@@ -414,25 +462,25 @@
         "requires": ""
     },
     {
-        "name": "Boldan: Mission 1",
+        "name": "Boldan: Find Mr. Fizzwidget",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
         "requires": ""
     },
     {
-        "name": "Boldan Platinum Bolt: 1",
+        "name": "Boldan Platinum Bolt: Spiderbot hole",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
         "requires": ""
     },
     {
-        "name": "Boldan Platinum Bolt: 2",
+        "name": "Boldan Platinum Bolt: Floating platform",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
         "requires": ""
     },
     {
-        "name": "Boldan Platinum Bolt: 3",
+        "name": "Boldan Platinum Bolt: Near Fizzwidget",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
         "requires": ""
@@ -444,37 +492,43 @@
         "requires": ""
     },
     {
-        "name": "Aranos: Mission 1",
+        "name": "Aranos: Turn off the forcefield",
         "region": "Aranos",
         "category": ["Aranos, Flying Lab"],
         "requires": ""
     },
     {
-        "name": "Aranos Platinum Bolt: 1",
+        "name": "Aranos: Explore the base + Buy Qwark Statuette",
         "region": "Aranos",
         "category": ["Aranos, Flying Lab"],
         "requires": ""
     },
     {
-        "name": "Gorn: Mission 1",
+        "name": "Aranos Platinum Bolt: Under ship",
+        "region": "Aranos",
+        "category": ["Aranos, Flying Lab"],
+        "requires": ""
+    },
+    {
+        "name": "Gorn: Defeat the Thugs-4-Less Fleet",
         "region": "Gorn",
         "category": ["Gorn, Thugs-4-Less Fleet"],
         "requires": ""
     },
     {
-        "name": "Gorn Platinum Bolt: 1",
+        "name": "Gorn Platinum Bolt: Ace Bunyon race",
         "region": "Gorn",
         "category": ["Gorn, Thugs-4-Less Fleet"],
         "requires": ""
     },
     {
-        "name": "Snivelak: Mission 1",
+        "name": "Snivelak: Rescue Angela",
         "region": "Snivelak",
         "category": ["Snivelak, Thugs-4-Less Headquarters"],
         "requires": ""
     },
     {
-        "name": "Snivelak Platinum Bolt: 1",
+        "name": "Snivelak Platinum Bolt: Dynamo course",
         "region": "Snivelak",
         "category": ["Snivelak, Thugs-4-Less Headquarters"],
         "requires": ""
