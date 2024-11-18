@@ -138,6 +138,12 @@
         "requires": ""
     },
     {
+        "name": "Endako Nanotech Boost: Crane",
+        "region": "Endako",
+        "category": ["Endako, Megapolis"],
+        "requires": ""
+    },
+    {
         "name": "Barlow: Battle tribesman + Win hoverbike race",
         "region": "Barlow",
         "category": ["Barlow, Vukovar Canyon"],
@@ -180,6 +186,12 @@
         "requires": ""
     },
     {
+        "name": "Feltzin System Nanotech Boost: Hangar",
+        "region": "Feltzin System",
+        "category": ["Feltzin System, Thugs-4-Less Rendezvous"],
+        "requires": ""
+    },
+    {
         "name": "Notak: Investigate wharf + Talk to Slim Cognito",
         "region": "Notak",
         "category": ["Notak, Canal City"],
@@ -187,12 +199,6 @@
     },
     {
         "name": "Notak: Search Canal City + Buy transmission",
-        "region": "Notak",
-        "category": ["Notak, Canal City"],
-        "requires": ""
-    },
-    {
-        "name": "Notak: Explore the promenade",
         "region": "Notak",
         "category": ["Notak, Canal City"],
         "requires": ""
@@ -217,6 +223,12 @@
     },
     {
         "name": "Notak Skill Point: Planet buster",
+        "region": "Notak",
+        "category": ["Notak, Canal City"],
+        "requires": ""
+    },
+    {
+        "name": "Notak Nanotech Boost: Promenade",
         "region": "Notak",
         "category": ["Notak, Canal City"],
         "requires": ""
@@ -294,6 +306,12 @@
         "requires": ""
     },
     {
+        "name": "Tabora Nanotech Boost: Glider",
+        "region": "Tabora",
+        "category": ["Tabora, Mining Area"],
+        "requires": ""
+    },
+    {
         "name": "Dobbo: Repair the generator + Purchase info",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
@@ -331,6 +349,12 @@
     },
     {
         "name": "Dobbo Skill Point: Dukes up",
+        "region": "Dobbo",
+        "category": ["Dobbo, Testing Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Dobbo Nanotech Boost: Glider",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
         "requires": ""
@@ -391,6 +415,18 @@
     },
     {
         "name": "Joba Skill Point: Bye bye birdies",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Joba Nanotech Boost: Hoverbike",
+        "region": "Joba",
+        "category": ["Joba, Megacorp Games"],
+        "requires": ""
+    },
+    {
+        "name": "Joba Nanotech Boost: Dynamo",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
         "requires": ""
@@ -462,6 +498,12 @@
         "requires": ""
     },
     {
+        "name": "Todano Nanotech Boost: Elevator",
+        "region": "Todano",
+        "category": ["Todano, Megacorp Armory"],
+        "requires": ""
+    },
+    {
         "name": "Boldan: Find Mr. Fizzwidget",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
@@ -487,6 +529,12 @@
     },
     {
         "name": "Boldan Skill Point: No shocking developments",
+        "region": "Boldan",
+        "category": ["Boldan, Silver City"],
+        "requires": ""
+    },
+    {
+        "name": "Boldan Nanotech Boost: Fountain",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
         "requires": ""
@@ -540,37 +588,67 @@
         "requires": ""
     },
     {
-        "name": "Smolg: Mission 1",
+        "name": "Snivelak Nanotech Boost: Swingshot",
+        "region": "Snivelak",
+        "category": ["Snivelak, Thugs-4-Less Headquarters"],
+        "requires": ""
+    },
+    {
+        "name": "Smolg: Search the distribution facility",
         "region": "Smolg",
         "category": ["Smolg, Distribution Facility"],
         "requires": ""
     },
     {
-        "name": "Smolg Platinum Bolt: 1",
+        "name": "Smolg: Explore the docked ships",
         "region": "Smolg",
         "category": ["Smolg, Distribution Facility"],
         "requires": ""
     },
     {
-        "name": "Smolg Platinum Bolt: 2",
+        "name": "Smolg: Buy the radio transmission",
         "region": "Smolg",
         "category": ["Smolg, Distribution Facility"],
         "requires": ""
     },
     {
-        "name": "Damosel: Mission 1",
+        "name": "Smolg Platinum Bolt: Warehouse",
+        "region": "Smolg",
+        "category": ["Smolg, Distribution Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Smolg Platinum Bolt: Levitator",
+        "region": "Smolg",
+        "category": ["Smolg, Distribution Facility"],
+        "requires": ""
+    },
+    {
+        "name": "Damosel: Bring Hypnomatic to hypnotist",
         "region": "Damosel",
         "category": ["Damosel, Allgon City"],
         "requires": ""
     },
     {
-        "name": "Damosel Platinum Bolt: 1",
+        "name": "Damosel: Ride the train rails",
         "region": "Damosel",
         "category": ["Damosel, Allgon City"],
         "requires": ""
     },
     {
-        "name": "Damosel Platinum Bolt: 2",
+        "name": "Damosel: Explore the moon",
+        "region": "Damosel",
+        "category": ["Damosel, Allgon City"],
+        "requires": ""
+    },
+    {
+        "name": "Damosel Platinum Bolt: Bank fountain",
+        "region": "Damosel",
+        "category": ["Damosel, Allgon City"],
+        "requires": ""
+    },
+    {
+        "name": "Damosel Platinum Bolt: Hypnomatic",
         "region": "Damosel",
         "category": ["Damosel, Allgon City"],
         "requires": ""
@@ -588,25 +666,31 @@
         "requires": ""
     },
     {
-        "name": "Grelbin: Mission 1",
+        "name": "Grelbin: Find Angela",
         "region": "Grelbin",
         "category": ["Grelbin, Tundor Wastes"],
         "requires": ""
     },
     {
-        "name": "Grelbin Platinum Bolt: 1",
+        "name": "Grelbin: Explore caves + Buy Hypnomatic part",
         "region": "Grelbin",
         "category": ["Grelbin, Tundor Wastes"],
         "requires": ""
     },
     {
-        "name": "Grelbin Platinum Bolt: 2",
+        "name": "Grelbin Platinum Bolt: Ice field",
         "region": "Grelbin",
         "category": ["Grelbin, Tundor Wastes"],
         "requires": ""
     },
     {
-        "name": "Grelbin Platinum Bolt: 3",
+        "name": "Grelbin Platinum Bolt: Hypnomatic",
+        "region": "Grelbin",
+        "category": ["Grelbin, Tundor Wastes"],
+        "requires": ""
+    },
+    {
+        "name": "Grelbin Platinum Bolt: Underwater tunnel",
         "region": "Grelbin",
         "category": ["Grelbin, Tundor Wastes"],
         "requires": ""
@@ -618,19 +702,13 @@
         "requires": ""
     },
     {
-        "name": "Yeedil: Mission 1",
+        "name": "Yeedil Platinum Bolt: Bridge",
         "region": "Yeedil",
         "category": ["Yeedil, Protopet Factory"],
         "requires": ""
     },
     {
-        "name": "Yeedil Platinum Bolt: 1",
-        "region": "Yeedil",
-        "category": ["Yeedil, Protopet Factory"],
-        "requires": ""
-    },
-    {
-        "name": "Yeedil Platinum Bolt: 2",
+        "name": "Yeedil Platinum Bolt: Grind rail",
         "region": "Yeedil",
         "category": ["Yeedil, Protopet Factory"],
         "requires": ""
@@ -641,6 +719,12 @@
     },
     {
         "name": "Skill Point: Weapon Envy",
+        "requires": ""
+    },
+    {
+        "name": "Defeat the Mutant Protopet",
+        "region": "Yeedil",
+        "category": ["Yeedil, Protopet Factory"],
         "requires": ""
     }
 ]
