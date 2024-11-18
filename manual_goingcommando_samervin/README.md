@@ -2,6 +2,37 @@
 
 Work in progress!
 
+TODOs:
+
+- Fill out all location access logic!
+- Confirm whether bugs from RaC persist
+- Check precise handling of Weapon Envy in a first playthrough
+
+Logical notes:
+
+- [Incomplete] The RYNO II is listed as logically required for the final boss. This is intentional, as it increases the likelihood of going to Yeedil in a middle of a run instead of only at the end, and it makes go mode more clear. It also works around [unconfirmed] ammo bugs, see below.
+- You are assumed to have all your regular moves and Omniwrench available, as well as infinite bolts for ammo and NPCs. There is no limit to the experience you may gain for weapons and health.
+- [incomplete] The coordinates for the Ship Shack, Grelbin, and Yeedil do not have corresponding cheat codes. Thus, access to these levels requires both the Archipelago coordinates as well as access to the vanilla location where those coordinates are granted (on Notak, Smolg, and Grelbin respectively).
+- You may mark the "Nano to the max" skill point as complete once you have all 10 Nanotech Boosts. You do not need to fully upgrade your health.
+- [unsure] You may mark the Weapon Envy skill point as complete once you have all weapons (do you need Clank Zapper?) and all 40 Platinum Bolts (do you need all weapon mod shops?). You do not need to fully upgrade all weapons.
+- Challenge Mode is not intended or required. [unconfirmed] Megaweapons do not unlock anything in the base game and are not included here. The Clank Zapper is normally only available in Challenge Mode and is [unconfirmed] required for the Weapon Envy skill point, but can be granted early.
+- The Special menu items normally locked behind skill points are not locations, thus skill point items are not required
+
+Things not (yet?) included:
+
+- Omniwrench is not an item, thus it is in logic at all times
+- Regular movement abilities are not items, thus they are in logic at all times
+- Vendor items are not locations and thus you are not required to buy any weapons
+- [unsure] Weapon mods are not locations and thus you are not required to buy any weapon mods
+- Minigames (arena battles, ship fights, etc.) are not locations unless they grant coordinates, inventory items, or a Platinum Bolt or skill point. This makes e.g. many arena battles and hoverbike races fully optional.
+- An alternate victory condition, like Platinum Bolt Hunt
+
+Bugs:
+
+- [unconfirmed] Ammo bugs
+- [unconfirmed] Thruster-Pack glide bug (if you haven't saved Clank yet)
+- [unconfirmed] Items disappearing from the world if you have already collected them
+
 ## Magic Combos
 
 Source: https://creepnt.stream/rc/rccombo.html

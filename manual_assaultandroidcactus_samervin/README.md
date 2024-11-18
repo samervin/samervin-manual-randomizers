@@ -10,6 +10,7 @@
 - You win when you defeat Medulla with all nine androids.
 
 Not implemented (yet):
+- Duplicate items. This could reduce the number of true filler checks and provide quicker progression.
 - Additional modes: boss rush, daily drive, infinity drive. Boss rush is the most likely by far: another set of 9 locations, perhaps requiring each boss to first be defeated once with any android. Achieving certain layers on infinity drive (e.g. 15 and 25, which have corresponding achievements) may be implemented. Daily drive is unlikely due to obvious restrictions.
 - Campaign+ zones. This would effectively double the amount of content in the game, as every campaign level has a corresponding + version. This might be too much of a time sink, but these levels are interesting challenges.
 - Additional EX options. You could start with the HUD disabled and need to find each android's HUD item. You could start with a virtual player count of 2, 3, or 4 and need to find items to reduce it. I think these might be more trouble than they are worth, but they could be optional for added challenge.
