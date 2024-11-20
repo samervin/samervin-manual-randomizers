@@ -166,5 +166,47 @@
         "region": "London",
         "category": ["London"],
         "requires": ""
+    },
+    {
+        "name": "Mumbai: Classic Tourist (400)",
+        "region": "Mumbai",
+        "category": ["Mumbai"],
+        "requires": ""
+    },
+    {
+        "name": "Mumbai: Classic Commuter (1000)",
+        "region": "Mumbai",
+        "category": ["Mumbai"],
+        "requires": ""
+    },
+    {
+        "name": "Mumbai: Classic Driver (2000)",
+        "region": "Mumbai",
+        "category": ["Mumbai"],
+        "requires": ""
+    },
+    {
+        "name": "Mumbai: Expert (500)",
+        "region": "Mumbai",
+        "category": ["Mumbai"],
+        "requires": ""
+    },
+    {
+        "name": "Mumbai: Endless",
+        "region": "Mumbai",
+        "category": ["Mumbai"],
+        "requires": ""
+    },
+    {
+        "name": "Mumbai: All You Can Concrete (600)",
+        "region": "Mumbai",
+        "category": ["Mumbai"],
+        "requires": ""
+    },
+    {
+        "name": "Mumbai: Pump the Brakes (600)",
+        "region": "Mumbai",
+        "category": ["Mumbai"],
+        "requires": ""
     }
 ]
