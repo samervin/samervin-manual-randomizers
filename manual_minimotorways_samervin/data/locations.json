@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Los Angeles Tourist (400)",
+        "region": "Los Angeles",
+        "category": ["Los Angeles"],
+        "requires": ""
+    },
+    {
+        "name": "Los Angeles Commuter (1000)",
+        "region": "Los Angeles",
+        "category": ["Los Angeles"],
+        "requires": ""
+    },
+    {
+        "name": "Los Angeles Driver (2000)",
+        "region": "Los Angeles",
+        "category": ["Los Angeles"],
+        "requires": ""
+    },
+    {
+        "name": "Los Angeles Challenge 1 (600)",
+        "region": "Los Angeles",
+        "category": ["Los Angeles"],
+        "requires": ""
+    },
+    {
+        "name": "Los Angeles Challenge 2 (600)",
+        "region": "Los Angeles",
+        "category": ["Los Angeles"],
+        "requires": ""
+    },
+    {
+        "name": "Los Angeles Challenge 3 (600)",
+        "region": "Los Angeles",
+        "category": ["Los Angeles"],
+        "requires": ""
+    },
+    {
+        "name": "Los Angeles Expert (500)",
+        "region": "Los Angeles",
+        "category": ["Los Angeles"],
+        "requires": ""
+    },
+    {
+        "name": "Los Angeles Endless",
+        "region": "Los Angeles",
+        "category": ["Los Angeles"],
+        "requires": ""
+    }
+]
