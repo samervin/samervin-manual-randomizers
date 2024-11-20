@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Los Angeles map",
+        "category": ["Los Angeles"],
+        "progression": true
+    },
+    {
+        "name": "Los Angeles roundabouts",
+        "category": ["Los Angeles"],
+        "progression": true
+    },
+    {
+        "name": "Los Angeles traffic lights",
+        "category": ["Los Angeles"],
+        "progression": true
+    },
+    {
+        "name": "Los Angeles motorways",
+        "category": ["Los Angeles"],
+        "progression": true
+    },
+    {
+        "name": "Los Angeles bridges",
+        "category": ["Los Angeles"],
+        "progression": true
+    },
+    {
+        "name": "Los Angeles tunnels",
+        "category": ["Los Angeles"],
+        "progression": true
+    }
+]
