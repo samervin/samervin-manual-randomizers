@@ -130,5 +130,41 @@
         "region": "Tokyo",
         "category": ["Tokyo"],
         "requires": ""
+    },
+    {
+        "name": "London: Classic Tourist (400)",
+        "region": "London",
+        "category": ["London"],
+        "requires": ""
+    },
+    {
+        "name": "London: Classic Commuter (1000)",
+        "region": "London",
+        "category": ["London"],
+        "requires": ""
+    },
+    {
+        "name": "London: Classic Driver (2000)",
+        "region": "London",
+        "category": ["London"],
+        "requires": ""
+    },
+    {
+        "name": "London: Expert (500)",
+        "region": "London",
+        "category": ["London"],
+        "requires": ""
+    },
+    {
+        "name": "London: Endless",
+        "region": "London",
+        "category": ["London"],
+        "requires": ""
+    },
+    {
+        "name": "London: Water Under the Bridge (600)",
+        "region": "London",
+        "category": ["London"],
+        "requires": ""
     }
 ]
