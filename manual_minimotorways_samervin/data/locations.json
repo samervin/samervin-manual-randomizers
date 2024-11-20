@@ -18,12 +18,6 @@
         "requires": ""
     },
     {
-        "name": "Los Angeles: Expert (500)",
-        "region": "Los Angeles",
-        "category": ["Los Angeles"],
-        "requires": ""
-    },
-    {
         "name": "Los Angeles: Endless",
         "region": "Los Angeles",
         "category": ["Los Angeles"],
@@ -48,6 +42,12 @@
         "requires": ""
     },
     {
+        "name": "Los Angeles: Expert (500)",
+        "region": "Los Angeles",
+        "category": ["Los Angeles"],
+        "requires": ""
+    },
+    {
         "name": "Beijing: Classic Tourist (400)",
         "region": "Beijing",
         "category": ["Beijing"],
@@ -61,12 +61,6 @@
     },
     {
         "name": "Beijing: Classic Driver (2000)",
-        "region": "Beijing",
-        "category": ["Beijing"],
-        "requires": ""
-    },
-    {
-        "name": "Beijing: Expert (500)",
         "region": "Beijing",
         "category": ["Beijing"],
         "requires": ""
@@ -90,6 +84,12 @@
         "requires": ""
     },
     {
+        "name": "Beijing: Expert (500)",
+        "region": "Beijing",
+        "category": ["Beijing"],
+        "requires": ""
+    },
+    {
         "name": "Tokyo: Classic Tourist (400)",
         "region": "Tokyo",
         "category": ["Tokyo"],
@@ -103,12 +103,6 @@
     },
     {
         "name": "Tokyo: Classic Driver (2000)",
-        "region": "Tokyo",
-        "category": ["Tokyo"],
-        "requires": ""
-    },
-    {
-        "name": "Tokyo: Expert (500)",
         "region": "Tokyo",
         "category": ["Tokyo"],
         "requires": ""
@@ -132,6 +126,12 @@
         "requires": ""
     },
     {
+        "name": "Tokyo: Expert (500)",
+        "region": "Tokyo",
+        "category": ["Tokyo"],
+        "requires": ""
+    },
+    {
         "name": "London: Classic Tourist (400)",
         "region": "London",
         "category": ["London"],
@@ -150,12 +150,6 @@
         "requires": ""
     },
     {
-        "name": "London: Expert (500)",
-        "region": "London",
-        "category": ["London"],
-        "requires": ""
-    },
-    {
         "name": "London: Endless",
         "region": "London",
         "category": ["London"],
@@ -163,6 +157,12 @@
     },
     {
         "name": "London: Water Under the Bridge (600)",
+        "region": "London",
+        "category": ["London"],
+        "requires": ""
+    },
+    {
+        "name": "London: Expert (500)",
         "region": "London",
         "category": ["London"],
         "requires": ""
@@ -186,12 +186,6 @@
         "requires": ""
     },
     {
-        "name": "Mumbai: Expert (500)",
-        "region": "Mumbai",
-        "category": ["Mumbai"],
-        "requires": ""
-    },
-    {
         "name": "Mumbai: Endless",
         "region": "Mumbai",
         "category": ["Mumbai"],
@@ -205,6 +199,12 @@
     },
     {
         "name": "Mumbai: Pump the Brakes (600)",
+        "region": "Mumbai",
+        "category": ["Mumbai"],
+        "requires": ""
+    },
+    {
+        "name": "Mumbai: Expert (500)",
         "region": "Mumbai",
         "category": ["Mumbai"],
         "requires": ""
