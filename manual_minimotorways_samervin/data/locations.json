@@ -1,50 +1,134 @@
 [
     {
-        "name": "Los Angeles Tourist (400)",
+        "name": "Los Angeles: Classic Tourist (400)",
         "region": "Los Angeles",
         "category": ["Los Angeles"],
         "requires": ""
     },
     {
-        "name": "Los Angeles Commuter (1000)",
+        "name": "Los Angeles: Classic Commuter (1000)",
         "region": "Los Angeles",
         "category": ["Los Angeles"],
         "requires": ""
     },
     {
-        "name": "Los Angeles Driver (2000)",
+        "name": "Los Angeles: Classic Driver (2000)",
         "region": "Los Angeles",
         "category": ["Los Angeles"],
         "requires": ""
     },
     {
-        "name": "Los Angeles Challenge 1 (600)",
+        "name": "Los Angeles: Expert (500)",
         "region": "Los Angeles",
         "category": ["Los Angeles"],
         "requires": ""
     },
     {
-        "name": "Los Angeles Challenge 2 (600)",
+        "name": "Los Angeles: Endless",
         "region": "Los Angeles",
         "category": ["Los Angeles"],
         "requires": ""
     },
     {
-        "name": "Los Angeles Challenge 3 (600)",
+        "name": "Los Angeles: Highway to Hollywood (600)",
         "region": "Los Angeles",
         "category": ["Los Angeles"],
         "requires": ""
     },
     {
-        "name": "Los Angeles Expert (500)",
+        "name": "Los Angeles: Stars in Their Eyes (600)",
         "region": "Los Angeles",
         "category": ["Los Angeles"],
         "requires": ""
     },
     {
-        "name": "Los Angeles Endless",
+        "name": "Los Angeles: Gridlock (600)",
         "region": "Los Angeles",
         "category": ["Los Angeles"],
+        "requires": ""
+    },
+    {
+        "name": "Beijing: Classic Tourist (400)",
+        "region": "Beijing",
+        "category": ["Beijing"],
+        "requires": ""
+    },
+    {
+        "name": "Beijing: Classic Commuter (1000)",
+        "region": "Beijing",
+        "category": ["Beijing"],
+        "requires": ""
+    },
+    {
+        "name": "Beijing: Classic Driver (2000)",
+        "region": "Beijing",
+        "category": ["Beijing"],
+        "requires": ""
+    },
+    {
+        "name": "Beijing: Expert (500)",
+        "region": "Beijing",
+        "category": ["Beijing"],
+        "requires": ""
+    },
+    {
+        "name": "Beijing: Endless",
+        "region": "Beijing",
+        "category": ["Beijing"],
+        "requires": ""
+    },
+    {
+        "name": "Beijing: Megacity (600)",
+        "region": "Beijing",
+        "category": ["Beijing"],
+        "requires": ""
+    },
+    {
+        "name": "Beijing: Round and Round and Round (600)",
+        "region": "Beijing",
+        "category": ["Beijing"],
+        "requires": ""
+    },
+    {
+        "name": "Tokyo: Classic Tourist (400)",
+        "region": "Tokyo",
+        "category": ["Tokyo"],
+        "requires": ""
+    },
+    {
+        "name": "Tokyo: Classic Commuter (1000)",
+        "region": "Tokyo",
+        "category": ["Tokyo"],
+        "requires": ""
+    },
+    {
+        "name": "Tokyo: Classic Driver (2000)",
+        "region": "Tokyo",
+        "category": ["Tokyo"],
+        "requires": ""
+    },
+    {
+        "name": "Tokyo: Expert (500)",
+        "region": "Tokyo",
+        "category": ["Tokyo"],
+        "requires": ""
+    },
+    {
+        "name": "Tokyo: Endless",
+        "region": "Tokyo",
+        "category": ["Tokyo"],
+        "requires": ""
+    },
+    {
+        "name": "Tokyo: Concrete Jungle (600)",
+        "region": "Tokyo",
+        "category": ["Tokyo"],
+        "requires": ""
+    },
+    {
+        "name": "Tokyo: Tree's a Crowd (600)",
+        "region": "Tokyo",
+        "category": ["Tokyo"],
         "requires": ""
     }
 ]
