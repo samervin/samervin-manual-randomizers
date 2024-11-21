@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Classic Mode",
+        "category": ["Game Mode"],
+        "progression": true
+    },
+    {
+        "name": "Zen Mode",
+        "category": ["Game Mode"],
+        "progression": true
+    },
+    {
+        "name": "Lightning Mode",
+        "category": ["Game Mode"],
+        "progression": true
+    },
+    {
+        "name": "Quest Mode",
+        "category": ["Game Mode"],
+        "progression": true
+    },
+    {
+        "name": "Poker Mode",
+        "category": ["Game Mode"],
+        "progression": true
+    },
+    {
+        "name": "Butterflies Mode",
+        "category": ["Game Mode"],
+        "progression": true
+    },
+    {
+        "name": "Ice Storm Mode",
+        "category": ["Game Mode"],
+        "progression": true
+    },
+    {
+        "name": "Diamond Mine Mode",
+        "category": ["Game Mode"],
+        "progression": true
+    }
+]

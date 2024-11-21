@@ -1,272 +1,272 @@
 [
     {
-        "name": "Badge: Blaster Bronze",
+        "name": "Badge: Blaster Bronze (30)",
         "region": "",
         "category": [],
         "requires": ""
     },
     {
-        "name": "Badge: Blaster Silver",
+        "name": "Badge: Blaster Silver (40)",
         "region": "",
         "category": [],
         "requires": ""
     },
     {
-        "name": "Badge: Blaster Gold",
+        "name": "Badge: Blaster Gold (50)",
         "region": "",
         "category": [],
         "requires": ""
     },
     {
-        "name": "Badge: Blaster Platinum",
+        "name": "Badge: Blaster Platinum (60)",
         "region": "",
         "category": [],
         "requires": ""
     },
     {
-        "name": "Badge: Bejeweler Bronze",
-        "region": "",
-        "category": [],
+        "name": "Badge: Bejeweler Bronze (50k)",
+        "region": "Classic",
+        "category": ["Classic"],
         "requires": ""
     },
     {
-        "name": "Badge: Bejeweler Silver",
-        "region": "",
-        "category": [],
+        "name": "Badge: Bejeweler Silver (150k)",
+        "region": "Classic",
+        "category": ["Classic"],
         "requires": ""
     },
     {
-        "name": "Badge: Bejeweler Gold",
-        "region": "",
-        "category": [],
+        "name": "Badge: Bejeweler Gold (300k)",
+        "region": "Classic",
+        "category": ["Classic"],
         "requires": ""
     },
     {
-        "name": "Badge: Bejeweler Platinum",
-        "region": "",
-        "category": [],
+        "name": "Badge: Bejeweler Platinum (500k)",
+        "region": "Classic",
+        "category": ["Classic"],
         "requires": ""
     },
     {
-        "name": "Badge: Final Frenzy Bronze",
-        "region": "",
-        "category": [],
+        "name": "Badge: Final Frenzy Bronze (20k)",
+        "region": "Lightning",
+        "category": ["Lightning"],
         "requires": ""
     },
     {
-        "name": "Badge: Final Frenzy Silver",
-        "region": "",
-        "category": [],
+        "name": "Badge: Final Frenzy Silver (30k)",
+        "region": "Lightning",
+        "category": ["Lightning"],
         "requires": ""
     },
     {
-        "name": "Badge: Final Frenzy Gold",
-        "region": "",
-        "category": [],
+        "name": "Badge: Final Frenzy Gold (40k)",
+        "region": "Lightning",
+        "category": ["Lightning"],
         "requires": ""
     },
     {
-        "name": "Badge: Final Frenzy Platinum",
-        "region": "",
-        "category": [],
+        "name": "Badge: Final Frenzy Platinum (60k)",
+        "region": "Lightning",
+        "category": ["Lightning"],
         "requires": ""
     },
     {
-        "name": "Badge: High Voltage Bronze",
-        "region": "",
-        "category": [],
+        "name": "Badge: High Voltage Bronze (100k)",
+        "region": "Lightning",
+        "category": ["Lightning"],
         "requires": ""
     },
     {
-        "name": "Badge: High Voltage Silver",
-        "region": "",
-        "category": [],
+        "name": "Badge: High Voltage Silver (300k)",
+        "region": "Lightning",
+        "category": ["Lightning"],
         "requires": ""
     },
     {
-        "name": "Badge: High Voltage Gold",
-        "region": "",
-        "category": [],
+        "name": "Badge: High Voltage Gold (500k)",
+        "region": "Lightning",
+        "category": ["Lightning"],
         "requires": ""
     },
     {
-        "name": "Badge: High Voltage Platinum",
-        "region": "",
-        "category": [],
+        "name": "Badge: High Voltage Platinum (750k)",
+        "region": "Lightning",
+        "category": ["Lightning"],
         "requires": ""
     },
     {
-        "name": "Badge: Ante Up Bronze",
-        "region": "",
-        "category": [],
+        "name": "Badge: Ante Up Bronze (100k)",
+        "region": "Poker",
+        "category": ["Poker"],
         "requires": ""
     },
     {
-        "name": "Badge: Ante Up Silver",
-        "region": "",
-        "category": [],
+        "name": "Badge: Ante Up Silver (300k)",
+        "region": "Poker",
+        "category": ["Poker"],
         "requires": ""
     },
     {
-        "name": "Badge: Ante Up Gold*",
-        "region": "",
-        "category": [],
+        "name": "Badge: Ante Up Gold* (500k)",
+        "region": "Poker",
+        "category": ["Poker"],
         "requires": ""
     },
     {
-        "name": "Badge: Ante Up Platinum*",
-        "region": "",
-        "category": [],
+        "name": "Badge: Ante Up Platinum* (750k)",
+        "region": "Poker",
+        "category": ["Poker"],
         "requires": ""
     },
     {
-        "name": "Badge: Glacial Explorer Bronze",
-        "region": "",
-        "category": [],
+        "name": "Badge: Glacial Explorer Bronze (100k)",
+        "region": "Ice Storm",
+        "category": ["Ice Storm"],
         "requires": ""
     },
     {
-        "name": "Badge: Glacial Explorer Silver",
-        "region": "",
-        "category": [],
+        "name": "Badge: Glacial Explorer Silver (300k)",
+        "region": "Ice Storm",
+        "category": ["Ice Storm"],
         "requires": ""
     },
     {
-        "name": "Badge: Glacial Explorer Gold",
-        "region": "",
-        "category": [],
+        "name": "Badge: Glacial Explorer Gold (500k)",
+        "region": "Ice Storm",
+        "category": ["Ice Storm"],
         "requires": ""
     },
     {
-        "name": "Badge: Glacial Explorer Platinum",
-        "region": "",
-        "category": [],
+        "name": "Badge: Glacial Explorer Platinum (750k)",
+        "region": "Ice Storm",
+        "category": ["Ice Storm"],
         "requires": ""
     },
     {
-        "name": "Badge: Ice Breaker Bronze",
-        "region": "",
-        "category": [],
+        "name": "Badge: Ice Breaker Bronze (x5)",
+        "region": "Ice Storm",
+        "category": ["Ice Storm"],
         "requires": ""
     },
     {
-        "name": "Badge: Ice Breaker Silver",
-        "region": "",
-        "category": [],
+        "name": "Badge: Ice Breaker Silver (x8)",
+        "region": "Ice Storm",
+        "category": ["Ice Storm"],
         "requires": ""
     },
     {
-        "name": "Badge: Ice Breaker Gold*",
-        "region": "",
-        "category": [],
+        "name": "Badge: Ice Breaker Gold* (x12)",
+        "region": "Ice Storm",
+        "category": ["Ice Storm"],
         "requires": ""
     },
     {
-        "name": "Badge: Ice Breaker Platinum*",
-        "region": "",
-        "category": [],
+        "name": "Badge: Ice Breaker Platinum* (x15)",
+        "region": "Ice Storm",
+        "category": ["Ice Storm"],
         "requires": ""
     },
     {
-        "name": "Badge: Diamond, Mine Bronze",
-        "region": "",
-        "category": [],
+        "name": "Badge: Diamond, Mine Bronze (100k)",
+        "region": "Diamond Mine",
+        "category": ["Diamond Mine"],
         "requires": ""
     },
     {
-        "name": "Badge: Diamond, Mine Silver",
-        "region": "",
-        "category": [],
+        "name": "Badge: Diamond, Mine Silver (300k)",
+        "region": "Diamond Mine",
+        "category": ["Diamond Mine"],
         "requires": ""
     },
     {
-        "name": "Badge: Diamond, Mine Gold",
-        "region": "",
-        "category": [],
+        "name": "Badge: Diamond, Mine Gold (500k)",
+        "region": "Diamond Mine",
+        "category": ["Diamond Mine"],
         "requires": ""
     },
     {
-        "name": "Badge: Diamond, Mine Platinum",
-        "region": "",
-        "category": [],
+        "name": "Badge: Diamond, Mine Platinum (750k)",
+        "region": "Diamond Mine",
+        "category": ["Diamond Mine"],
         "requires": ""
     },
     {
-        "name": "Badge: Relic Hunter Bronze",
-        "region": "",
-        "category": [],
+        "name": "Badge: Relic Hunter Bronze (5)",
+        "region": "Diamond Mine",
+        "category": ["Diamond Mine"],
         "requires": ""
     },
     {
-        "name": "Badge: Relic Hunter Silver",
-        "region": "",
-        "category": [],
+        "name": "Badge: Relic Hunter Silver (8)",
+        "region": "Diamond Mine",
+        "category": ["Diamond Mine"],
         "requires": ""
     },
     {
-        "name": "Badge: Relic Hunter Gold",
-        "region": "",
-        "category": [],
+        "name": "Badge: Relic Hunter Gold (12)",
+        "region": "Diamond Mine",
+        "category": ["Diamond Mine"],
         "requires": ""
     },
     {
-        "name": "Badge: Relic Hunter Platinum",
-        "region": "",
-        "category": [],
+        "name": "Badge: Relic Hunter Platinum (15)",
+        "region": "Diamond Mine",
+        "category": ["Diamond Mine"],
         "requires": ""
     },
     {
-        "name": "Badge: Butterfly Monarch Bronze",
-        "region": "",
-        "category": [],
+        "name": "Badge: Butterfly Monarch Bronze (100k)",
+        "region": "Butterflies",
+        "category": ["Butterflies"],
         "requires": ""
     },
     {
-        "name": "Badge: Butterfly Monarch Silver",
-        "region": "",
-        "category": [],
+        "name": "Badge: Butterfly Monarch Silver (300k)",
+        "region": "Butterflies",
+        "category": ["Butterflies"],
         "requires": ""
     },
     {
-        "name": "Badge: Butterfly Monarch Gold",
-        "region": "",
-        "category": [],
+        "name": "Badge: Butterfly Monarch Gold (500k)",
+        "region": "Butterflies",
+        "category": ["Butterflies"],
         "requires": ""
     },
     {
-        "name": "Badge: Butterfly Monarch Platinum",
-        "region": "",
-        "category": [],
+        "name": "Badge: Butterfly Monarch Platinum (750k)",
+        "region": "Butterflies",
+        "category": ["Butterflies"],
         "requires": ""
     },
     {
-        "name": "Badge: Butterfly Bonanza Bronze",
-        "region": "",
-        "category": [],
+        "name": "Badge: Butterfly Bonanza Bronze (4)",
+        "region": "Butterflies",
+        "category": ["Butterflies"],
         "requires": ""
     },
     {
-        "name": "Badge: Butterfly Bonanza Silver",
-        "region": "",
-        "category": [],
+        "name": "Badge: Butterfly Bonanza Silver (6)",
+        "region": "Butterflies",
+        "category": ["Butterflies"],
         "requires": ""
     },
     {
-        "name": "Badge: Butterfly Bonanza Gold",
-        "region": "",
-        "category": [],
+        "name": "Badge: Butterfly Bonanza Gold (8)",
+        "region": "Butterflies",
+        "category": ["Butterflies"],
         "requires": ""
     },
     {
-        "name": "Badge: Butterfly Bonanza Platinum",
-        "region": "",
-        "category": [],
+        "name": "Badge: Butterfly Bonanza Platinum (10)",
+        "region": "Butterflies",
+        "category": ["Butterflies"],
         "requires": ""
     },
     {
         "name": "Elite Badge: Heroes Welcome",
-        "region": "",
-        "category": [],
+        "region": "Quest",
+        "category": ["Quest"],
         "requires": ""
     },
     {
@@ -283,8 +283,8 @@
     },
     {
         "name": "Elite Badge: Levelord",
-        "region": "",
-        "category": [],
+        "region": "Classic",
+        "category": ["Classic"],
         "requires": ""
     },
     {
@@ -292,5 +292,108 @@
         "region": "",
         "category": [],
         "requires": ""
+    },
+    {
+        "name": "Classic: Complete Level 4",
+        "region": "Classic",
+        "category": ["Classic"],
+        "requires": ""
+    },
+    {
+        "name": "Classic: Complete Level 8",
+        "region": "Classic",
+        "category": ["Classic"],
+        "requires": ""
+    },
+    {
+        "name": "Classic: Complete Level 12",
+        "region": "Classic",
+        "category": ["Classic"],
+        "requires": ""
+    },
+    {
+        "name": "Zen: Complete Level 4",
+        "region": "Zen",
+        "category": ["Zen"],
+        "requires": ""
+    },
+    {
+        "name": "Zen: Complete Level 8",
+        "region": "Zen",
+        "category": ["Zen"],
+        "requires": ""
+    },
+    {
+        "name": "Zen: Complete Level 12",
+        "region": "Zen",
+        "category": ["Zen"],
+        "requires": ""
+    },
+    {
+        "name": "Quest: Reveal relic 1 (4 quests)",
+        "region": "Quest",
+        "category": ["Quest"],
+        "requires": ""
+    },
+    {
+        "name": "Quest: Restore relic 1 (8 quests)",
+        "region": "Quest",
+        "category": ["Quest"],
+        "requires": ""
+    },
+    {
+        "name": "Quest: Reveal relic 2 (4 quests)",
+        "region": "Quest",
+        "category": ["Quest"],
+        "requires": ""
+    },
+    {
+        "name": "Quest: Restore relic 2 (8 quests)",
+        "region": "Quest",
+        "category": ["Quest"],
+        "requires": ""
+    },
+    {
+        "name": "Quest: Reveal relic 3 (4 quests)",
+        "region": "Quest",
+        "category": ["Quest"],
+        "requires": ""
+    },
+    {
+        "name": "Quest: Restore relic 3 (8 quests)",
+        "region": "Quest",
+        "category": ["Quest"],
+        "requires": ""
+    },
+    {
+        "name": "Quest: Reveal relic 4 (4 quests)",
+        "region": "Quest",
+        "category": ["Quest"],
+        "requires": ""
+    },
+    {
+        "name": "Quest: Restore relic 4 (8 quests)",
+        "region": "Quest",
+        "category": ["Quest"],
+        "requires": ""
+    },
+    {
+        "name": "Quest: Reveal relic 5 (4 quests)",
+        "region": "Quest",
+        "category": ["Quest"],
+        "requires": ""
+    },
+    {
+        "name": "Quest: Restore relic 5 (8 quests)",
+        "region": "Quest",
+        "category": ["Quest"],
+        "requires": ""
+    },
+    {
+        "name": "Victory",
+        "region": "",
+        "category": [""],
+        "requires": "",
+        "victory": true
     }
 ]
