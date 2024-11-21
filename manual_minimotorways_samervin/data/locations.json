@@ -208,5 +208,365 @@
         "region": "Mumbai",
         "category": ["Mumbai"],
         "requires": ""
+    },
+    {
+        "name": "New York City: Classic Tourist (400)",
+        "region": "New York City",
+        "category": ["New York City"],
+        "requires": ""
+    },
+    {
+        "name": "New York City: Classic Commuter (1000)",
+        "region": "New York City",
+        "category": ["New York City"],
+        "requires": ""
+    },
+    {
+        "name": "New York City: Classic Driver (2000)",
+        "region": "New York City",
+        "category": ["New York City"],
+        "requires": ""
+    },
+    {
+        "name": "New York City: Endless",
+        "region": "New York City",
+        "category": ["New York City"],
+        "requires": ""
+    },
+    {
+        "name": "New York City: Where Dreams Are Made Of (600)",
+        "region": "New York City",
+        "category": ["New York City"],
+        "requires": ""
+    },
+    {
+        "name": "New York City: Expert (500)",
+        "region": "New York City",
+        "category": ["New York City"],
+        "requires": ""
+    },
+    {
+        "name": "Dar es Salaam: Classic Tourist (400)",
+        "region": "Dar es Salaam",
+        "category": ["Dar es Salaam"],
+        "requires": ""
+    },
+    {
+        "name": "Dar es Salaam: Classic Commuter (1000)",
+        "region": "Dar es Salaam",
+        "category": ["Dar es Salaam"],
+        "requires": ""
+    },
+    {
+        "name": "Dar es Salaam: Classic Driver (2000)",
+        "region": "Dar es Salaam",
+        "category": ["Dar es Salaam"],
+        "requires": ""
+    },
+    {
+        "name": "Dar es Salaam: Endless",
+        "region": "Dar es Salaam",
+        "category": ["Dar es Salaam"],
+        "requires": ""
+    },
+    {
+        "name": "Dar es Salaam: Place of Peace (600)",
+        "region": "Dar es Salaam",
+        "category": ["Dar es Salaam"],
+        "requires": ""
+    },
+    {
+        "name": "Dar es Salaam: Expert (500)",
+        "region": "Dar es Salaam",
+        "category": ["Dar es Salaam"],
+        "requires": ""
+    },
+    {
+        "name": "Moscow: Classic Tourist (400)",
+        "region": "Moscow",
+        "category": ["Moscow"],
+        "requires": ""
+    },
+    {
+        "name": "Moscow: Classic Commuter (1000)",
+        "region": "Moscow",
+        "category": ["Moscow"],
+        "requires": ""
+    },
+    {
+        "name": "Moscow: Classic Driver (2000)",
+        "region": "Moscow",
+        "category": ["Moscow"],
+        "requires": ""
+    },
+    {
+        "name": "Moscow: Endless",
+        "region": "Moscow",
+        "category": ["Moscow"],
+        "requires": ""
+    },
+    {
+        "name": "Moscow: All About Intersections (600)",
+        "region": "Moscow",
+        "category": ["Moscow"],
+        "requires": ""
+    },
+    {
+        "name": "Moscow: Go with the Flow (600)",
+        "region": "Moscow",
+        "category": ["Moscow"],
+        "requires": ""
+    },
+    {
+        "name": "Moscow: Expert (500)",
+        "region": "Moscow",
+        "category": ["Moscow"],
+        "requires": ""
+    },
+    {
+        "name": "Munich: Classic Tourist (400)",
+        "region": "Munich",
+        "category": ["Munich"],
+        "requires": ""
+    },
+    {
+        "name": "Munich: Classic Commuter (1000)",
+        "region": "Munich",
+        "category": ["Munich"],
+        "requires": ""
+    },
+    {
+        "name": "Munich: Classic Driver (2000)",
+        "region": "Munich",
+        "category": ["Munich"],
+        "requires": ""
+    },
+    {
+        "name": "Munich: Endless",
+        "region": "Munich",
+        "category": ["Munich"],
+        "requires": ""
+    },
+    {
+        "name": "Munich: One of a Kind (600)",
+        "region": "Munich",
+        "category": ["Munich"],
+        "requires": ""
+    },
+    {
+        "name": "Munich: Mind the Gap (600)",
+        "region": "Munich",
+        "category": ["Munich"],
+        "requires": ""
+    },
+    {
+        "name": "Munich: Expert (500)",
+        "region": "Munich",
+        "category": ["Munich"],
+        "requires": ""
+    },
+    {
+        "name": "Zurich: Classic Tourist (400)",
+        "region": "Zurich",
+        "category": ["Zurich"],
+        "requires": ""
+    },
+    {
+        "name": "Zurich: Classic Commuter (1000)",
+        "region": "Zurich",
+        "category": ["Zurich"],
+        "requires": ""
+    },
+    {
+        "name": "Zurich: Classic Driver (2000)",
+        "region": "Zurich",
+        "category": ["Zurich"],
+        "requires": ""
+    },
+    {
+        "name": "Zurich: Endless",
+        "region": "Zurich",
+        "category": ["Zurich"],
+        "requires": ""
+    },
+    {
+        "name": "Zurich: Resource Management (600)",
+        "region": "Zurich",
+        "category": ["Zurich"],
+        "requires": ""
+    },
+    {
+        "name": "Zurich: Many Tiny Tunnels (600)",
+        "region": "Zurich",
+        "category": ["Zurich"],
+        "requires": ""
+    },
+    {
+        "name": "Zurich: Expert (500)",
+        "region": "Zurich",
+        "category": ["Zurich"],
+        "requires": ""
+    },
+    {
+        "name": "Manila: Classic Tourist (400)",
+        "region": "Manila",
+        "category": ["Manila"],
+        "requires": ""
+    },
+    {
+        "name": "Manila: Classic Commuter (1000)",
+        "region": "Manila",
+        "category": ["Manila"],
+        "requires": ""
+    },
+    {
+        "name": "Manila: Classic Driver (2000)",
+        "region": "Manila",
+        "category": ["Manila"],
+        "requires": ""
+    },
+    {
+        "name": "Manila: Endless",
+        "region": "Manila",
+        "category": ["Manila"],
+        "requires": ""
+    },
+    {
+        "name": "Manila: Double or Nothing (600)",
+        "region": "Manila",
+        "category": ["Manila"],
+        "requires": ""
+    },
+    {
+        "name": "Manila: Travel Light (600)",
+        "region": "Manila",
+        "category": ["Manila"],
+        "requires": ""
+    },
+    {
+        "name": "Manila: Expert (500)",
+        "region": "Manila",
+        "category": ["Manila"],
+        "requires": ""
+    },
+    {
+        "name": "Rio de Janeiro: Classic Tourist (400)",
+        "region": "Rio de Janeiro",
+        "category": ["Rio de Janeiro"],
+        "requires": ""
+    },
+    {
+        "name": "Rio de Janeiro: Classic Commuter (1000)",
+        "region": "Rio de Janeiro",
+        "category": ["Rio de Janeiro"],
+        "requires": ""
+    },
+    {
+        "name": "Rio de Janeiro: Classic Driver (2000)",
+        "region": "Rio de Janeiro",
+        "category": ["Rio de Janeiro"],
+        "requires": ""
+    },
+    {
+        "name": "Rio de Janeiro: Endless",
+        "region": "Rio de Janeiro",
+        "category": ["Rio de Janeiro"],
+        "requires": ""
+    },
+    {
+        "name": "Rio de Janeiro: The Road Less Traveled (600)",
+        "region": "Rio de Janeiro",
+        "category": ["Rio de Janeiro"],
+        "requires": ""
+    },
+    {
+        "name": "Rio de Janeiro: One with Nature (600)",
+        "region": "Rio de Janeiro",
+        "category": ["Rio de Janeiro"],
+        "requires": ""
+    },
+    {
+        "name": "Rio de Janeiro: Expert (500)",
+        "region": "Rio de Janeiro",
+        "category": ["Rio de Janeiro"],
+        "requires": ""
+    },
+    {
+        "name": "Dubai: Classic Tourist (400)",
+        "region": "Dubai",
+        "category": ["Dubai"],
+        "requires": ""
+    },
+    {
+        "name": "Dubai: Classic Commuter (1000)",
+        "region": "Dubai",
+        "category": ["Dubai"],
+        "requires": ""
+    },
+    {
+        "name": "Dubai: Classic Driver (2000)",
+        "region": "Dubai",
+        "category": ["Dubai"],
+        "requires": ""
+    },
+    {
+        "name": "Dubai: Endless",
+        "region": "Dubai",
+        "category": ["Dubai"],
+        "requires": ""
+    },
+    {
+        "name": "Dubai: Rapid Growth (600)",
+        "region": "Dubai",
+        "category": ["Dubai"],
+        "requires": ""
+    },
+    {
+        "name": "Dubai: Wild Card (600)",
+        "region": "Dubai",
+        "category": ["Dubai"],
+        "requires": ""
+    },
+    {
+        "name": "Dubai: Expert (500)",
+        "region": "Dubai",
+        "category": ["Dubai"],
+        "requires": ""
+    },
+    {
+        "name": "Mexico City: Classic Tourist (400)",
+        "region": "Mexico City",
+        "category": ["Mexico City"],
+        "requires": ""
+    },
+    {
+        "name": "Mexico City: Classic Commuter (1000)",
+        "region": "Mexico City",
+        "category": ["Mexico City"],
+        "requires": ""
+    },
+    {
+        "name": "Mexico City: Classic Driver (2000)",
+        "region": "Mexico City",
+        "category": ["Mexico City"],
+        "requires": ""
+    },
+    {
+        "name": "Mexico City: Endless",
+        "region": "Mexico City",
+        "category": ["Mexico City"],
+        "requires": ""
+    },
+    {
+        "name": "Mexico City: Tunnels and Turnarounds (600)",
+        "region": "Mexico City",
+        "category": ["Mexico City"],
+        "requires": ""
+    },
+    {
+        "name": "Mexico City: Expert (500)",
+        "region": "Mexico City",
+        "category": ["Mexico City"],
+        "requires": ""
     }
 ]
