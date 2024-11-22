@@ -568,5 +568,83 @@
         "region": "Mexico City",
         "category": ["Mexico City"],
         "requires": ""
+    },
+    {
+        "name": "Wellington: Classic Tourist (400)",
+        "region": "Wellington",
+        "category": ["Wellington"],
+        "requires": ""
+    },
+    {
+        "name": "Wellington: Classic Commuter (1000)",
+        "region": "Wellington",
+        "category": ["Wellington"],
+        "requires": ""
+    },
+    {
+        "name": "Wellington: Classic Driver (2000)",
+        "region": "Wellington",
+        "category": ["Wellington"],
+        "requires": ""
+    },
+    {
+        "name": "Wellington: Endless",
+        "region": "Wellington",
+        "category": ["Wellington"],
+        "requires": ""
+    },
+    {
+        "name": "Wellington: There Can Be Only None (600)",
+        "region": "Wellington",
+        "category": ["Wellington"],
+        "requires": ""
+    },
+    {
+        "name": "Wellington: Expert (500)",
+        "region": "Wellington",
+        "category": ["Wellington"],
+        "requires": ""
+    },
+    {
+        "name": "Warsaw: Classic Tourist (400)",
+        "region": "Warsaw",
+        "category": ["Warsaw"],
+        "requires": ""
+    },
+    {
+        "name": "Warsaw: Classic Commuter (1000)",
+        "region": "Warsaw",
+        "category": ["Warsaw"],
+        "requires": ""
+    },
+    {
+        "name": "Warsaw: Classic Driver (2000)",
+        "region": "Warsaw",
+        "category": ["Warsaw"],
+        "requires": ""
+    },
+    {
+        "name": "Warsaw: Endless",
+        "region": "Warsaw",
+        "category": ["Warsaw"],
+        "requires": ""
+    },
+    {
+        "name": "Warsaw: Building Bridges (600)",
+        "region": "Warsaw",
+        "category": ["Warsaw"],
+        "requires": ""
+    },
+    {
+        "name": "Warsaw: Phoenix City (600)",
+        "region": "Warsaw",
+        "category": ["Warsaw"],
+        "requires": ""
+    },
+    {
+        "name": "Warsaw: Expert (500)",
+        "region": "Warsaw",
+        "category": ["Warsaw"],
+        "requires": ""
     }
 ]
