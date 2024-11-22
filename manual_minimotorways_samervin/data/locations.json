@@ -646,5 +646,83 @@
         "region": "Warsaw",
         "category": ["Warsaw"],
         "requires": ""
+    },
+    {
+        "name": "Chiang Mai: Classic Tourist (400)",
+        "region": "Chiang Mai",
+        "category": ["Chiang Mai"],
+        "requires": ""
+    },
+    {
+        "name": "Chiang Mai: Classic Commuter (1000)",
+        "region": "Chiang Mai",
+        "category": ["Chiang Mai"],
+        "requires": ""
+    },
+    {
+        "name": "Chiang Mai: Classic Driver (2000)",
+        "region": "Chiang Mai",
+        "category": ["Chiang Mai"],
+        "requires": ""
+    },
+    {
+        "name": "Chiang Mai: Endless",
+        "region": "Chiang Mai",
+        "category": ["Chiang Mai"],
+        "requires": ""
+    },
+    {
+        "name": "Chiang Mai: Mini Moat-erways (600)",
+        "region": "Chiang Mai",
+        "category": ["Chiang Mai"],
+        "requires": ""
+    },
+    {
+        "name": "Chiang Mai: Dense-ity (600)",
+        "region": "Chiang Mai",
+        "category": ["Chiang Mai"],
+        "requires": ""
+    },
+    {
+        "name": "Chiang Mai: Expert (500)",
+        "region": "Chiang Mai",
+        "category": ["Chiang Mai"],
+        "requires": ""
+    },
+    {
+        "name": "Lisbon: Classic Tourist (400)",
+        "region": "Lisbon",
+        "category": ["Lisbon"],
+        "requires": ""
+    },
+    {
+        "name": "Lisbon: Classic Commuter (1000)",
+        "region": "Lisbon",
+        "category": ["Lisbon"],
+        "requires": ""
+    },
+    {
+        "name": "Lisbon: Classic Driver (2000)",
+        "region": "Lisbon",
+        "category": ["Lisbon"],
+        "requires": ""
+    },
+    {
+        "name": "Lisbon: Endless",
+        "region": "Lisbon",
+        "category": ["Lisbon"],
+        "requires": ""
+    },
+    {
+        "name": "Lisbon: Troubled Waters (600)",
+        "region": "Lisbon",
+        "category": ["Lisbon"],
+        "requires": ""
+    },
+    {
+        "name": "Lisbon: Expert (500)",
+        "region": "Lisbon",
+        "category": ["Lisbon"],
+        "requires": ""
     }
 ]
