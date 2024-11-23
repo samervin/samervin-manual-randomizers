@@ -1,99 +1,123 @@
 [
     {
         "name": "Lancer",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Gravity Bomb",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Chopper",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Blitz Gun",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Pulse Rifle",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Miniturret Glove",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Seeker Gun",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Synthenoid",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Lava Gun",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Bouncer",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Minirocket Tube",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Spiderbot Glove",
-        "category": ["Weapon"]
+        "category": ["Weapon"],
+        "progression": true
     },
     {
         "name": "Plasma Coil",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Hoverbomb Gun",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Sheepinator",
-        "category": ["Weapon"]
+        "category": ["Weapon"],
+        "progression": true
     },
     {
         "name": "Shield Charger",
-        "category": ["Weapon"]
+        "category": ["Weapon"],
+        "progression": true
     },
     {
         "name": "Bomb Glove",
-        "category": ["Weapon"]
+        "category": ["Weapon"],
+        "progression": true
     },
     {
         "name": "Visibomb Gun",
-        "category": ["Weapon"]
+        "category": ["Weapon"],
+        "progression": true
     },
     {
         "name": "Decoy Glove",
-        "category": ["Weapon"]
+        "category": ["Weapon"],
+        "progression": true
     },
     {
         "name": "Tesla Claw",
-        "category": ["Weapon"]
+        "category": ["Weapon"],
+        "progression": true
     },
     {
         "name": "Walloper",
-        "category": ["Weapon"]
+        "category": ["Weapon"],
+        "progression": true
     },
     {
         "name": "Zodiac",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "R.Y.N.O. II",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Clank Zapper",
-        "category": ["Weapon"]
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
     },
     {
         "name": "Swingshot",

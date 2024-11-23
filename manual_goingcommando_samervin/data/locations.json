@@ -20,7 +20,7 @@
         "name": "Oozla: Defeat the secret swamp monster",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
-        "requires": "|Dynamo| and |Gravity Boots| and |@Weapon:24|"
+        "requires": "|Dynamo| and |Gravity Boots| and |@Combat Weapon:4|"
     },
     {
         "name": "Oozla Platinum Bolt: Tractor Beam",
@@ -49,55 +49,53 @@
         "name": "Maktar Nebula: Destroy the jamming array transponders",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": ""
+        "requires": "|Tractor Beam|"
     },
     {
         "name": "Maktar Nebula: Win the arena battle",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": ""
+        "requires": "|Electrolyzer|"
     },
     {
-        "name": "Maktar Nebula: Use the Electrolyzer",
+        "name": "Maktar Nebula: Repair the energy bridges",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": ""
+        "requires": "|Electrolyzer|"
     },
     {
         "name": "Maktar Nebula Platinum Bolt: Jamming array",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": ""
+        "requires": "|Tractor Beam|"
     },
     {
         "name": "Maktar Nebula Platinum Bolt: Crane ledge",
         "region": "Maktar Nebula",
-        "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": ""
+        "category": ["Maktar Nebula, Maktar Resort"]
     },
     {
         "name": "Maktar Nebula Skill Point: Vandalize",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": ""
+        "requires": "|Tractor Beam|"
     },
     {
         "name": "Maktar Nebula Skill Point: Wrench ninja: Blade to blade",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": ""
+        "requires": "|Electrolyzer|"
     },
     {
         "name": "Maktar Nebula Skill Point: 2B hit or not 2B hit",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": ""
+        "requires": "|Electrolyzer| and |@Combat Weapon:2|"
     },
     {
         "name": "Maktar Nebula Skill Point: Clank needs a new pair of shoes",
         "region": "Maktar Nebula",
-        "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": ""
+        "category": ["Maktar Nebula, Maktar Resort"]
     },
     {
         "name": "Endako: Rescue Clank + Free Ratchet",
