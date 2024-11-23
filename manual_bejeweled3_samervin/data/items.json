@@ -38,5 +38,46 @@
         "name": "Diamond Mine Mode",
         "category": ["Game Mode"],
         "progression": true
+    },
+    {
+        "name": "Relic Jewel",
+        "category": ["Relic"],
+        "count": 40,
+        "progression": true
+    },
+    {
+        "name": "Red Ruby",
+        "category": ["Victory Gem"],
+        "progression": true
+    },
+    {
+        "name": "Orange Citrine",
+        "category": ["Victory Gem"],
+        "progression": true
+    },
+    {
+        "name": "Yellow Topaz",
+        "category": ["Victory Gem"],
+        "progression": true
+    },
+    {
+        "name": "Green Emerald",
+        "category": ["Victory Gem"],
+        "progression": true
+    },
+    {
+        "name": "Blue Sapphire",
+        "category": ["Victory Gem"],
+        "progression": true
+    },
+    {
+        "name": "Purple Amethyst",
+        "category": ["Victory Gem"],
+        "progression": true
+    },
+    {
+        "name": "White Diamond",
+        "category": ["Victory Gem"],
+        "progression": true
     }
 ]

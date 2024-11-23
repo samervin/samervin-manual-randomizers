@@ -25,3 +25,17 @@ Classic level 5 unlocks Poker
 Zen level 5 unlocks Butterflies
 Lightning 100k unlocks Ice Storm
 4 Quests unlocks Diamond Mine
+
+### What are the locations?
+
+Each badge is four locations, one each for bronze, silver, gold, and platinum. (A few grindy badges are not included: Inferno, Stellar, Chromatic, Gambler.)
+
+Classic and Zen modes have additional checks for completing levels 4, 8, and 12.
+
+Quest mode has additional checks for revealing each relic (4/8 quests) and restoring each relic (all 8 quests).
+
+### What are the items?
+
+Each game mode has an associated item, which enables access to that mode's locations.
+
+All 40 jewels placed into relics in Quest mode are items. Multiples of 8 jewels are required to complete each relic and finish Quest mode.
