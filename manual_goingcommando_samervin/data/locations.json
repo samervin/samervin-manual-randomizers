@@ -3,43 +3,47 @@
         "name": "Oozla: Explore the swamp + Buy Tractor Beam",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
-        "requires": ""
+        "requires": "|Tractor Beam|"
+    },
+    {
+        "name": "Oozla: Find the store entrance",
+        "region": "Oozla",
+        "category": ["Oozla, Megacorp Outlet"]
     },
     {
         "name": "Oozla: Investigate the Megacorp store",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
-        "requires": ""
+        "requires": "|Dynamo|"
     },
     {
         "name": "Oozla: Defeat the secret swamp monster",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
-        "requires": ""
+        "requires": "|Dynamo| and |Gravity Boots| and |@Weapon:24|"
     },
     {
         "name": "Oozla Platinum Bolt: Tractor Beam",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
-        "requires": ""
+        "requires": "|Tractor Beam|"
     },
     {
         "name": "Oozla Platinum Bolt: Firefly cave",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
-        "requires": ""
+        "requires": "|Tractor Beam| and |Dynamo|"
     },
     {
         "name": "Oozla Skill Point: Prehistoric rampage",
         "region": "Oozla",
-        "category": ["Oozla, Megacorp Outlet"],
-        "requires": ""
+        "category": ["Oozla, Megacorp Outlet"]
     },
     {
         "name": "Oozla Skill Point: Smash and grab",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
-        "requires": ""
+        "requires": "|Dynamo|"
     },
     {
         "name": "Maktar Nebula: Destroy the jamming array transponders",

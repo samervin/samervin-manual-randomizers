@@ -101,7 +101,8 @@
     },
     {
         "name": "Dynamo",
-        "category": ["Gadget"]
+        "category": ["Gadget"],
+        "progression": true
     },
     {
         "name": "Thermanator",
@@ -109,7 +110,8 @@
     },
     {
         "name": "Tractor Beam",
-        "category": ["Gadget"]
+        "category": ["Gadget"],
+        "progression": true
     },
     {
         "name": "Hypnomatic",
@@ -129,7 +131,8 @@
     },
     {
         "name": "Gravity Boots",
-        "category": ["Gadget"]
+        "category": ["Gadget"],
+        "progression": true
     },
     {
         "name": "Charge Boots",
