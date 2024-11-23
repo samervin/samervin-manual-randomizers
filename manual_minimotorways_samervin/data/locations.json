@@ -724,5 +724,47 @@
         "region": "Lisbon",
         "category": ["Lisbon"],
         "requires": ""
+    },
+    {
+        "name": "Busan: Classic Tourist (400)",
+        "region": "Busan",
+        "category": ["Busan"],
+        "requires": ""
+    },
+    {
+        "name": "Busan: Classic Commuter (1000)",
+        "region": "Busan",
+        "category": ["Busan"],
+        "requires": ""
+    },
+    {
+        "name": "Busan: Classic Driver (2000)",
+        "region": "Busan",
+        "category": ["Busan"],
+        "requires": ""
+    },
+    {
+        "name": "Busan: Endless",
+        "region": "Busan",
+        "category": ["Busan"],
+        "requires": ""
+    },
+    {
+        "name": "Busan: All Gas No Brakes (600)",
+        "region": "Busan",
+        "category": ["Busan"],
+        "requires": ""
+    },
+    {
+        "name": "Busan: Haeundae Style (600)",
+        "region": "Busan",
+        "category": ["Busan"],
+        "requires": ""
+    },
+    {
+        "name": "Busan: Expert (500)",
+        "region": "Busan",
+        "category": ["Busan"],
+        "requires": ""
     }
 ]
