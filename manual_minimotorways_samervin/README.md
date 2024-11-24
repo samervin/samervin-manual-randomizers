@@ -9,12 +9,13 @@ Getting started:
 
 Locations:
 - Tourist (400), Commuter (1000), and Driver (2000) milestones in classic mode for all maps
+- Endless mode milestones for all maps
 - Challenge milestones (600) for all challenges, 1-3 per map
 - Expert milestone (500) in expert mode on all maps
 
 Items:
 - Maps unlock that city for playing. You start with 3 random maps.
-- For classic mode only, motorways, bridges, tunnels, roundabouts, and traffic lights are locked behind items.
+- For classic and endless modes: motorways, bridges, tunnels, roundabouts, and traffic lights are locked behind items.
     - You may use any items provided at the start of the map, i.e. you usually start with one bridge.
     - Motorways, bridges, and tunnels are all logically required for the Driver (2000) milestone, but feel free to go for it out of logic.
     - Challenges and expert mode have no item locks, so play those as normal.
