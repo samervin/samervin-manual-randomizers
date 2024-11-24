@@ -1,0 +1,86 @@
+{
+    "Los Angeles": {
+        "connects_to": [],
+        "requires": ["Los Angeles map"]
+    },
+    "Beijing": {
+        "connects_to": [],
+        "requires": ["Beijing map"]
+    },
+    "Tokyo": {
+        "connects_to": [],
+        "requires": ["Tokyo map"]
+    },
+    "London": {
+        "connects_to": [],
+        "requires": ["London map"]
+    },
+    "Mumbai": {
+        "connects_to": [],
+        "requires": ["Mumbai map"]
+    },
+    "New York City": {
+        "connects_to": [],
+        "requires": ["New York City map"]
+    },
+    "Dar es Salaam": {
+        "connects_to": [],
+        "requires": ["Dar es Salaam map"]
+    },
+    "Moscow": {
+        "connects_to": [],
+        "requires": ["Moscow map"]
+    },
+    "Munich": {
+        "connects_to": [],
+        "requires": ["Munich map"]
+    },
+    "Zurich": {
+        "connects_to": [],
+        "requires": ["Zurich map"]
+    },
+    "Manila": {
+        "connects_to": [],
+        "requires": ["Manila map"]
+    },
+    "Rio de Janeiro": {
+        "connects_to": [],
+        "requires": ["Rio de Janeiro map"]
+    },
+    "Dubai": {
+        "connects_to": [],
+        "requires": ["Dubai map"]
+    },
+    "Mexico City": {
+        "connects_to": [],
+        "requires": ["Mexico City map"]
+    },
+    "Wellington": {
+        "connects_to": [],
+        "requires": ["Wellington map"]
+    },
+    "Warsaw": {
+        "connects_to": [],
+        "requires": ["Warsaw map"]
+    },
+    "Chiang Mai": {
+        "connects_to": [],
+        "requires": ["Chiang Mai map"]
+    },
+    "Lisbon": {
+        "connects_to": [],
+        "requires": ["Lisbon map"]
+    },
+    "Busan": {
+        "connects_to": [],
+        "requires": ["Busan map"]
+    },
+    "Reykjavik": {
+        "connects_to": [],
+        "requires": ["Reykjavik map"]
+    },
+    "Vancouver": {
+        "connects_to": [],
+        "requires": ["Vancouver map"]
+    }
+}

@@ -2,854 +2,733 @@
     {
         "name": "Los Angeles: Classic Tourist (400)",
         "region": "Los Angeles",
-        "category": ["Los Angeles"],
-        "requires": "|Los Angeles map|"
+        "category": ["Los Angeles"]
     },
     {
         "name": "Los Angeles: Classic Commuter (1000)",
         "region": "Los Angeles",
-        "category": ["Los Angeles"],
-        "requires": "|Los Angeles map|"
+        "category": ["Los Angeles"]
     },
     {
         "name": "Los Angeles: Classic Driver (2000)",
         "region": "Los Angeles",
         "category": ["Los Angeles"],
-        "requires": "|Los Angeles map| and |Los Angeles motorways| and |Los Angeles bridges| and |Los Angeles tunnels|"
+        "requires": "|Los Angeles motorways| and |Los Angeles bridges| and |Los Angeles tunnels|"
     },
     {
         "name": "Los Angeles: Endless Milestone 20",
         "region": "Los Angeles",
-        "category": ["Los Angeles"],
-        "requires": "|Los Angeles map|"
+        "category": ["Los Angeles"]
     },
     {
         "name": "Los Angeles: Highway to Hollywood (600)",
         "region": "Los Angeles",
-        "category": ["Los Angeles"],
-        "requires": "|Los Angeles map|"
+        "category": ["Los Angeles"]
     },
     {
         "name": "Los Angeles: Stars in Their Eyes (600)",
         "region": "Los Angeles",
-        "category": ["Los Angeles"],
-        "requires": "|Los Angeles map|"
+        "category": ["Los Angeles"]
     },
     {
         "name": "Los Angeles: Gridlock (600)",
         "region": "Los Angeles",
-        "category": ["Los Angeles"],
-        "requires": "|Los Angeles map|"
+        "category": ["Los Angeles"]
     },
     {
         "name": "Los Angeles: Expert (500)",
         "region": "Los Angeles",
-        "category": ["Los Angeles"],
-        "requires": "|Los Angeles map|"
+        "category": ["Los Angeles"]
     },
     {
         "name": "Beijing: Classic Tourist (400)",
         "region": "Beijing",
-        "category": ["Beijing"],
-        "requires": "|Beijing map|"
+        "category": ["Beijing"]
     },
     {
         "name": "Beijing: Classic Commuter (1000)",
         "region": "Beijing",
-        "category": ["Beijing"],
-        "requires": "|Beijing map|"
+        "category": ["Beijing"]
     },
     {
         "name": "Beijing: Classic Driver (2000)",
         "region": "Beijing",
         "category": ["Beijing"],
-        "requires": "|Beijing map| and |Beijing motorways| and |Beijing bridges|"
+        "requires": "|Beijing motorways| and |Beijing bridges|"
     },
     {
         "name": "Beijing: Endless Milestone 20",
         "region": "Beijing",
-        "category": ["Beijing"],
-        "requires": "|Beijing map|"
+        "category": ["Beijing"]
     },
     {
         "name": "Beijing: Megacity (600)",
         "region": "Beijing",
-        "category": ["Beijing"],
-        "requires": "|Beijing map|"
+        "category": ["Beijing"]
     },
     {
         "name": "Beijing: Round and Round and Round (600)",
         "region": "Beijing",
-        "category": ["Beijing"],
-        "requires": "|Beijing map|"
+        "category": ["Beijing"]
     },
     {
         "name": "Beijing: Expert (500)",
         "region": "Beijing",
-        "category": ["Beijing"],
-        "requires": "|Beijing map|"
+        "category": ["Beijing"]
     },
     {
         "name": "Tokyo: Classic Tourist (400)",
         "region": "Tokyo",
-        "category": ["Tokyo"],
-        "requires": "|Tokyo map|"
+        "category": ["Tokyo"]
     },
     {
         "name": "Tokyo: Classic Commuter (1000)",
         "region": "Tokyo",
-        "category": ["Tokyo"],
-        "requires": "|Tokyo map|"
+        "category": ["Tokyo"]
     },
     {
         "name": "Tokyo: Classic Driver (2000)",
         "region": "Tokyo",
         "category": ["Tokyo"],
-        "requires": "|Tokyo map| and |Tokyo motorways| and |Tokyo bridges|"
+        "requires": "|Tokyo motorways| and |Tokyo bridges|"
     },
     {
         "name": "Tokyo: Endless Milestone 20",
         "region": "Tokyo",
-        "category": ["Tokyo"],
-        "requires": "|Tokyo map|"
+        "category": ["Tokyo"]
     },
     {
         "name": "Tokyo: Concrete Jungle (600)",
         "region": "Tokyo",
-        "category": ["Tokyo"],
-        "requires": "|Tokyo map|"
+        "category": ["Tokyo"]
     },
     {
         "name": "Tokyo: Tree's a Crowd (600)",
         "region": "Tokyo",
-        "category": ["Tokyo"],
-        "requires": "|Tokyo map|"
+        "category": ["Tokyo"]
     },
     {
         "name": "Tokyo: Expert (500)",
         "region": "Tokyo",
-        "category": ["Tokyo"],
-        "requires": "|Tokyo map|"
+        "category": ["Tokyo"]
     },
     {
         "name": "London: Classic Tourist (400)",
         "region": "London",
-        "category": ["London"],
-        "requires": "|London map|"
+        "category": ["London"]
     },
     {
         "name": "London: Classic Commuter (1000)",
         "region": "London",
-        "category": ["London"],
-        "requires": "|London map|"
+        "category": ["London"]
     },
     {
         "name": "London: Classic Driver (2000)",
         "region": "London",
         "category": ["London"],
-        "requires": "|London map| and |London motorways| and |London bridges|"
+        "requires": "|London motorways| and |London bridges|"
     },
     {
         "name": "London: Endless Milestone 20",
         "region": "London",
-        "category": ["London"],
-        "requires": "|London map|"
+        "category": ["London"]
     },
     {
         "name": "London: Water Under the Bridge (600)",
         "region": "London",
-        "category": ["London"],
-        "requires": "|London map|"
+        "category": ["London"]
     },
     {
         "name": "London: Expert (500)",
         "region": "London",
-        "category": ["London"],
-        "requires": "|London map|"
+        "category": ["London"]
     },
     {
         "name": "Mumbai: Classic Tourist (400)",
         "region": "Mumbai",
-        "category": ["Mumbai"],
-        "requires": "|Mumbai map|"
+        "category": ["Mumbai"]
     },
     {
         "name": "Mumbai: Classic Commuter (1000)",
         "region": "Mumbai",
-        "category": ["Mumbai"],
-        "requires": "|Mumbai map|"
+        "category": ["Mumbai"]
     },
     {
         "name": "Mumbai: Classic Driver (2000)",
         "region": "Mumbai",
         "category": ["Mumbai"],
-        "requires": "|Mumbai map| and |Mumbai motorways| and |Mumbai bridges|"
+        "requires": "|Mumbai motorways| and |Mumbai bridges|"
     },
     {
         "name": "Mumbai: Endless Milestone 20",
         "region": "Mumbai",
-        "category": ["Mumbai"],
-        "requires": "|Mumbai map|"
+        "category": ["Mumbai"]
     },
     {
         "name": "Mumbai: All You Can Concrete (600)",
         "region": "Mumbai",
-        "category": ["Mumbai"],
-        "requires": "|Mumbai map|"
+        "category": ["Mumbai"]
     },
     {
         "name": "Mumbai: Pump the Brakes (600)",
         "region": "Mumbai",
-        "category": ["Mumbai"],
-        "requires": "|Mumbai map|"
+        "category": ["Mumbai"]
     },
     {
         "name": "Mumbai: Expert (500)",
         "region": "Mumbai",
-        "category": ["Mumbai"],
-        "requires": "|Mumbai map|"
+        "category": ["Mumbai"]
     },
     {
         "name": "New York City: Classic Tourist (400)",
         "region": "New York City",
-        "category": ["New York City"],
-        "requires": "|New York City map|"
+        "category": ["New York City"]
     },
     {
         "name": "New York City: Classic Commuter (1000)",
         "region": "New York City",
-        "category": ["New York City"],
-        "requires": "|New York City map|"
+        "category": ["New York City"]
     },
     {
         "name": "New York City: Classic Driver (2000)",
         "region": "New York City",
         "category": ["New York City"],
-        "requires": "|New York City map| and |New York City motorways| and |New York City bridges|"
+        "requires": "|New York City motorways| and |New York City bridges|"
     },
     {
         "name": "New York City: Endless Milestone 20",
         "region": "New York City",
-        "category": ["New York City"],
-        "requires": "|New York City map|"
+        "category": ["New York City"]
     },
     {
         "name": "New York City: Where Dreams Are Made Of (600)",
         "region": "New York City",
-        "category": ["New York City"],
-        "requires": "|New York City map|"
+        "category": ["New York City"]
     },
     {
         "name": "New York City: Expert (500)",
         "region": "New York City",
-        "category": ["New York City"],
-        "requires": "|New York City map|"
+        "category": ["New York City"]
     },
     {
         "name": "Dar es Salaam: Classic Tourist (400)",
         "region": "Dar es Salaam",
-        "category": ["Dar es Salaam"],
-        "requires": "|Dar es Salaam map|"
+        "category": ["Dar es Salaam"]
     },
     {
         "name": "Dar es Salaam: Classic Commuter (1000)",
         "region": "Dar es Salaam",
-        "category": ["Dar es Salaam"],
-        "requires": "|Dar es Salaam map|"
+        "category": ["Dar es Salaam"]
     },
     {
         "name": "Dar es Salaam: Classic Driver (2000)",
         "region": "Dar es Salaam",
         "category": ["Dar es Salaam"],
-        "requires": "|Dar es Salaam map| and |Dar es Salaam motorways| and |Dar es Salaam bridges|"
+        "requires": "|Dar es Salaam motorways| and |Dar es Salaam bridges|"
     },
     {
         "name": "Dar es Salaam: Endless Milestone 20",
         "region": "Dar es Salaam",
-        "category": ["Dar es Salaam"],
-        "requires": "|Dar es Salaam map|"
+        "category": ["Dar es Salaam"]
     },
     {
         "name": "Dar es Salaam: Place of Peace (600)",
         "region": "Dar es Salaam",
-        "category": ["Dar es Salaam"],
-        "requires": "|Dar es Salaam map|"
+        "category": ["Dar es Salaam"]
     },
     {
         "name": "Dar es Salaam: Expert (500)",
         "region": "Dar es Salaam",
-        "category": ["Dar es Salaam"],
-        "requires": "|Dar es Salaam map|"
+        "category": ["Dar es Salaam"]
     },
     {
         "name": "Moscow: Classic Tourist (400)",
         "region": "Moscow",
-        "category": ["Moscow"],
-        "requires": "|Moscow map|"
+        "category": ["Moscow"]
     },
     {
         "name": "Moscow: Classic Commuter (1000)",
         "region": "Moscow",
-        "category": ["Moscow"],
-        "requires": "|Moscow map|"
+        "category": ["Moscow"]
     },
     {
         "name": "Moscow: Classic Driver (2000)",
         "region": "Moscow",
         "category": ["Moscow"],
-        "requires": "|Moscow map| and |Moscow motorways| and |Moscow bridges|"
+        "requires": "|Moscow motorways| and |Moscow bridges|"
     },
     {
         "name": "Moscow: Endless Milestone 20",
         "region": "Moscow",
-        "category": ["Moscow"],
-        "requires": "|Moscow map|"
+        "category": ["Moscow"]
     },
     {
         "name": "Moscow: All About Intersections (600)",
         "region": "Moscow",
-        "category": ["Moscow"],
-        "requires": "|Moscow map|"
+        "category": ["Moscow"]
     },
     {
         "name": "Moscow: Go with the Flow (600)",
         "region": "Moscow",
-        "category": ["Moscow"],
-        "requires": "|Moscow map|"
+        "category": ["Moscow"]
     },
     {
         "name": "Moscow: Expert (500)",
         "region": "Moscow",
-        "category": ["Moscow"],
-        "requires": "|Moscow map|"
+        "category": ["Moscow"]
     },
     {
         "name": "Munich: Classic Tourist (400)",
         "region": "Munich",
-        "category": ["Munich"],
-        "requires": "|Munich map|"
+        "category": ["Munich"]
     },
     {
         "name": "Munich: Classic Commuter (1000)",
         "region": "Munich",
-        "category": ["Munich"],
-        "requires": "|Munich map|"
+        "category": ["Munich"]
     },
     {
         "name": "Munich: Classic Driver (2000)",
         "region": "Munich",
         "category": ["Munich"],
-        "requires": "|Munich map| and |Munich motorways| and |Munich bridges|"
+        "requires": "|Munich motorways| and |Munich bridges|"
     },
     {
         "name": "Munich: Endless Milestone 20",
         "region": "Munich",
-        "category": ["Munich"],
-        "requires": "|Munich map|"
+        "category": ["Munich"]
     },
     {
         "name": "Munich: One of a Kind (600)",
         "region": "Munich",
-        "category": ["Munich"],
-        "requires": "|Munich map|"
+        "category": ["Munich"]
     },
     {
         "name": "Munich: Mind the Gap (600)",
         "region": "Munich",
-        "category": ["Munich"],
-        "requires": "|Munich map|"
+        "category": ["Munich"]
     },
     {
         "name": "Munich: Expert (500)",
         "region": "Munich",
-        "category": ["Munich"],
-        "requires": "|Munich map|"
+        "category": ["Munich"]
     },
     {
         "name": "Zurich: Classic Tourist (400)",
         "region": "Zurich",
-        "category": ["Zurich"],
-        "requires": "|Zurich map|"
+        "category": ["Zurich"]
     },
     {
         "name": "Zurich: Classic Commuter (1000)",
         "region": "Zurich",
-        "category": ["Zurich"],
-        "requires": "|Zurich map|"
+        "category": ["Zurich"]
     },
     {
         "name": "Zurich: Classic Driver (2000)",
         "region": "Zurich",
         "category": ["Zurich"],
-        "requires": "|Zurich map| and |Zurich motorways| and |Zurich bridges| and |Zurich tunnels|"
+        "requires": "|Zurich motorways| and |Zurich bridges| and |Zurich tunnels|"
     },
     {
         "name": "Zurich: Endless Milestone 20",
         "region": "Zurich",
-        "category": ["Zurich"],
-        "requires": "|Zurich map|"
+        "category": ["Zurich"]
     },
     {
         "name": "Zurich: Resource Management (600)",
         "region": "Zurich",
-        "category": ["Zurich"],
-        "requires": "|Zurich map|"
+        "category": ["Zurich"]
     },
     {
         "name": "Zurich: Many Tiny Tunnels (600)",
         "region": "Zurich",
-        "category": ["Zurich"],
-        "requires": "|Zurich map|"
+        "category": ["Zurich"]
     },
     {
         "name": "Zurich: Expert (500)",
         "region": "Zurich",
-        "category": ["Zurich"],
-        "requires": "|Zurich map|"
+        "category": ["Zurich"]
     },
     {
         "name": "Manila: Classic Tourist (400)",
         "region": "Manila",
-        "category": ["Manila"],
-        "requires": "|Manila map|"
+        "category": ["Manila"]
     },
     {
         "name": "Manila: Classic Commuter (1000)",
         "region": "Manila",
-        "category": ["Manila"],
-        "requires": "|Manila map|"
+        "category": ["Manila"]
     },
     {
         "name": "Manila: Classic Driver (2000)",
         "region": "Manila",
         "category": ["Manila"],
-        "requires": "|Manila map| and |Manila motorways| and |Manila bridges|"
+        "requires": "|Manila motorways| and |Manila bridges|"
     },
     {
         "name": "Manila: Endless Milestone 20",
         "region": "Manila",
-        "category": ["Manila"],
-        "requires": "|Manila map|"
+        "category": ["Manila"]
     },
     {
         "name": "Manila: Double or Nothing (600)",
         "region": "Manila",
-        "category": ["Manila"],
-        "requires": "|Manila map|"
+        "category": ["Manila"]
     },
     {
         "name": "Manila: Travel Light (600)",
         "region": "Manila",
-        "category": ["Manila"],
-        "requires": "|Manila map|"
+        "category": ["Manila"]
     },
     {
         "name": "Manila: Expert (500)",
         "region": "Manila",
-        "category": ["Manila"],
-        "requires": "|Manila map|"
+        "category": ["Manila"]
     },
     {
         "name": "Rio de Janeiro: Classic Tourist (400)",
         "region": "Rio de Janeiro",
-        "category": ["Rio de Janeiro"],
-        "requires": "|Rio de Janeiro map|"
+        "category": ["Rio de Janeiro"]
     },
     {
         "name": "Rio de Janeiro: Classic Commuter (1000)",
         "region": "Rio de Janeiro",
-        "category": ["Rio de Janeiro"],
-        "requires": "|Rio de Janeiro map|"
+        "category": ["Rio de Janeiro"]
     },
     {
         "name": "Rio de Janeiro: Classic Driver (2000)",
         "region": "Rio de Janeiro",
         "category": ["Rio de Janeiro"],
-        "requires": "|Rio de Janeiro map| and |Rio de Janeiro motorways| and |Rio de Janeiro bridges| and |Rio de Janeiro tunnels|"
+        "requires": "|Rio de Janeiro motorways| and |Rio de Janeiro bridges| and |Rio de Janeiro tunnels|"
     },
     {
         "name": "Rio de Janeiro: Endless Milestone 20",
         "region": "Rio de Janeiro",
-        "category": ["Rio de Janeiro"],
-        "requires": "|Rio de Janeiro map|"
+        "category": ["Rio de Janeiro"]
     },
     {
         "name": "Rio de Janeiro: The Road Less Traveled (600)",
         "region": "Rio de Janeiro",
-        "category": ["Rio de Janeiro"],
-        "requires": "|Rio de Janeiro map|"
+        "category": ["Rio de Janeiro"]
     },
     {
         "name": "Rio de Janeiro: One with Nature (600)",
         "region": "Rio de Janeiro",
-        "category": ["Rio de Janeiro"],
-        "requires": "|Rio de Janeiro map|"
+        "category": ["Rio de Janeiro"]
     },
     {
         "name": "Rio de Janeiro: Expert (500)",
         "region": "Rio de Janeiro",
-        "category": ["Rio de Janeiro"],
-        "requires": "|Rio de Janeiro map|"
+        "category": ["Rio de Janeiro"]
     },
     {
         "name": "Dubai: Classic Tourist (400)",
         "region": "Dubai",
-        "category": ["Dubai"],
-        "requires": "|Dubai map|"
+        "category": ["Dubai"]
     },
     {
         "name": "Dubai: Classic Commuter (1000)",
         "region": "Dubai",
-        "category": ["Dubai"],
-        "requires": "|Dubai map|"
+        "category": ["Dubai"]
     },
     {
         "name": "Dubai: Classic Driver (2000)",
         "region": "Dubai",
         "category": ["Dubai"],
-        "requires": "|Dubai map| and |Dubai motorways| and |Dubai bridges|"
+        "requires": "|Dubai motorways| and |Dubai bridges|"
     },
     {
         "name": "Dubai: Endless Milestone 20",
         "region": "Dubai",
-        "category": ["Dubai"],
-        "requires": "|Dubai map|"
+        "category": ["Dubai"]
     },
     {
         "name": "Dubai: Rapid Growth (600)",
         "region": "Dubai",
-        "category": ["Dubai"],
-        "requires": "|Dubai map|"
+        "category": ["Dubai"]
     },
     {
         "name": "Dubai: Wild Card (600)",
         "region": "Dubai",
-        "category": ["Dubai"],
-        "requires": "|Dubai map|"
+        "category": ["Dubai"]
     },
     {
         "name": "Dubai: Expert (500)",
         "region": "Dubai",
-        "category": ["Dubai"],
-        "requires": "|Dubai map|"
+        "category": ["Dubai"]
     },
     {
         "name": "Mexico City: Classic Tourist (400)",
         "region": "Mexico City",
-        "category": ["Mexico City"],
-        "requires": "|Mexico City map|"
+        "category": ["Mexico City"]
     },
     {
         "name": "Mexico City: Classic Commuter (1000)",
         "region": "Mexico City",
-        "category": ["Mexico City"],
-        "requires": "|Mexico City map|"
+        "category": ["Mexico City"]
     },
     {
         "name": "Mexico City: Classic Driver (2000)",
         "region": "Mexico City",
         "category": ["Mexico City"],
-        "requires": "|Mexico City map| and |Mexico City motorways| and |Mexico City tunnels|"
+        "requires": "|Mexico City motorways| and |Mexico City tunnels|"
     },
     {
         "name": "Mexico City: Endless Milestone 20",
         "region": "Mexico City",
-        "category": ["Mexico City"],
-        "requires": "|Mexico City map|"
+        "category": ["Mexico City"]
     },
     {
         "name": "Mexico City: Tunnels and Turnarounds (600)",
         "region": "Mexico City",
-        "category": ["Mexico City"],
-        "requires": "|Mexico City map|"
+        "category": ["Mexico City"]
     },
     {
         "name": "Mexico City: Expert (500)",
         "region": "Mexico City",
-        "category": ["Mexico City"],
-        "requires": "|Mexico City map|"
+        "category": ["Mexico City"]
     },
     {
         "name": "Wellington: Classic Tourist (400)",
         "region": "Wellington",
-        "category": ["Wellington"],
-        "requires": "|Wellington map|"
+        "category": ["Wellington"]
     },
     {
         "name": "Wellington: Classic Commuter (1000)",
         "region": "Wellington",
-        "category": ["Wellington"],
-        "requires": "|Wellington map|"
+        "category": ["Wellington"]
     },
     {
         "name": "Wellington: Classic Driver (2000)",
         "region": "Wellington",
         "category": ["Wellington"],
-        "requires": "|Wellington map| and |Wellington motorways| and |Wellington bridges| and |Wellington tunnels|"
+        "requires": "|Wellington motorways| and |Wellington bridges| and |Wellington tunnels|"
     },
     {
         "name": "Wellington: Endless Milestone 20",
         "region": "Wellington",
-        "category": ["Wellington"],
-        "requires": "|Wellington map|"
+        "category": ["Wellington"]
     },
     {
         "name": "Wellington: There Can Be Only None (600)",
         "region": "Wellington",
-        "category": ["Wellington"],
-        "requires": "|Wellington map|"
+        "category": ["Wellington"]
     },
     {
         "name": "Wellington: Expert (500)",
         "region": "Wellington",
-        "category": ["Wellington"],
-        "requires": "|Wellington map|"
+        "category": ["Wellington"]
     },
     {
         "name": "Warsaw: Classic Tourist (400)",
         "region": "Warsaw",
-        "category": ["Warsaw"],
-        "requires": "|Warsaw map|"
+        "category": ["Warsaw"]
     },
     {
         "name": "Warsaw: Classic Commuter (1000)",
         "region": "Warsaw",
-        "category": ["Warsaw"],
-        "requires": "|Warsaw map|"
+        "category": ["Warsaw"]
     },
     {
         "name": "Warsaw: Classic Driver (2000)",
         "region": "Warsaw",
         "category": ["Warsaw"],
-        "requires": "|Warsaw map| and |Warsaw motorways| and |Warsaw bridges|"
+        "requires": "|Warsaw motorways| and |Warsaw bridges|"
     },
     {
         "name": "Warsaw: Endless Milestone 20",
         "region": "Warsaw",
-        "category": ["Warsaw"],
-        "requires": "|Warsaw map|"
+        "category": ["Warsaw"]
     },
     {
         "name": "Warsaw: Building Bridges (600)",
         "region": "Warsaw",
-        "category": ["Warsaw"],
-        "requires": "|Warsaw map|"
+        "category": ["Warsaw"]
     },
     {
         "name": "Warsaw: Phoenix City (600)",
         "region": "Warsaw",
-        "category": ["Warsaw"],
-        "requires": "|Warsaw map|"
+        "category": ["Warsaw"]
     },
     {
         "name": "Warsaw: Expert (500)",
         "region": "Warsaw",
-        "category": ["Warsaw"],
-        "requires": "|Warsaw map|"
+        "category": ["Warsaw"]
     },
     {
         "name": "Chiang Mai: Classic Tourist (400)",
         "region": "Chiang Mai",
-        "category": ["Chiang Mai"],
-        "requires": "|Chiang Mai map|"
+        "category": ["Chiang Mai"]
     },
     {
         "name": "Chiang Mai: Classic Commuter (1000)",
         "region": "Chiang Mai",
-        "category": ["Chiang Mai"],
-        "requires": "|Chiang Mai map|"
+        "category": ["Chiang Mai"]
     },
     {
         "name": "Chiang Mai: Classic Driver (2000)",
         "region": "Chiang Mai",
         "category": ["Chiang Mai"],
-        "requires": "|Chiang Mai map| and |Chiang Mai motorways| and |Chiang Mai bridges|"
+        "requires": "|Chiang Mai motorways| and |Chiang Mai bridges|"
     },
     {
         "name": "Chiang Mai: Endless Milestone 20",
         "region": "Chiang Mai",
-        "category": ["Chiang Mai"],
-        "requires": "|Chiang Mai map|"
+        "category": ["Chiang Mai"]
     },
     {
         "name": "Chiang Mai: Mini Moat-erways (600)",
         "region": "Chiang Mai",
-        "category": ["Chiang Mai"],
-        "requires": "|Chiang Mai map|"
+        "category": ["Chiang Mai"]
     },
     {
         "name": "Chiang Mai: Dense-ity (600)",
         "region": "Chiang Mai",
-        "category": ["Chiang Mai"],
-        "requires": "|Chiang Mai map|"
+        "category": ["Chiang Mai"]
     },
     {
         "name": "Chiang Mai: Expert (500)",
         "region": "Chiang Mai",
-        "category": ["Chiang Mai"],
-        "requires": "|Chiang Mai map|"
+        "category": ["Chiang Mai"]
     },
     {
         "name": "Lisbon: Classic Tourist (400)",
         "region": "Lisbon",
-        "category": ["Lisbon"],
-        "requires": "|Lisbon map|"
+        "category": ["Lisbon"]
     },
     {
         "name": "Lisbon: Classic Commuter (1000)",
         "region": "Lisbon",
-        "category": ["Lisbon"],
-        "requires": "|Lisbon map|"
+        "category": ["Lisbon"]
     },
     {
         "name": "Lisbon: Classic Driver (2000)",
         "region": "Lisbon",
         "category": ["Lisbon"],
-        "requires": "|Lisbon map| and |Lisbon motorways| and |Lisbon bridges|"
+        "requires": "|Lisbon motorways| and |Lisbon bridges|"
     },
     {
         "name": "Lisbon: Endless Milestone 20",
         "region": "Lisbon",
-        "category": ["Lisbon"],
-        "requires": "|Lisbon map|"
+        "category": ["Lisbon"]
     },
     {
         "name": "Lisbon: Troubled Waters (600)",
         "region": "Lisbon",
-        "category": ["Lisbon"],
-        "requires": "|Lisbon map|"
+        "category": ["Lisbon"]
     },
     {
         "name": "Lisbon: Expert (500)",
         "region": "Lisbon",
-        "category": ["Lisbon"],
-        "requires": "|Lisbon map|"
+        "category": ["Lisbon"]
     },
     {
         "name": "Busan: Classic Tourist (400)",
         "region": "Busan",
-        "category": ["Busan"],
-        "requires": "|Busan map|"
+        "category": ["Busan"]
     },
     {
         "name": "Busan: Classic Commuter (1000)",
         "region": "Busan",
-        "category": ["Busan"],
-        "requires": "|Busan map|"
+        "category": ["Busan"]
     },
     {
         "name": "Busan: Classic Driver (2000)",
         "region": "Busan",
         "category": ["Busan"],
-        "requires": "|Busan map| and |Busan motorways| and |Busan bridges|"
+        "requires": "|Busan motorways| and |Busan bridges|"
     },
     {
         "name": "Busan: Endless Milestone 20",
         "region": "Busan",
-        "category": ["Busan"],
-        "requires": "|Busan map|"
+        "category": ["Busan"]
     },
     {
         "name": "Busan: All Gas No Brakes (600)",
         "region": "Busan",
-        "category": ["Busan"],
-        "requires": "|Busan map|"
+        "category": ["Busan"]
     },
     {
         "name": "Busan: Haeundae Style (600)",
         "region": "Busan",
-        "category": ["Busan"],
-        "requires": "|Busan map|"
+        "category": ["Busan"]
     },
     {
         "name": "Busan: Expert (500)",
         "region": "Busan",
-        "category": ["Busan"],
-        "requires": "|Busan map|"
+        "category": ["Busan"]
     },
     {
         "name": "Reykjavik: Classic Tourist (400)",
         "region": "Reykjavik",
-        "category": ["Reykjavik"],
-        "requires": "|Reykjavik map|"
+        "category": ["Reykjavik"]
     },
     {
         "name": "Reykjavik: Classic Commuter (1000)",
         "region": "Reykjavik",
-        "category": ["Reykjavik"],
-        "requires": "|Reykjavik map|"
+        "category": ["Reykjavik"]
     },
     {
         "name": "Reykjavik: Classic Driver (2000)",
         "region": "Reykjavik",
         "category": ["Reykjavik"],
-        "requires": "|Reykjavik map| and |Reykjavik motorways| and |Reykjavik bridges| and |Reykjavik tunnels|"
+        "requires": "|Reykjavik motorways| and |Reykjavik bridges| and |Reykjavik tunnels|"
     },
     {
         "name": "Reykjavik: Endless Milestone 20",
         "region": "Reykjavik",
-        "category": ["Reykjavik"],
-        "requires": "|Reykjavik map|"
+        "category": ["Reykjavik"]
     },
     {
         "name": "Reykjavik: Cozy Coast (600)",
         "region": "Reykjavik",
-        "category": ["Reykjavik"],
-        "requires": "|Reykjavik map|"
+        "category": ["Reykjavik"]
     },
     {
         "name": "Reykjavik: Chaos Coast (600)",
         "region": "Reykjavik",
-        "category": ["Reykjavik"],
-        "requires": "|Reykjavik map|"
+        "category": ["Reykjavik"]
     },
     {
         "name": "Reykjavik: Expert (500)",
         "region": "Reykjavik",
-        "category": ["Reykjavik"],
-        "requires": "|Reykjavik map|"
+        "category": ["Reykjavik"]
     },
     {
         "name": "Vancouver: Classic Tourist (400)",
         "region": "Vancouver",
-        "category": ["Vancouver"],
-        "requires": "|Vancouver map|"
+        "category": ["Vancouver"]
     },
     {
         "name": "Vancouver: Classic Commuter (1000)",
         "region": "Vancouver",
-        "category": ["Vancouver"],
-        "requires": "|Vancouver map|"
+        "category": ["Vancouver"]
     },
     {
         "name": "Vancouver: Classic Driver (2000)",
         "region": "Vancouver",
         "category": ["Vancouver"],
-        "requires": "|Vancouver map| and |Vancouver motorways| and |Vancouver bridges| and |Vancouver tunnels|"
+        "requires": "|Vancouver motorways| and |Vancouver bridges| and |Vancouver tunnels|"
     },
     {
         "name": "Vancouver: Endless Milestone 20",
         "region": "Vancouver",
-        "category": ["Vancouver"],
-        "requires": "|Vancouver map|"
+        "category": ["Vancouver"]
     },
     {
         "name": "Vancouver: Troll Toll (600)",
         "region": "Vancouver",
-        "category": ["Vancouver"],
-        "requires": "|Vancouver map|"
+        "category": ["Vancouver"]
     },
     {
         "name": "Vancouver: Too Fast Two Bridges (600)",
         "region": "Vancouver",
-        "category": ["Vancouver"],
-        "requires": "|Vancouver map|"
+        "category": ["Vancouver"]
     },
     {
         "name": "Vancouver: Expert (500)",
         "region": "Vancouver",
-        "category": ["Vancouver"],
-        "requires": "|Vancouver map|"
+        "category": ["Vancouver"]
     },
     {
         "name": "Collect Golden Cars to Win",
