@@ -1,5 +1,7 @@
 # Ratchet and Clank: Going Commando
 
+Manual version: Not set yet
+
 Work in progress!
 
 TODOs:

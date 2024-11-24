@@ -1,5 +1,7 @@
 # ratchet-and-clank-manual-randomizer
 
+Manual version: (Probably Stable 20240709)
+
 Logical notes:
 - The RYNO is listed as logically required for the final boss. This is intentional, as it increases the likelihood of going to Veldin in a middle of a run instead of only at the end, and it makes go mode more clear. It also works around ammo bugs, see below.
 - You are assumed to have all your regular moves and Omniwrench available, as well as infinite bolts for ammo and NPCs.

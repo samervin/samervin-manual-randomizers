@@ -1,5 +1,7 @@
 # Mini Motorways
 
+Manual version: Stable 20241119
+
 Getting started:
 - You are assumed to have access to all modes on all cities.
     - If you don't, the quickest route to unlocking everything is to get a score of 1000+ on each city. That will unlock all the remaining cities as well as the challenges for each city.
