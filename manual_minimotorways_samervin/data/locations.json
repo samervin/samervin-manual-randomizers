@@ -850,5 +850,10 @@
         "region": "Vancouver",
         "category": ["Vancouver"],
         "requires": "|Vancouver map|"
+    },
+    {
+        "name": "Collect Golden Cars to Win",
+        "requires": "|Golden Car:14|",
+        "victory": true
     }
 ]

@@ -7,12 +7,12 @@
     {
         "name": "Los Angeles roundabouts",
         "category": ["Los Angeles"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Los Angeles traffic lights",
         "category": ["Los Angeles"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Los Angeles motorways",
@@ -37,12 +37,12 @@
     {
         "name": "Beijing roundabouts",
         "category": ["Beijing"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Beijing traffic lights",
         "category": ["Beijing"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Beijing motorways",
@@ -62,12 +62,12 @@
     {
         "name": "Tokyo roundabouts",
         "category": ["Tokyo"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Tokyo traffic lights",
         "category": ["Tokyo"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Tokyo motorways",
@@ -87,12 +87,12 @@
     {
         "name": "London roundabouts",
         "category": ["London"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "London traffic lights",
         "category": ["London"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "London motorways",
@@ -112,12 +112,12 @@
     {
         "name": "Mumbai roundabouts",
         "category": ["Mumbai"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Mumbai traffic lights",
         "category": ["Mumbai"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Mumbai motorways",
@@ -137,12 +137,12 @@
     {
         "name": "New York City roundabouts",
         "category": ["New York City"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "New York City traffic lights",
         "category": ["New York City"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "New York City motorways",
@@ -162,12 +162,12 @@
     {
         "name": "Dar es Salaam roundabouts",
         "category": ["Dar es Salaam"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Dar es Salaam traffic lights",
         "category": ["Dar es Salaam"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Dar es Salaam motorways",
@@ -187,12 +187,12 @@
     {
         "name": "Moscow roundabouts",
         "category": ["Moscow"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Moscow traffic lights",
         "category": ["Moscow"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Moscow motorways",
@@ -212,12 +212,12 @@
     {
         "name": "Munich roundabouts",
         "category": ["Munich"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Munich traffic lights",
         "category": ["Munich"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Munich motorways",
@@ -237,12 +237,12 @@
     {
         "name": "Zurich roundabouts",
         "category": ["Zurich"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Zurich traffic lights",
         "category": ["Zurich"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Zurich motorways",
@@ -267,12 +267,12 @@
     {
         "name": "Manila roundabouts",
         "category": ["Manila"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Manila traffic lights",
         "category": ["Manila"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Manila motorways",
@@ -292,12 +292,12 @@
     {
         "name": "Rio de Janeiro roundabouts",
         "category": ["Rio de Janeiro"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Rio de Janeiro traffic lights",
         "category": ["Rio de Janeiro"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Rio de Janeiro motorways",
@@ -322,12 +322,12 @@
     {
         "name": "Dubai roundabouts",
         "category": ["Dubai"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Dubai traffic lights",
         "category": ["Dubai"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Dubai motorways",
@@ -347,12 +347,12 @@
     {
         "name": "Mexico City roundabouts",
         "category": ["Mexico City"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Mexico City traffic lights",
         "category": ["Mexico City"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Mexico City motorways",
@@ -372,12 +372,12 @@
     {
         "name": "Wellington roundabouts",
         "category": ["Wellington"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Wellington traffic lights",
         "category": ["Wellington"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Wellington motorways",
@@ -402,12 +402,12 @@
     {
         "name": "Warsaw roundabouts",
         "category": ["Warsaw"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Warsaw traffic lights",
         "category": ["Warsaw"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Warsaw motorways",
@@ -427,12 +427,12 @@
     {
         "name": "Chiang Mai roundabouts",
         "category": ["Chiang Mai"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Chiang Mai traffic lights",
         "category": ["Chiang Mai"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Chiang Mai motorways",
@@ -452,12 +452,12 @@
     {
         "name": "Lisbon roundabouts",
         "category": ["Lisbon"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Lisbon traffic lights",
         "category": ["Lisbon"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Lisbon motorways",
@@ -477,12 +477,12 @@
     {
         "name": "Busan roundabouts",
         "category": ["Busan"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Busan traffic lights",
         "category": ["Busan"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Busan motorways",
@@ -502,12 +502,12 @@
     {
         "name": "Reykjavik roundabouts",
         "category": ["Reykjavik"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Reykjavik traffic lights",
         "category": ["Reykjavik"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Reykjavik motorways",
@@ -532,12 +532,12 @@
     {
         "name": "Vancouver roundabouts",
         "category": ["Vancouver"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Vancouver traffic lights",
         "category": ["Vancouver"],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Vancouver motorways",
@@ -553,5 +553,11 @@
         "name": "Vancouver tunnels",
         "category": ["Vancouver"],
         "progression": true
+    },
+    {
+        "name": "Golden Car",
+        "category": ["Golden"],
+        "progression": true,
+        "count": 21
     }
 ]
