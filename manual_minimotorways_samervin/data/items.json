@@ -1,7 +1,7 @@
 [
     {
         "name": "Los Angeles map",
-        "category": ["Los Angeles"],
+        "category": ["Los Angeles", "Map"],
         "progression": true
     },
     {
@@ -27,6 +27,531 @@
     {
         "name": "Los Angeles tunnels",
         "category": ["Los Angeles"],
+        "progression": true
+    },
+    {
+        "name": "Beijing map",
+        "category": ["Beijing", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Beijing roundabouts",
+        "category": ["Beijing"],
+        "progression": true
+    },
+    {
+        "name": "Beijing traffic lights",
+        "category": ["Beijing"],
+        "progression": true
+    },
+    {
+        "name": "Beijing motorways",
+        "category": ["Beijing"],
+        "progression": true
+    },
+    {
+        "name": "Beijing bridges",
+        "category": ["Beijing"],
+        "progression": true
+    },
+    {
+        "name": "Tokyo map",
+        "category": ["Tokyo", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Tokyo roundabouts",
+        "category": ["Tokyo"],
+        "progression": true
+    },
+    {
+        "name": "Tokyo traffic lights",
+        "category": ["Tokyo"],
+        "progression": true
+    },
+    {
+        "name": "Tokyo motorways",
+        "category": ["Tokyo"],
+        "progression": true
+    },
+    {
+        "name": "Tokyo bridges",
+        "category": ["Tokyo"],
+        "progression": true
+    },
+    {
+        "name": "London map",
+        "category": ["London", "Map"],
+        "progression": true
+    },
+    {
+        "name": "London roundabouts",
+        "category": ["London"],
+        "progression": true
+    },
+    {
+        "name": "London traffic lights",
+        "category": ["London"],
+        "progression": true
+    },
+    {
+        "name": "London motorways",
+        "category": ["London"],
+        "progression": true
+    },
+    {
+        "name": "London bridges",
+        "category": ["London"],
+        "progression": true
+    },
+    {
+        "name": "Mumbai map",
+        "category": ["Mumbai", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Mumbai roundabouts",
+        "category": ["Mumbai"],
+        "progression": true
+    },
+    {
+        "name": "Mumbai traffic lights",
+        "category": ["Mumbai"],
+        "progression": true
+    },
+    {
+        "name": "Mumbai motorways",
+        "category": ["Mumbai"],
+        "progression": true
+    },
+    {
+        "name": "Mumbai bridges",
+        "category": ["Mumbai"],
+        "progression": true
+    },
+    {
+        "name": "New York City map",
+        "category": ["New York City", "Map"],
+        "progression": true
+    },
+    {
+        "name": "New York City roundabouts",
+        "category": ["New York City"],
+        "progression": true
+    },
+    {
+        "name": "New York City traffic lights",
+        "category": ["New York City"],
+        "progression": true
+    },
+    {
+        "name": "New York City motorways",
+        "category": ["New York City"],
+        "progression": true
+    },
+    {
+        "name": "New York City bridges",
+        "category": ["New York City"],
+        "progression": true
+    },
+    {
+        "name": "Dar es Salaam map",
+        "category": ["Dar es Salaam", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Dar es Salaam roundabouts",
+        "category": ["Dar es Salaam"],
+        "progression": true
+    },
+    {
+        "name": "Dar es Salaam traffic lights",
+        "category": ["Dar es Salaam"],
+        "progression": true
+    },
+    {
+        "name": "Dar es Salaam motorways",
+        "category": ["Dar es Salaam"],
+        "progression": true
+    },
+    {
+        "name": "Dar es Salaam bridges",
+        "category": ["Dar es Salaam"],
+        "progression": true
+    },
+    {
+        "name": "Moscow map",
+        "category": ["Moscow", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Moscow roundabouts",
+        "category": ["Moscow"],
+        "progression": true
+    },
+    {
+        "name": "Moscow traffic lights",
+        "category": ["Moscow"],
+        "progression": true
+    },
+    {
+        "name": "Moscow motorways",
+        "category": ["Moscow"],
+        "progression": true
+    },
+    {
+        "name": "Moscow bridges",
+        "category": ["Moscow"],
+        "progression": true
+    },
+    {
+        "name": "Munich map",
+        "category": ["Munich", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Munich roundabouts",
+        "category": ["Munich"],
+        "progression": true
+    },
+    {
+        "name": "Munich traffic lights",
+        "category": ["Munich"],
+        "progression": true
+    },
+    {
+        "name": "Munich motorways",
+        "category": ["Munich"],
+        "progression": true
+    },
+    {
+        "name": "Munich bridges",
+        "category": ["Munich"],
+        "progression": true
+    },
+    {
+        "name": "Zurich map",
+        "category": ["Zurich", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Zurich roundabouts",
+        "category": ["Zurich"],
+        "progression": true
+    },
+    {
+        "name": "Zurich traffic lights",
+        "category": ["Zurich"],
+        "progression": true
+    },
+    {
+        "name": "Zurich motorways",
+        "category": ["Zurich"],
+        "progression": true
+    },
+    {
+        "name": "Zurich bridges",
+        "category": ["Zurich"],
+        "progression": true
+    },
+    {
+        "name": "Zurich tunnels",
+        "category": ["Zurich"],
+        "progression": true
+    },
+    {
+        "name": "Manila map",
+        "category": ["Manila", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Manila roundabouts",
+        "category": ["Manila"],
+        "progression": true
+    },
+    {
+        "name": "Manila traffic lights",
+        "category": ["Manila"],
+        "progression": true
+    },
+    {
+        "name": "Manila motorways",
+        "category": ["Manila"],
+        "progression": true
+    },
+    {
+        "name": "Manila bridges",
+        "category": ["Manila"],
+        "progression": true
+    },
+    {
+        "name": "Rio de Janeiro map",
+        "category": ["Rio de Janeiro", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Rio de Janeiro roundabouts",
+        "category": ["Rio de Janeiro"],
+        "progression": true
+    },
+    {
+        "name": "Rio de Janeiro traffic lights",
+        "category": ["Rio de Janeiro"],
+        "progression": true
+    },
+    {
+        "name": "Rio de Janeiro motorways",
+        "category": ["Rio de Janeiro"],
+        "progression": true
+    },
+    {
+        "name": "Rio de Janeiro bridges",
+        "category": ["Rio de Janeiro"],
+        "progression": true
+    },
+    {
+        "name": "Rio de Janeiro tunnels",
+        "category": ["Rio de Janeiro"],
+        "progression": true
+    },
+    {
+        "name": "Dubai map",
+        "category": ["Dubai", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Dubai roundabouts",
+        "category": ["Dubai"],
+        "progression": true
+    },
+    {
+        "name": "Dubai traffic lights",
+        "category": ["Dubai"],
+        "progression": true
+    },
+    {
+        "name": "Dubai motorways",
+        "category": ["Dubai"],
+        "progression": true
+    },
+    {
+        "name": "Dubai bridges",
+        "category": ["Dubai"],
+        "progression": true
+    },
+    {
+        "name": "Mexico City map",
+        "category": ["Mexico City", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Mexico City roundabouts",
+        "category": ["Mexico City"],
+        "progression": true
+    },
+    {
+        "name": "Mexico City traffic lights",
+        "category": ["Mexico City"],
+        "progression": true
+    },
+    {
+        "name": "Mexico City motorways",
+        "category": ["Mexico City"],
+        "progression": true
+    },
+    {
+        "name": "Mexico City tunnels",
+        "category": ["Mexico City"],
+        "progression": true
+    },
+    {
+        "name": "Wellington map",
+        "category": ["Wellington", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Wellington roundabouts",
+        "category": ["Wellington"],
+        "progression": true
+    },
+    {
+        "name": "Wellington traffic lights",
+        "category": ["Wellington"],
+        "progression": true
+    },
+    {
+        "name": "Wellington motorways",
+        "category": ["Wellington"],
+        "progression": true
+    },
+    {
+        "name": "Wellington bridges",
+        "category": ["Wellington"],
+        "progression": true
+    },
+    {
+        "name": "Wellington tunnels",
+        "category": ["Wellington"],
+        "progression": true
+    },
+    {
+        "name": "Warsaw map",
+        "category": ["Warsaw", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Warsaw roundabouts",
+        "category": ["Warsaw"],
+        "progression": true
+    },
+    {
+        "name": "Warsaw traffic lights",
+        "category": ["Warsaw"],
+        "progression": true
+    },
+    {
+        "name": "Warsaw motorways",
+        "category": ["Warsaw"],
+        "progression": true
+    },
+    {
+        "name": "Warsaw bridges",
+        "category": ["Warsaw"],
+        "progression": true
+    },
+    {
+        "name": "Chiang Mai map",
+        "category": ["Chiang Mai", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Chiang Mai roundabouts",
+        "category": ["Chiang Mai"],
+        "progression": true
+    },
+    {
+        "name": "Chiang Mai traffic lights",
+        "category": ["Chiang Mai"],
+        "progression": true
+    },
+    {
+        "name": "Chiang Mai motorways",
+        "category": ["Chiang Mai"],
+        "progression": true
+    },
+    {
+        "name": "Chiang Mai bridges",
+        "category": ["Chiang Mai"],
+        "progression": true
+    },
+    {
+        "name": "Lisbon map",
+        "category": ["Lisbon", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Lisbon roundabouts",
+        "category": ["Lisbon"],
+        "progression": true
+    },
+    {
+        "name": "Lisbon traffic lights",
+        "category": ["Lisbon"],
+        "progression": true
+    },
+    {
+        "name": "Lisbon motorways",
+        "category": ["Lisbon"],
+        "progression": true
+    },
+    {
+        "name": "Lisbon bridges",
+        "category": ["Lisbon"],
+        "progression": true
+    },
+    {
+        "name": "Busan map",
+        "category": ["Busan", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Busan roundabouts",
+        "category": ["Busan"],
+        "progression": true
+    },
+    {
+        "name": "Busan traffic lights",
+        "category": ["Busan"],
+        "progression": true
+    },
+    {
+        "name": "Busan motorways",
+        "category": ["Busan"],
+        "progression": true
+    },
+    {
+        "name": "Busan bridges",
+        "category": ["Busan"],
+        "progression": true
+    },
+    {
+        "name": "Reykjavik map",
+        "category": ["Reykjavik", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Reykjavik roundabouts",
+        "category": ["Reykjavik"],
+        "progression": true
+    },
+    {
+        "name": "Reykjavik traffic lights",
+        "category": ["Reykjavik"],
+        "progression": true
+    },
+    {
+        "name": "Reykjavik motorways",
+        "category": ["Reykjavik"],
+        "progression": true
+    },
+    {
+        "name": "Reykjavik bridges",
+        "category": ["Reykjavik"],
+        "progression": true
+    },
+    {
+        "name": "Reykjavik tunnels",
+        "category": ["Reykjavik"],
+        "progression": true
+    },
+    {
+        "name": "Vancouver map",
+        "category": ["Vancouver", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Vancouver roundabouts",
+        "category": ["Vancouver"],
+        "progression": true
+    },
+    {
+        "name": "Vancouver traffic lights",
+        "category": ["Vancouver"],
+        "progression": true
+    },
+    {
+        "name": "Vancouver motorways",
+        "category": ["Vancouver"],
+        "progression": true
+    },
+    {
+        "name": "Vancouver bridges",
+        "category": ["Vancouver"],
+        "progression": true
+    },
+    {
+        "name": "Vancouver tunnels",
+        "category": ["Vancouver"],
         "progression": true
     }
 ]
