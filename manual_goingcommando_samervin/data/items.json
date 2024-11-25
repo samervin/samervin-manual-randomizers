@@ -143,11 +143,13 @@
     },
     {
         "name": "Heli-Pack",
-        "category": ["Gadget"]
+        "category": ["Gadget"],
+        "progression": true
     },
     {
         "name": "Thruster-Pack",
-        "category": ["Gadget"]
+        "category": ["Gadget"],
+        "progression": true
     },
     {
         "name": "Grind Boots",
@@ -161,10 +163,6 @@
     {
         "name": "Charge Boots",
         "category": ["Gadget"]
-    },
-    {
-        "name": "Megacorp Helmet",
-        "category": ["Item"]
     },
     {
         "name": "Biker Helmet",
@@ -192,11 +190,13 @@
     },
     {
         "name": "Electrolyzer",
-        "category": ["Item"]
+        "category": ["Item"],
+        "progression": true
     },
     {
         "name": "Infiltrator",
-        "category": ["Item"]
+        "category": ["Item"],
+        "progression": true
     },
     {
         "name": "Hydro-Pack",

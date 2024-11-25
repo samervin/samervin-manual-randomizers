@@ -11,6 +11,7 @@ TODOs:
 - Check precise handling of Weapon Envy in a first playthrough
 - Check what happens if you get wrench upgrades out of order
 - Unlike RaC, GC is perfectly happy to spawn you at a continue point when you save and reload, rather than always at your ship. Be sure you have the items you need, or be prepared to cheat!
+    - This is annoying for a lot of reasons, including "softlock" prevention, so I am modifying the logic a little bit. For missions marked with an asterisk * you may use the item that you actually receive in order to return to your ship, because saving and loading would otherwise force you to be stuck. Treat this as though it was a simple teleporter back to your ship and do not collect anything else using your not-logically-earned item, such as the Platinum Bolt requiring the Tractor Beam on Oozla.
 - Sometimes, for reasons unknown, you have to save and reload in order to get the game to recognize your items properly. This applies to the secret Oozla boss, Clank backpacks, and probably others.
 - The secret Oozla boss can be defeated with just the wrench. It takes over 20 minutes to do with no wrench upgrades, which is thoroughly unfun. It takes about 6 minutes to do with the third wrench upgrade, which might be fine, but the biggest hurdle is having a low health/armor bar.
 - I have a new category, Combat Weapon, as a way to gate fight logic. Most weapons are combat weapons. There may need to be a Power Weapon category later.

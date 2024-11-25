@@ -1,9 +1,8 @@
 [
     {
-        "name": "Oozla: Explore the swamp + Buy Tractor Beam",
+        "name": "Oozla: Explore the swamp + Buy Tractor Beam*",
         "region": "Oozla",
-        "category": ["Oozla, Megacorp Outlet"],
-        "requires": "|Tractor Beam|"
+        "category": ["Oozla, Megacorp Outlet"]
     },
     {
         "name": "Oozla: Find the store entrance",
@@ -17,7 +16,7 @@
         "requires": "|Dynamo|"
     },
     {
-        "name": "Oozla: Defeat the secret swamp monster",
+        "name": "Oozla: Defeat the secret swamp monster (?)",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
         "requires": "|Dynamo| and |Gravity Boots| and |@Combat Weapon:4|"
@@ -32,7 +31,7 @@
         "name": "Oozla Platinum Bolt: Firefly cave",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
-        "requires": "|Tractor Beam| and |Dynamo|"
+        "requires": "|Dynamo|"
     },
     {
         "name": "Oozla Skill Point: Prehistoric rampage",
@@ -52,10 +51,9 @@
         "requires": "|Tractor Beam|"
     },
     {
-        "name": "Maktar Nebula: Win the arena battle",
+        "name": "Maktar Nebula: Win the arena battle*",
         "region": "Maktar Nebula",
-        "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": "|Electrolyzer|"
+        "category": ["Maktar Nebula, Maktar Resort"]
     },
     {
         "name": "Maktar Nebula: Repair the energy bridges",
@@ -81,13 +79,12 @@
         "requires": "|Tractor Beam|"
     },
     {
-        "name": "Maktar Nebula Skill Point: Wrench ninja: Blade to blade",
+        "name": "Maktar Nebula Skill Point: Wrench ninja: Blade to blade*",
         "region": "Maktar Nebula",
-        "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": "|Electrolyzer|"
+        "category": ["Maktar Nebula, Maktar Resort"]
     },
     {
-        "name": "Maktar Nebula Skill Point: 2B hit or not 2B hit",
+        "name": "Maktar Nebula Skill Point: 2B hit or not 2B hit (?)",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
         "requires": "|Electrolyzer| and |@Combat Weapon:2|"
@@ -98,52 +95,49 @@
         "category": ["Maktar Nebula, Maktar Resort"]
     },
     {
-        "name": "Endako: Rescue Clank + Free Ratchet",
+        "name": "Endako: Rescue Clank + Free Ratchet*",
         "region": "Endako",
         "category": ["Endako, Megapolis"],
-        "requires": ""
+        "requires": "|Electrolyzer|"
     },
     {
-        "name": "Endako: Visit Clank's apartment [1]",
+        "name": "Endako: Visit Clank's apartment [1]*",
         "region": "Endako",
-        "category": ["Endako, Megapolis"],
-        "requires": ""
+        "category": ["Endako, Megapolis"]
     },
     {
-        "name": "Endako: Visit Clank's apartment [2]",
+        "name": "Endako: Visit Clank's apartment [2]*",
         "region": "Endako",
-        "category": ["Endako, Megapolis"],
-        "requires": ""
+        "category": ["Endako, Megapolis"]
     },
     {
         "name": "Endako Platinum Bolt: Crane",
         "region": "Endako",
         "category": ["Endako, Megapolis"],
-        "requires": ""
+        "requires": "|Electrolyzer|"
     },
     {
         "name": "Endako Platinum Bolt: Ladder nook",
         "region": "Endako",
-        "category": ["Endako, Megapolis"],
-        "requires": ""
+        "category": ["Endako, Megapolis"]
     },
     {
         "name": "Endako Skill Point: Operate heavy machinery",
         "region": "Endako",
         "category": ["Endako, Megapolis"],
-        "requires": ""
+        "requires": "|Electrolyzer|"
     },
     {
         "name": "Endako Skill Point: Destroy all breakables",
         "region": "Endako",
         "category": ["Endako, Megapolis"],
-        "requires": ""
+        "requires": "|Electrolyzer| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Endako Nanotech Boost: Crane",
         "region": "Endako",
         "category": ["Endako, Megapolis"],
-        "requires": ""
+        "requires": "|Electrolyzer| and |Infiltrator|"
     },
     {
         "name": "Barlow: Battle tribesman + Win hoverbike race",
