@@ -140,52 +140,55 @@
         "requires": "|Electrolyzer| and |Infiltrator|"
     },
     {
-        "name": "Barlow: Battle tribesman + Win hoverbike race",
+        "name": "Barlow: Find Desert Riders + Win hoverbike race [1]",
         "region": "Barlow",
         "category": ["Barlow, Vukovar Canyon"],
-        "requires": ""
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Electrolyzer|"
     },
     {
-        "name": "Barlow: Scout ruined machinery + Buy Thermanator",
+        "name": "Barlow: Find Desert Riders + Win hoverbike race [2]",
         "region": "Barlow",
         "category": ["Barlow, Vukovar Canyon"],
-        "requires": ""
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Electrolyzer|"
+    },
+    {
+        "name": "Barlow: Scout ruined machinery + Buy Thermanator*",
+        "region": "Barlow",
+        "category": ["Barlow, Vukovar Canyon"],
+        "requires": "|Swingshot|"
     },
     {
         "name": "Barlow Platinum Bolt: Hoverbike race",
         "region": "Barlow",
         "category": ["Barlow, Vukovar Canyon"],
-        "requires": ""
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Electrolyzer|"
     },
     {
         "name": "Barlow Platinum Bolt: Machinery",
         "region": "Barlow",
         "category": ["Barlow, Vukovar Canyon"],
-        "requires": ""
+        "requires": "|Swingshot|"
     },
     {
         "name": "Barlow Skill Point: Speed demon",
         "region": "Barlow",
         "category": ["Barlow, Vukovar Canyon"],
-        "requires": ""
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Electrolyzer|"
     },
     {
         "name": "Feltzin System: Defeat the Thugs-4-Less ships",
         "region": "Feltzin System",
-        "category": ["Feltzin System, Thugs-4-Less Rendezvous"],
-        "requires": ""
+        "category": ["Feltzin System, Thugs-4-Less Rendezvous"]
     },
     {
         "name": "Feltzin System Platinum Bolt: Ace Bunyon race",
         "region": "Feltzin System",
-        "category": ["Feltzin System, Thugs-4-Less Rendezvous"],
-        "requires": ""
+        "category": ["Feltzin System, Thugs-4-Less Rendezvous"]
     },
     {
         "name": "Feltzin System Nanotech Boost: Hangar",
         "region": "Feltzin System",
-        "category": ["Feltzin System, Thugs-4-Less Rendezvous"],
-        "requires": ""
+        "category": ["Feltzin System, Thugs-4-Less Rendezvous"]
     },
     {
         "name": "Notak: Investigate wharf + Talk to Slim Cognito",

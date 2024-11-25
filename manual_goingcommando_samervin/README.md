@@ -15,6 +15,8 @@ TODOs:
 - Sometimes, for reasons unknown, you have to save and reload in order to get the game to recognize your items properly. This applies to the secret Oozla boss, Clank backpacks, and probably others.
 - The secret Oozla boss can be defeated with just the wrench. It takes over 20 minutes to do with no wrench upgrades, which is thoroughly unfun. It takes about 6 minutes to do with the third wrench upgrade, which might be fine, but the biggest hurdle is having a low health/armor bar.
 - I have a new category, Combat Weapon, as a way to gate fight logic. Most weapons are combat weapons. There may need to be a Power Weapon category later.
+- The Heli-Pack seems to be required to make Clank show up. If you don't have Clank, you can die, or reload your save.
+- The Hydro-Pack works even if you don't have the item listed in your inventory. Whoops!
 
 Logical notes:
 
