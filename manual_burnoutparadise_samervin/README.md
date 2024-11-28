@@ -10,6 +10,7 @@ Notes
 - Except for the burning routes, the vanilla game does not put any requirements on any events.
 - To limit the size of sphere 1, the six major areas of the map will be locked behind maps. You can still drive there and complete events that finish there, but you cannot (logically) start events that begin in other areas.
 - I may also logically lock certain location types behind additional items, e.g. road rules may require an item to complete. I don't think I will want regional event type locks though, i.e. "Races in Downtown Paradise only". I'm OK with relatively few locking items / large spheres as this game is very open-world and the events are not especially difficult.
+- Best guide for listing all cars and events is here: https://steamcommunity.com/sharedfiles/filedetails/?id=2291470178
 
 Locations - numbers not confirmed:
 - 6 license levels (probably not implementing these)
