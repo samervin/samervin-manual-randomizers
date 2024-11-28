@@ -191,52 +191,48 @@
         "category": ["Feltzin System, Thugs-4-Less Rendezvous"]
     },
     {
-        "name": "Notak: Investigate wharf + Talk to Slim Cognito",
+        "name": "Notak: Investigate wharf + Hear from Slim Cognito",
         "region": "Notak",
         "category": ["Notak, Canal City"],
-        "requires": ""
+        "requires": "|Thermanator| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Notak: Search Canal City + Buy transmission",
         "region": "Notak",
         "category": ["Notak, Canal City"],
-        "requires": ""
+        "requires": "|Thermanator| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Notak Platinum Bolt: Canal",
         "region": "Notak",
-        "category": ["Notak, Canal City"],
-        "requires": ""
+        "category": ["Notak, Canal City"]
     },
     {
         "name": "Notak Platinum Bolt: Dynamo",
         "region": "Notak",
         "category": ["Notak, Canal City"],
-        "requires": ""
+        "requires": "|Thermanator| and (|Heli-Pack| or |Thruster-Pack|) and |Dynamo|"
     },
     {
         "name": "Notak Platinum Bolt: Megacorp sign",
         "region": "Notak",
-        "category": ["Notak, Canal City"],
-        "requires": ""
+        "category": ["Notak, Canal City"]
     },
     {
         "name": "Notak Skill Point: Planet buster",
         "region": "Notak",
-        "category": ["Notak, Canal City"],
-        "requires": ""
+        "category": ["Notak, Canal City"]
     },
     {
         "name": "Notak Nanotech Boost: Promenade",
         "region": "Notak",
-        "category": ["Notak, Canal City"],
-        "requires": ""
+        "category": ["Notak, Canal City"]
     },
     {
         "name": "Ship Shack Skill Point: Nice ride",
         "region": "Ship Shack",
         "category": ["Slim Cognito's Ship Shack"],
-        "requires": ""
+        "requires": "|Coordinates - Feltzin System| or |Coordinates - Hrugis Cloud| or |Coordinates - Gorn|"
     },
     {
         "name": "Siberius: Find and confront the thief",

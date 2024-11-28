@@ -27,82 +27,82 @@
     },
     "Maktar Nebula": {
         "connects_to": [],
-        "requires": ["Infobot - Maktar Nebula"]
+        "requires": ["Coordinates - Maktar Nebula"]
     },
     "Endako": {
         "connects_to": [],
-        "requires": ["Infobot - Endako"]
+        "requires": ["Coordinates - Endako"]
     },
     "Barlow": {
         "connects_to": [],
-        "requires": ["Infobot - Barlow"]
+        "requires": ["Coordinates - Barlow"]
     },
     "Feltzin System": {
         "connects_to": [],
-        "requires": ["Infobot - Feltzin System"]
+        "requires": ["Coordinates - Feltzin System"]
     },
     "Notak": {
         "connects_to": [],
-        "requires": ["Infobot - Notak"]
+        "requires": ["Coordinates - Notak"]
     },
     "Ship Shack": {
         "connects_to": [],
-        "requires": ["Infobot - Ship Shack"]
+        "requires": "|Coordinates - Ship Shack| and |Coordinates - Notak| and |Thermanator| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     "Siberius": {
         "connects_to": [],
-        "requires": ["Infobot - Siberius"]
+        "requires": ["Coordinates - Siberius"]
     },
     "Tabora": {
         "connects_to": [],
-        "requires": ["Infobot - Tabora"]
+        "requires": ["Coordinates - Tabora"]
     },
     "Dobbo": {
         "connects_to": [],
-        "requires": ["Infobot - Dobbo"]
+        "requires": ["Coordinates - Dobbo"]
     },
     "Hrugis Cloud": {
         "connects_to": [],
-        "requires": ["Infobot - Hrugis Cloud"]
+        "requires": ["Coordinates - Hrugis Cloud"]
     },
     "Joba": {
         "connects_to": [],
-        "requires": ["Infobot - Joba"]
+        "requires": ["Coordinates - Joba"]
     },
     "Todano": {
         "connects_to": [],
-        "requires": ["Infobot - Todano"]
+        "requires": ["Coordinates - Todano"]
     },
     "Boldan": {
         "connects_to": [],
-        "requires": ["Infobot - Boldan"]
+        "requires": ["Coordinates - Boldan"]
     },
     "Aranos": {
         "connects_to": [],
-        "requires": ["Infobot - Aranos"]
+        "requires": ["Coordinates - Aranos"]
     },
     "Gorn": {
         "connects_to": [],
-        "requires": ["Infobot - Gorn"]
+        "requires": ["Coordinates - Gorn"]
     },
     "Snivelak": {
         "connects_to": [],
-        "requires": ["Infobot - Snivelak"]
+        "requires": ["Coordinates - Snivelak"]
     },
     "Smolg": {
         "connects_to": [],
-        "requires": ["Infobot - Smolg"]
+        "requires": ["Coordinates - Smolg"]
     },
     "Grelbin": {
         "connects_to": [],
-        "requires": ["Infobot - Grelbin"]
+        "requires": ["Coordinates - Grelbin"]
     },
     "Damosel": {
         "connects_to": [],
-        "requires": ["Infobot - Damosel"]
+        "requires": ["Coordinates - Damosel"]
     },
     "Yeedil": {
         "connects_to": [],
-        "requires": ["Infobot - Yeedil"]
+        "requires": ["Coordinates - Yeedil"]
     }
 }
