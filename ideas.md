@@ -48,10 +48,6 @@ Platformers
 
 Other
 
-- Burnout Paradise
-    - Locations: 6 licenses; 183 normal events (race, road rage, marked man, stunt run); 27 burning routes; 64x showtime road rules; 64x time road rules; 38 bike rides; 64x bike day road rules; 64x bike night road rules; 63 Big Surf Island events of all types
-    - Items: 35 cars; 35 upgraded cars; 6 carbon cars; 4 legendary cars; 13 toy cars; 9 Big Surf Island cars; 4 bikes; drive-throughs (auto repair, gas)
-    - Notes: This could already be very lengthy, and while the game does track breakables (billboards, jumps, and gates) the additional time and hassle is very high. At least all the events are trackable on the map. Car unlocks give you the ability to use that car if you have it unlocked, as I don't know of any way to grant cars via cheat code (other than playing via a completed file, but replaying events/road rules is not as easy to track). Aside from the burning routes, there are no hard requirements for any events, so some additional made-up licenses for e.g. different areas of the map, or different event types, could work well. I don't remember if completing a license re-opens any (non-burning route) events, but if it does, that has a tiny effect on logic and tracking.
 - Dungeons of Dredmor
     - Locations: Master skill trees; Defeat Dredmor; Find certain items?
     - Items: Skills; things provided by the debug mod (primarily XP) or debug mode (primarily gaining loot and skipping floors)

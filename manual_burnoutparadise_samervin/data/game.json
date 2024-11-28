@@ -1,0 +1,11 @@
+{
+    "game": "BurnoutParadise",
+    "creator": "samervin",
+    "filler_item_name": "Gas",
+    "starting_items": [
+        {
+            "items": ["Hunter Cavalry", "Map - Downtown Paradise"]
+        }
+    ],
+    "death_link": false
+}

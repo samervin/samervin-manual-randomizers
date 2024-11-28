@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Map - Downtown Paradise",
+        "category": "Map",
+        "progression": true
+    },
+    {
+        "name": "Map - Palm Bay Heights",
+        "category": "Map",
+        "progression": true
+    },
+    {
+        "name": "Map - Harbor Town",
+        "category": "Map",
+        "progression": true
+    },
+    {
+        "name": "Map - Silver Lake",
+        "category": "Map",
+        "progression": true
+    },
+    {
+        "name": "Map - White Mountain",
+        "category": "Map",
+        "progression": true
+    },
+    {
+        "name": "Map - Big Surf Island",
+        "category": "Map",
+        "progression": true
+    },
+    {
+        "name": "Hunter Cavalry",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Mesquite",
+        "category": ["Car"]
+    }
+]

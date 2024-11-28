@@ -1,0 +1,33 @@
+{
+    "Downtown Paradise": {
+        "starting": true,
+        "connects_to": [
+            "Palm Bay Heights",
+            "Harbor Town",
+            "Silver Lake",
+            "White Mountain",
+            "Big Surf Island"
+        ],
+        "requires": ["Map - Downtown Paradise"]
+    },
+    "Palm Bay Heights": {
+        "connects_to": [],
+        "requires": ["Map - Palm Bay Heights"]
+    },
+    "Harbor Town": {
+        "connects_to": [],
+        "requires": ["Map - Harbor Town"]
+    },
+    "Silver Lake": {
+        "connects_to": [],
+        "requires": ["Map - Silver Lake"]
+    },
+    "White Mountain": {
+        "connects_to": [],
+        "requires": ["Map - White Mountain"]
+    },
+    "Big Surf Island": {
+        "connects_to": [],
+        "requires": ["Map - Big Surf Island"]
+    }
+}
