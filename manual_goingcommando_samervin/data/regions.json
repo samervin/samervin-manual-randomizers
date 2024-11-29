@@ -55,7 +55,7 @@
     },
     "Tabora": {
         "connects_to": [],
-        "requires": ["Coordinates - Tabora"]
+        "requires": "|Coordinates - Tabora| and (|Heli-Pack| or |Thruster-Pack|) and |Swingshot|"
     },
     "Dobbo": {
         "connects_to": [],

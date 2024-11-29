@@ -10,13 +10,15 @@ TODOs:
 - Confirm whether bugs from RaC persist
 - Check precise handling of Weapon Envy in a first playthrough
 - Check what happens if you get wrench upgrades out of order
-- Unlike RaC, GC is perfectly happy to spawn you at a continue point when you save and reload, rather than always at your ship. Be sure you have the items you need, or be prepared to cheat!
+- Unlike RaC, GC is perfectly happy to spawn you at a continue point when you save and reload, rather than always at your ship. Be sure you have the items you logically need, or be prepared to cheat!
     - This is annoying for a lot of reasons, including "softlock" prevention, so I am modifying the logic a little bit. For missions marked with an asterisk * you may use the item that you actually receive in order to return to your ship, because saving and loading would otherwise force you to be stuck. Treat this as though it was a simple teleporter back to your ship and do not collect anything else using your not-logically-earned item, such as the Platinum Bolt requiring the Tractor Beam on Oozla.
-- Sometimes, for reasons unknown, you have to save and reload in order to get the game to recognize your items properly. This applies to the secret Oozla boss, Clank backpacks, and probably others.
+        - Yes, this means that once you find the vanilla glider on Tabora, you have no choice but to collect the vanilla Platinum Bolt at the end of the path. Just ignore it and mark that location as collected once you acquire the Archipelago glider.
+- Sometimes, for reasons unknown, you have to save and reload in order to get the game to recognize your items properly. This applies to the secret Oozla boss, Clank backpacks, and possibly others.
 - The secret Oozla boss can be defeated with just the wrench. It takes over 20 minutes to do with no wrench upgrades, which is thoroughly unfun. It takes about 6 minutes to do with the third wrench upgrade, which might be fine, but the biggest hurdle is having a low health/armor bar.
 - I have a new category, Combat Weapon, as a way to gate fight logic. Most weapons are combat weapons. There may need to be a Power Weapon category later.
-- The Heli-Pack seems to be required to make Clank show up. If you don't have Clank, you can die, or reload your save.
+- The Heli-Pack seems to be required to make Clank show up. If you don't have Clank, you can grant yourself the Heli-Pack, then die or reload your save.
 - The Hydro-Pack works even if you don't have the item listed in your inventory. Whoops!
+- The Heli-Pack/Thruster-Pack is logically required to complete Siberius, because if you complete Siberius before Tabora, you'll be taken to Tabora and need Clank to get out of the underground tunnels. (If you unlock Tabora before Siberius, you won't actually be able to fight the thief on Siberius, so just get to the convoy to "win".)
 
 Logical notes:
 

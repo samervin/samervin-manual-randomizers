@@ -238,73 +238,67 @@
         "name": "Siberius: Find and confront the thief",
         "region": "Siberius",
         "category": ["Siberius, Frozen Base"],
-        "requires": ""
+        "requires": "|Swingshot| and |@Combat Weapon:2| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Siberius Platinum Bolt: Tractor Beam",
         "region": "Siberius",
         "category": ["Siberius, Frozen Base"],
-        "requires": ""
+        "requires": "|Tractor Beam|"
     },
     {
         "name": "Siberius Platinum Bolt: Elevator",
         "region": "Siberius",
         "category": ["Siberius, Frozen Base"],
-        "requires": ""
+        "requires": "(|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Siberius Skill Point: You can break a Snow Dan",
         "region": "Siberius",
-        "category": ["Siberius, Frozen Base"],
-        "requires": ""
+        "category": ["Siberius, Frozen Base"]
     },
     {
         "name": "Tabora: Find a way out of the underground tunnels",
         "region": "Tabora",
-        "category": ["Tabora, Mining Area"],
-        "requires": ""
+        "category": ["Tabora, Mining Area"]
     },
     {
-        "name": "Tabora: Find a ship",
+        "name": "Tabora: Fix your ship",
         "region": "Tabora",
-        "category": ["Tabora, Mining Area"],
-        "requires": ""
+        "category": ["Tabora, Mining Area"]
     },
     {
-        "name": "Tabora: Explore the area",
+        "name": "Tabora: Explore the area*",
         "region": "Tabora",
         "category": ["Tabora, Mining Area"],
-        "requires": ""
+        "requires": "|Thermanator|"
     },
     {
         "name": "Tabora Platinum Bolt: Desert",
         "region": "Tabora",
-        "category": ["Tabora, Mining Area"],
-        "requires": ""
+        "category": ["Tabora, Mining Area"]
     },
     {
         "name": "Tabora Platinum Bolt: Thermanator",
         "region": "Tabora",
-        "category": ["Tabora, Mining Area"],
-        "requires": ""
+        "category": ["Tabora, Mining Area"]
     },
     {
         "name": "Tabora Platinum Bolt: Glider",
         "region": "Tabora",
         "category": ["Tabora, Mining Area"],
-        "requires": ""
+        "requires": "|Thermanator| and |Glider|"
     },
     {
         "name": "Tabora Skill Point: Heal your chi",
         "region": "Tabora",
         "category": ["Tabora, Mining Area"],
-        "requires": ""
+        "requires": "|Charge Boots| and |@Combat Weapon:4|"
     },
     {
         "name": "Tabora Nanotech Boost: Glider",
         "region": "Tabora",
-        "category": ["Tabora, Mining Area"],
-        "requires": ""
+        "category": ["Tabora, Mining Area"]
     },
     {
         "name": "Dobbo: Repair the generator + Purchase info",
