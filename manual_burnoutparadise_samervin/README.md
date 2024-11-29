@@ -33,3 +33,7 @@ Items - numbers not confirmed:
 - 9 Big Surf Island cars
 - 4 bikes
 - Drive-throughs (repair, gas)
+
+Implemented notes:
+- First 70 cars are regular + upgraded
+- Then 6 carbon cars, very difficult to earn in a vanilla game

@@ -30,11 +30,315 @@
         "progression": true
     },
     {
+        "name": "Auto Repair Drive-Throughs",
+        "category": "Map"
+    },
+    {
+        "name": "Gas Station Drive-Throughs",
+        "category": "Map"
+    },
+    {
         "name": "Hunter Cavalry",
         "category": ["Car"]
     },
     {
+        "name": "Hunter Oval Champ 69",
+        "category": ["Car"]
+    },
+    {
         "name": "Hunter Mesquite",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Mesquite Custom",
+        "category": ["Car"]
+    },
+    {
+        "name": "Nakamura SI-7",
+        "category": ["Car"]
+    },
+    {
+        "name": "Nakamura Racing SI-7",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Vegas",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Vegas Carnivale",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger Pioneer",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger Super Gator",
+        "category": ["Car"]
+    },
+    {
+        "name": "Nakamura Ikusa GT",
+        "category": ["Car"]
+    },
+    {
+        "name": "Nakamura Ikusa Samurai",
+        "category": ["Car"]
+    },
+    {
+        "name": "Kitano Hydros Custom",
+        "category": ["Car"]
+    },
+    {
+        "name": "Kitano Hydros Techno",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Reliable Custom",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Reliable Special",
+        "category": ["Car"]
+    },
+    {
+        "name": "Watson R-Turbo Roadster",
+        "category": ["Car"]
+    },
+    {
+        "name": "Watson Burnout Roadster",
+        "category": ["Car"]
+    },
+    {
+        "name": "Rossolini LM Classic",
+        "category": ["Car"]
+    },
+    {
+        "name": "Rossolini LM Track Package",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Manhattan",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Manhattan Custom",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Fastback",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Fastback Special",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Grand Marais",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Grand Sicilian",
+        "category": ["Car"]
+    },
+    {
+        "name": "Montgomery Hyperion",
+        "category": ["Car"]
+    },
+    {
+        "name": "Montgomery Hyperion Rattler",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger 616 Sport",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger 616 Arachno Sport",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Spur",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Hotspur",
+        "category": ["Car"]
+    },
+    {
+        "name": "Montgomery GT 2400",
+        "category": ["Car"]
+    },
+    {
+        "name": "Montgomery Sabotage GT 2400",
+        "category": ["Car"]
+    },
+    {
+        "name": "Jansen P12",
+        "category": ["Car"]
+    },
+    {
+        "name": "Jansen P12 Track Package",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Inferno Van",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Inferno BRT Van",
+        "category": ["Car"]
+    },
+    {
+        "name": "Rossolini Tempesta",
+        "category": ["Car"]
+    },
+    {
+        "name": "Rossolini Tempesta GT",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Opus",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Opus XS",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Annihilator",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Annihilator Phoenix",
+        "category": ["Car"]
+    },
+    {
+        "name": "Jansen X12",
+        "category": ["Car"]
+    },
+    {
+        "name": "Jansen XS12",
+        "category": ["Car"]
+    },
+    {
+        "name": "Kitano Touge Sport",
+        "category": ["Car"]
+    },
+    {
+        "name": "Kitano Touge Criterion",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Takedown 4x4",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Takedown Dirt Racer",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson 500 GT",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Racing 500 GT",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Racing Oval Champ",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter BRT Oval Champ",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson GT Concept",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson GT Flame",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Citizen",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Civilian",
+        "category": ["Car"]
+    },
+    {
+        "name": "Watson 25 V16 Revenge",
+        "category": ["Car"]
+    },
+    {
+        "name": "Watson Revenge Racer",
+        "category": ["Car"]
+    },
+    {
+        "name": "Montgomery Hawker",
+        "category": ["Car"]
+    },
+    {
+        "name": "Montgomery Hawker Solo",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger Uberschall 8",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger Uberschall Clear-View",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Thunder Custom",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Thunder Shadow",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Hot Rod Coupe",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Tribal Special",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger Racing WTR",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger PCPD Special",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carbon Nakamura Ikusa GT",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carbon Kitano Hydros Custom",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carbon Janson X12",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carbon Carson GT Concept",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carbon Montgomery Hawker",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carbon Krieger Uberschall 8",
         "category": ["Car"]
     }
 ]
