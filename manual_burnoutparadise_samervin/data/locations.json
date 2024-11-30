@@ -1,30 +1,5 @@
 [
     {
-        "name": "Rat Race: 2nd and Webster",
-        "region": "Downtown Paradise",
-        "category": ["Race"]
-    },
-    {
-        "name": "Riverside Run: Anderson and Glancey",
-        "region": "Downtown Paradise",
-        "category": ["Race"]
-    },
-    {
-        "name": "Heads Up: Gabriel and Manners",
-        "region": "Harbor Town",
-        "category": ["Race"]
-    },
-    {
-        "name": "Driving Off: West Lake and Nelson",
-        "region": "White Mountain",
-        "category": ["Race"]
-    },
-    {
-        "name": "High Noon Club: South Mountain and Lucas",
-        "region": "White Mountain",
-        "category": ["Race"]
-    },
-    {
         "name": "Rollercoaster: Young and Hubbard ???",
         "region": "",
         "category": ["Race"]
@@ -35,7 +10,107 @@
         "category": ["Race"]
     },
     {
+        "name": "Horse Power: 8th and Hudson ???",
+        "region": "",
+        "category": ["Race"]
+    },
+    {
+        "name": "Rat Race: 2nd and Webster",
+        "region": "Downtown Paradise",
+        "category": ["Race"]
+    },
+    {
+        "name": "Riverside Run: Anderson and Glancey",
+        "region": "Downtown Paradise",
+        "category": ["Race"]
+    },
+    {
+        "name": "Stealing 1st: Webster and 7th",
+        "region": "Downtown Paradise",
+        "category": ["Race"]
+    },
+    {
+        "name": "Man O'War: 3rd and Angus",
+        "region": "Downtown Paradise",
+        "category": ["Race"]
+    },
+    {
+        "name": "Spaghetti Western: Harber and Glancey",
+        "region": "Downtown Paradise",
+        "category": ["Race"]
+    },
+    {
+        "name": "Spin City: 1st and Glancey",
+        "region": "Downtown Paradise",
+        "category": ["Race"]
+    },
+    {
+        "name": "Tunnel Vision: Glancey and 7th",
+        "region": "Downtown Paradise",
+        "category": ["Race"]
+    },
+    {
+        "name": "Far, Far Away: 2nd and Root",
+        "region": "Downtown Paradise",
+        "category": ["Race"]
+    },
+    {
+        "name": "Curveball: Lambert and East Crawford",
+        "region": "Palm Bay Heights",
+        "category": ["Race"]
+    },
+    {
+        "name": "Plain Sailing: East Crawford and Moore",
+        "region": "Palm Bay Heights",
+        "category": ["Race"]
+    },
+    {
+        "name": "Deep South: East Crawford and Hudson",
+        "region": "Palm Bay Heights",
+        "category": ["Race"]
+    },
+    {
+        "name": "The Duel: Hamilton and 7th",
+        "region": "Palm Bay Heights",
+        "category": ["Race"]
+    },
+    {
+        "name": "Final Furlong: Hamilton and 3rd",
+        "region": "Palm Bay Heights",
+        "category": ["Race"]
+    },
+    {
+        "name": "Race to the Summit: Franke and Young",
+        "region": "Palm Bay Heights",
+        "category": ["Race"]
+    },
+    {
+        "name": "Go West: Newton and East Crawford",
+        "region": "Palm Bay Heights",
+        "category": ["Race"]
+    },
+    {
+        "name": "Heads Up: Gabriel and Manners",
+        "region": "Harbor Town",
+        "category": ["Race"]
+    },
+    {
         "name": "Coast to Coast: Warren and Manners",
+        "region": "Harbor Town",
+        "category": ["Race"]
+    },
+    {
+        "name": "Waterway to Go: Hubbard and South Rouse",
+        "region": "Harbor Town",
+        "category": ["Race"]
+    },
+    {
+        "name": "Pleasure Cruise: Harber and Lambert",
+        "region": "Harbor Town",
+        "category": ["Race"]
+    },
+    {
+        "name": "Race for the Plate: South Bay and South Rouse",
         "region": "Harbor Town",
         "category": ["Race"]
     },
@@ -50,18 +125,28 @@
         "category": ["Race"]
     },
     {
-        "name": "Plain Sailing: East Crawford and Moore",
-        "region": "Palm Bay Heights",
+        "name": "Baseball Battle: North Rouse and Lewis",
+        "region": "Silver Lake",
         "category": ["Race"]
     },
     {
-        "name": "Waterway to Go: Hubbard and South Rouse",
-        "region": "Harbor Town",
+        "name": "Demolition Derby: East Lake and Ross",
+        "region": "Silver Lake",
         "category": ["Race"]
     },
     {
-        "name": "Pleasure Cruise: Harber and Lambert",
-        "region": "Harbor Town",
+        "name": "Lakeside Getaway: Nelson and East Lake",
+        "region": "Silver Lake",
+        "category": ["Race"]
+    },
+    {
+        "name": "Driving Off: West Lake and Nelson",
+        "region": "White Mountain",
+        "category": ["Race"]
+    },
+    {
+        "name": "High Noon Club: South Mountain and Lucas",
+        "region": "White Mountain",
         "category": ["Race"]
     },
     {
@@ -75,43 +160,8 @@
         "category": ["Race"]
     },
     {
-        "name": "Stealing 1st: Webster and 7th",
-        "region": "Downtown Paradise",
-        "category": ["Race"]
-    },
-    {
-        "name": "Curveball: Lambert and East Crawford",
-        "region": "Palm Bay Heights",
-        "category": ["Race"]
-    },
-    {
-        "name": "Race for the Plate: South Bay and South Rouse",
-        "region": "Harbor Town",
-        "category": ["Race"]
-    },
-    {
         "name": "Call of the Wild: Nelson and Lucas",
         "region": "White Mountain",
-        "category": ["Race"]
-    },
-    {
-        "name": "Baseball Battle: North Rouse and Lewis",
-        "region": "Silver Lake",
-        "category": ["Race"]
-    },
-    {
-        "name": "Deep South: East Crawford and Hudson",
-        "region": "Palm Bay Heights",
-        "category": ["Race"]
-    },
-    {
-        "name": "The Duel: Hamilton and 7th",
-        "region": "Palm Bay Heights",
-        "category": ["Race"]
-    },
-    {
-        "name": "Man O'War: 3rd and Angus",
-        "region": "Downtown Paradise",
         "category": ["Race"]
     },
     {
@@ -125,43 +175,8 @@
         "category": ["Race"]
     },
     {
-        "name": "Horse Power: 8th and Hudson ???",
-        "region": "",
-        "category": ["Race"]
-    },
-    {
-        "name": "Final Furlong: Hamilton and 3rd",
-        "region": "Palm Bay Heights",
-        "category": ["Race"]
-    },
-    {
-        "name": "Spaghetti Western: Harber and Glancey",
-        "region": "Downtown Paradise",
-        "category": ["Race"]
-    },
-    {
         "name": "Full Gallop: Nelson and Chubb",
         "region": "White Mountain",
-        "category": ["Race"]
-    },
-    {
-        "name": "Demolition Derby: East Lake and Ross",
-        "region": "Silver Lake",
-        "category": ["Race"]
-    },
-    {
-        "name": "Race to the Summit: Franke and Young",
-        "region": "Palm Bay Heights",
-        "category": ["Race"]
-    },
-    {
-        "name": "Go West: Newton and East Crawford",
-        "region": "Palm Bay Heights",
-        "category": ["Race"]
-    },
-    {
-        "name": "Spin City: 1st and Glancey",
-        "region": "Downtown Paradise",
         "category": ["Race"]
     },
     {
@@ -175,28 +190,93 @@
         "category": ["Race"]
     },
     {
-        "name": "Tunnel Vision: Glancey and 7th",
-        "region": "Downtown Paradise",
-        "category": ["Race"]
-    },
-    {
-        "name": "Far, Far Away: 2nd and Root",
-        "region": "Downtown Paradise",
-        "category": ["Race"]
-    },
-    {
         "name": "Reach for the Stars: South Rouse and Lambert",
         "region": "Harbor Town",
-        "category": ["Race"]
-    },
-    {
-        "name": "Lakeside Getaway: Nelson and East Lake",
-        "region": "Silver Lake",
         "category": ["Race"]
     },
     {
         "name": "Mano A Mano: North Mountain and Schembri",
         "region": "White Mountain",
         "category": ["Race"]
+    },
+    {
+        "name": "Taking Its Toll: I-88 Sections 1-4 ???",
+        "region": "",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Freeway Frenzy: I-88 Sections 3-4 ???",
+        "region": "",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Motor City Mayhem: Patterson and I-88",
+        "region": "Downtown Paradise",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Lighthouse Rock: East Crawford and Angus",
+        "region": "Downtown Paradise",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Angus Wharfare: 4th and Angus",
+        "region": "Downtown Paradise",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Central Square-Off: King and 2nd",
+        "region": "Downtown Paradise",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Rush Hour: 3rd and Root",
+        "region": "Downtown Paradise",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "River City Rampage: 4th and Paradise",
+        "region": "Downtown Paradise",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Oncoming Onslaught: I-88 and Moore",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Cross-Town Carnage: Young and Riverside",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Franke Exchange: Franke and 5th",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Suburban Scrap: Hubbard and 2nd",
+        "region": "Harbor Town",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Wrecking Yard: Lambert and 1st",
+        "region": "Harbor Town",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Blockade Run: South Bay and Gabriel",
+        "region": "Harbor Town",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Half Nelson: Ross and Nelson",
+        "region": "Silver Lake",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Sunset Showdown: Schembri and Chubb",
+        "region": "White Mountain",
+        "category": ["Road Rage"]
     }
 ]
