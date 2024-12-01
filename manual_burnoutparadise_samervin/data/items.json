@@ -343,18 +343,250 @@
     },
     {
         "name": "Nakamura FV1100",
-        "category": ["Bike"]
+        "category": ["Bike"],
+        "progression": true
     },
     {
         "name": "Nakamura FV1100-T1",
-        "category": ["Bike"]
+        "category": ["Bike"],
+        "progression": true
     },
     {
         "name": "Nakamura Firehawk V4",
-        "category": ["Bike"]
+        "category": ["Bike"],
+        "progression": true
     },
     {
         "name": "Nakamura Firehawk GP Competition",
+        "category": ["Bike"],
+        "progression": true
+    },
+    {
+        "name": "Jansen 88 Special",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Manhattan Spirit",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson GT Nighthawk",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Cavalry Bootlegger",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Toy Cavalry",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Toy GT Concept",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger Toy WTR",
+        "category": ["Car"]
+    },
+    {
+        "name": "Jansen Toy P12",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Toy Manhattan",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Toy Takedown 4x4",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Toy Citizen",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Toy Inferno Van",
+        "category": ["Car"]
+    },
+    {
+        "name": "Nakamura Toy Firehawk GP",
         "category": ["Bike"]
+    },
+    {
+        "name": "Hunter Toy Bootlegger",
+        "category": ["Car"]
+    },
+    {
+        "name": "Jansen Toy 88 Special",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Toy GT Nighthawk",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter Toy Spirit",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Extreme Hot Rod",
+        "category": ["Car"]
+    },
+    {
+        "name": "Montgomery Hawker Mech",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter PCPD Cavalry",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter PCPD Mesquite",
+        "category": ["Car"]
+    },
+    {
+        "name": "Nakamura PCPD SI-7",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter PCPD Vegas",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger PCPD Pioneer",
+        "category": ["Car"]
+    },
+    {
+        "name": "Nakamura PCPD Ikusa GT",
+        "category": ["Car"]
+    },
+    {
+        "name": "Kitano PCPD Hydros Custom",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter PCPD Reliable Custom",
+        "category": ["Car"]
+    },
+    {
+        "name": "Watson PCPD R-Turbo Roadster",
+        "category": ["Car"]
+    },
+    {
+        "name": "Rossolini PCPD LM Classic",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter PCPD Manhattan",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson PCPD Fastback",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson PCPD Grant Marais",
+        "category": ["Car"]
+    },
+    {
+        "name": "Montgomery PCPD Hyperion",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger PCPD 616 Sport",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter PCPD Spur",
+        "category": ["Car"]
+    },
+    {
+        "name": "Montgomery PCPD GT 2400",
+        "category": ["Car"]
+    },
+    {
+        "name": "Jansen PCPD P12",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson PCPD Inferno Van",
+        "category": ["Car"]
+    },
+    {
+        "name": "Rossolini PCPD Tempesta",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson PCPD Opus",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson PCPD Annihilator",
+        "category": ["Car"]
+    },
+    {
+        "name": "Jansen PCPD X12",
+        "category": ["Car"]
+    },
+    {
+        "name": "Kitano PCPD Touge Sport",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter PCPD Takedown 4x4",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson PCPD 500 GT",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunter PCPD Racing Oval Champ",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson PCPD GT Concept",
+        "category": ["Car"]
+    },
+    {
+        "name": "Watson PCPD 25 V16 Revenge",
+        "category": ["Car"]
+    },
+    {
+        "name": "Montgomery PCPD Hawker",
+        "category": ["Car"]
+    },
+    {
+        "name": "Krieger PCPD Uberschall 8",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson PCPD Thunder Custom",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson PCPD Hot Rod Coupe",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Dust Storm",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Dust Storm SuperTurbo",
+        "category": ["Car"]
+    },
+    {
+        "name": "Jansen P12 Diamond",
+        "category": ["Car"]
+    },
+    {
+        "name": "Hunder Olympus Governor",
+        "category": ["Car"]
+    },
+    {
+        "name": "Carson Annihilator Street Rod",
+        "category": ["Car"]
     }
 ]
