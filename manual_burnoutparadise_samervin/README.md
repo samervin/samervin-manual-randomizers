@@ -15,7 +15,8 @@ Notes
 Locations - numbers not confirmed:
 - 6 license levels (probably not implementing these)
 - 183 normal events (race, road rage, marked man, stunt run)
-- 27 burning routes
+- 35 burning routes
+    - Skipping these locations for now, as they require the base car to race, and unless you are playing on a completed file it takes a long time to get late-game cars.
 - 64 showtime road rules
 - 64 time road rules
 - 38 bike rides

@@ -423,5 +423,275 @@
         "name": "Falling Down: North Mountain and Uphill",
         "region": "White Mountain",
         "category": ["Stunt Run"]
+    },
+    {
+        "name": "Road Rules Time: 1st Street",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: 1st Street",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: 2nd Street",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: 2nd Street",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: 3rd Street",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: 3rd Street",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: 4th Street",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: 4th Street",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: 5th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: 5th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: 7th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: 7th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: 9th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: 9th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Anderson Street",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Anderson Street",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Angus Wharf",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Angus Wharf",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Cannon Pass",
+        "region": "White Mountain",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Cannon Pass",
+        "region": "White Mountain",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Casey Pass",
+        "region": "Harbor Town",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Casey Pass",
+        "region": "Harbor Town",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Chubb Lane",
+        "region": "White Mountain",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Chubb Lane",
+        "region": "White Mountain",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: East Crawford Drive",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: East Crawford Drive",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: East Lake Drive",
+        "region": "Silver Lake",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: East Lake Drive",
+        "region": "Silver Lake",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Evans Boulevard",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Evans Boulevard",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Franke Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Franke Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Fry Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Fry Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Gabriel Avenue",
+        "region": "Harbor Town",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Gabriel Avenue",
+        "region": "Harbor Town",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Geldard Drive",
+        "region": "Harbor Town",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Geldard Drive",
+        "region": "Harbor Town",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Glancey Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Glancey Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Hall Avenue",
+        "region": "Harbor Town",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Hall Avenue",
+        "region": "Harbor Town",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Hamilton Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Hamilton Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Hans Way",
+        "region": "White Mountain",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Hans Way",
+        "region": "White Mountain",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Harber Street",
+        "region": "Harbor Town",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Harber Street",
+        "region": "Harbor Town",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Hawley Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Hawley Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Hubbard Avenue",
+        "region": "Harbor Town",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Hubbard Avenue",
+        "region": "Harbor Town",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Hudson Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Hudson Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Road Rules Showtime"]
     }
 ]
