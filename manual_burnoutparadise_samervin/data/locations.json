@@ -1291,5 +1291,773 @@
         "region": "White Mountain",
         "category": ["Midnight Ride"],
         "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: 1st Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: 1st Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: 2nd Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: 2nd Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: 3rd Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: 3rd Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: 4th Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: 4th Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: 5th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: 5th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: 7th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: 7th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: 9th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: 9th Street",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Anderson Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Anderson Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Angus Wharf",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Angus Wharf",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Cannon Pass",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Cannon Pass",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Casey Pass",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Casey Pass",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Chubb Lane",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Chubb Lane",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: East Crawford Drive",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: East Crawford Drive",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: East Lake Drive",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: East Lake Drive",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Evans Boulevard",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Evans Boulevard",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Franke Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Franke Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Fry Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Fry Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Gabriel Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Gabriel Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Geldard Drive",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Geldard Drive",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Glancey Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Glancey Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Hall Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Hall Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Hamilton Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Hamilton Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Hans Way",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Hans Way",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Harber Street",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Harber Street",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Hawley Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Hawley Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Hubbard Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Hubbard Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Hudson Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Hudson Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: I-88 Section 1 ???",
+        "region": "",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: I-88 Section 1 ???",
+        "region": "",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: I-88 Section 2 ???",
+        "region": "",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: I-88 Section 2 ???",
+        "region": "",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: I-88 Section 3 ???",
+        "region": "",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: I-88 Section 3 ???",
+        "region": "",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: I-88 Section 4 ???",
+        "region": "",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: I-88 Section 4 ???",
+        "region": "",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: King Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: King Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Lambert Parkway",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Lambert Parkway",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Lawrence Road",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Lawrence Road",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Lewis Pass",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Lewis Pass",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Lucas Way",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Lucas Way",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Manners Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Manners Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Moore Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Moore Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: North Mountain Drive",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: North Mountain Drive",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: North Rouse Drive",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: North Rouse Drive",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Nakamura Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Nakamura Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Nelson Way",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Nelson Way",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Newton Drive",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Newton Drive",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Paradise Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Paradise Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Parr Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Parr Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Patterson Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Patterson Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Rack Way",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Rack Way",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Read Lane",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Read Lane",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Riverside Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Riverside Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Root Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Root Avenue",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Ross Drive",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Ross Drive",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: South Bay Expressway",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: South Bay Expressway",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: South Mountain Drive",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: South Mountain Drive",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: South Rouse Drive",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: South Rouse Drive",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Schembri Pass",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Schembri Pass",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Shepherd Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Shepherd Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Sullivan Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Sullivan Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Uphill Drive",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Uphill Drive",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: West Crawford Drive",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: West Crawford Drive",
+        "region": "Silver Lake",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: West Lake Drive",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: West Lake Drive",
+        "region": "White Mountain",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Warren Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Warren Avenue",
+        "region": "Harbor Town",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Watt Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Watt Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Webster Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Webster Street",
+        "region": "Downtown Paradise",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Young Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Young Avenue",
+        "region": "Palm Bay Heights",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
     }
 ]
