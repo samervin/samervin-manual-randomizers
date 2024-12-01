@@ -2059,5 +2059,339 @@
         "region": "Palm Bay Heights",
         "category": ["Bike Road Rules Night"],
         "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Shore Thing: Daniell and Pitt",
+        "region": "Big Surf Island",
+        "category": ["Race"]
+    },
+    {
+        "name": "Sunset Scramble: Grange and Pitt",
+        "region": "Big Surf Island",
+        "category": ["Race"]
+    },
+    {
+        "name": "Rocket Science: Huntley and McDonald",
+        "region": "Big Surf Island",
+        "category": ["Race"]
+    },
+    {
+        "name": "There and Back: Shires and Paradise Keys",
+        "region": "Big Surf Island",
+        "category": ["Race"]
+    },
+    {
+        "name": "You Got Surfed: Daniell and Shires",
+        "region": "Big Surf Island",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Tropical Thunder: Pitt and Lipscomb",
+        "region": "Big Surf Island",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Road Warrior: Jacobs and McDonald",
+        "region": "Big Surf Island",
+        "category": ["Road Rage"]
+    },
+    {
+        "name": "Weakened Getaway: McDonald and Lipscomb",
+        "region": "Big Surf Island",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Island Retreat: Shires and Huntley",
+        "region": "Big Surf Island",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Show-Boating: Shires and Glover",
+        "region": "Big Surf Island",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Makin' Waves: Huntley and Jacobs",
+        "region": "Big Surf Island",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Ski Stuntday: Maguire ???",
+        "region": "Big Surf Island",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Tour of Duty: Shires and Lipscomb ???",
+        "region": "Big Surf Island",
+        "category": ["Race"]
+    },
+    {
+        "name": "Tour de Force: McDonald and Griffin ???",
+        "region": "Big Surf Island",
+        "category": ["Race"]
+    },
+    {
+        "name": "Road Rules Time: Daniell Way",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Daniell Way",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Glover Way",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Glover Way",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Grange Hill",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Grange Hill",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Griffin Boulevard",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Griffin Boulevard",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Huntley Boulevard",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Huntley Boulevard",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Jacobs Street",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Jacobs Street",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Lipscomb Way",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Lipscomb Way",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Maguire Road",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Maguire Road",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: McDonald Road",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: McDonald Road",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Paradise Keys Bridge",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Paradise Keys Bridge",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Pitt Avenue",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Pitt Avenue",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Road Rules Time: Shires Drive",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Time"]
+    },
+    {
+        "name": "Road Rules Showtime: Shires Drive",
+        "region": "Big Surf Island",
+        "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Bike Road Rules Day: Daniell Way",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Daniell Way",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Glover Way",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Glover Way",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Grange Hill",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Grange Hill",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Griffin Boulevard",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Griffin Boulevard",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Huntley Boulevard",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Huntley Boulevard",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Jacobs Street",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Jacobs Street",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Lipscomb Way",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Lipscomb Way",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Maguire Road",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Maguire Road",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: McDonald Road",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: McDonald Road",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Paradise Keys Bridge",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Paradise Keys Bridge",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Pitt Avenue",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Pitt Avenue",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Day: Shires Drive",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Day"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Bike Road Rules Night: Shires Drive",
+        "region": "Big Surf Island",
+        "category": ["Bike Road Rules Night"],
+        "requires": "|@Bike:1|"
     }
 ]
