@@ -2,7 +2,7 @@
 
 Notes
 - Intended to be played using the Remastered version
-- You can force the game to make a new save file by renaming or deleting `%APPDATALOCAL%\Criterion Games\Burnout Paradise Remastered\Save\Profile.BurnoutParadiseSave`. I renamed mine to `Profile.BurnoutParadiseSave.Backup`.
+- You can force the game to make a new save file by renaming or deleting `%LOCALAPPDATA%\Criterion Games\Burnout Paradise Remastered\Save\Profile.BurnoutParadiseSave`. I renamed mine to `Profile.BurnoutParadiseSave.Backup`.
 - Playing on a completed file is possible, as you can retry events at will. The events will all be in their hardest mode though, and the road rules are difficult to track as the timer stops running if you go over your previous time.
 - The game does track things like billboards and jumps, but I think that's too much hassle. The regular events are all clearly visible on the map and easy to find, and there are already a lot of locations.
 - Unlocking a car gives you the ability to use it if it is in your garage. There is no way I know of to grant yourself a car without playing on a completed file or using mods, which I have not personally tried.
