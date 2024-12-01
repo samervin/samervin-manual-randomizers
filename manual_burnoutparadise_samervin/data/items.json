@@ -340,5 +340,21 @@
     {
         "name": "Carbon Krieger Uberschall 8",
         "category": ["Car"]
+    },
+    {
+        "name": "Nakamura FV1100",
+        "category": ["Bike"]
+    },
+    {
+        "name": "Nakamura FV1100-T1",
+        "category": ["Bike"]
+    },
+    {
+        "name": "Nakamura Firehawk V4",
+        "category": ["Bike"]
+    },
+    {
+        "name": "Nakamura Firehawk GP Competition",
+        "category": ["Bike"]
     }
 ]

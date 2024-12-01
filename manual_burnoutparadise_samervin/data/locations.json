@@ -1063,5 +1063,233 @@
         "name": "Road Rules Showtime: Young Avenue",
         "region": "Palm Bay Heights",
         "category": ["Road Rules Showtime"]
+    },
+    {
+        "name": "Burning Ride: 9th and Hudson",
+        "region": "Palm Bay Heights",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Newton and East Crawford",
+        "region": "Palm Bay Heights",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: North Rouse and Lewis",
+        "region": "Silver Lake",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Nelson and Lewis",
+        "region": "Silver Lake",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Ross and Nelson",
+        "region": "Silver Lake",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Nelson and Read",
+        "region": "Silver Lake",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: West Lake and Cannon",
+        "region": "White Mountain",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Chubb and West Lake",
+        "region": "White Mountain",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Nelson and Uphill",
+        "region": "White Mountain",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: West Lake and Chubb",
+        "region": "White Mountain",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Hans and West Lake",
+        "region": "White Mountain",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: South Bay and Parr",
+        "region": "Harbor Town",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Hall and Manners",
+        "region": "Harbor Town",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: South Rouse and Lambert",
+        "region": "Harbor Town",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Hubbard and South Rouse",
+        "region": "Harbor Town",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: 1st and Fry",
+        "region": "Downtown Paradise",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Harber ???",
+        "region": "",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Anderson and Angus",
+        "region": "Downtown Paradise",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Burning Ride: Nelson and East Lake",
+        "region": "Silver Lake",
+        "category": ["Burning Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: 3rd and Root",
+        "region": "Downtown Paradise",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: Franke and Young",
+        "region": "Palm Bay Heights",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: I-88 Sections 1-2 ???",
+        "region": "",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: I-88 Sections 3-4 ???",
+        "region": "",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: 2nd and Hamilton",
+        "region": "Palm Bay Heights",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: Harber and Glancey",
+        "region": "Downtown Paradise",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: Young and Lambert ???",
+        "region": "",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: South Bay and Hall",
+        "region": "Harbor Town",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: South Mountain and South Bay",
+        "region": "White Mountain",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: Chubb and Hans",
+        "region": "White Mountain",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: Lucas and Hans",
+        "region": "White Mountain",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: North Mountain and Uphill",
+        "region": "White Mountain",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: Cannon and Nelson",
+        "region": "White Mountain",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: Nelson and Rack",
+        "region": "Silver Lake",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: South Rouse and Ross",
+        "region": "Silver Lake",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: East Lake and West Crawford",
+        "region": "Silver Lake",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: West Crawford and Nelson",
+        "region": "Silver Lake",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: South Mountain and Lucas",
+        "region": "White Mountain",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
+    },
+    {
+        "name": "Midnight Ride: North Rouse and Read",
+        "region": "White Mountain",
+        "category": ["Midnight Ride"],
+        "requires": "|@Bike:1|"
     }
 ]
