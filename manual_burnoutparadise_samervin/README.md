@@ -8,33 +8,29 @@ Notes
 - Unlocking a car gives you the ability to use it if it is in your garage. There is no way I know of to grant yourself a car without playing on a completed file or using mods, which I have not personally tried.
 - Getting a new license resets all completed events. There is no good way of noting this in-game, so use the tracker to find events.
 - Except for the burning routes, the vanilla game does not put any requirements on any events.
-- To limit the size of sphere 1, the six major areas of the map will be locked behind maps. You can still drive there and complete events that finish there, but you cannot (logically) start events that begin in other areas.
-- I may also logically lock certain location types behind additional items, e.g. road rules may require an item to complete. I don't think I will want regional event type locks though, i.e. "Races in Downtown Paradise only". I'm OK with relatively few locking items / large spheres as this game is very open-world and the events are not especially difficult.
+- To limit the size of sphere 1, the six major areas of the map will be locked behind maps. You can still drive through locked areas and complete events that finish there, but you cannot (logically) start events there.
+- In future, I may logically lock certain location types behind additional items, e.g. road rules may require an item to complete. I don't think I will want regional event type locks though, i.e. "Races in Downtown Paradise only". I'm OK with relatively few locking items / large spheres as this game is very open-world and the events are not especially difficult.
 - Best guide for listing all cars and events is here: https://steamcommunity.com/sharedfiles/filedetails/?id=2291470178
+- Any events marked with a ??? have not been confirmed in-game
 
-Locations - numbers not confirmed:
-- 6 license levels (probably not implementing these)
-- 183 normal events (race, road rage, marked man, stunt run)
-- 35 burning routes
-    - Skipping these locations for now, as they require the base car to race, and unless you are playing on a completed file it takes a long time to get late-game cars.
-- 64 showtime road rules
-- 64 time road rules
-- 38 bike rides
-- 64 daytime bike road rules
-- 64 nighttime bike road rules
-- 63 Big Surf Island events of all types
+Locations:
+- 40 races + 4-6 DLC (what do the Tours count as?)
+- 16 road rage + 3 DLC
+- 15 marked man + 2 DLC
+- 14 stunt run + 3 DLC
+- 64 time road rules + 12 DLC
+- 64 showtime road rules + 12 DLC
+- 19 bike burning rides
+- 19 bike midnight rides
+- 64 bike day road rules + 12 DLC
+- 64 bike night road rules + 12 DLC
+- 35 burning routes + 1 DLC
+    - These are not included right now. They require the base car to complete, and unless you are playing on a completed file it takes a long time to get late-game cars.
 
-Items - numbers not confirmed:
-- 35 cars
-- 35 upgraded (mostly burning route) cars
-- N? cop car variants
-- 6 carbon cars
-- 4 legendary cars
-- 13 toy cars
-- 9 Big Surf Island cars
-- 4 bikes
-- Drive-throughs (repair, gas)
-
-Implemented notes:
-- First 70 cars are regular + upgraded
-- Then 6 carbon cars, very difficult to earn in a vanilla game
+Items:
+- 6 maps, to complete events in different areas
+    - 2 additional map items for Auto Repair and Gas Station drive-throughs
+- 70 cars + 6 carbon cars
+- 4 bikes + 1 toy
+- 33 PCPD variant cars
+- 23 other DLC cars (legendary, toys, specials, Big Surf Island)
