@@ -45,6 +45,40 @@ Bugs:
 - [unconfirmed] Thruster-Pack glide bug (if you haven't saved Clank yet)
 - [unconfirmed] Items disappearing from the world if you have already collected them
 
+Weapon damage values (from [TCRF](https://tcrf.net/Proto:Ratchet_%26_Clank:_Going_Commando/September_4,_2003_build/Debug_mode#WEAPONS)):
+- Wrench: 1 -> 2 -> either 4 or 8, hard to tell
+- Lancer: 0.5 -> 0.67
+- Gravity Bomb: 4 -> 8 (displayed differently on the wiki for some reason)
+- Chopper: 1 -> 2
+- Blitz Gun: 3 -> 6
+- Pulse Rifle: 10 -> 20
+- Miniturret Glove: 0.7 -> 4.1 (unsure on exact damage calculation)
+- Seeker Gun: 6 -> 6 (x3)
+- Synthenoid: 0.75 -> 0.5 (this is surprising)
+- Lava Gun: 8 -> 4 (unsure on exact damage calculation)
+- Bouncer: 6 -> 12 (unsure on exact damage calculation)
+- Minirocket Tube: 12 -> 18
+- Spiderbot Glove: 0* (damage calculated elsewhere)
+- Plasma Coil: 18 -> 60 (this seems high, unsure on exact damage calculation)
+- Hoverbomb Gun: 30 -> 30 (x5)
+- Sheepinator: 0*
+- Shield Charger: 1 -> 5
+- Bomb Glove: 2
+- Visibomb Gun: 6
+- Decoy Glove: 0*
+- Tesla Claw: 2 (unsure on exact damage calculation)
+- Walloper: Not listed (but it's not high)
+- Zodiac: 100
+- R.Y.N.O. II: 100
+- Clank Zapper: 16 -> 20
+
+Roughly divided into tiers, these are:
+- No damage or major asterisks: Spiderbot, Sheepinator, Visibomb Gun, Decoy Glove
+- Low damage: Wrench, Lancer, Chopper, Shield Charger, Bomb Glove, Tesla Claw, Walloper
+- Medium damage: Gravity Bomb, Blitz Gun, Miniturret Glove, Seeker Gun, Synthenoid, Lava Gun
+- High damage: Pulse Rifle, Bouncer, Minirocket Tube, Plasma Coil, Hoverbomb Gun, Clank Zapper
+- Extreme damage: Zodiac, R.Y.N.O. II
+
 ## Magic Combos
 
 Source: https://creepnt.stream/rc/rccombo.html
