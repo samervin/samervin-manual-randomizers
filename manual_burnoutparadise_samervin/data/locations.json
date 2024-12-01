@@ -353,5 +353,75 @@
         "name": "Run Home: West Lake and Chubb",
         "region": "White Mountain",
         "category": ["Marked Man"]
+    },
+    {
+        "name": "Lighthouse Party: Patterson and 9th",
+        "region": "Downtown Paradise",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Unconventional: Anderson and Angus",
+        "region": "Downtown Paradise",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Elevation: 1st and Root",
+        "region": "Downtown Paradise",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Bravo, Encore: 3rd and Lambert",
+        "region": "Palm Bay Heights",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Hang 10: Lambert and 9th",
+        "region": "Palm Bay Heights",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Offroad Parking: Lambert and Hall",
+        "region": "Harbor Town",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Over Construction: Harber and Warren",
+        "region": "Harbor Town",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Near the Edge: Nelson and Read",
+        "region": "Silver Lake",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Base Jumper: South Rouse and Ross",
+        "region": "Silver Lake",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Rack 'Em Up: East Lake and Rack",
+        "region": "Silver Lake",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Express Yourself: South Mountain and South Bay",
+        "region": "White Mountain",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "About Town: Chubb and West Lake",
+        "region": "White Mountain",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Cliffhanger: Chubb and Hans",
+        "region": "White Mountain",
+        "category": ["Stunt Run"]
+    },
+    {
+        "name": "Falling Down: North Mountain and Uphill",
+        "region": "White Mountain",
+        "category": ["Stunt Run"]
     }
 ]
