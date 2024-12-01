@@ -278,5 +278,80 @@
         "name": "Sunset Showdown: Schembri and Chubb",
         "region": "White Mountain",
         "category": ["Road Rage"]
+    },
+    {
+        "name": "Press Ganged: I-88 Sections 1-2 ???",
+        "region": "",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Safe Harbor: Watt and Angus",
+        "region": "Downtown Paradise",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Stampede: 3rd and Webster",
+        "region": "Downtown Paradise",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Steeplechased: 4th and Root",
+        "region": "Downtown Paradise",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Power Struggle: 2nd and Fry",
+        "region": "Downtown Paradise",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Run To The Hills: King and 3rd",
+        "region": "Downtown Paradise",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Emergency 911: 2nd and Hamilton",
+        "region": "Palm Bay Heights",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Strike Out: Hamilton and 5th",
+        "region": "Palm Bay Heights",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Run Like The Wind: Paradise and 5th",
+        "region": "Palm Bay Heights",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Seeing Stars: East Crawford and Sullivan",
+        "region": "Palm Bay Heights",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Club Sandwich: Evans and 1st",
+        "region": "Harbor Town",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Mayday, Mayday: Harber and Manners",
+        "region": "Harbor Town",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Rescue Me: South Bay and Parr",
+        "region": "Harbor Town",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Hostile Waters: Hall and Manners",
+        "region": "Harbor Town",
+        "category": ["Marked Man"]
+    },
+    {
+        "name": "Run Home: West Lake and Chubb",
+        "region": "White Mountain",
+        "category": ["Marked Man"]
     }
 ]
