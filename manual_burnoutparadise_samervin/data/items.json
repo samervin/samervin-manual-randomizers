@@ -1,41 +1,46 @@
 [
     {
+        "name": "Archipelago License",
+        "progression": true,
+        "count": 36
+    },
+    {
         "name": "Map - Downtown Paradise",
-        "category": "Map",
+        "category": ["Map"],
         "progression": true
     },
     {
         "name": "Map - Palm Bay Heights",
-        "category": "Map",
+        "category": ["Map"],
         "progression": true
     },
     {
         "name": "Map - Harbor Town",
-        "category": "Map",
+        "category": ["Map"],
         "progression": true
     },
     {
         "name": "Map - Silver Lake",
-        "category": "Map",
+        "category": ["Map"],
         "progression": true
     },
     {
         "name": "Map - White Mountain",
-        "category": "Map",
+        "category": ["Map"],
         "progression": true
     },
     {
         "name": "Map - Big Surf Island",
-        "category": "Map",
+        "category": ["Map"],
         "progression": true
     },
     {
         "name": "Auto Repair Drive-Throughs",
-        "category": "Map"
+        "category": ["Map"]
     },
     {
         "name": "Gas Station Drive-Throughs",
-        "category": "Map"
+        "category": ["Map"]
     },
     {
         "name": "Hunter Cavalry",

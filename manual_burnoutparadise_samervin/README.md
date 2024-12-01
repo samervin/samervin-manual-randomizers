@@ -34,3 +34,6 @@ Items:
 - 4 bikes + 1 toy
 - 33 PCPD variant cars
 - 23 other DLC cars (legendary, toys, specials, Big Surf Island)
+
+Victory:
+- There are 36 identical "Archipelago License" items. Once you collect 24, you finish your license and win immediately.

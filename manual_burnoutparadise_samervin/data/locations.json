@@ -1,17 +1,19 @@
 [
     {
+        "name": "Complete Archipelago License",
+        "requires": "|Archipelago License:24|",
+        "victory": true
+    },
+    {
         "name": "Rollercoaster: Young and Hubbard ???",
-        "region": "",
         "category": ["Race"]
     },
     {
         "name": "Avant Guard: Young and 1st ???",
-        "region": "",
         "category": ["Race"]
     },
     {
         "name": "Horse Power: 8th and Hudson ???",
-        "region": "",
         "category": ["Race"]
     },
     {
@@ -201,12 +203,10 @@
     },
     {
         "name": "Taking Its Toll: I-88 Sections 1-4 ???",
-        "region": "",
         "category": ["Road Rage"]
     },
     {
         "name": "Freeway Frenzy: I-88 Sections 3-4 ???",
-        "region": "",
         "category": ["Road Rage"]
     },
     {
@@ -281,7 +281,6 @@
     },
     {
         "name": "Press Ganged: I-88 Sections 1-2 ???",
-        "region": "",
         "category": ["Marked Man"]
     },
     {
@@ -696,42 +695,34 @@
     },
     {
         "name": "Road Rules Time: I-88 Section 1 ???",
-        "region": "",
         "category": ["Road Rules Time"]
     },
     {
         "name": "Road Rules Showtime: I-88 Section 1 ???",
-        "region": "",
         "category": ["Road Rules Showtime"]
     },
     {
         "name": "Road Rules Time: I-88 Section 2 ???",
-        "region": "",
         "category": ["Road Rules Time"]
     },
     {
         "name": "Road Rules Showtime: I-88 Section 2 ???",
-        "region": "",
         "category": ["Road Rules Showtime"]
     },
     {
         "name": "Road Rules Time: I-88 Section 3 ???",
-        "region": "",
         "category": ["Road Rules Time"]
     },
     {
         "name": "Road Rules Showtime: I-88 Section 3 ???",
-        "region": "",
         "category": ["Road Rules Showtime"]
     },
     {
         "name": "Road Rules Time: I-88 Section 4 ???",
-        "region": "",
         "category": ["Road Rules Time"]
     },
     {
         "name": "Road Rules Showtime: I-88 Section 4 ???",
-        "region": "",
         "category": ["Road Rules Showtime"]
     },
     {
@@ -1162,7 +1153,6 @@
     },
     {
         "name": "Burning Ride: Harber ???",
-        "region": "",
         "category": ["Burning Ride"],
         "requires": "|@Bike:1|"
     },
@@ -1192,13 +1182,11 @@
     },
     {
         "name": "Midnight Ride: I-88 Sections 1-2 ???",
-        "region": "",
         "category": ["Midnight Ride"],
         "requires": "|@Bike:1|"
     },
     {
         "name": "Midnight Ride: I-88 Sections 3-4 ???",
-        "region": "",
         "category": ["Midnight Ride"],
         "requires": "|@Bike:1|"
     },
@@ -1216,7 +1204,6 @@
     },
     {
         "name": "Midnight Ride: Young and Lambert ???",
-        "region": "",
         "category": ["Midnight Ride"],
         "requires": "|@Bike:1|"
     },
@@ -1618,49 +1605,41 @@
     },
     {
         "name": "Bike Road Rules Day: I-88 Section 1 ???",
-        "region": "",
         "category": ["Bike Road Rules Day"],
         "requires": "|@Bike:1|"
     },
     {
         "name": "Bike Road Rules Night: I-88 Section 1 ???",
-        "region": "",
         "category": ["Bike Road Rules Night"],
         "requires": "|@Bike:1|"
     },
     {
         "name": "Bike Road Rules Day: I-88 Section 2 ???",
-        "region": "",
         "category": ["Bike Road Rules Day"],
         "requires": "|@Bike:1|"
     },
     {
         "name": "Bike Road Rules Night: I-88 Section 2 ???",
-        "region": "",
         "category": ["Bike Road Rules Night"],
         "requires": "|@Bike:1|"
     },
     {
         "name": "Bike Road Rules Day: I-88 Section 3 ???",
-        "region": "",
         "category": ["Bike Road Rules Day"],
         "requires": "|@Bike:1|"
     },
     {
         "name": "Bike Road Rules Night: I-88 Section 3 ???",
-        "region": "",
         "category": ["Bike Road Rules Night"],
         "requires": "|@Bike:1|"
     },
     {
         "name": "Bike Road Rules Day: I-88 Section 4 ???",
-        "region": "",
         "category": ["Bike Road Rules Day"],
         "requires": "|@Bike:1|"
     },
     {
         "name": "Bike Road Rules Night: I-88 Section 4 ???",
-        "region": "",
         "category": ["Bike Road Rules Night"],
         "requires": "|@Bike:1|"
     },
