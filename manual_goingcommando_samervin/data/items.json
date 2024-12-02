@@ -1,7 +1,7 @@
 [
     {
         "name": "Lancer",
-        "category": ["Weapon", "Combat Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
         "progression": true
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "name": "Pulse Rifle",
-        "category": ["Weapon", "Combat Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
         "progression": true
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "name": "Seeker Gun",
-        "category": ["Weapon", "Combat Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
         "progression": true
     },
     {
@@ -51,7 +51,7 @@
     },
     {
         "name": "Minirocket Tube",
-        "category": ["Weapon", "Combat Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
         "progression": true
     },
     {
@@ -61,12 +61,12 @@
     },
     {
         "name": "Plasma Coil",
-        "category": ["Weapon", "Combat Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
         "progression": true
     },
     {
         "name": "Hoverbomb Gun",
-        "category": ["Weapon", "Combat Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
         "progression": true
     },
     {
@@ -81,7 +81,7 @@
     },
     {
         "name": "Bomb Glove",
-        "category": ["Weapon"],
+        "category": ["Weapon", "Combat Weapon"],
         "progression": true
     },
     {
@@ -96,7 +96,7 @@
     },
     {
         "name": "Tesla Claw",
-        "category": ["Weapon"],
+        "category": ["Weapon", "Combat Weapon"],
         "progression": true
     },
     {
@@ -111,7 +111,7 @@
     },
     {
         "name": "R.Y.N.O. II",
-        "category": ["Weapon", "Combat Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
         "progression": true
     },
     {

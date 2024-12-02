@@ -304,49 +304,49 @@
         "name": "Dobbo: Repair the generator + Purchase info",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
-        "requires": ""
+        "requires": "|@Ranged Weapon:1| and |Swingshot| and |Dynamo| and |Glider| and |Electrolyzer|"
     },
     {
         "name": "Dobbo: Defeat leader on Dobbo Orbit",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
-        "requires": ""
+        "requires": "|Dynamo| and |@Combat Weapon:2| and |Swingshot|"
     },
     {
         "name": "Dobbo Platinum Bolt: Glider",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
-        "requires": ""
+        "requires": "|@Ranged Weapon:1| and |Swingshot| and |Dynamo| and |Glider|"
     },
     {
         "name": "Dobbo Platinum Bolt: Spiderbot vent",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
-        "requires": ""
+        "requires": "|Dynamo| and |@Combat Weapon:2| and |Swingshot| and |Spiderbot Glove|"
     },
     {
         "name": "Dobbo Skill Point: Old school",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
-        "requires": ""
+        "requires": "|Dynamo| and |@Combat Weapon:2| and |Swingshot| and |@Ranged Weapon:1| and |Electrolyzer| and (|Bomb Glove| or |Visibomb Gun| or |Tesla Claw|)"
     },
     {
         "name": "Dobbo Skill Point: Robo rampage",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
-        "requires": ""
+        "requires": "|Dynamo| and |@Combat Weapon:2| and |Swingshot|"
     },
     {
         "name": "Dobbo Skill Point: Dukes up",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
-        "requires": ""
+        "requires": "|Dynamo| and |@Combat Weapon:2| and |Swingshot|"
     },
     {
         "name": "Dobbo Nanotech Boost: Glider",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
-        "requires": ""
+        "requires": "|@Ranged Weapon:1| and |Swingshot| and |Dynamo| and |Glider|"
     },
     {
         "name": "Joba: Purchase Levitator",
