@@ -5,11 +5,19 @@
     "Road Rage": {},
     "Marked Man": {},
     "Stunt Run": {},
-    "Road Rules Time": {},
-    "Road Rules Showtime": {},
+    "Road Rules Time": {
+        "yaml_option": ["car_time_road_rules"]
+    },
+    "Road Rules Showtime": {
+        "yaml_option": ["car_showtime_road_rules"]
+    },
     "Bike": {},
     "Burning Ride": {},
     "Midnight Ride": {},
-    "Bike Road Rules Day": {},
-    "Bike Road Rules Night": {}
+    "Bike Road Rules Day": {
+        "yaml_option": ["bike_day_road_rules"]
+    },
+    "Bike Road Rules Night": {
+        "yaml_option": ["bike_night_road_rules"]
+    }
 }
