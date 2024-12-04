@@ -21,7 +21,7 @@
     },
     {
         "name": "Pulse Rifle",
-        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon", "Power Weapon"],
         "progression": true
     },
     {
@@ -46,12 +46,12 @@
     },
     {
         "name": "Bouncer",
-        "category": ["Weapon", "Combat Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Power Weapon"],
         "progression": true
     },
     {
         "name": "Minirocket Tube",
-        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon", "Power Weapon"],
         "progression": true
     },
     {
@@ -61,12 +61,12 @@
     },
     {
         "name": "Plasma Coil",
-        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon", "Power Weapon"],
         "progression": true
     },
     {
         "name": "Hoverbomb Gun",
-        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon", "Power Weapon"],
         "progression": true
     },
     {
@@ -111,12 +111,12 @@
     },
     {
         "name": "R.Y.N.O. II",
-        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon", "Power Weapon"],
         "progression": true
     },
     {
         "name": "Clank Zapper",
-        "category": ["Weapon", "Combat Weapon"],
+        "category": ["Weapon", "Combat Weapon", "Power Weapon"],
         "progression": true
     },
     {
