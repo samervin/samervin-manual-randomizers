@@ -19,6 +19,9 @@ TODOs:
 - The Heli-Pack seems to be required to make Clank show up. If you don't have Clank, you can grant yourself the Heli-Pack, then die or reload your save.
 - The Hydro-Pack works even if you don't have the item listed in your inventory. Whoops!
 - The Heli-Pack/Thruster-Pack is logically required to complete Siberius, because if you complete Siberius before Tabora, you'll be taken to Tabora and need Clank to get out of the underground tunnels. (If you unlock Tabora before Siberius, you won't actually be able to fight the thief on Siberius, so just get to the convoy to "win".)
+- The bike race on Joba does not check if you have the Biker Helmet.
+- The Levitator works even if you do not have Clank.
+- Wrench Ninja II logically requires both Tabora and Aranos access, for the wrench upgrades.
 
 Logical notes:
 

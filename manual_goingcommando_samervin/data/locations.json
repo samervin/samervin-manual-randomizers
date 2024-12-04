@@ -349,76 +349,76 @@
         "requires": "|@Ranged Weapon:1| and |Swingshot| and |Dynamo| and |Glider|"
     },
     {
-        "name": "Joba: Purchase Levitator",
+        "name": "Joba: Purchase Levitator*",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Dynamo| and |@Combat Weapon:3|"
     },
     {
         "name": "Joba: Battle for the Gravity Boots",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Dynamo| and |@Combat Weapon:3| and |Levitator|"
     },
     {
-        "name": "Joba: Cage Match for the Infiltrator",
+        "name": "Joba: Cage Match for the Infiltrator*",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Dynamo| and |@Combat Weapon:3| and |Levitator| and |Gravity Boots|"
     },
     {
         "name": "Joba: Win the Megacorp hoverbike race",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Swingshot|"
     },
     {
         "name": "Joba Platinum Bolt: Swingshot path",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Dynamo| and |Swingshot|"
     },
     {
         "name": "Joba Platinum Bolt: Levitator",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Dynamo| and |@Combat Weapon:3| and |Levitator|"
     },
     {
         "name": "Joba Skill Point: That's impossible!",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Dynamo| and |Levitator| and |Gravity Boots| and |@Power Weapon:2| and |@Weapon:12|"
     },
     {
         "name": "Joba Skill Point: How fast was that?",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Swingshot|"
     },
     {
         "name": "Joba Skill Point: Wrench ninja II: Massacre",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Dynamo| and |Swingshot| and |Coordinates - Tabora| and (|Heli-Pack| or |Thruster-Pack|) and |Coordinates - Aranos|"
     },
     {
         "name": "Joba Skill Point: Bye bye birdies",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Visibomb Gun| or (|Dynamo| and |@Combat Weapon:3| and |Pulse Rifle|)"
     },
     {
         "name": "Joba Nanotech Boost: Hoverbike",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Swingshot|"
     },
     {
         "name": "Joba Nanotech Boost: Dynamo",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": ""
+        "requires": "|Dynamo|"
     },
     {
         "name": "Hrugis Cloud: Disable the facility's defenses",
