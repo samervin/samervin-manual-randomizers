@@ -423,74 +423,69 @@
     {
         "name": "Hrugis Cloud: Disable the facility's defenses",
         "region": "Hrugis Cloud",
-        "category": ["Hrugis Cloud, Deep Space Disposal Facility"],
-        "requires": ""
+        "category": ["Hrugis Cloud, Deep Space Disposal Facility"]
     },
     {
         "name": "Hrugis Cloud Platinum Bolt: Ace Bunyon race",
         "region": "Hrugis Cloud",
-        "category": ["Hrugis Cloud, Deep Space Disposal Facility"],
-        "requires": ""
+        "category": ["Hrugis Cloud, Deep Space Disposal Facility"]
     },
     {
         "name": "Todano: Explore the weapons facility",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
-        "requires": ""
+        "requires": "|Electrolyzer| and (|@Combat Weapon:1| or |Spiderbot Glove| or |Visibomb Gun|) and |Infiltrator| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Todano: Investigate the facility interior",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
-        "requires": ""
+        "requires": "|Electrolyzer| and |Tractor Beam|"
     },
     {
         "name": "Todano: Bring Qwark Collectible to Qwark fan",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
-        "requires": ""
+        "requires": "|Electrolyzer| and |Tractor Beam| and |Qwark Statuette|"
     },
     {
         "name": "Todano Platinum Bolt: Tour guide house",
         "region": "Todano",
-        "category": ["Todano, Megacorp Armory"],
-        "requires": ""
+        "category": ["Todano, Megacorp Armory"]
     },
     {
         "name": "Todano Platinum Bolt: Qwark fan",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
-        "requires": ""
+        "requires": "|Electrolyzer| and |Tractor Beam|"
     },
     {
         "name": "Todano Platinum Bolt: Spiderbot vent",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
-        "requires": ""
+        "requires": "|Electrolyzer| and |Tractor Beam| and |Spiderbot Glove| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Todano Skill Point: Nothing to see here",
         "region": "Todano",
-        "category": ["Todano, Megacorp Armory"],
-        "requires": ""
+        "category": ["Todano, Megacorp Armory"]
     },
     {
         "name": "Todano Skill Point: You're my hero",
         "region": "Todano",
-        "category": ["Todano, Megacorp Armory"],
-        "requires": ""
+        "category": ["Todano, Megacorp Armory"]
     },
     {
         "name": "Todano Skill Point: Try to sleep",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
-        "requires": ""
+        "requires": "|Sheepinator|"
     },
     {
         "name": "Todano Nanotech Boost: Elevator",
         "region": "Todano",
         "category": ["Todano, Megacorp Armory"],
-        "requires": ""
+        "requires": "|Electrolyzer| and (|@Combat Weapon:1| or |Spiderbot Glove| or |Visibomb Gun|) and |Infiltrator|"
     },
     {
         "name": "Boldan: Find Mr. Fizzwidget",
