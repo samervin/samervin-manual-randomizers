@@ -18,7 +18,8 @@ TODOs:
 - I have a new category, Combat Weapon, as a way to gate fight logic. Most weapons are combat weapons. There may need to be a Power Weapon category later.
 - The Heli-Pack seems to be required to make Clank show up. If you don't have Clank, you can grant yourself the Heli-Pack, then die or reload your save.
 - The Hydro-Pack works even if you don't have the item listed in your inventory. Whoops!
-- The Heli-Pack/Thruster-Pack is logically required to complete Siberius, because if you complete Siberius before Tabora, you'll be taken to Tabora and need Clank to get out of the underground tunnels. (If you unlock Tabora before Siberius, you won't actually be able to fight the thief on Siberius, so just get to the convoy to "win".)
+- Either the Heli-Pack/Thruster-Pack or the Tabora coordinates are logically required to complete Siberius, because if you complete Siberius before unlocking Tabora, you'll be taken to Tabora and need Clank to get out of the underground tunnels. (If you unlock Tabora before Siberius, you won't actually be able to fight the thief on Siberius, so just get to the convoy to "win".)
+- Similarly, either the Infiltrator and Levitator or the Aranos coordinates are required to complete Boldan, because if you complete Boldan before unlocking Aranos, you'll be taken to Aranos and need those items to turn off the forcefield. (If you unlock Aranos before Boldan, finding Mr. Fizzwidget doesn't do anything.)
 - The bike race on Joba does not check if you have the Biker Helmet.
 - The Levitator works even if you do not have Clank.
 - Wrench Ninja II logically requires both Tabora and Aranos access, for the wrench upgrades.

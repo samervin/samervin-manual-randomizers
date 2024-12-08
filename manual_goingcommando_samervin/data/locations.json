@@ -238,7 +238,7 @@
         "name": "Siberius: Find and confront the thief",
         "region": "Siberius",
         "category": ["Siberius, Frozen Base"],
-        "requires": "|Swingshot| and |@Combat Weapon:2| and (|Heli-Pack| or |Thruster-Pack|)"
+        "requires": "|Swingshot| and |@Combat Weapon:2| and (|Heli-Pack| or |Thruster-Pack| or |Coordinates - Tabora|)"
     },
     {
         "name": "Siberius Platinum Bolt: Tractor Beam",
@@ -491,55 +491,54 @@
         "name": "Boldan: Find Mr. Fizzwidget",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
-        "requires": ""
+        "requires": "|@Combat Weapon:3| and |@Power Weapon:1| and |Gravity Boots| and |Swingshot| and ((|Infiltrator| and |Levitator|) or |Coordinates - Aranos|)"
     },
     {
         "name": "Boldan Platinum Bolt: Spiderbot hole",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
-        "requires": ""
+        "requires": "|Spiderbot|"
     },
     {
         "name": "Boldan Platinum Bolt: Floating platform",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
-        "requires": ""
+        "requires": "(|@Combat Weapon:3| or |@Power Weapon:1|) and |Gravity Boots| and (|Heli-Pack| or |Thruster-Pack| or |Charge Boots|)"
     },
     {
         "name": "Boldan Platinum Bolt: Near Fizzwidget",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
-        "requires": ""
+        "requires": "|@Combat Weapon:3| and |@Power Weapon:1| and |Gravity Boots| and |Swingshot| and ((|Infiltrator| and |Levitator|) or |Coordinates - Aranos|)"
     },
     {
         "name": "Boldan Skill Point: No shocking developments",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
-        "requires": ""
+        "requires": "|Grind Boots|"
     },
     {
         "name": "Boldan Nanotech Boost: Fountain",
         "region": "Boldan",
-        "category": ["Boldan, Silver City"],
-        "requires": ""
+        "category": ["Boldan, Silver City"]
     },
     {
         "name": "Aranos: Turn off the forcefield",
         "region": "Aranos",
         "category": ["Aranos, Flying Lab"],
-        "requires": ""
+        "requires": "|Infiltrator| and |Levitator|"
     },
     {
         "name": "Aranos: Explore the base + Buy Qwark Statuette",
         "region": "Aranos",
         "category": ["Aranos, Flying Lab"],
-        "requires": ""
+        "requires": "|Levitator|"
     },
     {
         "name": "Aranos Platinum Bolt: Under ship",
         "region": "Aranos",
         "category": ["Aranos, Flying Lab"],
-        "requires": ""
+        "requires": "|Heli-Pack| or |Thruster-Pack|"
     },
     {
         "name": "Gorn: Defeat the Thugs-4-Less Fleet",

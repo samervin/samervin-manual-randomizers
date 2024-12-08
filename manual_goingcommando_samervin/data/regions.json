@@ -75,11 +75,11 @@
     },
     "Boldan": {
         "connects_to": [],
-        "requires": ["Coordinates - Boldan"]
+        "requires": "|Coordinates - Boldan| and |Levitator|"
     },
     "Aranos": {
         "connects_to": [],
-        "requires": ["Coordinates - Aranos"]
+        "requires": "|Coordinates - Aranos| and |@Combat Weapon:1| and |Gravity Boots|"
     },
     "Gorn": {
         "connects_to": [],
