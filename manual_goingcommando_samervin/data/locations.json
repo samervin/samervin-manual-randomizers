@@ -543,38 +543,36 @@
     {
         "name": "Gorn: Defeat the Thugs-4-Less Fleet",
         "region": "Gorn",
-        "category": ["Gorn, Thugs-4-Less Fleet"],
-        "requires": ""
+        "category": ["Gorn, Thugs-4-Less Fleet"]
     },
     {
         "name": "Gorn Platinum Bolt: Ace Bunyon race",
         "region": "Gorn",
-        "category": ["Gorn, Thugs-4-Less Fleet"],
-        "requires": ""
+        "category": ["Gorn, Thugs-4-Less Fleet"]
     },
     {
         "name": "Snivelak: Rescue Angela",
         "region": "Snivelak",
         "category": ["Snivelak, Thugs-4-Less Headquarters"],
-        "requires": ""
+        "requires": "|Swingshot| and |Grind Boots| and |Gravity Boots| and |Dynamo| and |@Power Weapon:1|"
     },
     {
         "name": "Snivelak Platinum Bolt: Dynamo course",
         "region": "Snivelak",
         "category": ["Snivelak, Thugs-4-Less Headquarters"],
-        "requires": ""
+        "requires": "|Swingshot| and |Grind Boots| and |Gravity Boots| and |Dynamo| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Snivelak Skill Point: Moving violation",
         "region": "Snivelak",
         "category": ["Snivelak, Thugs-4-Less Headquarters"],
-        "requires": ""
+        "requires": "|Lancer| or |Blitz Gun| or |Pulse Rifle| or |Minirocket Tube| or |Plasma Coil| or |Hoverbomb Gun| or |Visibomb Gun| or |R.Y.N.O. II|"
     },
     {
         "name": "Snivelak Nanotech Boost: Swingshot",
         "region": "Snivelak",
         "category": ["Snivelak, Thugs-4-Less Headquarters"],
-        "requires": ""
+        "requires": "|Swingshot| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Smolg: Search the distribution facility",

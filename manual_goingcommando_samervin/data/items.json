@@ -116,7 +116,7 @@
     },
     {
         "name": "Clank Zapper",
-        "category": ["Weapon", "Combat Weapon", "Power Weapon"],
+        "category": ["Weapon", "Combat Weapon"],
         "progression": true
     },
     {
