@@ -575,34 +575,34 @@
         "requires": "|Swingshot| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
+        "name": "Smolg: Traverse the warehouse",
+        "region": "Smolg",
+        "category": ["Smolg, Distribution Facility"],
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Dynamo| and (|@Power Weapon:1| or |@Combat Weapon:2|) and |Electrolyzer|"
+    },
+    {
         "name": "Smolg: Search the distribution facility",
         "region": "Smolg",
         "category": ["Smolg, Distribution Facility"],
-        "requires": ""
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Dynamo| and (|@Power Weapon:1| or |@Combat Weapon:2|) and |Electrolyzer| and |Infiltrator|"
     },
     {
-        "name": "Smolg: Explore the docked ships",
+        "name": "Smolg: Explore docked ships + Buy transmission",
         "region": "Smolg",
         "category": ["Smolg, Distribution Facility"],
-        "requires": ""
-    },
-    {
-        "name": "Smolg: Buy the radio transmission",
-        "region": "Smolg",
-        "category": ["Smolg, Distribution Facility"],
-        "requires": ""
+        "requires": "|Swingshot| and |Levitator|"
     },
     {
         "name": "Smolg Platinum Bolt: Warehouse",
         "region": "Smolg",
         "category": ["Smolg, Distribution Facility"],
-        "requires": ""
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Dynamo|"
     },
     {
         "name": "Smolg Platinum Bolt: Levitator",
         "region": "Smolg",
         "category": ["Smolg, Distribution Facility"],
-        "requires": ""
+        "requires": "|Swingshot| and |Levitator|"
     },
     {
         "name": "Damosel: Bring Hypnomatic to hypnotist",
