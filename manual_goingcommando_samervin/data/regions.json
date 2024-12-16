@@ -7,7 +7,6 @@
             "Barlow",
             "Feltzin System",
             "Notak",
-            "Ship Shack",
             "Siberius",
             "Tabora",
             "Dobbo",
@@ -19,9 +18,7 @@
             "Gorn",
             "Snivelak",
             "Smolg",
-            "Grelbin",
-            "Damosel",
-            "Yeedil"
+            "Damosel"
         ],
         "requires": []
     },
@@ -42,7 +39,7 @@
         "requires": ["Coordinates - Feltzin System"]
     },
     "Notak": {
-        "connects_to": [],
+        "connects_to": ["Ship Shack"],
         "requires": ["Coordinates - Notak"]
     },
     "Ship Shack": {
@@ -90,19 +87,19 @@
         "requires": ["Coordinates - Snivelak"]
     },
     "Smolg": {
-        "connects_to": [],
+        "connects_to": ["Grelbin"],
         "requires": ["Coordinates - Smolg"]
-    },
-    "Grelbin": {
-        "connects_to": [],
-        "requires": ["Coordinates - Grelbin"]
     },
     "Damosel": {
         "connects_to": [],
         "requires": ["Coordinates - Damosel"]
     },
+    "Grelbin": {
+        "connects_to": ["Yeedil"],
+        "requires": "|Coordinates - Grelbin| and |Coordinates - Smolg| and (|Heli-Pack| or |Thruster-Pack|) and |Dynamo| and (|@Power Weapon:1| or |@Combat Weapon:2|) and |Electrolyzer|"
+    },
     "Yeedil": {
         "connects_to": [],
-        "requires": ["Coordinates - Yeedil"]
+        "requires": "|Coordinates - Yeedil| and |Coordinates - Grelbin| and |Hypnomatic| and |Coordinates - Smolg| and (|Heli-Pack| or |Thruster-Pack|) and |Dynamo| and (|@Power Weapon:1| or |@Combat Weapon:2|) and |Electrolyzer|"
     }
 }

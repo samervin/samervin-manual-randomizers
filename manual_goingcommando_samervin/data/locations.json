@@ -293,7 +293,7 @@
         "name": "Tabora Skill Point: Heal your chi",
         "region": "Tabora",
         "category": ["Tabora, Mining Area"],
-        "requires": "|Charge Boots| and |@Combat Weapon:4|"
+        "requires": "|Charge Boots| and |@Power Weapon:2| and |@Combat Weapon:8|"
     },
     {
         "name": "Tabora Nanotech Boost: Glider",
@@ -649,37 +649,37 @@
         "name": "Grelbin: Find Angela",
         "region": "Grelbin",
         "category": ["Grelbin, Tundor Wastes"],
-        "requires": ""
+        "requires": "|Hypnomatic|"
     },
     {
         "name": "Grelbin: Explore caves + Buy Hypnomatic part",
         "region": "Grelbin",
         "category": ["Grelbin, Tundor Wastes"],
-        "requires": ""
+        "requires": "|Glider| and |Infiltrator|"
     },
     {
         "name": "Grelbin Platinum Bolt: Ice field",
         "region": "Grelbin",
         "category": ["Grelbin, Tundor Wastes"],
-        "requires": ""
+        "requires": "|Glider| and |Infiltrator|"
     },
     {
-        "name": "Grelbin Platinum Bolt: Hypnomatic",
+        "name": "Grelbin Platinum Bolt: Caves",
         "region": "Grelbin",
         "category": ["Grelbin, Tundor Wastes"],
-        "requires": ""
+        "requires": "|Glider| and |Infiltrator| and |Hypnomatic|"
     },
     {
-        "name": "Grelbin Platinum Bolt: Underwater tunnel",
+        "name": "Grelbin Platinum Bolt: Underwater",
         "region": "Grelbin",
         "category": ["Grelbin, Tundor Wastes"],
-        "requires": ""
+        "requires": "|Hypnomatic|"
     },
     {
         "name": "Grelbin Skill Point: Be a moon child",
         "region": "Grelbin",
         "category": ["Grelbin, Tundor Wastes"],
-        "requires": ""
+        "requires": "|Glider| and |Infiltrator| and |Charge Boots| and |@Power Weapon:3| and (|Shield Charger| or (|Coordinates - Boldan| and |Gravity Boots|) or (|Coordinates - Snivelak| and |Grind Boots| and |Gravity Boots| and |Dynamo|))"
     },
     {
         "name": "Yeedil Platinum Bolt: Bridge",
