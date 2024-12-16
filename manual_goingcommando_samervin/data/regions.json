@@ -76,7 +76,7 @@
     },
     "Aranos": {
         "connects_to": [],
-        "requires": "|Coordinates - Aranos| and |@Combat Weapon:1| and |Gravity Boots|"
+        "requires": "|Coordinates - Aranos| and |@Combat Weapon:1| and |Gravity Boots| and |Infiltrator| and |Levitator|"
     },
     "Gorn": {
         "connects_to": [],

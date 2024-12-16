@@ -16,10 +16,10 @@
         "requires": "|Dynamo|"
     },
     {
-        "name": "Oozla: Defeat the secret swamp monster (?)",
+        "name": "Oozla: Defeat the secret swamp monster",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
-        "requires": "|Dynamo| and |Gravity Boots| and |@Combat Weapon:4|"
+        "requires": "|Dynamo| and |Gravity Boots| and |@Power Weapon:3|"
     },
     {
         "name": "Oozla Platinum Bolt: Tractor Beam",
@@ -84,10 +84,10 @@
         "category": ["Maktar Nebula, Maktar Resort"]
     },
     {
-        "name": "Maktar Nebula Skill Point: 2B hit or not 2B hit (?)",
+        "name": "Maktar Nebula Skill Point: 2B hit or not 2B hit",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": "|Electrolyzer| and |@Combat Weapon:2|"
+        "requires": "|Electrolyzer| and |@Power Weapon:2|"
     },
     {
         "name": "Maktar Nebula Skill Point: Clank needs a new pair of shoes",
@@ -400,7 +400,7 @@
         "name": "Joba Skill Point: Wrench ninja II: Massacre",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": "|Dynamo| and |Swingshot| and |Coordinates - Tabora| and (|Heli-Pack| or |Thruster-Pack|) and |Coordinates - Aranos|"
+        "requires": "|Dynamo| and |Swingshot| and |Coordinates - Aranos| and |@Combat Weapon:1| and |Gravity Boots| and |Infiltrator| and |Levitator|"
     },
     {
         "name": "Joba Skill Point: Bye bye birdies",
@@ -525,14 +525,12 @@
     {
         "name": "Aranos: Turn off the forcefield",
         "region": "Aranos",
-        "category": ["Aranos, Flying Lab"],
-        "requires": "|Infiltrator| and |Levitator|"
+        "category": ["Aranos, Flying Lab"]
     },
     {
         "name": "Aranos: Explore the base + Buy Qwark Statuette",
         "region": "Aranos",
-        "category": ["Aranos, Flying Lab"],
-        "requires": "|Levitator|"
+        "category": ["Aranos, Flying Lab"]
     },
     {
         "name": "Aranos Platinum Bolt: Under ship",
@@ -685,13 +683,13 @@
         "name": "Yeedil Platinum Bolt: Bridge",
         "region": "Yeedil",
         "category": ["Yeedil, Protopet Factory"],
-        "requires": ""
+        "requires": "|Grind Boots|"
     },
     {
         "name": "Yeedil Platinum Bolt: Grind rail",
         "region": "Yeedil",
         "category": ["Yeedil, Protopet Factory"],
-        "requires": ""
+        "requires": "|Swingshot| and |Infiltrator| and |Tractor Beam| and |Grind Boots| and |@Power Weapon:3| and (|Shield Charger| or (|Coordinates - Boldan| and |Gravity Boots|) or (|Coordinates - Snivelak| and |Grind Boots| and |Gravity Boots|))"
     },
     {
         "name": "Skill Point: Nano to the max",
@@ -699,12 +697,13 @@
     },
     {
         "name": "Skill Point: Weapon Envy",
-        "requires": ""
+        "requires": "|Weapon:24|"
     },
     {
         "name": "Defeat the Mutant Protopet",
         "region": "Yeedil",
         "category": ["Yeedil, Protopet Factory"],
-        "requires": ""
+        "requires": "|Swingshot| and |Infiltrator| and |R.Y.N.O. II|",
+        "victory": true
     }
 ]
