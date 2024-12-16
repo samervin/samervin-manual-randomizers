@@ -24,3 +24,9 @@ Items:
 
 Victory:
 - There are 21 identical Golden Car items in the world, one for every city. Once you collect 14, you win immediately.
+
+# TODO
+
+- YAML option to disable Endless milestones
+- Reduce Endless to Milestone 15 (around 2000 trips in Classic)
+- Down Under Update featuring Cairns, Australia. (Bridges and tunnels, challenge named "Infrastructure Planning")

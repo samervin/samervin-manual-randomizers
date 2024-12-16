@@ -37,3 +37,63 @@ Items:
 
 Victory:
 - There are 36 identical "Archipelago License" items. Once you collect 24, you finish your license and win immediately.
+
+# TODO
+
+- Fix locations marked with ???
+- More categories. At a minimum, every region should have a category for all its road rules and events. Preferably in reading order.
+- Better list of cars and when they can be unlocked (or a mod that unlocks them all)
+- "Use what you find" mode for cars
+
+# MODDING
+
+Mods list:
+
+- https://bpr.bo98.uk/
+    - Download BPR Modder, use that to install Core Bugfixes, Traffic Toggle, and Brick Remastered
+- https://matty-ross.github.io/bpr-mods/
+    - Extract mod-manager.dll and imgui.dll to the game's root folder
+    - Extract mods/free-camera.dll to the game's mods folder
+- Burnout Hints Discord
+    - Download webcam.dll and hud_remover.dll to the game's mods folder
+- https://www.patreon.com/posts/red-0-0-1-3-64021669
+    - Download RED and point it to the game's root folder
+- https://github.com/burninrubber0/Bundle-Manager
+    - Download Bundle Manager release, extract, and run as administrator
+- Others
+    - https://github.com/matty-ross/bpr-utility-mods/tree/main/binaries
+    - https://docs.google.com/spreadsheets/d/19_5ZXKY3zBkhileGWTMg3pcm7l8ZsGtQ/edit?gid=1618638281#gid=1618638281
+
+What do these do?
+
+- Core Bugfixes fixes a few small bugs
+- Traffic Toggle lets you turn traffic on and off with F5
+- Brick Remastered has a lot of features: F9 for menu, F10 to toggle mod HUD
+    - Portable junkyard for all vehicles
+        - NPC vehicles included. They have extremely low stats unfortunately, and the camera is buggy, but you can fix the camera with the free-camera mod
+        - Online-only cars, etc. seem to be included
+    - Painting, speedometer, boost switching, etc.
+- Free Camera lets you change camera angles: F7 for menu
+- Webcam turns off the check for webcams, which saves time after every event
+- HUD Remover toggles the in-game HUD with F10
+    - Yes, this is the same hotkey as the Brick Remastered HUD. You can toggle the Brick HUD from within its F9 menu in order to get the two toggles in sync as needed
+- RED is a save editor. There's a lot of things you can change, but the most interesting to me are:
+    - Profile 1.0
+        - Current Progression Rank aka License (can you set this to "Burnout" so events never reset?)
+        - Cars (can you unlock all cars? How does this perform for NPC vehicles? some overlap with the Brick Remastered mod)
+        - Events (you can toggle Discovered, Won, and other fields)
+        - Player Road Rules (what are "Time Dirty" and "Showtime Dirty" fields? can you mark showtimes as done?)
+        - Seen Training (turn off various tutorial reminders)
+    - Profile 1.3
+        - Cars (can you unlock the normally online-only cars?)
+    - Profile 1.4
+        - Bikes (can you unlock all bikes?)
+        - Events (you can toggle Discovered, Won, and other fields)
+    - Profile 1.9
+        - Cars (can you unlock all Big Surf Island cars?)
+        - Events (you can toggle Discovered, Won, and other fields)
+- Bundle Manager lets you edit the bundles that come with the game. The most interesting file to me is PROGRESSION.DAT, which stores some game data, like:
+    - LicenceDataEntries > LicenceData > NumEventWinsRequired, AKA the number of wins needed to upgrade the license.
+    - EventJunctionEntries > various EventData fields. Some fields seem easy to edit, like AppearsWhen (an integer enum), TrafficDensityMultiplier (frequently 0.60), Target Time, NumberOfAIRivalsToUse (max 7 apparently)
+    - RivalEntries, a list of cars that normally need to be taken down while roaming
+    - I downloaded a HARDER_PROGRESSION.DAT file that claims to have more difficult AI drivers, but I cannot find what the difference is.

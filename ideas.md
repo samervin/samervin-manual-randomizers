@@ -55,4 +55,4 @@ Other
 - shapez 2
     - Locations: Produce some number of randomly generated shapez
     - Items: Each of the available tools, platforms, trains, wires, etc.
-    - Notes: Likely relies on a custom campaign to make operator levels trivial and spawn more types of shapez. Not sure if the hub remembers the quantity of a delivered shape unless it is needed for a quest.
+    - Notes: Likely relies on a custom campaign to make operator levels trivial and spawn more types of shapez. Not sure if the hub remembers the quantity of a delivered shape unless it is needed for a quest. (Edit: it does now, as of 0.0.9)
