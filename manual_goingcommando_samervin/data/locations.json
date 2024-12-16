@@ -388,7 +388,7 @@
         "name": "Joba Skill Point: That's impossible!",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": "|Dynamo| and |Levitator| and |Gravity Boots| and |@Power Weapon:2| and |@Weapon:12|"
+        "requires": "|Dynamo| and |Levitator| and |Gravity Boots| and |@Power Weapon:4| and |@Weapon:16|"
     },
     {
         "name": "Joba Skill Point: How fast was that?",
@@ -608,43 +608,42 @@
         "name": "Damosel: Bring Hypnomatic to hypnotist",
         "region": "Damosel",
         "category": ["Damosel, Allgon City"],
-        "requires": ""
+        "requires": "|@Power Weapon:3| and |Swingshot| and (|Heli-Pack| or |Thruster-Pack|) and |Thermanator| and |Hypnomatic| and (|Shield Charger| or (|Coordinates - Boldan| and |Gravity Boots|) or (|Coordinates - Snivelak| and |Grind Boots| and |Gravity Boots| and |Dynamo|))"
     },
     {
         "name": "Damosel: Ride the train rails",
         "region": "Damosel",
         "category": ["Damosel, Allgon City"],
-        "requires": ""
+        "requires": "|Grind Boots|"
     },
     {
         "name": "Damosel: Explore the moon",
         "region": "Damosel",
-        "category": ["Damosel, Allgon City"],
-        "requires": ""
+        "category": ["Damosel, Allgon City"]
     },
     {
         "name": "Damosel Platinum Bolt: Bank fountain",
         "region": "Damosel",
         "category": ["Damosel, Allgon City"],
-        "requires": ""
+        "requires": "|@Power Weapon:3| and |Swingshot| and (|Heli-Pack| or |Thruster-Pack|) and |Thermanator|"
     },
     {
         "name": "Damosel Platinum Bolt: Hypnomatic",
         "region": "Damosel",
         "category": ["Damosel, Allgon City"],
-        "requires": ""
+        "requires": "|@Power Weapon:3| and |Swingshot| and (|Heli-Pack| or |Thruster-Pack|) and |Hypnomatic|"
     },
     {
         "name": "Damosel Skill Point: Safety deposit",
         "region": "Damosel",
         "category": ["Damosel, Allgon City"],
-        "requires": ""
+        "requires": "|@Power Weapon:3| and |Swingshot| and (|Heli-Pack| or |Thruster-Pack|) and |Synthenoid| and |Miniturret Glove|"
     },
     {
         "name": "Damosel Skill Point: Midtown insanity",
         "region": "Damosel",
         "category": ["Damosel, Allgon City"],
-        "requires": ""
+        "requires": "|Grind Boots|"
     },
     {
         "name": "Grelbin: Find Angela",
