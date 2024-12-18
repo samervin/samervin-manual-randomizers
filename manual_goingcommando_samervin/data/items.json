@@ -121,7 +121,8 @@
     },
     {
         "name": "Swingshot",
-        "category": ["Gadget"]
+        "category": ["Gadget"],
+        "progression": true
     },
     {
         "name": "Dynamo",
@@ -130,7 +131,8 @@
     },
     {
         "name": "Thermanator",
-        "category": ["Gadget"]
+        "category": ["Gadget"],
+        "progression": true
     },
     {
         "name": "Tractor Beam",
@@ -139,7 +141,8 @@
     },
     {
         "name": "Hypnomatic",
-        "category": ["Gadget"]
+        "category": ["Gadget"],
+        "progression": true
     },
     {
         "name": "Heli-Pack",
@@ -153,7 +156,8 @@
     },
     {
         "name": "Grind Boots",
-        "category": ["Gadget"]
+        "category": ["Gadget"],
+        "progression": true
     },
     {
         "name": "Gravity Boots",
@@ -162,31 +166,38 @@
     },
     {
         "name": "Charge Boots",
-        "category": ["Gadget"]
+        "category": ["Gadget"],
+        "progression": true
     },
     {
         "name": "Biker Helmet",
-        "category": ["Item"]
+        "category": ["Item"],
+        "progression": true
     },
     {
         "name": "Glider",
-        "category": ["Item"]
+        "category": ["Item"],
+        "progression": true
     },
     {
         "name": "Qwark Statuette",
-        "category": ["Item"]
+        "category": ["Item"],
+        "progression": true
     },
     {
         "name": "Armor Magnetizer",
-        "category": ["Item"]
+        "category": ["Item"],
+        "useful": true
     },
     {
         "name": "Box Breaker",
-        "category": ["Item"]
+        "category": ["Item"],
+        "useful": true
     },
     {
         "name": "Mapper",
-        "category": ["Item"]
+        "category": ["Item"],
+        "useful": true
     },
     {
         "name": "Electrolyzer",
@@ -204,94 +215,118 @@
     },
     {
         "name": "Levitator",
-        "category": ["Item"]
+        "category": ["Item"],
+        "progression": true
     },
     {
         "name": "Coordinates - Oozla",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Maktar Nebula",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Endako",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Barlow",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Feltzin System",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Notak",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Ship Shack",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Siberius",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Tabora",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Dobbo",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Hrugis Cloud",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Joba",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Todano",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Boldan",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Aranos",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Gorn",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Snivelak",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Smolg",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Grelbin",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Damosel",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Coordinates - Yeedil",
-        "category": ["Coordinates"]
+        "category": ["Coordinates"],
+        "progression": true
     },
     {
         "name": "Nanotech Boost",
-        "count": 10
+        "category": ["Item"],
+        "count": 10,
+        "progression": true
     }
 ]

@@ -101,12 +101,7 @@
         "requires": "|Electrolyzer|"
     },
     {
-        "name": "Endako: Visit Clank's apartment [1]*",
-        "region": "Endako",
-        "category": ["Endako, Megapolis"]
-    },
-    {
-        "name": "Endako: Visit Clank's apartment [2]*",
+        "name": "Endako: Visit Clank's apartment*",
         "region": "Endako",
         "category": ["Endako, Megapolis"]
     },
@@ -140,13 +135,7 @@
         "requires": "|Electrolyzer| and |Infiltrator|"
     },
     {
-        "name": "Barlow: Find Desert Riders + Win hoverbike race [1]",
-        "region": "Barlow",
-        "category": ["Barlow, Vukovar Canyon"],
-        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Electrolyzer|"
-    },
-    {
-        "name": "Barlow: Find Desert Riders + Win hoverbike race [2]",
+        "name": "Barlow: Find Desert Riders + Win hoverbike race",
         "region": "Barlow",
         "category": ["Barlow, Vukovar Canyon"],
         "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Electrolyzer|"
@@ -497,7 +486,7 @@
         "name": "Boldan Platinum Bolt: Spiderbot hole",
         "region": "Boldan",
         "category": ["Boldan, Silver City"],
-        "requires": "|Spiderbot|"
+        "requires": "|Spiderbot Glove|"
     },
     {
         "name": "Boldan Platinum Bolt: Floating platform",
@@ -697,12 +686,12 @@
     },
     {
         "name": "Skill Point: Weapon Envy",
-        "requires": "|Weapon:24|"
+        "requires": "|@Weapon:24|"
     },
     {
         "name": "Defeat the Mutant Protopet",
         "region": "Yeedil",
-        "category": ["Yeedil, Protopet Factory"],
+        "category": ["Yeedil, Victory"],
         "requires": "|Swingshot| and |Infiltrator| and |R.Y.N.O. II|",
         "victory": true
     }
