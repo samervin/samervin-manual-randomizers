@@ -341,19 +341,19 @@
         "name": "Joba: Purchase Levitator*",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": "|Dynamo| and |@Combat Weapon:3|"
+        "requires": "|Dynamo| and (|@Combat Weapon:3| or |@Power Weapon:1|)"
     },
     {
         "name": "Joba: Battle for the Gravity Boots",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": "|Dynamo| and |@Combat Weapon:3| and |Levitator|"
+        "requires": "|Dynamo| and (|@Combat Weapon:3| or |@Power Weapon:1|) and |Levitator|"
     },
     {
         "name": "Joba: Cage Match for the Infiltrator*",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": "|Dynamo| and |@Combat Weapon:3| and |Levitator| and |Gravity Boots|"
+        "requires": "|Dynamo| and (|@Combat Weapon:3| or |@Power Weapon:1|) and |Levitator| and |Gravity Boots|"
     },
     {
         "name": "Joba: Win the Megacorp hoverbike race",
@@ -371,7 +371,7 @@
         "name": "Joba Platinum Bolt: Levitator",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": "|Dynamo| and |@Combat Weapon:3| and |Levitator|"
+        "requires": "|Dynamo| and (|@Combat Weapon:3| or |@Power Weapon:1|) and |Levitator|"
     },
     {
         "name": "Joba Skill Point: That's impossible!",
@@ -389,13 +389,13 @@
         "name": "Joba Skill Point: Wrench ninja II: Massacre",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": "|Dynamo| and |Swingshot| and |Coordinates - Aranos| and |@Combat Weapon:1| and |Gravity Boots| and |Infiltrator| and |Levitator|"
+        "requires": "|Dynamo| and (|@Combat Weapon:3| or |@Power Weapon:1|) and |Swingshot| and |Coordinates - Aranos| and |Gravity Boots| and |Infiltrator| and |Levitator|"
     },
     {
         "name": "Joba Skill Point: Bye bye birdies",
         "region": "Joba",
         "category": ["Joba, Megacorp Games"],
-        "requires": "|Visibomb Gun| or (|Dynamo| and |@Combat Weapon:3| and |Pulse Rifle|)"
+        "requires": "|Visibomb Gun| or (|Dynamo| and |Pulse Rifle| and (|@Combat Weapon:3| or |@Power Weapon:1|))"
     },
     {
         "name": "Joba Nanotech Boost: Hoverbike",
