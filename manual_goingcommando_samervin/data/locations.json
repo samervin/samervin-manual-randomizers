@@ -682,10 +682,12 @@
     },
     {
         "name": "Skill Point: Nano to the max",
+        "category": ["Skill Points"],
         "requires": "|Nanotech Boost:10|"
     },
     {
         "name": "Skill Point: Weapon Envy",
+        "category": ["Skill Points"],
         "requires": "|@Weapon:24|"
     },
     {
