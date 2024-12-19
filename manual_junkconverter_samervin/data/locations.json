@@ -1,0 +1,58 @@
+[
+    {
+        "name": "All Junk Coverted",
+        "category": ["Victory"],
+        "requires": "|Storage Key:ALL|",
+        "victory": true
+    },
+    {
+        "name": "Storage Room 001",
+        "category": ["Storage Room"],
+        "requires": "|Storage Key:10|"
+    },
+    {
+        "name": "Storage Room 002",
+        "category": ["Storage Room"],
+        "requires": "|Storage Key:20|"
+    },
+    {
+        "name": "Storage Room 003",
+        "category": ["Storage Room"],
+        "requires": "|Storage Key:30|"
+    },
+    {
+        "name": "Storage Room 004",
+        "category": ["Storage Room"],
+        "requires": "|Storage Key:40|"
+    },
+    {
+        "name": "Storage Room 005",
+        "category": ["Storage Room"],
+        "requires": "|Storage Key:50|"
+    },
+    {
+        "name": "Storage Room 006",
+        "category": ["Storage Room"],
+        "requires": "|Storage Key:60|"
+    },
+    {
+        "name": "Storage Room 007",
+        "category": ["Storage Room"],
+        "requires": "|Storage Key:70|"
+    },
+    {
+        "name": "Storage Room 008",
+        "category": ["Storage Room"],
+        "requires": "|Storage Key:80|"
+    },
+    {
+        "name": "Storage Room 009",
+        "category": ["Storage Room"],
+        "requires": "|Storage Key:90|"
+    },
+    {
+        "name": "Storage Room 010",
+        "category": ["Storage Room"],
+        "requires": "|Storage Key:100|"
+    }
+]
