@@ -1,7 +1,7 @@
 {
     "game": "JunkConverter",
     "creator": "samervin",
-    "filler_item_name": "garbage",
+    "filler_item_name": "Actual Junk",
     "starting_items": [],
     "death_link": false
 }

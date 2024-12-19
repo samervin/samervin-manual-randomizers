@@ -2,7 +2,7 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
     "game": "AssaultAndroidCactus",
     "creator": "samervin",
-    "filler_item_name": "Nothing!",
+    "filler_item_name": "Pineapple!",
     "starting_items": [
         {
             "items": [
