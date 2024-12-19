@@ -276,6 +276,7 @@
     },
     {
         "name": "Gold Bolt",
-        "count": 40
+        "count": 40,
+        "progression": true
     }
 ]
