@@ -1,6 +1,8 @@
 # ratchet-and-clank-manual-randomizer
 
-Manual version: (Probably Stable 20240709)
+- Manual version: (Probably Stable 20240709)
+- Item count: 56 unique, 95 total
+- Location count: 112 total
 
 Logical notes:
 - The RYNO is listed as logically required for the final boss. This is intentional, as it increases the likelihood of going to Veldin in a middle of a run instead of only at the end, and it makes go mode more clear. It also works around ammo bugs, see below.

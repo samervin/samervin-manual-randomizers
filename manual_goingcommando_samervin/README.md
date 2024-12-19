@@ -1,6 +1,8 @@
 # Ratchet and Clank: Going Commando
 
-Manual version: manual_stable_20241119
+- Manual version: manual_stable_20241119
+- Item count: 67 unique, 115 total
+- Location count: 123 total
 
 By default, the goal is to defeat the Mutant Protopet. However, you may change the goal in the YAML to simply collecting 30 of the 40 available Platinum Bolts.
 

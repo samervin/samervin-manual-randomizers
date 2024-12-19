@@ -1,5 +1,8 @@
 # Burnout Paradise
 
+- Item count: 146 unique, 181 total
+- Location count: 442 total (all options enabled)
+
 Notes
 - Intended to be played using the Remastered version
 - You can force the game to make a new save file by renaming or deleting `%LOCALAPPDATA%\Criterion Games\Burnout Paradise Remastered\Save\Profile.BurnoutParadiseSave`. I renamed mine to `Profile.BurnoutParadiseSave.Backup`.

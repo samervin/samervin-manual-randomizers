@@ -1,6 +1,8 @@
 # assault-android-cactus-manual-randomizer
 
-Manual version: (Probably Stable 20240709)
+- Manual version: (Probably Stable 20240709)
+- Item count: 126 unique
+- Location count: 226
 
 - You start with a random android unlocked. You may freely use your primary and secondary weapons, but you may not pick up power-ups.
 - Items unlock the ability to use each power-up. This is per-android, so e.g. Cactus may be able to use Shutdown only while Lemon can only use Firepower.

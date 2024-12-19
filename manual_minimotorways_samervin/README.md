@@ -1,6 +1,8 @@
 # Mini Motorways
 
-Manual version: Stable 20241119
+- Manual version: Stable 20241119
+- Item count: 112 unique, 132 total
+- Location count: 143 total
 
 Getting started:
 - You are assumed to have access to all modes on all cities.
