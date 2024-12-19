@@ -36,315 +36,393 @@
     },
     {
         "name": "Auto Repair Drive-Throughs",
-        "category": ["Map"]
+        "category": ["Map"],
+        "useful": true
     },
     {
         "name": "Gas Station Drive-Throughs",
-        "category": ["Map"]
+        "category": ["Map"],
+        "useful": true
     },
     {
         "name": "Hunter Cavalry",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Oval Champ 69",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Mesquite",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Mesquite Custom",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Nakamura SI-7",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Nakamura Racing SI-7",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Vegas",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Vegas Carnivale",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger Pioneer",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger Super Gator",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Nakamura Ikusa GT",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Nakamura Ikusa Samurai",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Kitano Hydros Custom",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Kitano Hydros Techno",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Reliable Custom",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Reliable Special",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Watson R-Turbo Roadster",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Watson Burnout Roadster",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Rossolini LM Classic",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Rossolini LM Track Package",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Manhattan",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Manhattan Custom",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Fastback",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Fastback Special",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Grand Marais",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Grand Sicilian",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Montgomery Hyperion",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Montgomery Hyperion Rattler",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger 616 Sport",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger 616 Arachno Sport",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Spur",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Hotspur",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Montgomery GT 2400",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Montgomery Sabotage GT 2400",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Jansen P12",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Jansen P12 Track Package",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Inferno Van",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Inferno BRT Van",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Rossolini Tempesta",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Rossolini Tempesta GT",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Opus",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Opus XS",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Annihilator",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Annihilator Phoenix",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Jansen X12",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Jansen XS12",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Kitano Touge Sport",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Kitano Touge Criterion",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Takedown 4x4",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Takedown Dirt Racer",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson 500 GT",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Racing 500 GT",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Racing Oval Champ",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter BRT Oval Champ",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson GT Concept",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson GT Flame",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Citizen",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Civilian",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Watson 25 V16 Revenge",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Watson Revenge Racer",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Montgomery Hawker",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Montgomery Hawker Solo",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger Uberschall 8",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger Uberschall Clear-View",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Thunder Custom",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Thunder Shadow",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Hot Rod Coupe",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Tribal Special",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger Racing WTR",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger PCPD Special",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carbon Nakamura Ikusa GT",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carbon Kitano Hydros Custom",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carbon Janson X12",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carbon Carson GT Concept",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carbon Montgomery Hawker",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carbon Krieger Uberschall 8",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Nakamura FV1100",
@@ -368,230 +446,287 @@
     },
     {
         "name": "Jansen 88 Special",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Manhattan Spirit",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson GT Nighthawk",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Cavalry Bootlegger",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Toy Cavalry",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Toy GT Concept",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger Toy WTR",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Jansen Toy P12",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Toy Manhattan",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Toy Takedown 4x4",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Toy Citizen",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Toy Inferno Van",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Nakamura Toy Firehawk GP",
-        "category": ["Bike"]
+        "category": ["Bike"],
+        "progression": true
     },
     {
         "name": "Hunter Toy Bootlegger",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Jansen Toy 88 Special",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Toy GT Nighthawk",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Toy Spirit",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Extreme Hot Rod",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Montgomery Hawker Mech",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter PCPD Cavalry",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter PCPD Mesquite",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Nakamura PCPD SI-7",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter PCPD Vegas",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger PCPD Pioneer",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Nakamura PCPD Ikusa GT",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Kitano PCPD Hydros Custom",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter PCPD Reliable Custom",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Watson PCPD R-Turbo Roadster",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Rossolini PCPD LM Classic",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter PCPD Manhattan",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson PCPD Fastback",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson PCPD Grant Marais",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Montgomery PCPD Hyperion",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger PCPD 616 Sport",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter PCPD Spur",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Montgomery PCPD GT 2400",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Jansen PCPD P12",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson PCPD Inferno Van",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Rossolini PCPD Tempesta",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson PCPD Opus",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson PCPD Annihilator",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Jansen PCPD X12",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Kitano PCPD Touge Sport",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter PCPD Takedown 4x4",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson PCPD 500 GT",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter PCPD Racing Oval Champ",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson PCPD GT Concept",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Watson PCPD 25 V16 Revenge",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Montgomery PCPD Hawker",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Krieger PCPD Uberschall 8",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson PCPD Thunder Custom",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson PCPD Hot Rod Coupe",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Dust Storm",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Dust Storm SuperTurbo",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Jansen P12 Diamond",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Hunter Olympus Governor",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     },
     {
         "name": "Carson Annihilator Street Rod",
-        "category": ["Car"]
+        "category": ["Car"],
+        "useful": true
     }
 ]
