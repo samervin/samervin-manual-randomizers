@@ -328,5 +328,11 @@
         "category": ["Item"],
         "count": 10,
         "progression": true
+    },
+    {
+        "name": "Platinum Bolt",
+        "category": ["Platinum Bolts"],
+        "count": 40,
+        "progression": true
     }
 ]

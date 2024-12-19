@@ -4,6 +4,7 @@
     "Item": {},
     "Coordinates": {},
     "Skill Points": {},
+    "Platinum Bolts": {},
     "Combat Weapon": {},
     "Power Weapon": {},
     "Oozla, Megacorp Outlet": {},
@@ -27,5 +28,5 @@
     "Damosel, Allgon City": {},
     "Grelbin, Tundor Wastes": {},
     "Yeedil, Protopet Factory": {},
-    "Yeedil, Victory": {}
+    "!Victory": {}
 }

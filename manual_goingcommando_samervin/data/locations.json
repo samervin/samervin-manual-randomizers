@@ -693,8 +693,14 @@
     {
         "name": "Defeat the Mutant Protopet",
         "region": "Yeedil",
-        "category": ["Yeedil, Victory"],
+        "category": ["!Victory"],
         "requires": "|Swingshot| and |Infiltrator| and |R.Y.N.O. II|",
+        "victory": true
+    },
+    {
+        "name": "Collect 30 Platinum Bolts",
+        "category": ["!Victory"],
+        "requires": "|Platinum Bolt:30|",
         "victory": true
     }
 ]
