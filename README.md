@@ -6,3 +6,7 @@ Fully functioning worlds:
 - Assault Android Cactus
 - Mini Motorways
 - Ratchet and Clank
+- Going Commando
+
+Functioning meta-worlds:
+- Junk Converter (will not generate on its own, see its README)
