@@ -1,6 +1,6 @@
 # ratchet-and-clank-manual-randomizer
 
-- Manual version: (Probably Stable 20240709)
+- Manual version: manual_stable_20241119
 - Item count: 56 unique, 95 total
 - Location count: 112 total
 
