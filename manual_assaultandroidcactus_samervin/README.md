@@ -1,6 +1,6 @@
 # assault-android-cactus-manual-randomizer
 
-- Manual version: (Probably Stable 20240709)
+- Manual version: manual_stable_20241119
 - Item count: 126 unique
 - Location count: 226
 
