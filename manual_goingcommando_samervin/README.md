@@ -40,6 +40,30 @@ Bugs:
 - The Hydro-Pack works in-game even if you don't have the item listed in your inventory. Whoops! There are no locations where it's meaningful, so feel free to use it to save time.
 - For certain items and locations, you have to die, or save and reload, in order to get the game to recognize them properly. Clank is the most obvious example, mentioned above. The secret Oozla boss may require a similar death/reload.
 
+Weapon damage as measured by a member of the speedrunning Discord:
+- Lancer: 0.15
+- Gravity Bomb: 4
+- Chopper: 2
+- Seeker Gun: 6
+- Pulse Rifle: 10
+- Miniturret Gun: 0.7
+- Blitz Gun: 3
+- Shield Charger: 1
+- Synthenoids: 2.25
+- Lava Gun: 6
+- Bouncer: 6 + 33 (total)
+- Minirocket Tube: 12
+- Plasma Coil: 18
+- Hoverbomb Gun: 30
+- Spiderbot Glove: 12
+- Tesla Claw: 2
+- Bomb Glove: 2
+- Walloper: 3
+- Visibomb Gun: 6
+- Clank Zapper: 16
+- Zodiac: >100
+- R.Y.N.O. II: 100
+
 I used weapon damage values from [TCRF](https://tcrf.net/Proto:Ratchet_%26_Clank:_Going_Commando/September_4,_2003_build/Debug_mode#WEAPONS) plus my own experience to create weapon tiers:
 
 - Not considered in generic fight logic due to extremely low damage or difficult usage: Spiderbot Glove, Sheepinator, Shield Charger, Visibomb Gun, Decoy Glove, Walloper
