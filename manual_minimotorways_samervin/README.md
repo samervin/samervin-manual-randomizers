@@ -21,14 +21,12 @@ Items:
 - Maps unlock that city for playing. You start with 3 random maps.
 - For classic and endless modes: motorways, bridges, tunnels, roundabouts, and traffic lights are locked behind items.
     - You may use any items provided at the start of the map, i.e. you usually start with one bridge.
-    - Motorways, bridges, and tunnels are all logically required for the Driver (2000) milestone, but feel free to go for it out of logic.
+    - Motorways, bridges, and tunnels are all logically required for the Driver (2000) milestone, but feel free to try to complete it early.
     - Challenges and expert mode have no item locks, so play those as normal.
 
 Victory:
-- There are 21 identical Golden Car items in the world, one for every city. Once you collect 14, you win immediately.
+- There are 22 identical Golden Car items in the world, one for every city. Once you collect 14, you win immediately.
 
 # TODO
 
 - YAML option to disable Endless milestones
-- Reduce Endless to Milestone 15 (around 2000 trips in Classic)
-- Down Under Update featuring Cairns, Australia. (Bridges and tunnels, challenge named "Infrastructure Planning")

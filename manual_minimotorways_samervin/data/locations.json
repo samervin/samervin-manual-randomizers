@@ -1,5 +1,10 @@
 [
     {
+        "name": "Collect Golden Cars to Win",
+        "requires": "|Golden Car:14|",
+        "victory": true
+    },
+    {
         "name": "Los Angeles: Classic Tourist (400)",
         "region": "Los Angeles",
         "category": ["Los Angeles"]
@@ -16,7 +21,7 @@
         "requires": "|Los Angeles motorways| and |Los Angeles bridges| and |Los Angeles tunnels|"
     },
     {
-        "name": "Los Angeles: Endless Milestone 20",
+        "name": "Los Angeles: Endless Milestone 15",
         "region": "Los Angeles",
         "category": ["Los Angeles"]
     },
@@ -57,7 +62,7 @@
         "requires": "|Beijing motorways| and |Beijing bridges|"
     },
     {
-        "name": "Beijing: Endless Milestone 20",
+        "name": "Beijing: Endless Milestone 15",
         "region": "Beijing",
         "category": ["Beijing"]
     },
@@ -93,7 +98,7 @@
         "requires": "|Tokyo motorways| and |Tokyo bridges|"
     },
     {
-        "name": "Tokyo: Endless Milestone 20",
+        "name": "Tokyo: Endless Milestone 15",
         "region": "Tokyo",
         "category": ["Tokyo"]
     },
@@ -129,7 +134,7 @@
         "requires": "|London motorways| and |London bridges|"
     },
     {
-        "name": "London: Endless Milestone 20",
+        "name": "London: Endless Milestone 15",
         "region": "London",
         "category": ["London"]
     },
@@ -160,7 +165,7 @@
         "requires": "|Mumbai motorways| and |Mumbai bridges|"
     },
     {
-        "name": "Mumbai: Endless Milestone 20",
+        "name": "Mumbai: Endless Milestone 15",
         "region": "Mumbai",
         "category": ["Mumbai"]
     },
@@ -196,7 +201,7 @@
         "requires": "|New York City motorways| and |New York City bridges|"
     },
     {
-        "name": "New York City: Endless Milestone 20",
+        "name": "New York City: Endless Milestone 15",
         "region": "New York City",
         "category": ["New York City"]
     },
@@ -227,7 +232,7 @@
         "requires": "|Dar es Salaam motorways| and |Dar es Salaam bridges|"
     },
     {
-        "name": "Dar es Salaam: Endless Milestone 20",
+        "name": "Dar es Salaam: Endless Milestone 15",
         "region": "Dar es Salaam",
         "category": ["Dar es Salaam"]
     },
@@ -258,7 +263,7 @@
         "requires": "|Moscow motorways| and |Moscow bridges|"
     },
     {
-        "name": "Moscow: Endless Milestone 20",
+        "name": "Moscow: Endless Milestone 15",
         "region": "Moscow",
         "category": ["Moscow"]
     },
@@ -294,7 +299,7 @@
         "requires": "|Munich motorways| and |Munich bridges|"
     },
     {
-        "name": "Munich: Endless Milestone 20",
+        "name": "Munich: Endless Milestone 15",
         "region": "Munich",
         "category": ["Munich"]
     },
@@ -330,7 +335,7 @@
         "requires": "|Zurich motorways| and |Zurich bridges| and |Zurich tunnels|"
     },
     {
-        "name": "Zurich: Endless Milestone 20",
+        "name": "Zurich: Endless Milestone 15",
         "region": "Zurich",
         "category": ["Zurich"]
     },
@@ -366,7 +371,7 @@
         "requires": "|Manila motorways| and |Manila bridges|"
     },
     {
-        "name": "Manila: Endless Milestone 20",
+        "name": "Manila: Endless Milestone 15",
         "region": "Manila",
         "category": ["Manila"]
     },
@@ -402,7 +407,7 @@
         "requires": "|Rio de Janeiro motorways| and |Rio de Janeiro bridges| and |Rio de Janeiro tunnels|"
     },
     {
-        "name": "Rio de Janeiro: Endless Milestone 20",
+        "name": "Rio de Janeiro: Endless Milestone 15",
         "region": "Rio de Janeiro",
         "category": ["Rio de Janeiro"]
     },
@@ -438,7 +443,7 @@
         "requires": "|Dubai motorways| and |Dubai bridges|"
     },
     {
-        "name": "Dubai: Endless Milestone 20",
+        "name": "Dubai: Endless Milestone 15",
         "region": "Dubai",
         "category": ["Dubai"]
     },
@@ -474,7 +479,7 @@
         "requires": "|Mexico City motorways| and |Mexico City tunnels|"
     },
     {
-        "name": "Mexico City: Endless Milestone 20",
+        "name": "Mexico City: Endless Milestone 15",
         "region": "Mexico City",
         "category": ["Mexico City"]
     },
@@ -505,7 +510,7 @@
         "requires": "|Wellington motorways| and |Wellington bridges| and |Wellington tunnels|"
     },
     {
-        "name": "Wellington: Endless Milestone 20",
+        "name": "Wellington: Endless Milestone 15",
         "region": "Wellington",
         "category": ["Wellington"]
     },
@@ -536,7 +541,7 @@
         "requires": "|Warsaw motorways| and |Warsaw bridges|"
     },
     {
-        "name": "Warsaw: Endless Milestone 20",
+        "name": "Warsaw: Endless Milestone 15",
         "region": "Warsaw",
         "category": ["Warsaw"]
     },
@@ -572,7 +577,7 @@
         "requires": "|Chiang Mai motorways| and |Chiang Mai bridges|"
     },
     {
-        "name": "Chiang Mai: Endless Milestone 20",
+        "name": "Chiang Mai: Endless Milestone 15",
         "region": "Chiang Mai",
         "category": ["Chiang Mai"]
     },
@@ -608,7 +613,7 @@
         "requires": "|Lisbon motorways| and |Lisbon bridges|"
     },
     {
-        "name": "Lisbon: Endless Milestone 20",
+        "name": "Lisbon: Endless Milestone 15",
         "region": "Lisbon",
         "category": ["Lisbon"]
     },
@@ -639,7 +644,7 @@
         "requires": "|Busan motorways| and |Busan bridges|"
     },
     {
-        "name": "Busan: Endless Milestone 20",
+        "name": "Busan: Endless Milestone 15",
         "region": "Busan",
         "category": ["Busan"]
     },
@@ -675,7 +680,7 @@
         "requires": "|Reykjavik motorways| and |Reykjavik bridges| and |Reykjavik tunnels|"
     },
     {
-        "name": "Reykjavik: Endless Milestone 20",
+        "name": "Reykjavik: Endless Milestone 15",
         "region": "Reykjavik",
         "category": ["Reykjavik"]
     },
@@ -711,7 +716,7 @@
         "requires": "|Vancouver motorways| and |Vancouver bridges| and |Vancouver tunnels|"
     },
     {
-        "name": "Vancouver: Endless Milestone 20",
+        "name": "Vancouver: Endless Milestone 15",
         "region": "Vancouver",
         "category": ["Vancouver"]
     },
@@ -731,8 +736,34 @@
         "category": ["Vancouver"]
     },
     {
-        "name": "Collect Golden Cars to Win",
-        "requires": "|Golden Car:14|",
-        "victory": true
+        "name": "Cairns: Classic Tourist (400)",
+        "region": "Cairns",
+        "category": ["Cairns"]
+    },
+    {
+        "name": "Cairns: Classic Commuter (1000)",
+        "region": "Cairns",
+        "category": ["Cairns"]
+    },
+    {
+        "name": "Cairns: Classic Driver (2000)",
+        "region": "Cairns",
+        "category": ["Cairns"],
+        "requires": "|Cairns motorways| and |Cairns bridges| and |Cairns tunnels|"
+    },
+    {
+        "name": "Cairns: Endless Milestone 15",
+        "region": "Cairns",
+        "category": ["Cairns"]
+    },
+    {
+        "name": "Cairns: Infrastructure Planning (600)",
+        "region": "Cairns",
+        "category": ["Cairns"]
+    },
+    {
+        "name": "Cairns: Expert (500)",
+        "region": "Cairns",
+        "category": ["Cairns"]
     }
 ]

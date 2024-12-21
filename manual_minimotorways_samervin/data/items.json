@@ -1,5 +1,11 @@
 [
     {
+        "name": "Golden Car",
+        "category": ["Golden"],
+        "progression": true,
+        "count": 22
+    },
+    {
         "name": "Los Angeles map",
         "category": ["Los Angeles", "Map"],
         "progression": true
@@ -555,9 +561,33 @@
         "progression": true
     },
     {
-        "name": "Golden Car",
-        "category": ["Golden"],
-        "progression": true,
-        "count": 21
+        "name": "Cairns map",
+        "category": ["Cairns", "Map"],
+        "progression": true
+    },
+    {
+        "name": "Cairns roundabouts",
+        "category": ["Cairns"],
+        "useful": true
+    },
+    {
+        "name": "Cairns traffic lights",
+        "category": ["Cairns"],
+        "useful": true
+    },
+    {
+        "name": "Cairns motorways",
+        "category": ["Cairns"],
+        "progression": true
+    },
+    {
+        "name": "Cairns bridges",
+        "category": ["Cairns"],
+        "progression": true
+    },
+    {
+        "name": "Cairns tunnels",
+        "category": ["Cairns"],
+        "progression": true
     }
 ]
