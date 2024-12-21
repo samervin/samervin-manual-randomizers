@@ -1,26 +1,7 @@
 {
     "Oozla": {
-        "starting": true,
-        "connects_to": [
-            "Maktar Nebula",
-            "Endako",
-            "Barlow",
-            "Feltzin System",
-            "Notak",
-            "Siberius",
-            "Tabora",
-            "Dobbo",
-            "Hrugis Cloud",
-            "Joba",
-            "Todano",
-            "Boldan",
-            "Aranos",
-            "Gorn",
-            "Snivelak",
-            "Smolg",
-            "Damosel"
-        ],
-        "requires": []
+        "connects_to": [],
+        "requires": ["Coordinates - Oozla"]
     },
     "Maktar Nebula": {
         "connects_to": [],
@@ -39,7 +20,7 @@
         "requires": ["Coordinates - Feltzin System"]
     },
     "Notak": {
-        "connects_to": ["Ship Shack"],
+        "connects_to": [],
         "requires": ["Coordinates - Notak"]
     },
     "Ship Shack": {
@@ -87,7 +68,7 @@
         "requires": ["Coordinates - Snivelak"]
     },
     "Smolg": {
-        "connects_to": ["Grelbin"],
+        "connects_to": [],
         "requires": ["Coordinates - Smolg"]
     },
     "Damosel": {
@@ -95,7 +76,7 @@
         "requires": ["Coordinates - Damosel"]
     },
     "Grelbin": {
-        "connects_to": ["Yeedil"],
+        "connects_to": [],
         "requires": "|Coordinates - Grelbin| and |Coordinates - Smolg| and (|Heli-Pack| or |Thruster-Pack|) and |Dynamo| and (|@Power Weapon:1| or |@Combat Weapon:2|) and |Electrolyzer|"
     },
     "Yeedil": {
