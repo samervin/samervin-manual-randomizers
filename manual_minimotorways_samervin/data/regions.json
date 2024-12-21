@@ -82,5 +82,9 @@
     "Vancouver": {
         "connects_to": [],
         "requires": ["Vancouver map"]
+    },
+    "Cairns": {
+        "connects_to": [],
+        "requires": ["Cairns map"]
     }
 }
