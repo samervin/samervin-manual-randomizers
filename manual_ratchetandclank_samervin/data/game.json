@@ -1,9 +1,20 @@
 {
-  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "RatchetandClank",
-  "creator": "samervin",
-  "filler_item_name": "Bolt",
-  "starting_items": [
-  ],
-  "death_link": false
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "RatchetandClank",
+    "creator": "samervin",
+    "filler_item_name": "Bolt",
+    "starting_items": [
+        {
+            "items": [
+                "Infobot - Novalis"
+            ]
+        },
+        {
+            "item_categories": [
+                "Infobot"
+            ],
+            "random": 2
+        }
+    ],
+    "death_link": false
 }

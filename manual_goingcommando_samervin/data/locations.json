@@ -1,5 +1,28 @@
 [
     {
+        "name": "Defeat the Mutant Protopet",
+        "region": "Yeedil",
+        "category": ["!Victory"],
+        "requires": "|Swingshot| and |Infiltrator| and |R.Y.N.O. II|",
+        "victory": true
+    },
+    {
+        "name": "Collect 30 Platinum Bolts",
+        "category": ["!Victory"],
+        "requires": "|Platinum Bolt:30|",
+        "victory": true
+    },
+    {
+        "name": "Skill Point: Nano to the max",
+        "category": ["Skill Points"],
+        "requires": "|Nanotech Boost:10|"
+    },
+    {
+        "name": "Skill Point: Weapon Envy",
+        "category": ["Skill Points"],
+        "requires": "|@Weapon:24|"
+    },
+    {
         "name": "Oozla: Explore the swamp + Buy Tractor Beam*",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"]
@@ -679,28 +702,5 @@
         "region": "Yeedil",
         "category": ["Yeedil, Protopet Factory"],
         "requires": "|Swingshot| and |Infiltrator| and |Tractor Beam| and |Grind Boots| and |@Power Weapon:3| and (|Shield Charger| or (|Coordinates - Boldan| and |Gravity Boots|) or (|Coordinates - Snivelak| and |Grind Boots| and |Gravity Boots|))"
-    },
-    {
-        "name": "Skill Point: Nano to the max",
-        "category": ["Skill Points"],
-        "requires": "|Nanotech Boost:10|"
-    },
-    {
-        "name": "Skill Point: Weapon Envy",
-        "category": ["Skill Points"],
-        "requires": "|@Weapon:24|"
-    },
-    {
-        "name": "Defeat the Mutant Protopet",
-        "region": "Yeedil",
-        "category": ["!Victory"],
-        "requires": "|Swingshot| and |Infiltrator| and |R.Y.N.O. II|",
-        "victory": true
-    },
-    {
-        "name": "Collect 30 Platinum Bolts",
-        "category": ["!Victory"],
-        "requires": "|Platinum Bolt:30|",
-        "victory": true
     }
 ]

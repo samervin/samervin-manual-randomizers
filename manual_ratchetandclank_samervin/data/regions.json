@@ -1,26 +1,7 @@
 {
     "Novalis": {
-        "starting": true,
-        "connects_to": [
-            "Kerwan",
-            "Aridia",
-            "Eudora",
-            "Nebula G34",
-            "Rilgar",
-            "Umbris",
-            "Batalia",
-            "Gaspar",
-            "Orxon",
-            "Pokitaru",
-            "Hoven",
-            "Gemlik Base",
-            "Oltanis",
-            "Quartu",
-            "Kalebo III",
-            "Drek's Fleet",
-            "Veldin"
-        ],
-        "requires": []
+        "connects_to": [],
+        "requires": ["Infobot - Novalis"]
     },
     "Kerwan": {
         "connects_to": [],

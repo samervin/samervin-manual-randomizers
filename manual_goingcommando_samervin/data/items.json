@@ -211,7 +211,8 @@
     },
     {
         "name": "Hydro-Pack",
-        "category": ["Item"]
+        "category": ["Item"],
+        "useful": true
     },
     {
         "name": "Levitator",

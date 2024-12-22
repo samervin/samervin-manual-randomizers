@@ -1,8 +1,10 @@
-# ratchet-and-clank-manual-randomizer
+# Ratchet and Clank (PS2)
 
 - Manual version: manual_stable_20241119
-- Item count: 56 unique, 95 total
-- Location count: 112 total
+- Item count: 57 unique, 96 total
+- Location count: 113 total
+
+By default, the goal is to defeat Chairman Drek. However, you may change the goal in the YAML to simply collecting 30 of the 40 available Gold Bolts.
 
 Logical notes:
 - The RYNO is listed as logically required for the final boss. This is intentional, as it increases the likelihood of going to Veldin in a middle of a run instead of only at the end, and it makes go mode more clear. It also works around ammo bugs, see below.

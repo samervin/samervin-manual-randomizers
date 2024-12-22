@@ -1,5 +1,18 @@
 [
     {
+        "name": "Defeat Chairman Drek",
+        "region": "Veldin",
+        "category": ["!Victory"],
+        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Magneboots| and |Hydrodisplacer| and |Thruster-Pack| and |R.Y.N.O.|",
+        "victory": true
+    },
+    {
+        "name": "Collect 30 Gold Bolts",
+        "category": ["!Victory"],
+        "requires": "|Gold Bolt:30|",
+        "victory": true
+    },
+    {
         "name": "Novalis: Find a new ship",
         "region": "Novalis",
         "category": ["Novalis, Tobruk Crater"]
@@ -646,12 +659,5 @@
         "name": "Veldin Skill Point: Going commando",
         "region": "Veldin",
         "category": ["Veldin, Kyzil Plateau"]
-    },
-    {
-        "name": "Defeat Chairman Drek",
-        "region": "Veldin",
-        "category": ["Veldin, Kyzil Plateau"],
-        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Magneboots| and |Hydrodisplacer| and |Thruster-Pack| and |R.Y.N.O.|",
-        "victory": true
     }
 ]

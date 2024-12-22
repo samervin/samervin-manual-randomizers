@@ -190,6 +190,11 @@
         "progression": true
     },
     {
+        "name": "Infobot - Novalis",
+        "category": ["Infobot"],
+        "progression": true
+    },
+    {
         "name": "Infobot - Kerwan",
         "category": ["Infobot"],
         "progression": true
@@ -276,6 +281,7 @@
     },
     {
         "name": "Gold Bolt",
+        "category": ["Gold Bolts"],
         "count": 40,
         "progression": true
     }

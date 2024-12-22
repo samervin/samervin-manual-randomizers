@@ -3,8 +3,7 @@
     "Gadget": {},
     "Item": {},
     "Infobot": {},
-    "Gold Bolt": {},
-    "Skill Point": {},
+    "Gold Bolts": {},
     "Novalis, Tobruk Crater": {},
     "Kerwan, Metropolis": {},
     "Aridia, Outpost X11": {},
@@ -22,5 +21,6 @@
     "Quartu, Robot Plant": {},
     "Kalebo III, Gadgetron Site": {},
     "Drek's Fleet, Veldin Orbit": {},
-    "Veldin, Kyzil Plateau": {}
+    "Veldin, Kyzil Plateau": {},
+    "!Victory": {}
 }
