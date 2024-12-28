@@ -17,6 +17,78 @@
                 "Assault Android Liquorice"
             ],
             "random": 1
+        },
+        {
+            "items": [
+                "Cactus Accelerate",
+                "Cactus Firepower",
+                "Cactus Shutdown"
+            ],
+            "random": 1
+        },
+        {
+            "items": [
+                "Holly Accelerate",
+                "Holly Firepower",
+                "Holly Shutdown"
+            ],
+            "random": 1
+        },
+        {
+            "items": [
+                "Lemon Accelerate",
+                "Lemon Firepower",
+                "Lemon Shutdown"
+            ],
+            "random": 1
+        },
+        {
+            "items": [
+                "Coral Accelerate",
+                "Coral Firepower",
+                "Coral Shutdown"
+            ],
+            "random": 1
+        },
+        {
+            "items": [
+                "Starch Accelerate",
+                "Starch Firepower",
+                "Starch Shutdown"
+            ],
+            "random": 1
+        },
+        {
+            "items": [
+                "Aubergine Accelerate",
+                "Aubergine Firepower",
+                "Aubergine Shutdown"
+            ],
+            "random": 1
+        },
+        {
+            "items": [
+                "Shiitake Accelerate",
+                "Shiitake Firepower",
+                "Shiitake Shutdown"
+            ],
+            "random": 1
+        },
+        {
+            "items": [
+                "Peanut Accelerate",
+                "Peanut Firepower",
+                "Peanut Shutdown"
+            ],
+            "random": 1
+        },
+        {
+            "items": [
+                "Liquorice Accelerate",
+                "Liquorice Firepower",
+                "Liquorice Shutdown"
+            ],
+            "random": 1
         }
     ],
     "death_link": false
