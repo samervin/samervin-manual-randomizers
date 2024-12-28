@@ -24,6 +24,31 @@ level_names = [
     "5-3 Convection",
     "5-4 Collider",
     "5-5 Medulla",
+    "1-1+ Descent+",
+    "1-2+ Turbine+",
+    "1-3+ Filament+",
+    "1-4+ Capacitor+",
+    "1-5+ Embryo+",
+    "2-1+ Hive+",
+    "2-2+ Influx+",
+    "2-3+ Oxygen+",
+    "2-4+ Process+",
+    "2-5+ Vespula+",
+    "3-1+ Checkpoint+",
+    "3-2+ Transit+",
+    "3-3+ Heat+",
+    "3-4+ Revolution+",
+    "3-5+ Justice+",
+    "4-1+ Assembly+",
+    "4-2+ Relay+",
+    "4-3+ Focus+",
+    "4-4+ Repeater+",
+    "4-5+ Venom+",
+    "5-1+ Centrifuge+",
+    "5-2+ Control+",
+    "5-3+ Convection+",
+    "5-4+ Collider+",
+    "5-5+ Medulla+",
 ]
 
 android_names = [
@@ -49,10 +74,18 @@ for level_name in level_names:
                 android_name
             ],
         }
-        if level_name[0] == "1":
+        if level_name[0:4] in ["1-1 ", "1-2 ", "1-3 ", "1-4 ", "1-5 "]:
             level["requires"] = f"|Assault Android {android_name}|"
-        elif level_name[0:3] in ["5-4", "5-5"]:
+        elif level_name[0:4] in ["5-4 ", "5-5 "]:
             level["requires"] = f"|Assault Android {android_name}| and |{android_name} Boss Key| and |{android_name} Accelerate| and |{android_name} Firepower| and |{android_name} Shutdown|"
+        elif level_name[0:4] in ["5-4+", "5-5+"]:
+            level["requires"] = f"|Assault Android {android_name}| and |{android_name} Boss+ Key| and |{android_name} Accelerate| and |{android_name} Firepower| and |{android_name} Shutdown|"
+            level["category"][0] = f"{android_name}+"
+            level["category"].append("Campaign+")
+        elif level_name[3] == "+":
+            level["requires"] = f"|Assault Android {android_name}| and |{android_name} Zone {level_name[0]}+ Key|"
+            level["category"][0] = f"{android_name}+"
+            level["category"].append("Campaign+")
         else:
             level["requires"] = f"|Assault Android {android_name}| and |{android_name} Zone {level_name[0]} Key|"
         levels.append(level)
@@ -72,6 +105,24 @@ for android_name in android_names:
 levels.append({
     "name": "Defeat Collider and Medulla with all androids",
     "requires": all_android_victory[:-5], # chop off the last "and"
+    "category": ["Victory"],
+    "victory": True
+})
+one_android_plus_victory = ""
+for android_name in android_names:
+    one_android_plus_victory += f"(|Assault Android {android_name}| and |{android_name} Boss+ Key| and |{android_name} Accelerate| and |{android_name} Firepower| and |{android_name} Shutdown|) or "
+levels.append({
+    "name": "Defeat Collider+ and Medulla+ with any android",
+    "requires": one_android_plus_victory[:-4], # chop off the last "or"
+    "category": ["Victory"],
+    "victory": True
+})
+all_android_plus_victory = ""
+for android_name in android_names:
+    all_android_plus_victory += f"|Assault Android {android_name}| and |{android_name} Boss+ Key| and |{android_name} Accelerate| and |{android_name} Firepower| and |{android_name} Shutdown| and "
+levels.append({
+    "name": "Defeat Collider+ and Medulla+ with all androids",
+    "requires": all_android_plus_victory[:-5], # chop off the last "and"
     "category": ["Victory"],
     "victory": True
 })
@@ -126,10 +177,25 @@ for zone in "2345":
             "progression": True
         }
         items.append(item)
+for zone in "12345":
+    for android_name in android_names:
+        item = {
+            "name": f"{android_name} Zone {zone}+ Key",
+            "category": ["Keys", "Campaign+"],
+            "progression": True
+        }
+        items.append(item)
 for android_name in android_names:
     item = {
         "name": f"{android_name} Boss Key",
         "category": ["Keys"],
+        "progression": True
+    }
+    items.append(item)
+for android_name in android_names:
+    item = {
+        "name": f"{android_name} Boss+ Key",
+        "category": ["Keys", "Campaign+"],
         "progression": True
     }
     items.append(item)

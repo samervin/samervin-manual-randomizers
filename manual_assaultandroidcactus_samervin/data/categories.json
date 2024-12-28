@@ -8,6 +8,19 @@
     "Shiitake": {},
     "Peanut": {},
     "Liquorice": {},
+    "Cactus+": {},
+    "Holly+": {},
+    "Lemon+": {},
+    "Coral+": {},
+    "Starch+": {},
+    "Aubergine+": {},
+    "Shiitake+": {},
+    "Peanut+": {},
+    "Liquorice+": {},
     "Keys": {},
+    "Campaign+": {
+        "yaml_option": ["campaign_plus"],
+        "hidden": true
+    },
     "Victory": {}
 }

@@ -1575,6 +1575,1806 @@
         "requires": "|Assault Android Liquorice| and |Liquorice Boss Key| and |Liquorice Accelerate| and |Liquorice Firepower| and |Liquorice Shutdown|"
     },
     {
+        "name": "1-1+ Descent+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 1+ Key|"
+    },
+    {
+        "name": "1-1+ Descent+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 1+ Key|"
+    },
+    {
+        "name": "1-1+ Descent+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 1+ Key|"
+    },
+    {
+        "name": "1-1+ Descent+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 1+ Key|"
+    },
+    {
+        "name": "1-1+ Descent+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 1+ Key|"
+    },
+    {
+        "name": "1-1+ Descent+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 1+ Key|"
+    },
+    {
+        "name": "1-1+ Descent+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 1+ Key|"
+    },
+    {
+        "name": "1-1+ Descent+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 1+ Key|"
+    },
+    {
+        "name": "1-1+ Descent+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 1+ Key|"
+    },
+    {
+        "name": "1-2+ Turbine+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 1+ Key|"
+    },
+    {
+        "name": "1-2+ Turbine+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 1+ Key|"
+    },
+    {
+        "name": "1-2+ Turbine+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 1+ Key|"
+    },
+    {
+        "name": "1-2+ Turbine+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 1+ Key|"
+    },
+    {
+        "name": "1-2+ Turbine+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 1+ Key|"
+    },
+    {
+        "name": "1-2+ Turbine+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 1+ Key|"
+    },
+    {
+        "name": "1-2+ Turbine+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 1+ Key|"
+    },
+    {
+        "name": "1-2+ Turbine+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 1+ Key|"
+    },
+    {
+        "name": "1-2+ Turbine+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 1+ Key|"
+    },
+    {
+        "name": "1-3+ Filament+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 1+ Key|"
+    },
+    {
+        "name": "1-3+ Filament+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 1+ Key|"
+    },
+    {
+        "name": "1-3+ Filament+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 1+ Key|"
+    },
+    {
+        "name": "1-3+ Filament+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 1+ Key|"
+    },
+    {
+        "name": "1-3+ Filament+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 1+ Key|"
+    },
+    {
+        "name": "1-3+ Filament+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 1+ Key|"
+    },
+    {
+        "name": "1-3+ Filament+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 1+ Key|"
+    },
+    {
+        "name": "1-3+ Filament+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 1+ Key|"
+    },
+    {
+        "name": "1-3+ Filament+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 1+ Key|"
+    },
+    {
+        "name": "1-4+ Capacitor+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 1+ Key|"
+    },
+    {
+        "name": "1-4+ Capacitor+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 1+ Key|"
+    },
+    {
+        "name": "1-4+ Capacitor+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 1+ Key|"
+    },
+    {
+        "name": "1-4+ Capacitor+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 1+ Key|"
+    },
+    {
+        "name": "1-4+ Capacitor+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 1+ Key|"
+    },
+    {
+        "name": "1-4+ Capacitor+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 1+ Key|"
+    },
+    {
+        "name": "1-4+ Capacitor+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 1+ Key|"
+    },
+    {
+        "name": "1-4+ Capacitor+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 1+ Key|"
+    },
+    {
+        "name": "1-4+ Capacitor+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 1+ Key|"
+    },
+    {
+        "name": "1-5+ Embryo+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 1+ Key|"
+    },
+    {
+        "name": "1-5+ Embryo+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 1+ Key|"
+    },
+    {
+        "name": "1-5+ Embryo+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 1+ Key|"
+    },
+    {
+        "name": "1-5+ Embryo+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 1+ Key|"
+    },
+    {
+        "name": "1-5+ Embryo+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 1+ Key|"
+    },
+    {
+        "name": "1-5+ Embryo+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 1+ Key|"
+    },
+    {
+        "name": "1-5+ Embryo+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 1+ Key|"
+    },
+    {
+        "name": "1-5+ Embryo+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 1+ Key|"
+    },
+    {
+        "name": "1-5+ Embryo+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 1+ Key|"
+    },
+    {
+        "name": "2-1+ Hive+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 2+ Key|"
+    },
+    {
+        "name": "2-1+ Hive+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 2+ Key|"
+    },
+    {
+        "name": "2-1+ Hive+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 2+ Key|"
+    },
+    {
+        "name": "2-1+ Hive+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 2+ Key|"
+    },
+    {
+        "name": "2-1+ Hive+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 2+ Key|"
+    },
+    {
+        "name": "2-1+ Hive+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 2+ Key|"
+    },
+    {
+        "name": "2-1+ Hive+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 2+ Key|"
+    },
+    {
+        "name": "2-1+ Hive+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 2+ Key|"
+    },
+    {
+        "name": "2-1+ Hive+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 2+ Key|"
+    },
+    {
+        "name": "2-2+ Influx+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 2+ Key|"
+    },
+    {
+        "name": "2-2+ Influx+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 2+ Key|"
+    },
+    {
+        "name": "2-2+ Influx+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 2+ Key|"
+    },
+    {
+        "name": "2-2+ Influx+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 2+ Key|"
+    },
+    {
+        "name": "2-2+ Influx+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 2+ Key|"
+    },
+    {
+        "name": "2-2+ Influx+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 2+ Key|"
+    },
+    {
+        "name": "2-2+ Influx+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 2+ Key|"
+    },
+    {
+        "name": "2-2+ Influx+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 2+ Key|"
+    },
+    {
+        "name": "2-2+ Influx+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 2+ Key|"
+    },
+    {
+        "name": "2-3+ Oxygen+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 2+ Key|"
+    },
+    {
+        "name": "2-3+ Oxygen+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 2+ Key|"
+    },
+    {
+        "name": "2-3+ Oxygen+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 2+ Key|"
+    },
+    {
+        "name": "2-3+ Oxygen+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 2+ Key|"
+    },
+    {
+        "name": "2-3+ Oxygen+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 2+ Key|"
+    },
+    {
+        "name": "2-3+ Oxygen+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 2+ Key|"
+    },
+    {
+        "name": "2-3+ Oxygen+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 2+ Key|"
+    },
+    {
+        "name": "2-3+ Oxygen+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 2+ Key|"
+    },
+    {
+        "name": "2-3+ Oxygen+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 2+ Key|"
+    },
+    {
+        "name": "2-4+ Process+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 2+ Key|"
+    },
+    {
+        "name": "2-4+ Process+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 2+ Key|"
+    },
+    {
+        "name": "2-4+ Process+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 2+ Key|"
+    },
+    {
+        "name": "2-4+ Process+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 2+ Key|"
+    },
+    {
+        "name": "2-4+ Process+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 2+ Key|"
+    },
+    {
+        "name": "2-4+ Process+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 2+ Key|"
+    },
+    {
+        "name": "2-4+ Process+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 2+ Key|"
+    },
+    {
+        "name": "2-4+ Process+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 2+ Key|"
+    },
+    {
+        "name": "2-4+ Process+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 2+ Key|"
+    },
+    {
+        "name": "2-5+ Vespula+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 2+ Key|"
+    },
+    {
+        "name": "2-5+ Vespula+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 2+ Key|"
+    },
+    {
+        "name": "2-5+ Vespula+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 2+ Key|"
+    },
+    {
+        "name": "2-5+ Vespula+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 2+ Key|"
+    },
+    {
+        "name": "2-5+ Vespula+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 2+ Key|"
+    },
+    {
+        "name": "2-5+ Vespula+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 2+ Key|"
+    },
+    {
+        "name": "2-5+ Vespula+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 2+ Key|"
+    },
+    {
+        "name": "2-5+ Vespula+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 2+ Key|"
+    },
+    {
+        "name": "2-5+ Vespula+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 2+ Key|"
+    },
+    {
+        "name": "3-1+ Checkpoint+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 3+ Key|"
+    },
+    {
+        "name": "3-1+ Checkpoint+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 3+ Key|"
+    },
+    {
+        "name": "3-1+ Checkpoint+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 3+ Key|"
+    },
+    {
+        "name": "3-1+ Checkpoint+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 3+ Key|"
+    },
+    {
+        "name": "3-1+ Checkpoint+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 3+ Key|"
+    },
+    {
+        "name": "3-1+ Checkpoint+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 3+ Key|"
+    },
+    {
+        "name": "3-1+ Checkpoint+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 3+ Key|"
+    },
+    {
+        "name": "3-1+ Checkpoint+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 3+ Key|"
+    },
+    {
+        "name": "3-1+ Checkpoint+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 3+ Key|"
+    },
+    {
+        "name": "3-2+ Transit+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 3+ Key|"
+    },
+    {
+        "name": "3-2+ Transit+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 3+ Key|"
+    },
+    {
+        "name": "3-2+ Transit+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 3+ Key|"
+    },
+    {
+        "name": "3-2+ Transit+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 3+ Key|"
+    },
+    {
+        "name": "3-2+ Transit+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 3+ Key|"
+    },
+    {
+        "name": "3-2+ Transit+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 3+ Key|"
+    },
+    {
+        "name": "3-2+ Transit+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 3+ Key|"
+    },
+    {
+        "name": "3-2+ Transit+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 3+ Key|"
+    },
+    {
+        "name": "3-2+ Transit+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 3+ Key|"
+    },
+    {
+        "name": "3-3+ Heat+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 3+ Key|"
+    },
+    {
+        "name": "3-3+ Heat+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 3+ Key|"
+    },
+    {
+        "name": "3-3+ Heat+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 3+ Key|"
+    },
+    {
+        "name": "3-3+ Heat+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 3+ Key|"
+    },
+    {
+        "name": "3-3+ Heat+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 3+ Key|"
+    },
+    {
+        "name": "3-3+ Heat+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 3+ Key|"
+    },
+    {
+        "name": "3-3+ Heat+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 3+ Key|"
+    },
+    {
+        "name": "3-3+ Heat+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 3+ Key|"
+    },
+    {
+        "name": "3-3+ Heat+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 3+ Key|"
+    },
+    {
+        "name": "3-4+ Revolution+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 3+ Key|"
+    },
+    {
+        "name": "3-4+ Revolution+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 3+ Key|"
+    },
+    {
+        "name": "3-4+ Revolution+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 3+ Key|"
+    },
+    {
+        "name": "3-4+ Revolution+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 3+ Key|"
+    },
+    {
+        "name": "3-4+ Revolution+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 3+ Key|"
+    },
+    {
+        "name": "3-4+ Revolution+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 3+ Key|"
+    },
+    {
+        "name": "3-4+ Revolution+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 3+ Key|"
+    },
+    {
+        "name": "3-4+ Revolution+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 3+ Key|"
+    },
+    {
+        "name": "3-4+ Revolution+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 3+ Key|"
+    },
+    {
+        "name": "3-5+ Justice+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 3+ Key|"
+    },
+    {
+        "name": "3-5+ Justice+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 3+ Key|"
+    },
+    {
+        "name": "3-5+ Justice+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 3+ Key|"
+    },
+    {
+        "name": "3-5+ Justice+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 3+ Key|"
+    },
+    {
+        "name": "3-5+ Justice+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 3+ Key|"
+    },
+    {
+        "name": "3-5+ Justice+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 3+ Key|"
+    },
+    {
+        "name": "3-5+ Justice+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 3+ Key|"
+    },
+    {
+        "name": "3-5+ Justice+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 3+ Key|"
+    },
+    {
+        "name": "3-5+ Justice+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 3+ Key|"
+    },
+    {
+        "name": "4-1+ Assembly+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 4+ Key|"
+    },
+    {
+        "name": "4-1+ Assembly+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 4+ Key|"
+    },
+    {
+        "name": "4-1+ Assembly+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 4+ Key|"
+    },
+    {
+        "name": "4-1+ Assembly+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 4+ Key|"
+    },
+    {
+        "name": "4-1+ Assembly+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 4+ Key|"
+    },
+    {
+        "name": "4-1+ Assembly+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 4+ Key|"
+    },
+    {
+        "name": "4-1+ Assembly+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 4+ Key|"
+    },
+    {
+        "name": "4-1+ Assembly+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 4+ Key|"
+    },
+    {
+        "name": "4-1+ Assembly+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 4+ Key|"
+    },
+    {
+        "name": "4-2+ Relay+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 4+ Key|"
+    },
+    {
+        "name": "4-2+ Relay+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 4+ Key|"
+    },
+    {
+        "name": "4-2+ Relay+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 4+ Key|"
+    },
+    {
+        "name": "4-2+ Relay+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 4+ Key|"
+    },
+    {
+        "name": "4-2+ Relay+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 4+ Key|"
+    },
+    {
+        "name": "4-2+ Relay+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 4+ Key|"
+    },
+    {
+        "name": "4-2+ Relay+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 4+ Key|"
+    },
+    {
+        "name": "4-2+ Relay+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 4+ Key|"
+    },
+    {
+        "name": "4-2+ Relay+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 4+ Key|"
+    },
+    {
+        "name": "4-3+ Focus+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 4+ Key|"
+    },
+    {
+        "name": "4-3+ Focus+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 4+ Key|"
+    },
+    {
+        "name": "4-3+ Focus+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 4+ Key|"
+    },
+    {
+        "name": "4-3+ Focus+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 4+ Key|"
+    },
+    {
+        "name": "4-3+ Focus+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 4+ Key|"
+    },
+    {
+        "name": "4-3+ Focus+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 4+ Key|"
+    },
+    {
+        "name": "4-3+ Focus+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 4+ Key|"
+    },
+    {
+        "name": "4-3+ Focus+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 4+ Key|"
+    },
+    {
+        "name": "4-3+ Focus+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 4+ Key|"
+    },
+    {
+        "name": "4-4+ Repeater+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 4+ Key|"
+    },
+    {
+        "name": "4-4+ Repeater+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 4+ Key|"
+    },
+    {
+        "name": "4-4+ Repeater+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 4+ Key|"
+    },
+    {
+        "name": "4-4+ Repeater+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 4+ Key|"
+    },
+    {
+        "name": "4-4+ Repeater+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 4+ Key|"
+    },
+    {
+        "name": "4-4+ Repeater+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 4+ Key|"
+    },
+    {
+        "name": "4-4+ Repeater+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 4+ Key|"
+    },
+    {
+        "name": "4-4+ Repeater+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 4+ Key|"
+    },
+    {
+        "name": "4-4+ Repeater+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 4+ Key|"
+    },
+    {
+        "name": "4-5+ Venom+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 4+ Key|"
+    },
+    {
+        "name": "4-5+ Venom+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 4+ Key|"
+    },
+    {
+        "name": "4-5+ Venom+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 4+ Key|"
+    },
+    {
+        "name": "4-5+ Venom+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 4+ Key|"
+    },
+    {
+        "name": "4-5+ Venom+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 4+ Key|"
+    },
+    {
+        "name": "4-5+ Venom+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 4+ Key|"
+    },
+    {
+        "name": "4-5+ Venom+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 4+ Key|"
+    },
+    {
+        "name": "4-5+ Venom+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 4+ Key|"
+    },
+    {
+        "name": "4-5+ Venom+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 4+ Key|"
+    },
+    {
+        "name": "5-1+ Centrifuge+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 5+ Key|"
+    },
+    {
+        "name": "5-1+ Centrifuge+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 5+ Key|"
+    },
+    {
+        "name": "5-1+ Centrifuge+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 5+ Key|"
+    },
+    {
+        "name": "5-1+ Centrifuge+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 5+ Key|"
+    },
+    {
+        "name": "5-1+ Centrifuge+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 5+ Key|"
+    },
+    {
+        "name": "5-1+ Centrifuge+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 5+ Key|"
+    },
+    {
+        "name": "5-1+ Centrifuge+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 5+ Key|"
+    },
+    {
+        "name": "5-1+ Centrifuge+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 5+ Key|"
+    },
+    {
+        "name": "5-1+ Centrifuge+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 5+ Key|"
+    },
+    {
+        "name": "5-2+ Control+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 5+ Key|"
+    },
+    {
+        "name": "5-2+ Control+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 5+ Key|"
+    },
+    {
+        "name": "5-2+ Control+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 5+ Key|"
+    },
+    {
+        "name": "5-2+ Control+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 5+ Key|"
+    },
+    {
+        "name": "5-2+ Control+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 5+ Key|"
+    },
+    {
+        "name": "5-2+ Control+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 5+ Key|"
+    },
+    {
+        "name": "5-2+ Control+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 5+ Key|"
+    },
+    {
+        "name": "5-2+ Control+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 5+ Key|"
+    },
+    {
+        "name": "5-2+ Control+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 5+ Key|"
+    },
+    {
+        "name": "5-3+ Convection+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Zone 5+ Key|"
+    },
+    {
+        "name": "5-3+ Convection+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Zone 5+ Key|"
+    },
+    {
+        "name": "5-3+ Convection+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Zone 5+ Key|"
+    },
+    {
+        "name": "5-3+ Convection+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Zone 5+ Key|"
+    },
+    {
+        "name": "5-3+ Convection+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Zone 5+ Key|"
+    },
+    {
+        "name": "5-3+ Convection+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Zone 5+ Key|"
+    },
+    {
+        "name": "5-3+ Convection+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Zone 5+ Key|"
+    },
+    {
+        "name": "5-3+ Convection+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Zone 5+ Key|"
+    },
+    {
+        "name": "5-3+ Convection+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Zone 5+ Key|"
+    },
+    {
+        "name": "5-4+ Collider+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Boss+ Key| and |Cactus Accelerate| and |Cactus Firepower| and |Cactus Shutdown|"
+    },
+    {
+        "name": "5-4+ Collider+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Boss+ Key| and |Holly Accelerate| and |Holly Firepower| and |Holly Shutdown|"
+    },
+    {
+        "name": "5-4+ Collider+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Boss+ Key| and |Lemon Accelerate| and |Lemon Firepower| and |Lemon Shutdown|"
+    },
+    {
+        "name": "5-4+ Collider+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Boss+ Key| and |Coral Accelerate| and |Coral Firepower| and |Coral Shutdown|"
+    },
+    {
+        "name": "5-4+ Collider+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Boss+ Key| and |Starch Accelerate| and |Starch Firepower| and |Starch Shutdown|"
+    },
+    {
+        "name": "5-4+ Collider+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Boss+ Key| and |Aubergine Accelerate| and |Aubergine Firepower| and |Aubergine Shutdown|"
+    },
+    {
+        "name": "5-4+ Collider+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Boss+ Key| and |Shiitake Accelerate| and |Shiitake Firepower| and |Shiitake Shutdown|"
+    },
+    {
+        "name": "5-4+ Collider+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Boss+ Key| and |Peanut Accelerate| and |Peanut Firepower| and |Peanut Shutdown|"
+    },
+    {
+        "name": "5-4+ Collider+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Boss+ Key| and |Liquorice Accelerate| and |Liquorice Firepower| and |Liquorice Shutdown|"
+    },
+    {
+        "name": "5-5+ Medulla+ - Cactus",
+        "category": [
+            "Cactus+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Cactus| and |Cactus Boss+ Key| and |Cactus Accelerate| and |Cactus Firepower| and |Cactus Shutdown|"
+    },
+    {
+        "name": "5-5+ Medulla+ - Holly",
+        "category": [
+            "Holly+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Holly| and |Holly Boss+ Key| and |Holly Accelerate| and |Holly Firepower| and |Holly Shutdown|"
+    },
+    {
+        "name": "5-5+ Medulla+ - Lemon",
+        "category": [
+            "Lemon+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Lemon| and |Lemon Boss+ Key| and |Lemon Accelerate| and |Lemon Firepower| and |Lemon Shutdown|"
+    },
+    {
+        "name": "5-5+ Medulla+ - Coral",
+        "category": [
+            "Coral+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Coral| and |Coral Boss+ Key| and |Coral Accelerate| and |Coral Firepower| and |Coral Shutdown|"
+    },
+    {
+        "name": "5-5+ Medulla+ - Starch",
+        "category": [
+            "Starch+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Starch| and |Starch Boss+ Key| and |Starch Accelerate| and |Starch Firepower| and |Starch Shutdown|"
+    },
+    {
+        "name": "5-5+ Medulla+ - Aubergine",
+        "category": [
+            "Aubergine+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Aubergine| and |Aubergine Boss+ Key| and |Aubergine Accelerate| and |Aubergine Firepower| and |Aubergine Shutdown|"
+    },
+    {
+        "name": "5-5+ Medulla+ - Shiitake",
+        "category": [
+            "Shiitake+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Shiitake| and |Shiitake Boss+ Key| and |Shiitake Accelerate| and |Shiitake Firepower| and |Shiitake Shutdown|"
+    },
+    {
+        "name": "5-5+ Medulla+ - Peanut",
+        "category": [
+            "Peanut+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Peanut| and |Peanut Boss+ Key| and |Peanut Accelerate| and |Peanut Firepower| and |Peanut Shutdown|"
+    },
+    {
+        "name": "5-5+ Medulla+ - Liquorice",
+        "category": [
+            "Liquorice+",
+            "Campaign+"
+        ],
+        "requires": "|Assault Android Liquorice| and |Liquorice Boss+ Key| and |Liquorice Accelerate| and |Liquorice Firepower| and |Liquorice Shutdown|"
+    },
+    {
         "name": "Defeat Collider and Medulla with any android",
         "requires": "(|Assault Android Cactus| and |Cactus Boss Key| and |Cactus Accelerate| and |Cactus Firepower| and |Cactus Shutdown|) or (|Assault Android Holly| and |Holly Boss Key| and |Holly Accelerate| and |Holly Firepower| and |Holly Shutdown|) or (|Assault Android Lemon| and |Lemon Boss Key| and |Lemon Accelerate| and |Lemon Firepower| and |Lemon Shutdown|) or (|Assault Android Coral| and |Coral Boss Key| and |Coral Accelerate| and |Coral Firepower| and |Coral Shutdown|) or (|Assault Android Starch| and |Starch Boss Key| and |Starch Accelerate| and |Starch Firepower| and |Starch Shutdown|) or (|Assault Android Aubergine| and |Aubergine Boss Key| and |Aubergine Accelerate| and |Aubergine Firepower| and |Aubergine Shutdown|) or (|Assault Android Shiitake| and |Shiitake Boss Key| and |Shiitake Accelerate| and |Shiitake Firepower| and |Shiitake Shutdown|) or (|Assault Android Peanut| and |Peanut Boss Key| and |Peanut Accelerate| and |Peanut Firepower| and |Peanut Shutdown|) or (|Assault Android Liquorice| and |Liquorice Boss Key| and |Liquorice Accelerate| and |Liquorice Firepower| and |Liquorice Shutdown|)",
         "category": [
@@ -1585,6 +3385,22 @@
     {
         "name": "Defeat Collider and Medulla with all androids",
         "requires": "|Assault Android Cactus| and |Cactus Boss Key| and |Cactus Accelerate| and |Cactus Firepower| and |Cactus Shutdown| and |Assault Android Holly| and |Holly Boss Key| and |Holly Accelerate| and |Holly Firepower| and |Holly Shutdown| and |Assault Android Lemon| and |Lemon Boss Key| and |Lemon Accelerate| and |Lemon Firepower| and |Lemon Shutdown| and |Assault Android Coral| and |Coral Boss Key| and |Coral Accelerate| and |Coral Firepower| and |Coral Shutdown| and |Assault Android Starch| and |Starch Boss Key| and |Starch Accelerate| and |Starch Firepower| and |Starch Shutdown| and |Assault Android Aubergine| and |Aubergine Boss Key| and |Aubergine Accelerate| and |Aubergine Firepower| and |Aubergine Shutdown| and |Assault Android Shiitake| and |Shiitake Boss Key| and |Shiitake Accelerate| and |Shiitake Firepower| and |Shiitake Shutdown| and |Assault Android Peanut| and |Peanut Boss Key| and |Peanut Accelerate| and |Peanut Firepower| and |Peanut Shutdown| and |Assault Android Liquorice| and |Liquorice Boss Key| and |Liquorice Accelerate| and |Liquorice Firepower| and |Liquorice Shutdown|",
+        "category": [
+            "Victory"
+        ],
+        "victory": true
+    },
+    {
+        "name": "Defeat Collider+ and Medulla+ with any android",
+        "requires": "(|Assault Android Cactus| and |Cactus Boss+ Key| and |Cactus Accelerate| and |Cactus Firepower| and |Cactus Shutdown|) or (|Assault Android Holly| and |Holly Boss+ Key| and |Holly Accelerate| and |Holly Firepower| and |Holly Shutdown|) or (|Assault Android Lemon| and |Lemon Boss+ Key| and |Lemon Accelerate| and |Lemon Firepower| and |Lemon Shutdown|) or (|Assault Android Coral| and |Coral Boss+ Key| and |Coral Accelerate| and |Coral Firepower| and |Coral Shutdown|) or (|Assault Android Starch| and |Starch Boss+ Key| and |Starch Accelerate| and |Starch Firepower| and |Starch Shutdown|) or (|Assault Android Aubergine| and |Aubergine Boss+ Key| and |Aubergine Accelerate| and |Aubergine Firepower| and |Aubergine Shutdown|) or (|Assault Android Shiitake| and |Shiitake Boss+ Key| and |Shiitake Accelerate| and |Shiitake Firepower| and |Shiitake Shutdown|) or (|Assault Android Peanut| and |Peanut Boss+ Key| and |Peanut Accelerate| and |Peanut Firepower| and |Peanut Shutdown|) or (|Assault Android Liquorice| and |Liquorice Boss+ Key| and |Liquorice Accelerate| and |Liquorice Firepower| and |Liquorice Shutdown|)",
+        "category": [
+            "Victory"
+        ],
+        "victory": true
+    },
+    {
+        "name": "Defeat Collider+ and Medulla+ with all androids",
+        "requires": "|Assault Android Cactus| and |Cactus Boss+ Key| and |Cactus Accelerate| and |Cactus Firepower| and |Cactus Shutdown| and |Assault Android Holly| and |Holly Boss+ Key| and |Holly Accelerate| and |Holly Firepower| and |Holly Shutdown| and |Assault Android Lemon| and |Lemon Boss+ Key| and |Lemon Accelerate| and |Lemon Firepower| and |Lemon Shutdown| and |Assault Android Coral| and |Coral Boss+ Key| and |Coral Accelerate| and |Coral Firepower| and |Coral Shutdown| and |Assault Android Starch| and |Starch Boss+ Key| and |Starch Accelerate| and |Starch Firepower| and |Starch Shutdown| and |Assault Android Aubergine| and |Aubergine Boss+ Key| and |Aubergine Accelerate| and |Aubergine Firepower| and |Aubergine Shutdown| and |Assault Android Shiitake| and |Shiitake Boss+ Key| and |Shiitake Accelerate| and |Shiitake Firepower| and |Shiitake Shutdown| and |Assault Android Peanut| and |Peanut Boss+ Key| and |Peanut Accelerate| and |Peanut Firepower| and |Peanut Shutdown| and |Assault Android Liquorice| and |Liquorice Boss+ Key| and |Liquorice Accelerate| and |Liquorice Firepower| and |Liquorice Shutdown|",
         "category": [
             "Victory"
         ],
