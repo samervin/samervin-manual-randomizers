@@ -1,7 +1,7 @@
 [
     {
         "name": "Golden Car",
-        "category": ["Golden"],
+        "category": ["!Golden"],
         "progression": true,
         "count": 22
     },
@@ -12,27 +12,27 @@
     },
     {
         "name": "Los Angeles roundabouts",
-        "category": ["Los Angeles"],
+        "category": ["Los Angeles", "Classic"],
         "useful": true
     },
     {
         "name": "Los Angeles traffic lights",
-        "category": ["Los Angeles"],
+        "category": ["Los Angeles", "Classic"],
         "useful": true
     },
     {
         "name": "Los Angeles motorways",
-        "category": ["Los Angeles"],
+        "category": ["Los Angeles", "Classic"],
         "progression": true
     },
     {
         "name": "Los Angeles bridges",
-        "category": ["Los Angeles"],
+        "category": ["Los Angeles", "Classic"],
         "progression": true
     },
     {
         "name": "Los Angeles tunnels",
-        "category": ["Los Angeles"],
+        "category": ["Los Angeles", "Classic"],
         "progression": true
     },
     {
@@ -42,22 +42,22 @@
     },
     {
         "name": "Beijing roundabouts",
-        "category": ["Beijing"],
+        "category": ["Beijing", "Classic"],
         "useful": true
     },
     {
         "name": "Beijing traffic lights",
-        "category": ["Beijing"],
+        "category": ["Beijing", "Classic"],
         "useful": true
     },
     {
         "name": "Beijing motorways",
-        "category": ["Beijing"],
+        "category": ["Beijing", "Classic"],
         "progression": true
     },
     {
         "name": "Beijing bridges",
-        "category": ["Beijing"],
+        "category": ["Beijing", "Classic"],
         "progression": true
     },
     {
@@ -67,22 +67,22 @@
     },
     {
         "name": "Tokyo roundabouts",
-        "category": ["Tokyo"],
+        "category": ["Tokyo", "Classic"],
         "useful": true
     },
     {
         "name": "Tokyo traffic lights",
-        "category": ["Tokyo"],
+        "category": ["Tokyo", "Classic"],
         "useful": true
     },
     {
         "name": "Tokyo motorways",
-        "category": ["Tokyo"],
+        "category": ["Tokyo", "Classic"],
         "progression": true
     },
     {
         "name": "Tokyo bridges",
-        "category": ["Tokyo"],
+        "category": ["Tokyo", "Classic"],
         "progression": true
     },
     {
@@ -92,22 +92,22 @@
     },
     {
         "name": "London roundabouts",
-        "category": ["London"],
+        "category": ["London", "Classic"],
         "useful": true
     },
     {
         "name": "London traffic lights",
-        "category": ["London"],
+        "category": ["London", "Classic"],
         "useful": true
     },
     {
         "name": "London motorways",
-        "category": ["London"],
+        "category": ["London", "Classic"],
         "progression": true
     },
     {
         "name": "London bridges",
-        "category": ["London"],
+        "category": ["London", "Classic"],
         "progression": true
     },
     {
@@ -117,22 +117,22 @@
     },
     {
         "name": "Mumbai roundabouts",
-        "category": ["Mumbai"],
+        "category": ["Mumbai", "Classic"],
         "useful": true
     },
     {
         "name": "Mumbai traffic lights",
-        "category": ["Mumbai"],
+        "category": ["Mumbai", "Classic"],
         "useful": true
     },
     {
         "name": "Mumbai motorways",
-        "category": ["Mumbai"],
+        "category": ["Mumbai", "Classic"],
         "progression": true
     },
     {
         "name": "Mumbai bridges",
-        "category": ["Mumbai"],
+        "category": ["Mumbai", "Classic"],
         "progression": true
     },
     {
@@ -142,22 +142,22 @@
     },
     {
         "name": "New York City roundabouts",
-        "category": ["New York City"],
+        "category": ["New York City", "Classic"],
         "useful": true
     },
     {
         "name": "New York City traffic lights",
-        "category": ["New York City"],
+        "category": ["New York City", "Classic"],
         "useful": true
     },
     {
         "name": "New York City motorways",
-        "category": ["New York City"],
+        "category": ["New York City", "Classic"],
         "progression": true
     },
     {
         "name": "New York City bridges",
-        "category": ["New York City"],
+        "category": ["New York City", "Classic"],
         "progression": true
     },
     {
@@ -167,22 +167,22 @@
     },
     {
         "name": "Dar es Salaam roundabouts",
-        "category": ["Dar es Salaam"],
+        "category": ["Dar es Salaam", "Classic"],
         "useful": true
     },
     {
         "name": "Dar es Salaam traffic lights",
-        "category": ["Dar es Salaam"],
+        "category": ["Dar es Salaam", "Classic"],
         "useful": true
     },
     {
         "name": "Dar es Salaam motorways",
-        "category": ["Dar es Salaam"],
+        "category": ["Dar es Salaam", "Classic"],
         "progression": true
     },
     {
         "name": "Dar es Salaam bridges",
-        "category": ["Dar es Salaam"],
+        "category": ["Dar es Salaam", "Classic"],
         "progression": true
     },
     {
@@ -192,22 +192,22 @@
     },
     {
         "name": "Moscow roundabouts",
-        "category": ["Moscow"],
+        "category": ["Moscow", "Classic"],
         "useful": true
     },
     {
         "name": "Moscow traffic lights",
-        "category": ["Moscow"],
+        "category": ["Moscow", "Classic"],
         "useful": true
     },
     {
         "name": "Moscow motorways",
-        "category": ["Moscow"],
+        "category": ["Moscow", "Classic"],
         "progression": true
     },
     {
         "name": "Moscow bridges",
-        "category": ["Moscow"],
+        "category": ["Moscow", "Classic"],
         "progression": true
     },
     {
@@ -217,22 +217,22 @@
     },
     {
         "name": "Munich roundabouts",
-        "category": ["Munich"],
+        "category": ["Munich", "Classic"],
         "useful": true
     },
     {
         "name": "Munich traffic lights",
-        "category": ["Munich"],
+        "category": ["Munich", "Classic"],
         "useful": true
     },
     {
         "name": "Munich motorways",
-        "category": ["Munich"],
+        "category": ["Munich", "Classic"],
         "progression": true
     },
     {
         "name": "Munich bridges",
-        "category": ["Munich"],
+        "category": ["Munich", "Classic"],
         "progression": true
     },
     {
@@ -242,27 +242,27 @@
     },
     {
         "name": "Zurich roundabouts",
-        "category": ["Zurich"],
+        "category": ["Zurich", "Classic"],
         "useful": true
     },
     {
         "name": "Zurich traffic lights",
-        "category": ["Zurich"],
+        "category": ["Zurich", "Classic"],
         "useful": true
     },
     {
         "name": "Zurich motorways",
-        "category": ["Zurich"],
+        "category": ["Zurich", "Classic"],
         "progression": true
     },
     {
         "name": "Zurich bridges",
-        "category": ["Zurich"],
+        "category": ["Zurich", "Classic"],
         "progression": true
     },
     {
         "name": "Zurich tunnels",
-        "category": ["Zurich"],
+        "category": ["Zurich", "Classic"],
         "progression": true
     },
     {
@@ -272,22 +272,22 @@
     },
     {
         "name": "Manila roundabouts",
-        "category": ["Manila"],
+        "category": ["Manila", "Classic"],
         "useful": true
     },
     {
         "name": "Manila traffic lights",
-        "category": ["Manila"],
+        "category": ["Manila", "Classic"],
         "useful": true
     },
     {
         "name": "Manila motorways",
-        "category": ["Manila"],
+        "category": ["Manila", "Classic"],
         "progression": true
     },
     {
         "name": "Manila bridges",
-        "category": ["Manila"],
+        "category": ["Manila", "Classic"],
         "progression": true
     },
     {
@@ -297,27 +297,27 @@
     },
     {
         "name": "Rio de Janeiro roundabouts",
-        "category": ["Rio de Janeiro"],
+        "category": ["Rio de Janeiro", "Classic"],
         "useful": true
     },
     {
         "name": "Rio de Janeiro traffic lights",
-        "category": ["Rio de Janeiro"],
+        "category": ["Rio de Janeiro", "Classic"],
         "useful": true
     },
     {
         "name": "Rio de Janeiro motorways",
-        "category": ["Rio de Janeiro"],
+        "category": ["Rio de Janeiro", "Classic"],
         "progression": true
     },
     {
         "name": "Rio de Janeiro bridges",
-        "category": ["Rio de Janeiro"],
+        "category": ["Rio de Janeiro", "Classic"],
         "progression": true
     },
     {
         "name": "Rio de Janeiro tunnels",
-        "category": ["Rio de Janeiro"],
+        "category": ["Rio de Janeiro", "Classic"],
         "progression": true
     },
     {
@@ -327,22 +327,22 @@
     },
     {
         "name": "Dubai roundabouts",
-        "category": ["Dubai"],
+        "category": ["Dubai", "Classic"],
         "useful": true
     },
     {
         "name": "Dubai traffic lights",
-        "category": ["Dubai"],
+        "category": ["Dubai", "Classic"],
         "useful": true
     },
     {
         "name": "Dubai motorways",
-        "category": ["Dubai"],
+        "category": ["Dubai", "Classic"],
         "progression": true
     },
     {
         "name": "Dubai bridges",
-        "category": ["Dubai"],
+        "category": ["Dubai", "Classic"],
         "progression": true
     },
     {
@@ -352,22 +352,22 @@
     },
     {
         "name": "Mexico City roundabouts",
-        "category": ["Mexico City"],
+        "category": ["Mexico City", "Classic"],
         "useful": true
     },
     {
         "name": "Mexico City traffic lights",
-        "category": ["Mexico City"],
+        "category": ["Mexico City", "Classic"],
         "useful": true
     },
     {
         "name": "Mexico City motorways",
-        "category": ["Mexico City"],
+        "category": ["Mexico City", "Classic"],
         "progression": true
     },
     {
         "name": "Mexico City tunnels",
-        "category": ["Mexico City"],
+        "category": ["Mexico City", "Classic"],
         "progression": true
     },
     {
@@ -377,27 +377,27 @@
     },
     {
         "name": "Wellington roundabouts",
-        "category": ["Wellington"],
+        "category": ["Wellington", "Classic"],
         "useful": true
     },
     {
         "name": "Wellington traffic lights",
-        "category": ["Wellington"],
+        "category": ["Wellington", "Classic"],
         "useful": true
     },
     {
         "name": "Wellington motorways",
-        "category": ["Wellington"],
+        "category": ["Wellington", "Classic"],
         "progression": true
     },
     {
         "name": "Wellington bridges",
-        "category": ["Wellington"],
+        "category": ["Wellington", "Classic"],
         "progression": true
     },
     {
         "name": "Wellington tunnels",
-        "category": ["Wellington"],
+        "category": ["Wellington", "Classic"],
         "progression": true
     },
     {
@@ -407,22 +407,22 @@
     },
     {
         "name": "Warsaw roundabouts",
-        "category": ["Warsaw"],
+        "category": ["Warsaw", "Classic"],
         "useful": true
     },
     {
         "name": "Warsaw traffic lights",
-        "category": ["Warsaw"],
+        "category": ["Warsaw", "Classic"],
         "useful": true
     },
     {
         "name": "Warsaw motorways",
-        "category": ["Warsaw"],
+        "category": ["Warsaw", "Classic"],
         "progression": true
     },
     {
         "name": "Warsaw bridges",
-        "category": ["Warsaw"],
+        "category": ["Warsaw", "Classic"],
         "progression": true
     },
     {
@@ -432,22 +432,22 @@
     },
     {
         "name": "Chiang Mai roundabouts",
-        "category": ["Chiang Mai"],
+        "category": ["Chiang Mai", "Classic"],
         "useful": true
     },
     {
         "name": "Chiang Mai traffic lights",
-        "category": ["Chiang Mai"],
+        "category": ["Chiang Mai", "Classic"],
         "useful": true
     },
     {
         "name": "Chiang Mai motorways",
-        "category": ["Chiang Mai"],
+        "category": ["Chiang Mai", "Classic"],
         "progression": true
     },
     {
         "name": "Chiang Mai bridges",
-        "category": ["Chiang Mai"],
+        "category": ["Chiang Mai", "Classic"],
         "progression": true
     },
     {
@@ -457,22 +457,22 @@
     },
     {
         "name": "Lisbon roundabouts",
-        "category": ["Lisbon"],
+        "category": ["Lisbon", "Classic"],
         "useful": true
     },
     {
         "name": "Lisbon traffic lights",
-        "category": ["Lisbon"],
+        "category": ["Lisbon", "Classic"],
         "useful": true
     },
     {
         "name": "Lisbon motorways",
-        "category": ["Lisbon"],
+        "category": ["Lisbon", "Classic"],
         "progression": true
     },
     {
         "name": "Lisbon bridges",
-        "category": ["Lisbon"],
+        "category": ["Lisbon", "Classic"],
         "progression": true
     },
     {
@@ -482,22 +482,22 @@
     },
     {
         "name": "Busan roundabouts",
-        "category": ["Busan"],
+        "category": ["Busan", "Classic"],
         "useful": true
     },
     {
         "name": "Busan traffic lights",
-        "category": ["Busan"],
+        "category": ["Busan", "Classic"],
         "useful": true
     },
     {
         "name": "Busan motorways",
-        "category": ["Busan"],
+        "category": ["Busan", "Classic"],
         "progression": true
     },
     {
         "name": "Busan bridges",
-        "category": ["Busan"],
+        "category": ["Busan", "Classic"],
         "progression": true
     },
     {
@@ -507,27 +507,27 @@
     },
     {
         "name": "Reykjavik roundabouts",
-        "category": ["Reykjavik"],
+        "category": ["Reykjavik", "Classic"],
         "useful": true
     },
     {
         "name": "Reykjavik traffic lights",
-        "category": ["Reykjavik"],
+        "category": ["Reykjavik", "Classic"],
         "useful": true
     },
     {
         "name": "Reykjavik motorways",
-        "category": ["Reykjavik"],
+        "category": ["Reykjavik", "Classic"],
         "progression": true
     },
     {
         "name": "Reykjavik bridges",
-        "category": ["Reykjavik"],
+        "category": ["Reykjavik", "Classic"],
         "progression": true
     },
     {
         "name": "Reykjavik tunnels",
-        "category": ["Reykjavik"],
+        "category": ["Reykjavik", "Classic"],
         "progression": true
     },
     {
@@ -537,27 +537,27 @@
     },
     {
         "name": "Vancouver roundabouts",
-        "category": ["Vancouver"],
+        "category": ["Vancouver", "Classic"],
         "useful": true
     },
     {
         "name": "Vancouver traffic lights",
-        "category": ["Vancouver"],
+        "category": ["Vancouver", "Classic"],
         "useful": true
     },
     {
         "name": "Vancouver motorways",
-        "category": ["Vancouver"],
+        "category": ["Vancouver", "Classic"],
         "progression": true
     },
     {
         "name": "Vancouver bridges",
-        "category": ["Vancouver"],
+        "category": ["Vancouver", "Classic"],
         "progression": true
     },
     {
         "name": "Vancouver tunnels",
-        "category": ["Vancouver"],
+        "category": ["Vancouver", "Classic"],
         "progression": true
     },
     {
@@ -567,27 +567,27 @@
     },
     {
         "name": "Cairns roundabouts",
-        "category": ["Cairns"],
+        "category": ["Cairns", "Classic"],
         "useful": true
     },
     {
         "name": "Cairns traffic lights",
-        "category": ["Cairns"],
+        "category": ["Cairns", "Classic"],
         "useful": true
     },
     {
         "name": "Cairns motorways",
-        "category": ["Cairns"],
+        "category": ["Cairns", "Classic"],
         "progression": true
     },
     {
         "name": "Cairns bridges",
-        "category": ["Cairns"],
+        "category": ["Cairns", "Classic"],
         "progression": true
     },
     {
         "name": "Cairns tunnels",
-        "category": ["Cairns"],
+        "category": ["Cairns", "Classic"],
         "progression": true
     }
 ]

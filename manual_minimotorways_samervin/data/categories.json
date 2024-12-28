@@ -1,6 +1,6 @@
 {
+    "!Golden": {},
     "Map": {},
-    "Golden": {},
     "Los Angeles": {},
     "Beijing": {},
     "Tokyo": {},
@@ -22,5 +22,17 @@
     "Busan": {},
     "Reykjavik": {},
     "Vancouver": {},
-    "Cairns": {}
+    "Cairns": {},
+    "Classic": {
+        "yaml_option": ["classic"],
+        "hidden": true
+    },
+    "Challenge": {
+        "yaml_option": ["challenge"],
+        "hidden": true
+    },
+    "Expert": {
+        "yaml_option": ["expert"],
+        "hidden": true
+    }
 }
