@@ -1575,6 +1575,14 @@
         "requires": "|Assault Android Liquorice| and |Liquorice Boss Key| and |Liquorice Accelerate| and |Liquorice Firepower| and |Liquorice Shutdown|"
     },
     {
+        "name": "Defeat Collider and Medulla with any android",
+        "requires": "(|Assault Android Cactus| and |Cactus Boss Key| and |Cactus Accelerate| and |Cactus Firepower| and |Cactus Shutdown|) or (|Assault Android Holly| and |Holly Boss Key| and |Holly Accelerate| and |Holly Firepower| and |Holly Shutdown|) or (|Assault Android Lemon| and |Lemon Boss Key| and |Lemon Accelerate| and |Lemon Firepower| and |Lemon Shutdown|) or (|Assault Android Coral| and |Coral Boss Key| and |Coral Accelerate| and |Coral Firepower| and |Coral Shutdown|) or (|Assault Android Starch| and |Starch Boss Key| and |Starch Accelerate| and |Starch Firepower| and |Starch Shutdown|) or (|Assault Android Aubergine| and |Aubergine Boss Key| and |Aubergine Accelerate| and |Aubergine Firepower| and |Aubergine Shutdown|) or (|Assault Android Shiitake| and |Shiitake Boss Key| and |Shiitake Accelerate| and |Shiitake Firepower| and |Shiitake Shutdown|) or (|Assault Android Peanut| and |Peanut Boss Key| and |Peanut Accelerate| and |Peanut Firepower| and |Peanut Shutdown|) or (|Assault Android Liquorice| and |Liquorice Boss Key| and |Liquorice Accelerate| and |Liquorice Firepower| and |Liquorice Shutdown|)",
+        "category": [
+            "Victory"
+        ],
+        "victory": true
+    },
+    {
         "name": "Defeat Collider and Medulla with all androids",
         "requires": "|Assault Android Cactus| and |Cactus Boss Key| and |Cactus Accelerate| and |Cactus Firepower| and |Cactus Shutdown| and |Assault Android Holly| and |Holly Boss Key| and |Holly Accelerate| and |Holly Firepower| and |Holly Shutdown| and |Assault Android Lemon| and |Lemon Boss Key| and |Lemon Accelerate| and |Lemon Firepower| and |Lemon Shutdown| and |Assault Android Coral| and |Coral Boss Key| and |Coral Accelerate| and |Coral Firepower| and |Coral Shutdown| and |Assault Android Starch| and |Starch Boss Key| and |Starch Accelerate| and |Starch Firepower| and |Starch Shutdown| and |Assault Android Aubergine| and |Aubergine Boss Key| and |Aubergine Accelerate| and |Aubergine Firepower| and |Aubergine Shutdown| and |Assault Android Shiitake| and |Shiitake Boss Key| and |Shiitake Accelerate| and |Shiitake Firepower| and |Shiitake Shutdown| and |Assault Android Peanut| and |Peanut Boss Key| and |Peanut Accelerate| and |Peanut Firepower| and |Peanut Shutdown| and |Assault Android Liquorice| and |Liquorice Boss Key| and |Liquorice Accelerate| and |Liquorice Firepower| and |Liquorice Shutdown|",
         "category": [

@@ -10,7 +10,7 @@
 - The entirety of Zone 1 is always open to unlocked androids.
 - Accessing levels in other Zones requires that android's Zone Key.
 - Accessing 5-4 and 5-5 boss levels both require that android's Boss Key as well as all three powerups.
-- You win when you defeat Collider and Medulla with all nine androids.
+- You win when you defeat Collider and Medulla with any android by default, or all androids if selected in your player YAML.
 
 Not implemented (yet):
 - Additional modes: boss rush, daily drive, infinity drive. Boss rush is the most likely by far: another set of 9 locations, perhaps requiring each boss to first be defeated once with any android. Achieving certain layers on infinity drive (e.g. 15 and 25, which have corresponding achievements) may be implemented. Daily drive is unlikely due to obvious restrictions.
@@ -18,8 +18,6 @@ Not implemented (yet):
 - Additional EX options. You could start with the HUD disabled and need to find each android's HUD item. You could start with a virtual player count of 2, 3, or 4 and need to find items to reduce it. I think these might be more trouble than they are worth, but they could be optional for added challenge.
 - Achievements as locations. Androids Assemble, Chain Gang, Nothing But Net, Perfection, and Scrambled Eggs all add something new to do.
 - Different goals
-    - Current goal: Defeat Collider and Medulla with all androids
-    - Shorter game: Defeat Medulla (and Collider) with _any_ android
     - Longer game: Defeat Medulla+ (and Collider+) with any/all androids
 
 Not implemented and likely will not be:

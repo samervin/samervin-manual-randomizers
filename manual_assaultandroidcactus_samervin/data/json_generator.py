@@ -57,12 +57,21 @@ for level_name in level_names:
             level["requires"] = f"|Assault Android {android_name}| and |{android_name} Zone {level_name[0]} Key|"
         levels.append(level)
 
-victory_requirements = ""
+one_android_victory = ""
 for android_name in android_names:
-    victory_requirements += f"|Assault Android {android_name}| and |{android_name} Boss Key| and |{android_name} Accelerate| and |{android_name} Firepower| and |{android_name} Shutdown| and "
+    one_android_victory += f"(|Assault Android {android_name}| and |{android_name} Boss Key| and |{android_name} Accelerate| and |{android_name} Firepower| and |{android_name} Shutdown|) or "
+levels.append({
+    "name": "Defeat Collider and Medulla with any android",
+    "requires": one_android_victory[:-4], # chop off the last "or"
+    "category": ["Victory"],
+    "victory": True
+})
+all_android_victory = ""
+for android_name in android_names:
+    all_android_victory += f"|Assault Android {android_name}| and |{android_name} Boss Key| and |{android_name} Accelerate| and |{android_name} Firepower| and |{android_name} Shutdown| and "
 levels.append({
     "name": "Defeat Collider and Medulla with all androids",
-    "requires": victory_requirements[:-5], # chop off the last "and"
+    "requires": all_android_victory[:-5], # chop off the last "and"
     "category": ["Victory"],
     "victory": True
 })
