@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Warehouse: High Score",
+        "region": "Warehouse",
+        "category": ["Warehouse"]
+    },
+    {
+        "name": "Warehouse: Pro Score",
+        "region": "Warehouse",
+        "category": ["Warehouse"]
+    },
+    {
+        "name": "Warehouse: Sick Score",
+        "region": "Warehouse",
+        "category": ["Warehouse"]
+    },
+    {
+        "name": "Warehouse: High Combo",
+        "region": "Warehouse",
+        "category": ["Warehouse"]
+    },
+    {
+        "name": "Warehouse: Collect S-K-A-T-E",
+        "region": "Warehouse",
+        "category": ["Warehouse"]
+    },
+    {
+        "name": "Warehouse: Get the Secret Tape",
+        "region": "Warehouse",
+        "category": ["Warehouse"]
+    },
+    {
+        "name": "Warehouse: Collect 5 Hydrants",
+        "region": "Warehouse",
+        "category": ["Warehouse"]
+    },
+    {
+        "name": "Warehouse: Smash the Boxes",
+        "region": "Warehouse",
+        "category": ["Warehouse"]
+    },
+    {
+        "name": "Warehouse: 50-50 the Big Rail Gap",
+        "region": "Warehouse",
+        "category": ["Warehouse"]
+    },
+    {
+        "name": "Warehouse: Ollie a Channel Gap",
+        "region": "Warehouse",
+        "category": ["Warehouse"]
+    },
+    {
+        "name": "School: High Score",
+        "region": "School",
+        "category": ["School"]
+    },
+    {
+        "name": "School: Pro Score",
+        "region": "School",
+        "category": ["School"]
+    },
+    {
+        "name": "School: Sick Score",
+        "region": "School",
+        "category": ["School"]
+    },
+    {
+        "name": "School: High Combo",
+        "region": "School",
+        "category": ["School"]
+    },
+    {
+        "name": "School: Collect S-K-A-T-E",
+        "region": "School",
+        "category": ["School"]
+    },
+    {
+        "name": "School: Get the Secret Tape",
+        "region": "School",
+        "category": ["School"]
+    },
+    {
+        "name": "School: Collect 5 Textbooks",
+        "region": "School",
+        "category": ["School"]
+    },
+    {
+        "name": "School: Grind 5 Tables",
+        "region": "School",
+        "category": ["School"]
+    },
+    {
+        "name": "School: Wallride 5 Bells",
+        "region": "School",
+        "category": ["School"]
+    },
+    {
+        "name": "School: Heelflip the Kicker Gap",
+        "region": "School",
+        "category": ["School"]
+    }
+]

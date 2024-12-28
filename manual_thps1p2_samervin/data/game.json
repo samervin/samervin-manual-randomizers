@@ -1,0 +1,15 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "THPS1P2",
+    "creator": "samervin",
+    "filler_item_name": "Kickflip",
+    "starting_items": [
+        {
+            "item_categories": [
+                "Levels"
+            ],
+            "random": 3
+        }
+    ],
+    "death_link": false
+}

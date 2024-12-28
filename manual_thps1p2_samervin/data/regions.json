@@ -1,0 +1,78 @@
+{
+    "Warehouse": {
+        "connects_to": [],
+        "requires": "|Warehouse Ticket|"
+    },
+    "School": {
+        "connects_to": [],
+        "requires": "|School Ticket|"
+    },
+    "Mall": {
+        "connects_to": [],
+        "requires": "|Mall Ticket|"
+    },
+    "Chicago": {
+        "connects_to": [],
+        "requires": "|Chicago Ticket|"
+    },
+    "Downtown": {
+        "connects_to": [],
+        "requires": "|Downtown Ticket|"
+    },
+    "Downhill Jam": {
+        "connects_to": [],
+        "requires": "|Downhill Jam Ticket|"
+    },
+    "Burnside": {
+        "connects_to": [],
+        "requires": "|Burnside Ticket|"
+    },
+    "Streets": {
+        "connects_to": [],
+        "requires": "|Streets Ticket|"
+    },
+    "Roswell": {
+        "connects_to": [],
+        "requires": "|Roswell Ticket|"
+    },
+    "Hangar": {
+        "connects_to": [],
+        "requires": "|Hangar Ticket|"
+    },
+    "School II": {
+        "connects_to": [],
+        "requires": "|School II Ticket|"
+    },
+    "Marseille": {
+        "connects_to": [],
+        "requires": "|Marseille Ticket|"
+    },
+    "New York": {
+        "connects_to": [],
+        "requires": "|New York Ticket|"
+    },
+    "Venice": {
+        "connects_to": [],
+        "requires": "|Venice Ticket|"
+    },
+    "Skatestreet": {
+        "connects_to": [],
+        "requires": "|Skatestreet Ticket|"
+    },
+    "Philadelphia": {
+        "connects_to": [],
+        "requires": "|Philadelphia Ticket|"
+    },
+    "Bullring": {
+        "connects_to": [],
+        "requires": "|Bullring Ticket|"
+    },
+    "Chopper Drop": {
+        "connects_to": [],
+        "requires": "|Chopper Drop Ticket|"
+    },
+    "Skate Heaven": {
+        "connects_to": [],
+        "requires": "|Skate Heaven Ticket|"
+    }
+}

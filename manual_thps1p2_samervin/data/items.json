@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Warehouse Ticket",
+        "category": ["Warehouse"],
+        "progression": true
+    },
+    {
+        "name": "School Ticket",
+        "category": ["School"],
+        "progression": true
+    },
+    {
+        "name": "Mall Ticket",
+        "category": ["Mall"],
+        "progression": true
+    },
+    {
+        "name": "Chicago Ticket",
+        "category": ["Chicago"],
+        "progression": true
+    },
+    {
+        "name": "Downtown Ticket",
+        "category": ["Downtown"],
+        "progression": true
+    },
+    {
+        "name": "Downhill Jam Ticket",
+        "category": ["Downhill Jam"],
+        "progression": true
+    },
+    {
+        "name": "Burnside Ticket",
+        "category": ["Burnside"],
+        "progression": true
+    },
+    {
+        "name": "Streets Ticket",
+        "category": ["Streets"],
+        "progression": true
+    },
+    {
+        "name": "Roswell Ticket",
+        "category": ["Roswell"],
+        "progression": true
+    },
+    {
+        "name": "Hangar Ticket",
+        "category": ["Hangar"],
+        "progression": true
+    },
+    {
+        "name": "School II Ticket",
+        "category": ["School II"],
+        "progression": true
+    },
+    {
+        "name": "Marseille Ticket",
+        "category": ["Marseille"],
+        "progression": true
+    },
+    {
+        "name": "New York Ticket",
+        "category": ["New York"],
+        "progression": true
+    },
+    {
+        "name": "Venice Ticket",
+        "category": ["Venice"],
+        "progression": true
+    },
+    {
+        "name": "Skatestreet Ticket",
+        "category": ["Skatestreet"],
+        "progression": true
+    },
+    {
+        "name": "Philadelphia Ticket",
+        "category": ["Philadelphia"],
+        "progression": true
+    },
+    {
+        "name": "Bullring Ticket",
+        "category": ["Bullring"],
+        "progression": true
+    },
+    {
+        "name": "Chopper Drop Ticket",
+        "category": ["Chopper Drop"],
+        "progression": true
+    },
+    {
+        "name": "Skate Heaven Ticket",
+        "category": ["Skate Heaven"],
+        "progression": true
+    }
+]

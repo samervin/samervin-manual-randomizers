@@ -8,10 +8,6 @@ Tony Hawk
     - Locations: Missions
     - Items: "Keys" to unlock levels/chapters; Trick types
     - Notes: This is only meaningful if missions can be replayed on a completed save file, which I believe is possible. I think secret tape/level unlocks are permanently gone once collected so those wouldn't be possible on a completed save file. THUG can likely be modded on PC similarly to THPS3, but I have not done so myself.
-- THPS 1+2
-    - Locations: Goal items; Goal completion, Level completion
-    - Items: "Keys" to unlock levels; Goal items; Trick types; Stats
-    - Notes: While you can reset story progress for custom skaters, the better approach is probably Speedrun mode, which allows you to do any regular level again in any order. You can limit yourself to 2 minutes at a time for individual goals.
 
 Open-ended matrix/spreadsheet games
 
