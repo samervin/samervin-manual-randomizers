@@ -98,5 +98,555 @@
         "name": "School: Heelflip the Kicker Gap",
         "region": "School",
         "category": ["School"]
+    },
+    {
+        "name": "Mall: High Score",
+        "region": "Mall",
+        "category": ["Mall"]
+    },
+    {
+        "name": "Mall: Pro Score",
+        "region": "Mall",
+        "category": ["Mall"]
+    },
+    {
+        "name": "Mall: Sick Score",
+        "region": "Mall",
+        "category": ["Mall"]
+    },
+    {
+        "name": "Mall: High Combo",
+        "region": "Mall",
+        "category": ["Mall"]
+    },
+    {
+        "name": "Mall: Collect S-K-A-T-E",
+        "region": "Mall",
+        "category": ["Mall"]
+    },
+    {
+        "name": "Mall: Get the Secret Tape",
+        "region": "Mall",
+        "category": ["Mall"]
+    },
+    {
+        "name": "Mall: Collect 5 Toy Robots",
+        "region": "Mall",
+        "category": ["Mall"]
+    },
+    {
+        "name": "Mall: Destroy 5 Directories",
+        "region": "Mall",
+        "category": ["Mall"]
+    },
+    {
+        "name": "Mall: Nose Grind the Coffee Grind Gap",
+        "region": "Mall",
+        "category": ["Mall"]
+    },
+    {
+        "name": "Mall: Airwalk the Flying Leap Gap",
+        "region": "Mall",
+        "category": ["Mall"]
+    },
+    {
+        "name": "Chicago: Bronze Medal",
+        "region": "Chicago",
+        "category": ["Chicago"]
+    },
+    {
+        "name": "Chicago: Silver Medal",
+        "region": "Chicago",
+        "category": ["Chicago"]
+    },
+    {
+        "name": "Chicago: Gold Medal",
+        "region": "Chicago",
+        "category": ["Chicago"]
+    },
+    {
+        "name": "Downtown: High Score",
+        "region": "Downtown",
+        "category": ["Downtown"]
+    },
+    {
+        "name": "Downtown: Pro Score",
+        "region": "Downtown",
+        "category": ["Downtown"]
+    },
+    {
+        "name": "Downtown: Sick Score",
+        "region": "Downtown",
+        "category": ["Downtown"]
+    },
+    {
+        "name": "Downtown: High Combo",
+        "region": "Downtown",
+        "category": ["Downtown"]
+    },
+    {
+        "name": "Downtown: Collect S-K-A-T-E",
+        "region": "Downtown",
+        "category": ["Downtown"]
+    },
+    {
+        "name": "Downtown: Get the Secret Tape",
+        "region": "Downtown",
+        "category": ["Downtown"]
+    },
+    {
+        "name": "Downtown: Collect 5 Popcorn Buckets",
+        "region": "Downtown",
+        "category": ["Downtown"]
+    },
+    {
+        "name": "Downtown: Break 5 No Skating Signs",
+        "region": "Downtown",
+        "category": ["Downtown"]
+    },
+    {
+        "name": "Downtown: Complete the Rooftop Gaps",
+        "region": "Downtown",
+        "category": ["Downtown"]
+    },
+    {
+        "name": "Downtown: Ollie the Parked Cars",
+        "region": "Downtown",
+        "category": ["Downtown"]
+    },
+    {
+        "name": "Downhill Jam: High Score",
+        "region": "Downhill Jam",
+        "category": ["Downhill Jam"]
+    },
+    {
+        "name": "Downhill Jam: Pro Score",
+        "region": "Downhill Jam",
+        "category": ["Downhill Jam"]
+    },
+    {
+        "name": "Downhill Jam: Sick Score",
+        "region": "Downhill Jam",
+        "category": ["Downhill Jam"]
+    },
+    {
+        "name": "Downhill Jam: High Combo",
+        "region": "Downhill Jam",
+        "category": ["Downhill Jam"]
+    },
+    {
+        "name": "Downhill Jam: Collect S-K-A-T-E",
+        "region": "Downhill Jam",
+        "category": ["Downhill Jam"]
+    },
+    {
+        "name": "Downhill Jam: Get the Secret Tape",
+        "region": "Downhill Jam",
+        "category": ["Downhill Jam"]
+    },
+    {
+        "name": "Downhill Jam: Open 5 Valves",
+        "region": "Downhill Jam",
+        "category": ["Downhill Jam"]
+    },
+    {
+        "name": "Downhill Jam: Collect 5 Hard Hats",
+        "region": "Downhill Jam",
+        "category": ["Downhill Jam"]
+    },
+    {
+        "name": "Downhill Jam: Madonna the Huge Water Hazard Gap",
+        "region": "Downhill Jam",
+        "category": ["Downhill Jam"]
+    },
+    {
+        "name": "Downhill Jam: Airwalk the Hydrophobic Gap",
+        "region": "Downhill Jam",
+        "category": ["Downhill Jam"]
+    },
+    {
+        "name": "Burnside: Bronze Medal",
+        "region": "Burnside",
+        "category": ["Burnside"]
+    },
+    {
+        "name": "Burnside: Silver Medal",
+        "region": "Burnside",
+        "category": ["Burnside"]
+    },
+    {
+        "name": "Burnside: Gold Medal",
+        "region": "Burnside",
+        "category": ["Burnside"]
+    },
+    {
+        "name": "Streets: High Score",
+        "region": "Streets",
+        "category": ["Streets"]
+    },
+    {
+        "name": "Streets: Pro Score",
+        "region": "Streets",
+        "category": ["Streets"]
+    },
+    {
+        "name": "Streets: Sick Score",
+        "region": "Streets",
+        "category": ["Streets"]
+    },
+    {
+        "name": "Streets: High Combo",
+        "region": "Streets",
+        "category": ["Streets"]
+    },
+    {
+        "name": "Streets: Collect S-K-A-T-E",
+        "region": "Streets",
+        "category": ["Streets"]
+    },
+    {
+        "name": "Streets: Get the Secret Tape",
+        "region": "Streets",
+        "category": ["Streets"]
+    },
+    {
+        "name": "Streets: Wreck 5 Cop Cars",
+        "region": "Streets",
+        "category": ["Streets"]
+    },
+    {
+        "name": "Streets: Collect 5 Life Preservers",
+        "region": "Streets",
+        "category": ["Streets"]
+    },
+    {
+        "name": "Streets: Nosegrab the Hubba Gap",
+        "region": "Streets",
+        "category": ["Streets"]
+    },
+    {
+        "name": "Streets: 5-0 Around the Fountain",
+        "region": "Streets",
+        "category": ["Streets"]
+    },
+    {
+        "name": "Roswell: Bronze Medal",
+        "region": "Roswell",
+        "category": ["Roswell"]
+    },
+    {
+        "name": "Roswell: Silver Medal",
+        "region": "Roswell",
+        "category": ["Roswell"]
+    },
+    {
+        "name": "Roswell: Gold Medal",
+        "region": "Roswell",
+        "category": ["Roswell"]
+    },
+    {
+        "name": "Hangar: High Score",
+        "region": "Hangar",
+        "category": ["Hangar"]
+    },
+    {
+        "name": "Hangar: Pro Score",
+        "region": "Hangar",
+        "category": ["Hangar"]
+    },
+    {
+        "name": "Hangar: Sick Score",
+        "region": "Hangar",
+        "category": ["Hangar"]
+    },
+    {
+        "name": "Hangar: High Combo",
+        "region": "Hangar",
+        "category": ["Hangar"]
+    },
+    {
+        "name": "Hangar: Collect S-K-A-T-E",
+        "region": "Hangar",
+        "category": ["Hangar"]
+    },
+    {
+        "name": "Hangar: Get the Secret Tape",
+        "region": "Hangar",
+        "category": ["Hangar"]
+    },
+    {
+        "name": "Hangar: Collect 5 Pilot Wings",
+        "region": "Hangar",
+        "category": ["Hangar"]
+    },
+    {
+        "name": "Hangar: Barrel Hunt",
+        "region": "Hangar",
+        "category": ["Hangar"]
+    },
+    {
+        "name": "Hangar: Get 3 Hangtime Gaps",
+        "region": "Hangar",
+        "category": ["Hangar"]
+    },
+    {
+        "name": "Hangar: Nosegrind Over the Pipe",
+        "region": "Hangar",
+        "category": ["Hangar"]
+    },
+    {
+        "name": "School II: High Score",
+        "region": "School II",
+        "category": ["School II"]
+    },
+    {
+        "name": "School II: Pro Score",
+        "region": "School II",
+        "category": ["School II"]
+    },
+    {
+        "name": "School II: Sick Score",
+        "region": "School II",
+        "category": ["School II"]
+    },
+    {
+        "name": "School II: High Combo",
+        "region": "School II",
+        "category": ["School II"]
+    },
+    {
+        "name": "School II: Collect S-K-A-T-E",
+        "region": "School II",
+        "category": ["School II"]
+    },
+    {
+        "name": "School II: Get the Secret Tape",
+        "region": "School II",
+        "category": ["School II"]
+    },
+    {
+        "name": "School II: Collect 5 Hall Passes",
+        "region": "School II",
+        "category": ["School II"]
+    },
+    {
+        "name": "School II: Grind 3 Roll Call Rails",
+        "region": "School II",
+        "category": ["School II"]
+    },
+    {
+        "name": "School II: Kickflip TC's Roof Gap",
+        "region": "School II",
+        "category": ["School II"]
+    },
+    {
+        "name": "School II: Wallride 5 Bells",
+        "region": "School II",
+        "category": ["School II"]
+    },
+    {
+        "name": "Marseille: Bronze Medal",
+        "region": "Marseille",
+        "category": ["Marseille"]
+    },
+    {
+        "name": "Marseille: Silver Medal",
+        "region": "Marseille",
+        "category": ["Marseille"]
+    },
+    {
+        "name": "Marseille: Gold Medal",
+        "region": "Marseille",
+        "category": ["Marseille"]
+    },
+    {
+        "name": "New York: High Score",
+        "region": "New York",
+        "category": ["New York"]
+    },
+    {
+        "name": "New York: Pro Score",
+        "region": "New York",
+        "category": ["New York"]
+    },
+    {
+        "name": "New York: Sick Score",
+        "region": "New York",
+        "category": ["New York"]
+    },
+    {
+        "name": "New York: High Combo",
+        "region": "New York",
+        "category": ["New York"]
+    },
+    {
+        "name": "New York: Collect S-K-A-T-E",
+        "region": "New York",
+        "category": ["New York"]
+    },
+    {
+        "name": "New York: Get the Secret Tape",
+        "region": "New York",
+        "category": ["New York"]
+    },
+    {
+        "name": "New York: Collect 5 Subway Cards",
+        "region": "New York",
+        "category": ["New York"]
+    },
+    {
+        "name": "New York: Ollie the Hydrants",
+        "region": "New York",
+        "category": ["New York"]
+    },
+    {
+        "name": "New York: Grind Subway Rails",
+        "region": "New York",
+        "category": ["New York"]
+    },
+    {
+        "name": "New York: 50-50 Joey's Sculpture",
+        "region": "New York",
+        "category": ["New York"]
+    },
+    {
+        "name": "Venice Beach: High Score",
+        "region": "Venice Beach",
+        "category": ["Venice Beach"]
+    },
+    {
+        "name": "Venice Beach: Pro Score",
+        "region": "Venice Beach",
+        "category": ["Venice Beach"]
+    },
+    {
+        "name": "Venice Beach: Sick Score",
+        "region": "Venice Beach",
+        "category": ["Venice Beach"]
+    },
+    {
+        "name": "Venice Beach: High Combo",
+        "region": "Venice Beach",
+        "category": ["Venice Beach"]
+    },
+    {
+        "name": "Venice Beach: Collect S-K-A-T-E",
+        "region": "Venice Beach",
+        "category": ["Venice Beach"]
+    },
+    {
+        "name": "Venice Beach: Get the Secret Tape",
+        "region": "Venice Beach",
+        "category": ["Venice Beach"]
+    },
+    {
+        "name": "Venice Beach: Collect 5 Spray Cans",
+        "region": "Venice Beach",
+        "category": ["Venice Beach"]
+    },
+    {
+        "name": "Venice Beach: Ollie the Magic Bum 5x",
+        "region": "Venice Beach",
+        "category": ["Venice Beach"]
+    },
+    {
+        "name": "Venice Beach: Hit 4 VB Transfers",
+        "region": "Venice Beach",
+        "category": ["Venice Beach"]
+    },
+    {
+        "name": "Venice Beach: Tailslide Venice Ledge",
+        "region": "Venice Beach",
+        "category": ["Venice Beach"]
+    },
+    {
+        "name": "Skatestreet: Bronze Medal",
+        "region": "Skatestreet",
+        "category": ["Skatestreet"]
+    },
+    {
+        "name": "Skatestreet: Silver Medal",
+        "region": "Skatestreet",
+        "category": ["Skatestreet"]
+    },
+    {
+        "name": "Skatestreet: Gold Medal",
+        "region": "Skatestreet",
+        "category": ["Skatestreet"]
+    },
+    {
+        "name": "Philadelphia: High Score",
+        "region": "Philadelphia",
+        "category": ["Philadelphia"]
+    },
+    {
+        "name": "Philadelphia: Pro Score",
+        "region": "Philadelphia",
+        "category": ["Philadelphia"]
+    },
+    {
+        "name": "Philadelphia: Sick Score",
+        "region": "Philadelphia",
+        "category": ["Philadelphia"]
+    },
+    {
+        "name": "Philadelphia: High Combo",
+        "region": "Philadelphia",
+        "category": ["Philadelphia"]
+    },
+    {
+        "name": "Philadelphia: Collect S-K-A-T-E",
+        "region": "Philadelphia",
+        "category": ["Philadelphia"]
+    },
+    {
+        "name": "Philadelphia: Get the Secret Tape",
+        "region": "Philadelphia",
+        "category": ["Philadelphia"]
+    },
+    {
+        "name": "Philadelphia: Collect 5 Liberty Bells",
+        "region": "Philadelphia",
+        "category": ["Philadelphia"]
+    },
+    {
+        "name": "Philadelphia: Drain the Fountain",
+        "region": "Philadelphia",
+        "category": ["Philadelphia"]
+    },
+    {
+        "name": "Philadelphia: Bluntslide the Awning",
+        "region": "Philadelphia",
+        "category": ["Philadelphia"]
+    },
+    {
+        "name": "Philadelphia: Liptrick 4 Skatepark Lips",
+        "region": "Philadelphia",
+        "category": ["Philadelphia"]
+    },
+    {
+        "name": "Bullring: Bronze Medal",
+        "region": "Bullring",
+        "category": ["Bullring"]
+    },
+    {
+        "name": "Bullring: Silver Medal",
+        "region": "Bullring",
+        "category": ["Bullring"]
+    },
+    {
+        "name": "Bullring: Gold Medal",
+        "region": "Bullring",
+        "category": ["Bullring"]
+    },
+    {
+        "name": "Chopper Drop: ???",
+        "region": "Chopper Drop",
+        "category": ["Chopper Drop"]
+    },
+    {
+        "name": "Skate Heaven: ???",
+        "region": "Skate Heaven",
+        "category": ["Skate Heaven"]
     }
 ]

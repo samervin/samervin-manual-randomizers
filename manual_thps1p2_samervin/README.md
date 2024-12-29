@@ -1,37 +1,16 @@
 # Tony Hawk's Pro Skater 1 + 2
 
-- THPS 1+2
-    - Locations: Goal items; Goal completion, Level completion
-    - Items: "Keys" to unlock levels; Goal items; Trick types; Stats
-    - Notes: While you can reset story progress for custom skaters, the better approach is probably Speedrun mode, which allows you to do any regular level again in any order. You can limit yourself to 2 minutes at a time for individual goals.
-
-Level keys (bus/plane tickets):
-Warehouse
-School
-Mall
-Chicago
-Downtown
-Downhill Jam
-Burnside
-Streets
-Roswell
-Hangar
-School II
-Marseille
-New York
-Venice
-Skatestreet
-Philadelphia
-Bullring
-Chopper Drop*
-Skate Heaven*
-
-10 locations/goals for each regular career level
-3 locations/medals for each competition career level
-Some special challenge for Chopper Drop (ramp gap?) and Skate Heaven (volcano?)
-
-100 stat point items (start with fifty in vanilla)
-
-Goal is to gold Roswell and Bullring? Maybe gold all six?
-
-Additional item types like special tricks, grinds, manuals, reverts/transfers
+Implementation notes:
+- For career levels, speedrun mode is recommended
+- For competition levels, replaying them in story is recommended
+    - TODO Record medal scores so that single session mode can be used
+- You need a level's ticket in order to access that level
+- Each regular career level has 10 goal locations
+- Each competition career level has 3 medal locations
+- The two secret levels have TODO locations
+- You start with 1 stat in all categories and can find the other 90 stat points
+- Game mods unfortunately cannot be toggled in speedrun mode, so you cannot use the Legacy THPS modes to make the game harder, nor can you turn on cheats to make the game easier
+- TODO Lock special tricks/slots behind items
+- TODO Choose whether to lock additional trick types behind items (manuals, reverts, transfers, grinds, flips, grabs, wallplants, etc.)
+- TODO Determine which goals, if any, cannot be done with 1 stat
+- TODO Victory when you get a gold on both Roswell and Bullring

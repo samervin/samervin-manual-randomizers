@@ -1,5 +1,11 @@
 [
     {
+        "name": "Stat Point",
+        "category": ["Stat Point"],
+        "count": 90,
+        "useful": true
+    },
+    {
         "name": "Warehouse Ticket",
         "category": ["Warehouse"],
         "progression": true
