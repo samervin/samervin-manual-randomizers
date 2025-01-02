@@ -1,5 +1,11 @@
 [
     {
+        "name": "Win Gold on Roswell and Bullring",
+        "category": "!Victory",
+        "requires": "|Roswell Ticket| and |Bullring Ticket|",
+        "victory": true
+    },
+    {
         "name": "Warehouse: High Score",
         "region": "Warehouse",
         "category": ["Warehouse"]
@@ -150,17 +156,17 @@
         "category": ["Mall"]
     },
     {
-        "name": "Chicago: Bronze Medal",
+        "name": "Chicago: Bronze Medal (100K)",
         "region": "Chicago",
         "category": ["Chicago"]
     },
     {
-        "name": "Chicago: Silver Medal",
+        "name": "Chicago: Silver Medal (250K)",
         "region": "Chicago",
         "category": ["Chicago"]
     },
     {
-        "name": "Chicago: Gold Medal",
+        "name": "Chicago: Gold Medal (400K)",
         "region": "Chicago",
         "category": ["Chicago"]
     },
@@ -265,17 +271,17 @@
         "category": ["Downhill Jam"]
     },
     {
-        "name": "Burnside: Bronze Medal",
+        "name": "Burnside: Bronze Medal (150K)",
         "region": "Burnside",
         "category": ["Burnside"]
     },
     {
-        "name": "Burnside: Silver Medal",
+        "name": "Burnside: Silver Medal (300K)",
         "region": "Burnside",
         "category": ["Burnside"]
     },
     {
-        "name": "Burnside: Gold Medal",
+        "name": "Burnside: Gold Medal (450K)",
         "region": "Burnside",
         "category": ["Burnside"]
     },
@@ -307,7 +313,8 @@
     {
         "name": "Streets: Get the Secret Tape",
         "region": "Streets",
-        "category": ["Streets"]
+        "category": ["Streets"],
+        "requires": "|Stat Point - Speed:1|"
     },
     {
         "name": "Streets: Wreck 5 Cop Cars",
@@ -330,17 +337,17 @@
         "category": ["Streets"]
     },
     {
-        "name": "Roswell: Bronze Medal",
+        "name": "Roswell: Bronze Medal (200K)",
         "region": "Roswell",
         "category": ["Roswell"]
     },
     {
-        "name": "Roswell: Silver Medal",
+        "name": "Roswell: Silver Medal (350K)",
         "region": "Roswell",
         "category": ["Roswell"]
     },
     {
-        "name": "Roswell: Gold Medal",
+        "name": "Roswell: Gold Medal (500K)",
         "region": "Roswell",
         "category": ["Roswell"]
     },
@@ -387,7 +394,8 @@
     {
         "name": "Hangar: Get 3 Hangtime Gaps",
         "region": "Hangar",
-        "category": ["Hangar"]
+        "category": ["Hangar"],
+        "requires": "|Stat Point - Speed:3|"
     },
     {
         "name": "Hangar: Nosegrind Over the Pipe",
@@ -445,17 +453,17 @@
         "category": ["School II"]
     },
     {
-        "name": "Marseille: Bronze Medal",
+        "name": "Marseille: Bronze Medal (100K)",
         "region": "Marseille",
         "category": ["Marseille"]
     },
     {
-        "name": "Marseille: Silver Medal",
+        "name": "Marseille: Silver Medal (250K)",
         "region": "Marseille",
         "category": ["Marseille"]
     },
     {
-        "name": "Marseille: Gold Medal",
+        "name": "Marseille: Gold Medal (400K)",
         "region": "Marseille",
         "category": ["Marseille"]
     },
@@ -560,17 +568,17 @@
         "category": ["Venice Beach"]
     },
     {
-        "name": "Skatestreet: Bronze Medal",
+        "name": "Skatestreet: Bronze Medal (150K)",
         "region": "Skatestreet",
         "category": ["Skatestreet"]
     },
     {
-        "name": "Skatestreet: Silver Medal",
+        "name": "Skatestreet: Silver Medal (300K)",
         "region": "Skatestreet",
         "category": ["Skatestreet"]
     },
     {
-        "name": "Skatestreet: Gold Medal",
+        "name": "Skatestreet: Gold Medal (450K)",
         "region": "Skatestreet",
         "category": ["Skatestreet"]
     },
@@ -625,27 +633,27 @@
         "category": ["Philadelphia"]
     },
     {
-        "name": "Bullring: Bronze Medal",
+        "name": "Bullring: Bronze Medal (200K)",
         "region": "Bullring",
         "category": ["Bullring"]
     },
     {
-        "name": "Bullring: Silver Medal",
+        "name": "Bullring: Silver Medal (350K)",
         "region": "Bullring",
         "category": ["Bullring"]
     },
     {
-        "name": "Bullring: Gold Medal",
+        "name": "Bullring: Gold Medal (500K)",
         "region": "Bullring",
         "category": ["Bullring"]
     },
     {
-        "name": "Chopper Drop: ???",
+        "name": "Chopper Drop: 90 Ft Gap",
         "region": "Chopper Drop",
         "category": ["Chopper Drop"]
     },
     {
-        "name": "Skate Heaven: ???",
+        "name": "Skate Heaven: Single Session (250K)",
         "region": "Skate Heaven",
         "category": ["Skate Heaven"]
     }

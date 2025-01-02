@@ -1,8 +1,62 @@
 [
     {
-        "name": "Stat Point",
+        "name": "Stat Point - Air",
         "category": ["Stat Point"],
-        "count": 90,
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Hangtime",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Ollie",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Speed",
+        "category": ["Stat Point"],
+        "count": 9,
+        "progression": true
+    },
+    {
+        "name": "Stat Point - Spin",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Switch",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Flip Speed",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Rail Balance",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Lip Balance",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Manual Balance",
+        "category": ["Stat Point"],
+        "count": 9,
         "useful": true
     },
     {
