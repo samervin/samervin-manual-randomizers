@@ -1,65 +1,5 @@
 [
     {
-        "name": "Stat Point - Air",
-        "category": ["Stat Point"],
-        "count": 9,
-        "useful": true
-    },
-    {
-        "name": "Stat Point - Hangtime",
-        "category": ["Stat Point"],
-        "count": 9,
-        "useful": true
-    },
-    {
-        "name": "Stat Point - Ollie",
-        "category": ["Stat Point"],
-        "count": 9,
-        "useful": true
-    },
-    {
-        "name": "Stat Point - Speed",
-        "category": ["Stat Point"],
-        "count": 9,
-        "progression": true
-    },
-    {
-        "name": "Stat Point - Spin",
-        "category": ["Stat Point"],
-        "count": 9,
-        "useful": true
-    },
-    {
-        "name": "Stat Point - Switch",
-        "category": ["Stat Point"],
-        "count": 9,
-        "useful": true
-    },
-    {
-        "name": "Stat Point - Flip Speed",
-        "category": ["Stat Point"],
-        "count": 9,
-        "useful": true
-    },
-    {
-        "name": "Stat Point - Rail Balance",
-        "category": ["Stat Point"],
-        "count": 9,
-        "useful": true
-    },
-    {
-        "name": "Stat Point - Lip Balance",
-        "category": ["Stat Point"],
-        "count": 9,
-        "useful": true
-    },
-    {
-        "name": "Stat Point - Manual Balance",
-        "category": ["Stat Point"],
-        "count": 9,
-        "useful": true
-    },
-    {
         "name": "Warehouse Ticket",
         "category": ["Warehouse"],
         "progression": true
@@ -153,5 +93,351 @@
         "name": "Skate Heaven Ticket",
         "category": ["Skate Heaven"],
         "progression": true
+    },
+    {
+        "name": "Stat Point - Air",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Hangtime",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Ollie",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Speed",
+        "category": ["Stat Point"],
+        "count": 9,
+        "progression": true
+    },
+    {
+        "name": "Stat Point - Spin",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Switch",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Flip Speed",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Rail Balance",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Lip Balance",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Stat Point - Manual Balance",
+        "category": ["Stat Point"],
+        "count": 9,
+        "useful": true
+    },
+    {
+        "name": "Special Trick Slot",
+        "category": ["Stat Point"],
+        "count": 10,
+        "useful": true
+    },
+    {
+        "name": "The 900",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Indy Backflip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Indy Frontflip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Weddle Backflip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Pizza Guy",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Racket Air",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Salute!!!",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "360 Varial McTwist",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "FS 540",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Kickflip Superman",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Kickflip One Foot Tail",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Assume The Position",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Casper Flip 360 Flip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Nosebone Flip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Coffin",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Warp Speed",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Half Flip Casper",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Hospital Flip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Ghetto Bird",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Kickflip Backflip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Heelflip Handflip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Shove-It Tailgrab Airwalk",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Misty Flip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Nollie Flip Underflip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Quad Heelflip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Hardflip Lateflip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "540 Flip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "360 Double Flip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Full Cap Flip",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Puppet Master",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Hardflip Crail",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Telekickflipsis",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Kickflip So Good",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Big Hitter II",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Crail Grind",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Beni Fingerflip Crooks",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Fandangle",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Nosegrind to Switch 5-0",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "One Foot Smith",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Lein Tailslide",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Rowley Darkslide",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Heelflip Darkslide",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Lazy A. Grind",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "5-0 Overturn",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Frigid Bluntslide",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Hang Ten Nosegrind",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Hurricane",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Nosegrab 5-0",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Cab Flip FS Boardslide",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Hoho",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Hardflip BS Nose Pick",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Beam Me Up",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Muska Nose Manual",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Rusty Slide Manual",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Nose Manual Nollie Inward Heel",
+        "category": ["Special Tricks"],
+        "useful": true
+    },
+    {
+        "name": "One Foot One Wheel",
+        "category": ["Special Tricks"],
+        "useful": true
     }
 ]
