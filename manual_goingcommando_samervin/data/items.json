@@ -15,8 +15,8 @@
         "progression": true
     },
     {
-        "name": "Blitz Gun",
-        "category": ["Weapon", "Combat Weapon"],
+        "name": "Seeker Gun",
+        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
         "progression": true
     },
     {
@@ -30,8 +30,13 @@
         "progression": true
     },
     {
-        "name": "Seeker Gun",
-        "category": ["Weapon", "Combat Weapon", "Ranged Weapon"],
+        "name": "Blitz Gun",
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Shield Charger",
+        "category": ["Weapon"],
         "progression": true
     },
     {
@@ -55,11 +60,6 @@
         "progression": true
     },
     {
-        "name": "Spiderbot Glove",
-        "category": ["Weapon"],
-        "progression": true
-    },
-    {
         "name": "Plasma Coil",
         "category": ["Weapon", "Combat Weapon", "Ranged Weapon", "Power Weapon"],
         "progression": true
@@ -70,27 +70,12 @@
         "progression": true
     },
     {
+        "name": "Spiderbot Glove",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
         "name": "Sheepinator",
-        "category": ["Weapon"],
-        "progression": true
-    },
-    {
-        "name": "Shield Charger",
-        "category": ["Weapon"],
-        "progression": true
-    },
-    {
-        "name": "Bomb Glove",
-        "category": ["Weapon", "Combat Weapon"],
-        "progression": true
-    },
-    {
-        "name": "Visibomb Gun",
-        "category": ["Weapon"],
-        "progression": true
-    },
-    {
-        "name": "Decoy Glove",
         "category": ["Weapon"],
         "progression": true
     },
@@ -100,7 +85,22 @@
         "progression": true
     },
     {
+        "name": "Bomb Glove",
+        "category": ["Weapon", "Combat Weapon"],
+        "progression": true
+    },
+    {
         "name": "Walloper",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Visibomb Gun",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
+        "name": "Decoy Glove",
         "category": ["Weapon"],
         "progression": true
     },

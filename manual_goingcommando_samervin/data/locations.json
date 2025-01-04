@@ -42,7 +42,7 @@
         "name": "Oozla: Defeat the secret swamp monster",
         "region": "Oozla",
         "category": ["Oozla, Megacorp Outlet"],
-        "requires": "|Dynamo| and |Gravity Boots| and |@Power Weapon:3|"
+        "requires": "|Dynamo| and |Gravity Boots| and |@Combat Weapon:3| and (|Bouncer| or |Minirocket Tube| or |Plasma Coil| or |R.Y.N.O. II|)"
     },
     {
         "name": "Oozla Platinum Bolt: Tractor Beam",
@@ -110,7 +110,7 @@
         "name": "Maktar Nebula Skill Point: 2B hit or not 2B hit",
         "region": "Maktar Nebula",
         "category": ["Maktar Nebula, Maktar Resort"],
-        "requires": "|Electrolyzer| and |@Power Weapon:2|"
+        "requires": "|Electrolyzer| and (|Seeker Gun| or |Pulse Rifle| or |Miniturret Glove| or |Blitz Gun| or |Bouncer| or |Minirocket Tube| or |Plasma Coil| or |Hoverbomb Gun| or |Zodiac| or |R.Y.N.O. II| or |Clank Zapper|)"
     },
     {
         "name": "Maktar Nebula Skill Point: Clank needs a new pair of shoes",
@@ -340,7 +340,7 @@
         "name": "Dobbo Skill Point: Old school",
         "region": "Dobbo",
         "category": ["Dobbo, Testing Facility"],
-        "requires": "|Dynamo| and |@Combat Weapon:2| and |Swingshot| and |@Ranged Weapon:1| and |Electrolyzer| and (|Bomb Glove| or |Visibomb Gun| or |Tesla Claw|)"
+        "requires": "|Dynamo| and |@Combat Weapon:2| and |Swingshot| and |Visibomb Gun| and (|Bomb Glove| or |Tesla Claw|)"
     },
     {
         "name": "Dobbo Skill Point: Robo rampage",
@@ -558,7 +558,8 @@
     {
         "name": "Gorn Platinum Bolt: Ace Bunyon race",
         "region": "Gorn",
-        "category": ["Gorn, Thugs-4-Less Fleet"]
+        "category": ["Gorn, Thugs-4-Less Fleet"],
+        "requires": "|Coordinates - Ship Shack| and |Coordinates - Notak| and |Thermanator| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Snivelak: Rescue Angela",

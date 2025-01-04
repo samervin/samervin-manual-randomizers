@@ -24,6 +24,7 @@ Logical notes:
 - The bike race on Joba is open even if you do not have the Biker Helmet.
 - The Levitator works even if you do not have Clank.
 - Wrench Ninja II logically requires Aranos access for its wrench upgrade. (Once you have the second wrench upgrade, you cannot lose it, even if you later go to Tabora.)
+- Gorn's Platinum Bolt logically requires Ship Shack access. It is doable without upgrades, but it's tedious.
 
 Things not (yet?) included:
 
@@ -79,9 +80,6 @@ In the pause menu, hold L1 + R2 and press the code below.
 
 Weapons
 
-- Omniwrench: → ↑ ↑ ↓ ← ↑ ↑ ↓ ↓ ↓ ↓ □ ↑ ← ↓ ← ← ↑ ↓ ←
-- Lancer: → ↓ ↓ → ○ ← → → → ↓ ↓ → ○ ← → → → ↓ ↓ →
-- Gravity Bomb: ↑ ← ↓ ○ ○ ← ↓ ↓ ↓ □ ↓ □ ← ← ↑ ← ← ↑ ○ →
 - Chopper: ↑ ↓ ↑ ↓ ↓ □ ← ← ↑ ← ← → → ← ← → → ○ → →
 - Seeker Gun: ↓ ↓ → ← ↓ ↑ ○ ↓ → ○ → → ↑ ↓ ↑ ○ → ↑ ↓ ←
 - Pulse Rifle: □ ○ ○ □ □ ↑ □ → ↑ □ → ↑ □ ← ← □ ○ ↑ ← ○
@@ -121,7 +119,6 @@ Gadgets
 Items
 
 - Biker Helmet: ○ □ ↑ → □ ↑ ← □ ↑ ○ ○ ← → ← ↓ → ↑ ↓ ○ →
-- Commando Suit: ← □ ↑ → ↑ ↓ → ↓ ↑ ← ← ↓ ← → ↓ → □ □ → ○
 - Glider: ↓ □ □ ↑ ○ → ↑ □ ← → ○ □ ↓ → ↓ → ↓ → → ←
 - Qwark Statuette: ↑ ↑ → ← → ○ ○ → ↑ ○ → □ ↓ ○ ○ ↓ ← ↑ ↑ ←
 - Armor Magnetizer: ↓ ↓ ↑ ↑ ○ □ ↓ ↑ ↓ ↑ ← ↓ ○ □ ↓ □ → ○ ↑ ↓
