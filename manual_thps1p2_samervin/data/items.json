@@ -1,97 +1,97 @@
 [
     {
         "name": "Warehouse Ticket",
-        "category": ["Warehouse"],
+        "category": ["Warehouse", "Ticket"],
         "progression": true
     },
     {
         "name": "School Ticket",
-        "category": ["School"],
+        "category": ["School", "Ticket"],
         "progression": true
     },
     {
         "name": "Mall Ticket",
-        "category": ["Mall"],
+        "category": ["Mall", "Ticket"],
         "progression": true
     },
     {
         "name": "Chicago Ticket",
-        "category": ["Chicago"],
+        "category": ["Chicago", "Ticket"],
         "progression": true
     },
     {
         "name": "Downtown Ticket",
-        "category": ["Downtown"],
+        "category": ["Downtown", "Ticket"],
         "progression": true
     },
     {
         "name": "Downhill Jam Ticket",
-        "category": ["Downhill Jam"],
+        "category": ["Downhill Jam", "Ticket"],
         "progression": true
     },
     {
         "name": "Burnside Ticket",
-        "category": ["Burnside"],
+        "category": ["Burnside", "Ticket"],
         "progression": true
     },
     {
         "name": "Streets Ticket",
-        "category": ["Streets"],
+        "category": ["Streets", "Ticket"],
         "progression": true
     },
     {
         "name": "Roswell Ticket",
-        "category": ["Roswell"],
+        "category": ["Roswell", "Ticket"],
         "progression": true
     },
     {
         "name": "Hangar Ticket",
-        "category": ["Hangar"],
+        "category": ["Hangar", "Ticket"],
         "progression": true
     },
     {
         "name": "School II Ticket",
-        "category": ["School II"],
+        "category": ["School II", "Ticket"],
         "progression": true
     },
     {
         "name": "Marseille Ticket",
-        "category": ["Marseille"],
+        "category": ["Marseille", "Ticket"],
         "progression": true
     },
     {
         "name": "New York Ticket",
-        "category": ["New York"],
+        "category": ["New York", "Ticket"],
         "progression": true
     },
     {
         "name": "Venice Ticket",
-        "category": ["Venice"],
+        "category": ["Venice", "Ticket"],
         "progression": true
     },
     {
         "name": "Skatestreet Ticket",
-        "category": ["Skatestreet"],
+        "category": ["Skatestreet", "Ticket"],
         "progression": true
     },
     {
         "name": "Philadelphia Ticket",
-        "category": ["Philadelphia"],
+        "category": ["Philadelphia", "Ticket"],
         "progression": true
     },
     {
         "name": "Bullring Ticket",
-        "category": ["Bullring"],
+        "category": ["Bullring", "Ticket"],
         "progression": true
     },
     {
         "name": "Chopper Drop Ticket",
-        "category": ["Chopper Drop"],
+        "category": ["Chopper Drop", "Ticket"],
         "progression": true
     },
     {
         "name": "Skate Heaven Ticket",
-        "category": ["Skate Heaven"],
+        "category": ["Skate Heaven", "Ticket"],
         "progression": true
     },
     {
@@ -158,7 +158,7 @@
         "name": "Special Trick Slot",
         "category": ["Stat Point"],
         "count": 10,
-        "useful": true
+        "progression": true
     },
     {
         "name": "The 900",

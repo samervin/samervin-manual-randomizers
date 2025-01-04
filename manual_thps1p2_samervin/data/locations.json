@@ -1,7 +1,7 @@
 [
     {
         "name": "Win Gold on Roswell and Bullring",
-        "category": "!Victory",
+        "category": ["!Victory"],
         "requires": "|Roswell Ticket| and |Bullring Ticket|",
         "victory": true
     },
@@ -518,54 +518,54 @@
         "category": ["New York"]
     },
     {
-        "name": "Venice Beach: High Score",
-        "region": "Venice Beach",
-        "category": ["Venice Beach"]
+        "name": "Venice: High Score",
+        "region": "Venice",
+        "category": ["Venice"]
     },
     {
-        "name": "Venice Beach: Pro Score",
-        "region": "Venice Beach",
-        "category": ["Venice Beach"]
+        "name": "Venice: Pro Score",
+        "region": "Venice",
+        "category": ["Venice"]
     },
     {
-        "name": "Venice Beach: Sick Score",
-        "region": "Venice Beach",
-        "category": ["Venice Beach"]
+        "name": "Venice: Sick Score",
+        "region": "Venice",
+        "category": ["Venice"]
     },
     {
-        "name": "Venice Beach: High Combo",
-        "region": "Venice Beach",
-        "category": ["Venice Beach"]
+        "name": "Venice: High Combo",
+        "region": "Venice",
+        "category": ["Venice"]
     },
     {
-        "name": "Venice Beach: Collect S-K-A-T-E",
-        "region": "Venice Beach",
-        "category": ["Venice Beach"]
+        "name": "Venice: Collect S-K-A-T-E",
+        "region": "Venice",
+        "category": ["Venice"]
     },
     {
-        "name": "Venice Beach: Get the Secret Tape",
-        "region": "Venice Beach",
-        "category": ["Venice Beach"]
+        "name": "Venice: Get the Secret Tape",
+        "region": "Venice",
+        "category": ["Venice"]
     },
     {
-        "name": "Venice Beach: Collect 5 Spray Cans",
-        "region": "Venice Beach",
-        "category": ["Venice Beach"]
+        "name": "Venice: Collect 5 Spray Cans",
+        "region": "Venice",
+        "category": ["Venice"]
     },
     {
-        "name": "Venice Beach: Ollie the Magic Bum 5x",
-        "region": "Venice Beach",
-        "category": ["Venice Beach"]
+        "name": "Venice: Ollie the Magic Bum 5x",
+        "region": "Venice",
+        "category": ["Venice"]
     },
     {
-        "name": "Venice Beach: Hit 4 VB Transfers",
-        "region": "Venice Beach",
-        "category": ["Venice Beach"]
+        "name": "Venice: Hit 4 VB Transfers",
+        "region": "Venice",
+        "category": ["Venice"]
     },
     {
-        "name": "Venice Beach: Tailslide Venice Ledge",
-        "region": "Venice Beach",
-        "category": ["Venice Beach"]
+        "name": "Venice: Tailslide Venice Ledge",
+        "region": "Venice",
+        "category": ["Venice"]
     },
     {
         "name": "Skatestreet: Bronze Medal (150K)",
@@ -650,7 +650,8 @@
     {
         "name": "Chopper Drop: 90 Ft Gap",
         "region": "Chopper Drop",
-        "category": ["Chopper Drop"]
+        "category": ["Chopper Drop"],
+        "requires": "|Stat Point - Speed:9|"
     },
     {
         "name": "Skate Heaven: Single Session (250K)",
