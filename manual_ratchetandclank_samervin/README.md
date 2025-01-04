@@ -20,7 +20,6 @@ Things not (yet?) included:
 - The Gold Weapons on Gemlik Base are not locations and thus you are not expected to buy any gold weapons
 - The two Goodies menu items you unlock with Skill Points are not items, thus the Skill Points themselves are not in logic
 - The two Goodies menu items you unlock with Gold Weapons are not items, thus both Gold Bolt and Gold Weapon items are not in logic
-- An alternate victory condition, like Gold Bolt Hunt
 
 Bugs:
 
