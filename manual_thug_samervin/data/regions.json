@@ -1,0 +1,83 @@
+{
+    "Chapter 01": {
+        "requires": "|Chapter 01 Ticket|"
+    },
+    "Chapter 02": {
+        "requires": "|Chapter 02 Ticket|"
+    },
+    "Chapter 03": {
+        "requires": "|Chapter 03 Ticket|"
+    },
+    "Chapter 04": {
+        "requires": "|Chapter 04 Ticket|"
+    },
+    "Chapter 05": {
+        "requires": "|Chapter 05 Ticket|"
+    },
+    "Chapter 06": {
+        "requires": "|Chapter 06 Ticket|"
+    },
+    "Chapter 07": {
+        "requires": "|Chapter 07 Ticket|"
+    },
+    "Chapter 08": {
+        "requires": "|Chapter 08 Ticket|"
+    },
+    "Chapter 09": {
+        "requires": "|Chapter 09 Ticket|"
+    },
+    "Chapter 10": {
+        "requires": "|Chapter 10 Ticket|"
+    },
+    "Chapter 11": {
+        "requires": "|Chapter 11 Ticket|"
+    },
+    "Chapter 12": {
+        "requires": "|Chapter 12 Ticket|"
+    },
+    "Chapter 13": {
+        "requires": "|Chapter 13 Ticket|"
+    },
+    "Chapter 14": {
+        "requires": "|Chapter 14 Ticket|"
+    },
+    "Chapter 15": {
+        "requires": "|Chapter 15 Ticket|"
+    },
+    "Chapter 16": {
+        "requires": "|Chapter 16 Ticket|"
+    },
+    "Chapter 17": {
+        "requires": "|Chapter 17 Ticket|"
+    },
+    "Chapter 18": {
+        "requires": "|Chapter 18 Ticket|"
+    },
+    "Chapter 19": {
+        "requires": "|Chapter 19 Ticket|"
+    },
+    "Chapter 20": {
+        "requires": "|Chapter 20 Ticket|"
+    },
+    "Chapter 21": {
+        "requires": "|Chapter 21 Ticket|"
+    },
+    "Chapter 22": {
+        "requires": "|Chapter 22 Ticket|"
+    },
+    "Chapter 23": {
+        "requires": "|Chapter 23 Ticket|"
+    },
+    "Chapter 24": {
+        "requires": "|Chapter 24 Ticket|"
+    },
+    "Chapter 25": {
+        "requires": "|Chapter 25 Ticket|"
+    },
+    "Chapter 26": {
+        "requires": "|Chapter 26 Ticket|"
+    },
+    "Chapter 27": {
+        "requires": "|Chapter 27 Ticket|"
+    }
+}

@@ -4,10 +4,6 @@ Tony Hawk
     - Locations: Goal items (SKATE, tape, deck, stats); Goal completion (9 per normal level); Level completion (9 per skater); Career completion
     - Items: "Keys" to unlock levels; Goal items; Trick types; Stats
     - Notes: Could be combined with existing THPS3 randomizer to open all levels. Locking items or trick types behind flags is doable but complex.
-- THUG
-    - Locations: Missions
-    - Items: "Keys" to unlock levels/chapters; Trick types
-    - Notes: This is only meaningful if missions can be replayed on a completed save file, which I believe is possible. I think secret tape/level unlocks are permanently gone once collected so those wouldn't be possible on a completed save file. THUG can likely be modded on PC similarly to THPS3, but I have not done so myself.
 
 Open-ended matrix/spreadsheet games
 

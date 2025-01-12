@@ -1,0 +1,15 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "THUG",
+    "creator": "samervin",
+    "filler_item_name": "Kickflip",
+    "starting_items": [
+        {
+            "item_categories": [
+                "Chapters"
+            ],
+            "random": 3
+        }
+    ],
+    "death_link": false
+}
