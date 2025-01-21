@@ -23,7 +23,7 @@
     {
         "name": "Chapter 01: Get In Tight with the Street Warriors",
         "region": "Chapter 01",
-        "category": ["Chapter 01"]
+        "category": ["Chapter 01", "Car Missions"]
     },
     {
         "name": "Chapter 01: Flyers for the Muska Demo",
@@ -108,6 +108,511 @@
     {
         "name": "Chapter 04: Nut Vendors Unite!",
         "region": "Chapter 04",
-        "category": ["Chapter 04"]
+        "category": ["Chapter 04", "Car Missions"]
+    },
+    {
+        "name": "Chapter 05: Film the Local",
+        "region": "Chapter 05",
+        "category": ["Chapter 05"]
+    },
+    {
+        "name": "Chapter 05: Hit the Killer Banks Line",
+        "region": "Chapter 05",
+        "category": ["Chapter 05"]
+    },
+    {
+        "name": "Chapter 05: Crash and Burn the Car",
+        "region": "Chapter 05",
+        "category": ["Chapter 05", "Car Missions"]
+    },
+    {
+        "name": "Chapter 05: Help the Local Skater",
+        "region": "Chapter 05",
+        "category": ["Chapter 05"]
+    },
+    {
+        "name": "Chapter 05: Gap the Burning Taxi",
+        "region": "Chapter 05",
+        "category": ["Chapter 05"]
+    },
+    {
+        "name": "Chapter 06: Help Stacy's Relative",
+        "region": "Chapter 06",
+        "category": ["Chapter 06"]
+    },
+    {
+        "name": "Chapter 06: Old School Skating Techniques",
+        "region": "Chapter 06",
+        "category": ["Chapter 06"]
+    },
+    {
+        "name": "Chapter 06: Find the Stolen Skateshop Goods",
+        "region": "Chapter 06",
+        "category": ["Chapter 06"]
+    },
+    {
+        "name": "Chapter 07: Remove All the Stickers",
+        "region": "Chapter 07",
+        "category": ["Chapter 07"]
+    },
+    {
+        "name": "Chapter 07: Get the Best Donuts",
+        "region": "Chapter 07",
+        "category": ["Chapter 07"]
+    },
+    {
+        "name": "Chapter 07: The Skateboard Bandit",
+        "region": "Chapter 07",
+        "category": ["Chapter 07"]
+    },
+    {
+        "name": "Chapter 07: Help the Private Eye",
+        "region": "Chapter 07",
+        "category": ["Chapter 07"]
+    },
+    {
+        "name": "Chapter 07: Revenge!!!",
+        "region": "Chapter 07",
+        "category": ["Chapter 07"]
+    },
+    {
+        "name": "Chapter 08: Party Boat Skate-Tricks",
+        "region": "Chapter 08",
+        "category": ["Chapter 08"]
+    },
+    {
+        "name": "Chapter 08: Wallplant Combo",
+        "region": "Chapter 08",
+        "category": ["Chapter 08"]
+    },
+    {
+        "name": "Chapter 08: Beat Andrew's Best Combos",
+        "region": "Chapter 08",
+        "category": ["Chapter 08"]
+    },
+    {
+        "name": "Chapter 08: Bowl Grind",
+        "region": "Chapter 08",
+        "category": ["Chapter 08"]
+    },
+    {
+        "name": "Chapter 08: Prove Yourself",
+        "region": "Chapter 08",
+        "category": ["Chapter 08"]
+    },
+    {
+        "name": "Chapter 08: Impress Tony Hawk",
+        "region": "Chapter 08",
+        "category": ["Chapter 08"]
+    },
+    {
+        "name": "Chapter 09: Place in Street Contest",
+        "region": "Chapter 09",
+        "category": ["Chapter 09"]
+    },
+    {
+        "name": "Chapter 09: Place in Vert Contest",
+        "region": "Chapter 09",
+        "category": ["Chapter 09"]
+    },
+    {
+        "name": "Chapter 09: Get Onto the Roof of SPOT",
+        "region": "Chapter 09",
+        "category": ["Chapter 09"]
+    },
+    {
+        "name": "Chapter 09: Win Best Trick Contest",
+        "region": "Chapter 09",
+        "category": ["Chapter 09"]
+    },
+    {
+        "name": "Chapter 10: TODO",
+        "region": "Chapter 10",
+        "category": ["Chapter 10"]
+    },
+    {
+        "name": "Chapter 11: Flip the Big Stairs",
+        "region": "Chapter 11",
+        "category": ["Chapter 11"]
+    },
+    {
+        "name": "Chapter 11: Daredevil High Line",
+        "region": "Chapter 11",
+        "category": ["Chapter 11"]
+    },
+    {
+        "name": "Chapter 11: Air Out the Atrium",
+        "region": "Chapter 11",
+        "category": ["Chapter 11"]
+    },
+    {
+        "name": "Chapter 11: Rooftop Technician",
+        "region": "Chapter 11",
+        "category": ["Chapter 11"]
+    },
+    {
+        "name": "Chapter 11: See a Man about a Horse",
+        "region": "Chapter 11",
+        "category": ["Chapter 11"]
+    },
+    {
+        "name": "Chapter 12: Let's Get This Party Started",
+        "region": "Chapter 12",
+        "category": ["Chapter 12"]
+    },
+    {
+        "name": "Chapter 12: No Band... No Party. Bummer!",
+        "region": "Chapter 12",
+        "category": ["Chapter 12"]
+    },
+    {
+        "name": "Chapter 12: No One Likes a Dude Festival",
+        "region": "Chapter 12",
+        "category": ["Chapter 12"]
+    },
+    {
+        "name": "Chapter 12: Acid Drop the Two Towers",
+        "region": "Chapter 12",
+        "category": ["Chapter 12"]
+    },
+    {
+        "name": "Chapter 12: All We Need is a System and Some Rims",
+        "region": "Chapter 12",
+        "category": ["Chapter 12", "Car Missions"]
+    },
+    {
+        "name": "Chapter 13: Get Your Gear Back from the Fuzz",
+        "region": "Chapter 13",
+        "category": ["Chapter 13"]
+    },
+    {
+        "name": "Chapter 13: Round Up the Posse for the Demo",
+        "region": "Chapter 13",
+        "category": ["Chapter 13"]
+    },
+    {
+        "name": "Chapter 13: 3 is No Crowd. Find More Kids",
+        "region": "Chapter 13",
+        "category": ["Chapter 13"]
+    },
+    {
+        "name": "Chapter 13: The Kids Love Those Free Stickers!",
+        "region": "Chapter 13",
+        "category": ["Chapter 13"]
+    },
+    {
+        "name": "Chapter 13: Tear It Up at the Demo",
+        "region": "Chapter 13",
+        "category": ["Chapter 13"]
+    },
+    {
+        "name": "Chapter 14: Wedding Guest",
+        "region": "Chapter 14",
+        "category": ["Chapter 14"]
+    },
+    {
+        "name": "Chapter 14: Get Lei'd",
+        "region": "Chapter 14",
+        "category": ["Chapter 14"]
+    },
+    {
+        "name": "Chapter 14: Pineapple Killer",
+        "region": "Chapter 14",
+        "category": ["Chapter 14", "Car Missions"]
+    },
+    {
+        "name": "Chapter 14: Speak Hawaiian",
+        "region": "Chapter 14",
+        "category": ["Chapter 14"]
+    },
+    {
+        "name": "Chapter 14: Drain the Pool",
+        "region": "Chapter 14",
+        "category": ["Chapter 14"]
+    },
+    {
+        "name": "Chapter 15: Impress the Girls",
+        "region": "Chapter 15",
+        "category": ["Chapter 15"]
+    },
+    {
+        "name": "Chapter 15: Luau Competition",
+        "region": "Chapter 15",
+        "category": ["Chapter 15"]
+    },
+    {
+        "name": "Chapter 15: Wallows Combo Bowls",
+        "region": "Chapter 15",
+        "category": ["Chapter 15"]
+    },
+    {
+        "name": "Chapter 15: High Lines",
+        "region": "Chapter 15",
+        "category": ["Chapter 15"]
+    },
+    {
+        "name": "Chapter 15: Off the Walls",
+        "region": "Chapter 15",
+        "category": ["Chapter 15"]
+    },
+    {
+        "name": "Chapter 15: Kill Wallows",
+        "region": "Chapter 15",
+        "category": ["Chapter 15"]
+    },
+    {
+        "name": "Chapter 15: Island Liptrick Tour",
+        "region": "Chapter 15",
+        "category": ["Chapter 15"]
+    },
+    {
+        "name": "Chapter 15: Climb the Hotel",
+        "region": "Chapter 15",
+        "category": ["Chapter 15"]
+    },
+    {
+        "name": "Chapter 16: Hotel Hopper",
+        "region": "Chapter 16",
+        "category": ["Chapter 16"]
+    },
+    {
+        "name": "Chapter 16: Craziest Footage Ever",
+        "region": "Chapter 16",
+        "category": ["Chapter 16"]
+    },
+    {
+        "name": "Chapter 17: Skate Tom's Part",
+        "region": "Chapter 17",
+        "category": ["Chapter 17"]
+    },
+    {
+        "name": "Chapter 17: Filming a Line",
+        "region": "Chapter 17",
+        "category": ["Chapter 17"]
+    },
+    {
+        "name": "Chapter 17: Bust Some Flatland",
+        "region": "Chapter 17",
+        "category": ["Chapter 17"]
+    },
+    {
+        "name": "Chapter 17: Race the Blowcart",
+        "region": "Chapter 17",
+        "category": ["Chapter 17", "Car Missions"]
+    },
+    {
+        "name": "Chapter 17: Party Dregs",
+        "region": "Chapter 17",
+        "category": ["Chapter 17"]
+    },
+    {
+        "name": "Chapter 17: Slam City Fan",
+        "region": "Chapter 17",
+        "category": ["Chapter 17"]
+    },
+    {
+        "name": "Chapter 17: Ralphie Got Busted",
+        "region": "Chapter 17",
+        "category": ["Chapter 17"]
+    },
+    {
+        "name": "Chapter 17: Impress the Reporter",
+        "region": "Chapter 17",
+        "category": ["Chapter 17"]
+    },
+    {
+        "name": "Chapter 17: Return the Guest Passes",
+        "region": "Chapter 17",
+        "category": ["Chapter 17"]
+    },
+    {
+        "name": "Chapter 17: Pick Up Everyone in the Limo",
+        "region": "Chapter 17",
+        "category": ["Chapter 17", "Car Missions"]
+    },
+    {
+        "name": "Chapter 18: Blimp",
+        "region": "Chapter 18",
+        "category": ["Chapter 18", "Car Missions"]
+    },
+    {
+        "name": "Chapter 18: Learn the Hip Transfers",
+        "region": "Chapter 18",
+        "category": ["Chapter 18"]
+    },
+    {
+        "name": "Chapter 18: Destroy the Vert Contest",
+        "region": "Chapter 18",
+        "category": ["Chapter 18"]
+    },
+    {
+        "name": "Chapter 18: Destroy the Street Contest",
+        "region": "Chapter 18",
+        "category": ["Chapter 18"]
+    },
+    {
+        "name": "Chapter 18: Best of Show",
+        "region": "Chapter 18",
+        "category": ["Chapter 18"]
+    },
+    {
+        "name": "Chapter 19: Adio - Show Off Your Skills",
+        "region": "Chapter 19",
+        "category": ["Chapter 19"]
+    },
+    {
+        "name": "Chapter 19: Vans - Whoop It Up for the Crowds",
+        "region": "Chapter 19",
+        "category": ["Chapter 19"]
+    },
+    {
+        "name": "Chapter 19: Circa - Pass the Test",
+        "region": "Chapter 19",
+        "category": ["Chapter 19"]
+    },
+    {
+        "name": "Chapter 19: Es - Kill the Score Spots",
+        "region": "Chapter 19",
+        "category": ["Chapter 19"]
+    },
+    {
+        "name": "Chapter 19: Get the Moscow Trip",
+        "region": "Chapter 19",
+        "category": ["Chapter 19"]
+    },
+    {
+        "name": "Chapter 20: Serve the People",
+        "region": "Chapter 20",
+        "category": ["Chapter 20"]
+    },
+    {
+        "name": "Chapter 20: Blind Big Brother",
+        "region": "Chapter 20",
+        "category": ["Chapter 20"]
+    },
+    {
+        "name": "Chapter 20: Ready for Battle",
+        "region": "Chapter 20",
+        "category": ["Chapter 20"]
+    },
+    {
+        "name": "Chapter 20: Over the Wall",
+        "region": "Chapter 20",
+        "category": ["Chapter 20"]
+    },
+    {
+        "name": "Chapter 21: Manuals for Muskovites",
+        "region": "Chapter 21",
+        "category": ["Chapter 21"]
+    },
+    {
+        "name": "Chapter 21: Ratings Stunts",
+        "region": "Chapter 21",
+        "category": ["Chapter 21"]
+    },
+    {
+        "name": "Chapter 21: Circus Act",
+        "region": "Chapter 21",
+        "category": ["Chapter 21"]
+    },
+    {
+        "name": "Chapter 21: Gap Hunting",
+        "region": "Chapter 21",
+        "category": ["Chapter 21"]
+    },
+    {
+        "name": "Chapter 21: Warm Up",
+        "region": "Chapter 21",
+        "category": ["Chapter 21"]
+    },
+    {
+        "name": "Chapter 21: Double Done",
+        "region": "Chapter 21",
+        "category": ["Chapter 21"]
+    },
+    {
+        "name": "Chapter 22: Anonymous Caller",
+        "region": "Chapter 22",
+        "category": ["Chapter 22"]
+    },
+    {
+        "name": "Chapter 22: Party Favors",
+        "region": "Chapter 22",
+        "category": ["Chapter 22", "Car Missions"]
+    },
+    {
+        "name": "Chapter 22: Hangover Cure",
+        "region": "Chapter 22",
+        "category": ["Chapter 22"]
+    },
+    {
+        "name": "Chapter 22: Straight Outta Moscow",
+        "region": "Chapter 22",
+        "category": ["Chapter 22"]
+    },
+    {
+        "name": "Chapter 23: Create-A-Trick",
+        "region": "Chapter 23",
+        "category": ["Chapter 23"]
+    },
+    {
+        "name": "Chapter 23: Combo The Entire City",
+        "region": "Chapter 23",
+        "category": ["Chapter 23"]
+    },
+    {
+        "name": "Chapter 24: Do All of the Tricks",
+        "region": "Chapter 24",
+        "category": ["Chapter 24"]
+    },
+    {
+        "name": "Chapter 24: Score Big",
+        "region": "Chapter 24",
+        "category": ["Chapter 24"]
+    },
+    {
+        "name": "Chapter 25: TODO",
+        "region": "Chapter 24",
+        "category": ["Chapter 24"]
+    },
+    {
+        "name": "Chapter 26: Jersey Spine Trickspot Challenge",
+        "region": "Chapter 26",
+        "category": ["Chapter 26"]
+    },
+    {
+        "name": "Chapter 26: Big Apple Spot Challenge",
+        "region": "Chapter 26",
+        "category": ["Chapter 26"]
+    },
+    {
+        "name": "Chapter 26: Florida THPS Challenge",
+        "region": "Chapter 26",
+        "category": ["Chapter 26"]
+    },
+    {
+        "name": "Chapter 26: San Diego Transfer Challenge",
+        "region": "Chapter 26",
+        "category": ["Chapter 26"]
+    },
+    {
+        "name": "Chapter 26: Hawaii Huge Spine Challenge",
+        "region": "Chapter 26",
+        "category": ["Chapter 26"]
+    },
+    {
+        "name": "Chapter 26: Vancouver Spine Transfer Challenge",
+        "region": "Chapter 26",
+        "category": ["Chapter 26"]
+    },
+    {
+        "name": "Chapter 26: Slamma Jamma",
+        "region": "Chapter 26",
+        "category": ["Chapter 26"]
+    },
+    {
+        "name": "Chapter 26: Moscow's Lost Tapes",
+        "region": "Chapter 26",
+        "category": ["Chapter 26"]
     }
 ]

@@ -1,4 +1,8 @@
 {
+    "Car Missions": {
+        "yaml_option": ["car_missions"],
+        "hidden": true
+    },
     "Chapters": {},
     "Chapter 01": {},
     "Chapter 02": {},
