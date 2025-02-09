@@ -103,7 +103,8 @@
     {
         "name": "School: Heelflip the Kicker Gap",
         "region": "School",
-        "category": ["School"]
+        "category": ["School"],
+        "requires": "|Heelflip|"
     },
     {
         "name": "Mall: High Score",
@@ -153,7 +154,8 @@
     {
         "name": "Mall: Airwalk the Flying Leap Gap",
         "region": "Mall",
-        "category": ["Mall"]
+        "category": ["Mall"],
+        "requires": "|Airwalk|"
     },
     {
         "name": "Chicago: Bronze Medal (100K)",
@@ -263,12 +265,14 @@
     {
         "name": "Downhill Jam: Madonna the Huge Water Hazard Gap",
         "region": "Downhill Jam",
-        "category": ["Downhill Jam"]
+        "category": ["Downhill Jam"],
+        "requires": "|Madonna|"
     },
     {
         "name": "Downhill Jam: Airwalk the Hydrophobic Gap",
         "region": "Downhill Jam",
-        "category": ["Downhill Jam"]
+        "category": ["Downhill Jam"],
+        "requires": "|Airwalk|"
     },
     {
         "name": "Burnside: Bronze Medal (150K)",
@@ -329,7 +333,8 @@
     {
         "name": "Streets: Nosegrab the Hubba Gap",
         "region": "Streets",
-        "category": ["Streets"]
+        "category": ["Streets"],
+        "requires": "|Nosegrab|"
     },
     {
         "name": "Streets: 5-0 Around the Fountain",
@@ -445,7 +450,8 @@
     {
         "name": "School II: Kickflip TC's Roof Gap",
         "region": "School II",
-        "category": ["School II"]
+        "category": ["School II"],
+        "requires": "|Kickflip|"
     },
     {
         "name": "School II: Wallride 5 Bells",

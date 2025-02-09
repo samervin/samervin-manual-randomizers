@@ -2,7 +2,7 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
     "game": "THPS1P2",
     "creator": "samervin",
-    "filler_item_name": "Kickflip",
+    "filler_item_name": "Ollie",
     "starting_items": [
         {
             "item_categories": [

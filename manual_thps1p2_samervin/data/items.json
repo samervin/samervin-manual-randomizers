@@ -155,10 +155,249 @@
         "useful": true
     },
     {
-        "name": "Special Trick Slot",
-        "category": ["Stat Point"],
-        "count": 10,
+        "name": "Melon",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Nosegrab",
+        "category": ["Grab Tricks"],
         "progression": true
+    },
+    {
+        "name": "Tailgrab",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Benihana",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Indy",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Madonna",
+        "category": ["Grab Tricks"],
+        "progression": true
+    },
+    {
+        "name": "Airwalk",
+        "category": ["Grab Tricks"],
+        "progression": true
+    },
+    {
+        "name": "Japan",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Indy Nosebone",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Cannonball",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Crail Grab",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "FS Shifty",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Weddle",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Crossbone",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Stalefish",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Wrap Around",
+        "category": ["Grab Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Impossible",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Kickflip",
+        "category": ["Flip Tricks"],
+        "progression": true
+    },
+    {
+        "name": "Heelflip",
+        "category": ["Flip Tricks"],
+        "progression": true
+    },
+    {
+        "name": "Pop Shove-It",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Inward Heelflip",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Varial Heelflip",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Varial Kickflip",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Hardflip",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "180 Varial",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Heelflip Varial Lien",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Back Foot Heelflip",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Back Foot Kickflip",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Ollie North",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Ollie Airwalk",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Front Foot Impossible",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Sal Flip",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Fingerflip",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "FS Shove-It",
+        "category": ["Flip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Nose Stall",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Andrecht Invert",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Invert to Fakie",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Disaster",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Handplant",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Rock to Fakie",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Nose Pick",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Gymnast Plant",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Tuck-Knee Invert",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "One Foot Invert",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Switcheroo",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Axle Stall",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "BS Boneless",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "Blunt to Fakie",
+        "category": ["Lip Tricks"],
+        "useful": true
+    },
+    {
+        "name": "FS Noseblunt",
+        "category": ["Lip Tricks"],
+        "useful": true
     },
     {
         "name": "The 900",
