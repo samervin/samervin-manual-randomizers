@@ -27,3 +27,4 @@ Implementation notes:
 - TODO Additional locations for iconic gaps in each level
 - TODO Additional items for trick types like manuals, reverts, transfers, grinds, wallplants, etc.
 - TODO Additional items for HUD visibility options like score/special meter, trick string, and balance meters
+- TODO Revisit Hangar's Skycrane Hangtime gap with a high acid drop ([reference](https://youtu.be/dnaey-ZLRlo?t=4250))
